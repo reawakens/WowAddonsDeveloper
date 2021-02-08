@@ -1,0 +1,12 @@
+{
+    "name": "builder",
+    "version": "1.0.0",
+    "description": "Blizzard APIDocumentation builder",
+    "main": "index.js",
+    "author": "eValor<mipone@foxmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "lodash": "^4.17.20",
+        "luaparse": "^0.2.1"
+    }
+}
