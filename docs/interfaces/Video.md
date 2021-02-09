@@ -7,30 +7,57 @@ Type: System / Namespace: C_VideoOptions
 ### C_VideoOptions.GetGxAdapterInfo
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |adapters|table|false|No Documentation|
 ## Events
 
-### AdapterListChanged(ADAPTER_LIST_CHANGED)
+### AdapterListChanged
+LiteralName: `ADAPTER_LIST_CHANGED`
 
 No Documentation
-### DisplaySizeChanged(DISPLAY_SIZE_CHANGED)
+
+### DisplaySizeChanged
+LiteralName: `DISPLAY_SIZE_CHANGED`
 
 No Documentation
-### GlueScreenshotFailed(GLUE_SCREENSHOT_FAILED)
+
+### GlueScreenshotFailed
+LiteralName: `GLUE_SCREENSHOT_FAILED`
 
 No Documentation
-### GxRestarted(GX_RESTARTED)
+
+### GxRestarted
+LiteralName: `GX_RESTARTED`
 
 No Documentation
-### ScreenshotFailed(SCREENSHOT_FAILED)
+
+### ScreenshotFailed
+LiteralName: `SCREENSHOT_FAILED`
 
 No Documentation
-### ScreenshotStarted(SCREENSHOT_STARTED)
+
+### ScreenshotStarted
+LiteralName: `SCREENSHOT_STARTED`
 
 No Documentation
-### ScreenshotSucceeded(SCREENSHOT_SUCCEEDED)
+
+### ScreenshotSucceeded
+LiteralName: `SCREENSHOT_SUCCEEDED`
 
 No Documentation
+
+## Tables
+
+### GxAdapterInfoDetails
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|isLowPower|bool|false|No Documentation|
+|isExternal|bool|false|No Documentation|

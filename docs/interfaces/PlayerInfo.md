@@ -7,6 +7,7 @@ Type: System / Namespace: C_PlayerInfo
 ### C_PlayerInfo.CanPlayerEnterChromieTime
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -14,6 +15,7 @@ No Documentation
 ### C_PlayerInfo.CanPlayerUseAreaLoot
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -21,6 +23,7 @@ No Documentation
 ### C_PlayerInfo.CanPlayerUseMountEquipment
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -29,6 +32,7 @@ No Documentation
 ### C_PlayerInfo.GetContentDifficultyCreatureForPlayer
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -40,6 +44,7 @@ No Documentation
 ### C_PlayerInfo.GetContentDifficultyQuestForPlayer
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -51,6 +56,7 @@ No Documentation
 ### C_PlayerInfo.IsPlayerEligibleForNPE
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -59,6 +65,7 @@ No Documentation
 ### C_PlayerInfo.IsPlayerEligibleForNPEv2
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -67,6 +74,7 @@ No Documentation
 ### C_PlayerInfo.IsPlayerInChromieTime
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -74,8 +82,8 @@ No Documentation
 ### C_PlayerInfo.IsPlayerNPERestricted
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |isRestricted|bool|false|No Documentation|
-## Events

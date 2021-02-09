@@ -1,12 +1,13 @@
 # Expansion
 
-Type: System / Namespace: undefined
+Type: System / Namespace: None
 
 ## Functions
 
 ### CanUpgradeExpansion
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -14,6 +15,7 @@ No Documentation
 ### DoesCurrentLocaleSellExpansionLevels
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -21,6 +23,7 @@ No Documentation
 ### GetAccountExpansionLevel
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -28,6 +31,7 @@ No Documentation
 ### GetClientDisplayExpansionLevel
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -35,6 +39,7 @@ No Documentation
 ### GetCurrentRegionName
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -42,6 +47,7 @@ No Documentation
 ### GetExpansionDisplayInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -53,6 +59,7 @@ No Documentation
 ### GetExpansionForLevel
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -64,6 +71,7 @@ No Documentation
 ### GetExpansionLevel
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -71,6 +79,7 @@ No Documentation
 ### GetExpansionTrialInfo
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -90,6 +99,7 @@ Maps an expansion level to a maximum character level for that expansion.
 ### GetMaxLevelForLatestExpansion
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -97,6 +107,7 @@ No Documentation
 ### GetMaxLevelForPlayerExpansion
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -104,6 +115,7 @@ No Documentation
 ### GetMaximumExpansionLevel
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -111,6 +123,7 @@ No Documentation
 ### GetMinimumExpansionLevel
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -118,6 +131,7 @@ No Documentation
 ### GetNumExpansions
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -125,6 +139,7 @@ No Documentation
 ### GetServerExpansionLevel
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -132,6 +147,7 @@ No Documentation
 ### IsExpansionTrial
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -139,6 +155,7 @@ No Documentation
 ### IsTrialAccount
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -146,6 +163,7 @@ No Documentation
 ### IsVeteranTrialAccount
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -153,22 +171,70 @@ No Documentation
 ### SendSubscriptionInterstitialResponse
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |response|SubscriptionInterstitialResponseType|false|No Documentation|
 ## Events
 
-### MaxExpansionLevelUpdated(MAX_EXPANSION_LEVEL_UPDATED)
+### MaxExpansionLevelUpdated
+LiteralName: `MAX_EXPANSION_LEVEL_UPDATED`
 
 No Documentation
-### MinExpansionLevelUpdated(MIN_EXPANSION_LEVEL_UPDATED)
+
+### MinExpansionLevelUpdated
+LiteralName: `MIN_EXPANSION_LEVEL_UPDATED`
 
 No Documentation
-### ShowSubscriptionInterstitial(SHOW_SUBSCRIPTION_INTERSTITIAL)
+
+### ShowSubscriptionInterstitial
+LiteralName: `SHOW_SUBSCRIPTION_INTERSTITIAL`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |type|SubscriptionInterstitialType|false|No Documentation|
+## Tables
+
+### SubscriptionInterstitialResponseType
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|Clicked|SubscriptionInterstitialResponseType|undefined|No Documentation|
+|Closed|SubscriptionInterstitialResponseType|undefined|No Documentation|
+|WebRedirect|SubscriptionInterstitialResponseType|undefined|No Documentation|
+### SubscriptionInterstitialType
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|Standard|SubscriptionInterstitialType|undefined|No Documentation|
+|LeftNpeArea|SubscriptionInterstitialType|undefined|No Documentation|
+|MaxLevel|SubscriptionInterstitialType|undefined|No Documentation|
+### ExpansionDisplayInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|logo|number|false|No Documentation|
+|banner|string|false|No Documentation|
+|features|table|false|No Documentation|
+### ExpansionDisplayInfoFeature
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|icon|number|false|No Documentation|
+|text|string|false|No Documentation|

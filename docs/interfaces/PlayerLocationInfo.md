@@ -7,6 +7,7 @@ Type: System / Namespace: C_PlayerInfo
 ### C_PlayerInfo.GUIDIsPlayer
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -18,6 +19,7 @@ No Documentation
 ### C_PlayerInfo.GetClass
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -31,6 +33,7 @@ No Documentation
 ### C_PlayerInfo.GetName
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -42,6 +45,7 @@ No Documentation
 ### C_PlayerInfo.GetRace
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -53,6 +57,7 @@ No Documentation
 ### C_PlayerInfo.GetSex
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -64,6 +69,7 @@ No Documentation
 ### C_PlayerInfo.IsConnected
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -75,6 +81,7 @@ No Documentation
 ### C_PlayerInfo.UnitIsSameServer
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -83,4 +90,3 @@ No Documentation
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitIsSameServer|bool|false|No Documentation|
-## Events

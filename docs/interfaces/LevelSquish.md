@@ -7,6 +7,7 @@ Type: System / Namespace: C_LevelSquish
 ### C_LevelSquish.ConvertFollowerLevel
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -19,6 +20,7 @@ No Documentation
 ### C_LevelSquish.ConvertPlayerLevel
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -27,4 +29,3 @@ No Documentation
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |squishedLevel|number|false|No Documentation|
-## Events

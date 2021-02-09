@@ -7,6 +7,7 @@ Type: System / Namespace: C_SuperTrack
 ### C_SuperTrack.GetHighestPrioritySuperTrackingType
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -14,6 +15,7 @@ No Documentation
 ### C_SuperTrack.GetSuperTrackedQuestID
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -21,6 +23,7 @@ No Documentation
 ### C_SuperTrack.IsSuperTrackingAnything
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -28,6 +31,7 @@ No Documentation
 ### C_SuperTrack.IsSuperTrackingCorpse
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -35,6 +39,7 @@ No Documentation
 ### C_SuperTrack.IsSuperTrackingQuest
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -42,6 +47,7 @@ No Documentation
 ### C_SuperTrack.IsSuperTrackingUserWaypoint
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -49,6 +55,7 @@ No Documentation
 ### C_SuperTrack.SetSuperTrackedQuestID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -56,12 +63,14 @@ No Documentation
 ### C_SuperTrack.SetSuperTrackedUserWaypoint
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |superTracked|bool|false|No Documentation|
 ## Events
 
-### SuperTrackingChanged(SUPER_TRACKING_CHANGED)
+### SuperTrackingChanged
+LiteralName: `SUPER_TRACKING_CHANGED`
 
 No Documentation

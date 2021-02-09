@@ -7,6 +7,7 @@ Type: System / Namespace: C_CVar
 ### C_CVar.GetCVar
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -18,6 +19,7 @@ No Documentation
 ### C_CVar.GetCVarBitfield
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -30,6 +32,7 @@ No Documentation
 ### C_CVar.GetCVarBool
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -41,6 +44,7 @@ No Documentation
 ### C_CVar.GetCVarDefault
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -52,6 +56,7 @@ No Documentation
 ### C_CVar.RegisterCVar
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -60,9 +65,11 @@ No Documentation
 ### C_CVar.ResetTestCVars
 
 No Documentation
+
 ### C_CVar.SetCVar
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -76,6 +83,7 @@ No Documentation
 ### C_CVar.SetCVarBitfield
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -87,4 +95,3 @@ No Documentation
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |success|bool|false|No Documentation|
-## Events

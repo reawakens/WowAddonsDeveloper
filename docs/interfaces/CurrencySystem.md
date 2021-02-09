@@ -7,6 +7,7 @@ Type: System / Namespace: C_CurrencyInfo
 ### C_CurrencyInfo.DoesWarModeBonusApply
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -19,6 +20,7 @@ No Documentation
 ### C_CurrencyInfo.ExpandCurrencyList
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -27,6 +29,7 @@ No Documentation
 ### C_CurrencyInfo.GetAzeriteCurrencyID
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -34,6 +37,7 @@ No Documentation
 ### C_CurrencyInfo.GetBackpackCurrencyInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -45,6 +49,7 @@ No Documentation
 ### C_CurrencyInfo.GetBasicCurrencyInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -57,6 +62,7 @@ No Documentation
 ### C_CurrencyInfo.GetCurrencyContainerInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -69,6 +75,7 @@ No Documentation
 ### C_CurrencyInfo.GetCurrencyIDFromLink
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -80,6 +87,7 @@ No Documentation
 ### C_CurrencyInfo.GetCurrencyInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -91,6 +99,7 @@ No Documentation
 ### C_CurrencyInfo.GetCurrencyInfoFromLink
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -102,6 +111,7 @@ No Documentation
 ### C_CurrencyInfo.GetCurrencyLink
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -114,6 +124,7 @@ No Documentation
 ### C_CurrencyInfo.GetCurrencyListInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -125,6 +136,7 @@ No Documentation
 ### C_CurrencyInfo.GetCurrencyListLink
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -136,6 +148,7 @@ No Documentation
 ### C_CurrencyInfo.GetCurrencyListSize
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -154,6 +167,7 @@ Gets the faction ID for currency that is immediately converted into reputation w
 ### C_CurrencyInfo.GetWarResourcesCurrencyID
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -161,6 +175,7 @@ No Documentation
 ### C_CurrencyInfo.IsCurrencyContainer
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -173,6 +188,7 @@ No Documentation
 ### C_CurrencyInfo.PickupCurrency
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -180,6 +196,7 @@ No Documentation
 ### C_CurrencyInfo.SetCurrencyBackpack
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -188,6 +205,7 @@ No Documentation
 ### C_CurrencyInfo.SetCurrencyUnused
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -195,9 +213,11 @@ No Documentation
 |unused|bool|false|No Documentation|
 ## Events
 
-### CurrencyDisplayUpdate(CURRENCY_DISPLAY_UPDATE)
+### CurrencyDisplayUpdate
+LiteralName: `CURRENCY_DISPLAY_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -206,6 +226,57 @@ No Documentation
 |quantityChange|number|true|No Documentation|
 |quantityGainSource|number|true|No Documentation|
 |quantityLostSource|number|true|No Documentation|
-### PlayerMoney(PLAYER_MONEY)
+### PlayerMoney
+LiteralName: `PLAYER_MONEY`
 
 No Documentation
+
+## Tables
+
+### BackpackCurrencyInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|quantity|number|false|No Documentation|
+|iconFileID|number|false|No Documentation|
+|currencyTypesID|number|false|No Documentation|
+### CurrencyDisplayInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|description|string|false|No Documentation|
+|icon|number|false|No Documentation|
+|quality|number|false|No Documentation|
+|displayAmount|number|false|No Documentation|
+|actualAmount|number|false|No Documentation|
+### CurrencyInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|isHeader|bool|false|No Documentation|
+|isHeaderExpanded|bool|false|No Documentation|
+|isTypeUnused|bool|false|No Documentation|
+|isShowInBackpack|bool|false|No Documentation|
+|quantity|number|false|No Documentation|
+|iconFileID|number|false|No Documentation|
+|maxQuantity|number|false|No Documentation|
+|canEarnPerWeek|bool|false|No Documentation|
+|quantityEarnedThisWeek|number|false|No Documentation|
+|isTradeable|bool|false|No Documentation|
+|quality|ItemQuality|false|No Documentation|
+|maxWeeklyQuantity|number|false|No Documentation|
+|totalEarned|number|false|No Documentation|
+|discovered|bool|false|No Documentation|
+|useTotalEarnedForMaxQty|bool|false|No Documentation|

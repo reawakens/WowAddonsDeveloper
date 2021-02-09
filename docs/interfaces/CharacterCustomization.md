@@ -7,6 +7,7 @@ Type: System / Namespace: C_CharacterCustomization
 ### C_CharacterCustomization.GetAvailableCustomizations
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -16,4 +17,38 @@ No Documentation
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |categories|table|false|No Documentation|
-## Events
+## Tables
+
+### CharCustomizationCategory
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|id|number|false|No Documentation|
+|orderIndex|number|false|No Documentation|
+|name|string|false|No Documentation|
+|icon|string|false|No Documentation|
+|selectedIcon|string|false|No Documentation|
+|options|table|false|No Documentation|
+### CharCustomizationChoice
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|id|number|false|No Documentation|
+|name|string|false|No Documentation|
+### CharCustomizationOption
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|id|number|false|No Documentation|
+|name|string|false|No Documentation|
+|orderIndex|number|false|No Documentation|
+|choices|table|false|No Documentation|

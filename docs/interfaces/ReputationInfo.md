@@ -7,6 +7,7 @@ Type: System / Namespace: C_Reputation
 ### C_Reputation.GetFactionParagonInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -22,6 +23,7 @@ No Documentation
 ### C_Reputation.IsFactionParagon
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -33,8 +35,8 @@ No Documentation
 ### C_Reputation.RequestFactionParagonPreloadRewardData
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |factionID|number|false|No Documentation|
-## Events

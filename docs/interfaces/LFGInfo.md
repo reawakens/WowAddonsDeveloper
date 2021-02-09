@@ -7,6 +7,7 @@ Type: System / Namespace: C_LFGInfo
 ### C_LFGInfo.CanPlayerUseGroupFinder
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -15,6 +16,7 @@ No Documentation
 ### C_LFGInfo.CanPlayerUseLFD
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -23,6 +25,7 @@ No Documentation
 ### C_LFGInfo.CanPlayerUseLFR
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -31,6 +34,7 @@ No Documentation
 ### C_LFGInfo.CanPlayerUsePVP
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -39,6 +43,7 @@ No Documentation
 ### C_LFGInfo.CanPlayerUsePremadeGroup
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -47,9 +52,11 @@ No Documentation
 ### C_LFGInfo.ConfirmLfgExpandSearch
 
 No Documentation
+
 ### C_LFGInfo.GetAllEntriesForCategory
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -61,6 +68,7 @@ No Documentation
 ### C_LFGInfo.GetLFDLockStates
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -68,6 +76,7 @@ No Documentation
 ### C_LFGInfo.GetRoleCheckDifficultyDetails
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -76,6 +85,7 @@ No Documentation
 ### C_LFGInfo.HideNameFromUI
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -86,102 +96,144 @@ No Documentation
 |shouldHide|bool|false|No Documentation|
 ## Events
 
-### IslandCompleted(ISLAND_COMPLETED)
+### IslandCompleted
+LiteralName: `ISLAND_COMPLETED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |mapID|number|false|No Documentation|
 |winner|number|false|No Documentation|
-### LfgBootProposalUpdate(LFG_BOOT_PROPOSAL_UPDATE)
+### LfgBootProposalUpdate
+LiteralName: `LFG_BOOT_PROPOSAL_UPDATE`
 
 No Documentation
-### LfgCompletionReward(LFG_COMPLETION_REWARD)
+
+### LfgCompletionReward
+LiteralName: `LFG_COMPLETION_REWARD`
 
 No Documentation
-### LfgInvalidErrorMessage(LFG_INVALID_ERROR_MESSAGE)
+
+### LfgInvalidErrorMessage
+LiteralName: `LFG_INVALID_ERROR_MESSAGE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |reason|number|false|No Documentation|
 |subReason1|number|false|No Documentation|
 |subReason2|number|false|No Documentation|
-### LfgLockInfoReceived(LFG_LOCK_INFO_RECEIVED)
+### LfgLockInfoReceived
+LiteralName: `LFG_LOCK_INFO_RECEIVED`
 
 No Documentation
-### LfgOfferContinue(LFG_OFFER_CONTINUE)
+
+### LfgOfferContinue
+LiteralName: `LFG_OFFER_CONTINUE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |name|string|false|No Documentation|
 |lfgDungeonsID|number|false|No Documentation|
 |typeID|number|false|No Documentation|
-### LfgOpenFromGossip(LFG_OPEN_FROM_GOSSIP)
+### LfgOpenFromGossip
+LiteralName: `LFG_OPEN_FROM_GOSSIP`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |dungeonID|number|false|No Documentation|
-### LfgProposalDone(LFG_PROPOSAL_DONE)
+### LfgProposalDone
+LiteralName: `LFG_PROPOSAL_DONE`
 
 No Documentation
-### LfgProposalFailed(LFG_PROPOSAL_FAILED)
+
+### LfgProposalFailed
+LiteralName: `LFG_PROPOSAL_FAILED`
 
 No Documentation
-### LfgProposalShow(LFG_PROPOSAL_SHOW)
+
+### LfgProposalShow
+LiteralName: `LFG_PROPOSAL_SHOW`
 
 No Documentation
-### LfgProposalSucceeded(LFG_PROPOSAL_SUCCEEDED)
+
+### LfgProposalSucceeded
+LiteralName: `LFG_PROPOSAL_SUCCEEDED`
 
 No Documentation
-### LfgProposalUpdate(LFG_PROPOSAL_UPDATE)
+
+### LfgProposalUpdate
+LiteralName: `LFG_PROPOSAL_UPDATE`
 
 No Documentation
-### LfgQueueStatusUpdate(LFG_QUEUE_STATUS_UPDATE)
+
+### LfgQueueStatusUpdate
+LiteralName: `LFG_QUEUE_STATUS_UPDATE`
 
 No Documentation
-### LfgReadyCheckDeclined(LFG_READY_CHECK_DECLINED)
+
+### LfgReadyCheckDeclined
+LiteralName: `LFG_READY_CHECK_DECLINED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |name|string|false|No Documentation|
-### LfgReadyCheckHide(LFG_READY_CHECK_HIDE)
+### LfgReadyCheckHide
+LiteralName: `LFG_READY_CHECK_HIDE`
 
 No Documentation
-### LfgReadyCheckPlayerIsReady(LFG_READY_CHECK_PLAYER_IS_READY)
+
+### LfgReadyCheckPlayerIsReady
+LiteralName: `LFG_READY_CHECK_PLAYER_IS_READY`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |name|string|false|No Documentation|
-### LfgReadyCheckShow(LFG_READY_CHECK_SHOW)
+### LfgReadyCheckShow
+LiteralName: `LFG_READY_CHECK_SHOW`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |isRequeue|bool|false|No Documentation|
-### LfgReadyCheckUpdate(LFG_READY_CHECK_UPDATE)
+### LfgReadyCheckUpdate
+LiteralName: `LFG_READY_CHECK_UPDATE`
 
 No Documentation
-### LfgRoleCheckDeclined(LFG_ROLE_CHECK_DECLINED)
+
+### LfgRoleCheckDeclined
+LiteralName: `LFG_ROLE_CHECK_DECLINED`
 
 No Documentation
-### LfgRoleCheckHide(LFG_ROLE_CHECK_HIDE)
+
+### LfgRoleCheckHide
+LiteralName: `LFG_ROLE_CHECK_HIDE`
 
 No Documentation
-### LfgRoleCheckRoleChosen(LFG_ROLE_CHECK_ROLE_CHOSEN)
+
+### LfgRoleCheckRoleChosen
+LiteralName: `LFG_ROLE_CHECK_ROLE_CHOSEN`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -189,36 +241,64 @@ No Documentation
 |isTank|bool|false|No Documentation|
 |isHealer|bool|false|No Documentation|
 |isDamage|bool|false|No Documentation|
-### LfgRoleCheckShow(LFG_ROLE_CHECK_SHOW)
+### LfgRoleCheckShow
+LiteralName: `LFG_ROLE_CHECK_SHOW`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |isRequeue|bool|false|No Documentation|
-### LfgRoleCheckUpdate(LFG_ROLE_CHECK_UPDATE)
+### LfgRoleCheckUpdate
+LiteralName: `LFG_ROLE_CHECK_UPDATE`
 
 No Documentation
-### LfgRoleUpdate(LFG_ROLE_UPDATE)
+
+### LfgRoleUpdate
+LiteralName: `LFG_ROLE_UPDATE`
 
 No Documentation
-### LfgUpdate(LFG_UPDATE)
+
+### LfgUpdate
+LiteralName: `LFG_UPDATE`
 
 No Documentation
-### LfgUpdateRandomInfo(LFG_UPDATE_RANDOM_INFO)
+
+### LfgUpdateRandomInfo
+LiteralName: `LFG_UPDATE_RANDOM_INFO`
 
 No Documentation
-### ShowLfgExpandSearchPrompt(SHOW_LFG_EXPAND_SEARCH_PROMPT)
+
+### ShowLfgExpandSearchPrompt
+LiteralName: `SHOW_LFG_EXPAND_SEARCH_PROMPT`
 
 No Documentation
-### UpdateLfgList(UPDATE_LFG_LIST)
+
+### UpdateLfgList
+LiteralName: `UPDATE_LFG_LIST`
 
 No Documentation
-### WarfrontCompleted(WARFRONT_COMPLETED)
+
+### WarfrontCompleted
+LiteralName: `WARFRONT_COMPLETED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |mapID|number|false|No Documentation|
 |winner|number|false|No Documentation|
+## Tables
+
+### LFGLockInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|lfgID|number|false|No Documentation|
+|reason|number|false|No Documentation|
+|hideEntry|bool|false|No Documentation|

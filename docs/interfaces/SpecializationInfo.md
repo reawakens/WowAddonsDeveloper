@@ -7,6 +7,7 @@ Type: System / Namespace: C_SpecializationInfo
 ### C_SpecializationInfo.CanPlayerUsePVPTalentUI
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -15,6 +16,7 @@ No Documentation
 ### C_SpecializationInfo.CanPlayerUseTalentSpecUI
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -23,6 +25,7 @@ No Documentation
 ### C_SpecializationInfo.CanPlayerUseTalentUI
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -31,6 +34,7 @@ No Documentation
 ### C_SpecializationInfo.GetAllSelectedPvpTalentIDs
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -38,6 +42,7 @@ No Documentation
 ### C_SpecializationInfo.GetInspectSelectedPvpTalent
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -50,6 +55,7 @@ No Documentation
 ### C_SpecializationInfo.GetPvpTalentAlertStatus
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -58,6 +64,7 @@ No Documentation
 ### C_SpecializationInfo.GetPvpTalentSlotInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -69,6 +76,7 @@ No Documentation
 ### C_SpecializationInfo.GetPvpTalentSlotUnlockLevel
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -80,6 +88,7 @@ No Documentation
 ### C_SpecializationInfo.GetPvpTalentUnlockLevel
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -91,6 +100,7 @@ No Documentation
 ### C_SpecializationInfo.GetSpecIDs
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -102,6 +112,7 @@ No Documentation
 ### C_SpecializationInfo.GetSpellsDisplay
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -113,6 +124,7 @@ No Documentation
 ### C_SpecializationInfo.IsInitialized
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -120,6 +132,7 @@ No Documentation
 ### C_SpecializationInfo.IsPvpTalentLocked
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -131,6 +144,7 @@ No Documentation
 ### C_SpecializationInfo.MatchesCurrentSpecSet
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -142,6 +156,7 @@ No Documentation
 ### C_SpecializationInfo.SetPvpTalentLocked
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -149,48 +164,79 @@ No Documentation
 |locked|bool|false|No Documentation|
 ## Events
 
-### ActiveTalentGroupChanged(ACTIVE_TALENT_GROUP_CHANGED)
+### ActiveTalentGroupChanged
+LiteralName: `ACTIVE_TALENT_GROUP_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |curr|number|false|No Documentation|
 |prev|number|false|No Documentation|
-### ConfirmTalentWipe(CONFIRM_TALENT_WIPE)
+### ConfirmTalentWipe
+LiteralName: `CONFIRM_TALENT_WIPE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |cost|number|false|No Documentation|
 |respecType|number|false|No Documentation|
-### PetSpecializationChanged(PET_SPECIALIZATION_CHANGED)
+### PetSpecializationChanged
+LiteralName: `PET_SPECIALIZATION_CHANGED`
 
 No Documentation
-### PlayerLearnPvpTalentFailed(PLAYER_LEARN_PVP_TALENT_FAILED)
+
+### PlayerLearnPvpTalentFailed
+LiteralName: `PLAYER_LEARN_PVP_TALENT_FAILED`
 
 No Documentation
-### PlayerLearnTalentFailed(PLAYER_LEARN_TALENT_FAILED)
+
+### PlayerLearnTalentFailed
+LiteralName: `PLAYER_LEARN_TALENT_FAILED`
 
 No Documentation
-### PlayerPvpTalentUpdate(PLAYER_PVP_TALENT_UPDATE)
+
+### PlayerPvpTalentUpdate
+LiteralName: `PLAYER_PVP_TALENT_UPDATE`
 
 No Documentation
-### PlayerTalentUpdate(PLAYER_TALENT_UPDATE)
+
+### PlayerTalentUpdate
+LiteralName: `PLAYER_TALENT_UPDATE`
 
 No Documentation
-### SpecInvoluntarilyChanged(SPEC_INVOLUNTARILY_CHANGED)
+
+### SpecInvoluntarilyChanged
+LiteralName: `SPEC_INVOLUNTARILY_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |isPet|bool|false|No Documentation|
-### TalentsInvoluntarilyReset(TALENTS_INVOLUNTARILY_RESET)
+### TalentsInvoluntarilyReset
+LiteralName: `TALENTS_INVOLUNTARILY_RESET`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |isPetTalents|bool|false|No Documentation|
+## Tables
+
+### PvpTalentSlotInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|enabled|bool|false|No Documentation|
+|level|number|false|No Documentation|
+|selectedTalentID|number|true|No Documentation|
+|availableTalentIDs|table|false|No Documentation|

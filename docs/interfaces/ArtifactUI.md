@@ -7,6 +7,7 @@ Type: System / Namespace: C_ArtifactUI
 ### C_ArtifactUI.AddPower
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -18,6 +19,7 @@ No Documentation
 ### C_ArtifactUI.ApplyCursorRelicToSlot
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -25,6 +27,7 @@ No Documentation
 ### C_ArtifactUI.CanApplyArtifactRelic
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -37,6 +40,7 @@ No Documentation
 ### C_ArtifactUI.CanApplyCursorRelicToSlot
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -48,6 +52,7 @@ No Documentation
 ### C_ArtifactUI.CanApplyRelicItemIDToEquippedArtifactSlot
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -60,6 +65,7 @@ No Documentation
 ### C_ArtifactUI.CanApplyRelicItemIDToSlot
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -72,6 +78,7 @@ No Documentation
 ### C_ArtifactUI.CheckRespecNPC
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -79,15 +86,19 @@ No Documentation
 ### C_ArtifactUI.Clear
 
 No Documentation
+
 ### C_ArtifactUI.ClearForgeCamera
 
 No Documentation
+
 ### C_ArtifactUI.ConfirmRespec
 
 No Documentation
+
 ### C_ArtifactUI.DoesEquippedArtifactHaveAnyRelicsSlotted
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -95,6 +106,7 @@ No Documentation
 ### C_ArtifactUI.GetAppearanceInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -119,6 +131,7 @@ No Documentation
 ### C_ArtifactUI.GetAppearanceInfoByID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -143,6 +156,7 @@ No Documentation
 ### C_ArtifactUI.GetAppearanceSetInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -157,6 +171,7 @@ No Documentation
 ### C_ArtifactUI.GetArtifactArtInfo
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -164,6 +179,7 @@ No Documentation
 ### C_ArtifactUI.GetArtifactInfo
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -183,6 +199,7 @@ No Documentation
 ### C_ArtifactUI.GetArtifactItemID
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -190,6 +207,7 @@ No Documentation
 ### C_ArtifactUI.GetArtifactTier
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -197,6 +215,7 @@ No Documentation
 ### C_ArtifactUI.GetArtifactXPRewardTargetInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -209,6 +228,7 @@ No Documentation
 ### C_ArtifactUI.GetCostForPointAtRank
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -221,6 +241,7 @@ No Documentation
 ### C_ArtifactUI.GetEquippedArtifactArtInfo
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -228,6 +249,7 @@ No Documentation
 ### C_ArtifactUI.GetEquippedArtifactInfo
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -247,6 +269,7 @@ No Documentation
 ### C_ArtifactUI.GetEquippedArtifactItemID
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -254,6 +277,7 @@ No Documentation
 ### C_ArtifactUI.GetEquippedArtifactNumRelicSlots
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -265,6 +289,7 @@ No Documentation
 ### C_ArtifactUI.GetEquippedArtifactRelicInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -279,6 +304,7 @@ No Documentation
 ### C_ArtifactUI.GetEquippedRelicLockedReason
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -290,6 +316,7 @@ No Documentation
 ### C_ArtifactUI.GetForgeRotation
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -299,6 +326,7 @@ No Documentation
 ### C_ArtifactUI.GetItemLevelIncreaseProvidedByRelic
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -310,6 +338,7 @@ No Documentation
 ### C_ArtifactUI.GetMetaPowerInfo
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -319,6 +348,7 @@ No Documentation
 ### C_ArtifactUI.GetNumAppearanceSets
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -326,6 +356,7 @@ No Documentation
 ### C_ArtifactUI.GetNumObtainedArtifacts
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -333,6 +364,7 @@ No Documentation
 ### C_ArtifactUI.GetNumRelicSlots
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -344,6 +376,7 @@ No Documentation
 ### C_ArtifactUI.GetPointsRemaining
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -351,6 +384,7 @@ No Documentation
 ### C_ArtifactUI.GetPowerHyperlink
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -362,6 +396,7 @@ No Documentation
 ### C_ArtifactUI.GetPowerInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -373,6 +408,7 @@ No Documentation
 ### C_ArtifactUI.GetPowerLinks
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -384,6 +420,7 @@ No Documentation
 ### C_ArtifactUI.GetPowers
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -391,6 +428,7 @@ No Documentation
 ### C_ArtifactUI.GetPowersAffectedByRelic
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -402,6 +440,7 @@ No Documentation
 ### C_ArtifactUI.GetPowersAffectedByRelicItemLink
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -413,6 +452,7 @@ No Documentation
 ### C_ArtifactUI.GetPreviewAppearance
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -420,6 +460,7 @@ No Documentation
 ### C_ArtifactUI.GetRelicInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -434,6 +475,7 @@ No Documentation
 ### C_ArtifactUI.GetRelicInfoByItemID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -448,6 +490,7 @@ No Documentation
 ### C_ArtifactUI.GetRelicLockedReason
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -459,6 +502,7 @@ No Documentation
 ### C_ArtifactUI.GetRelicSlotType
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -470,6 +514,7 @@ No Documentation
 ### C_ArtifactUI.GetRespecArtifactArtInfo
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -477,6 +522,7 @@ No Documentation
 ### C_ArtifactUI.GetRespecArtifactInfo
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -496,6 +542,7 @@ No Documentation
 ### C_ArtifactUI.GetRespecCost
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -503,6 +550,7 @@ No Documentation
 ### C_ArtifactUI.GetTotalPowerCost
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -516,6 +564,7 @@ No Documentation
 ### C_ArtifactUI.GetTotalPurchasedRanks
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -523,6 +572,7 @@ No Documentation
 ### C_ArtifactUI.IsArtifactDisabled
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -530,6 +580,7 @@ No Documentation
 ### C_ArtifactUI.IsAtForge
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -537,6 +588,7 @@ No Documentation
 ### C_ArtifactUI.IsEquippedArtifactDisabled
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -544,6 +596,7 @@ No Documentation
 ### C_ArtifactUI.IsEquippedArtifactMaxed
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -551,6 +604,7 @@ No Documentation
 ### C_ArtifactUI.IsMaxedByRulesOrEffect
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -558,6 +612,7 @@ No Documentation
 ### C_ArtifactUI.IsPowerKnown
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -569,6 +624,7 @@ No Documentation
 ### C_ArtifactUI.IsViewedArtifactEquipped
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -576,6 +632,7 @@ No Documentation
 ### C_ArtifactUI.SetAppearance
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -583,9 +640,11 @@ No Documentation
 ### C_ArtifactUI.SetForgeCamera
 
 No Documentation
+
 ### C_ArtifactUI.SetForgeRotation
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -602,18 +661,23 @@ Call without an argument to clear the preview.
 ### C_ArtifactUI.ShouldSuppressForgeRotation
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |shouldSuppressForgeRotation|bool|false|No Documentation|
 ## Events
 
-### ArtifactClose(ARTIFACT_CLOSE)
+### ArtifactClose
+LiteralName: `ARTIFACT_CLOSE`
 
 No Documentation
-### ArtifactEndgameRefund(ARTIFACT_ENDGAME_REFUND)
+
+### ArtifactEndgameRefund
+LiteralName: `ARTIFACT_ENDGAME_REFUND`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -621,37 +685,90 @@ No Documentation
 |refundedTier|number|false|No Documentation|
 |bagOrSlotIndex|number|false|No Documentation|
 |slotIndex|number|true|No Documentation|
-### ArtifactRelicForgeClose(ARTIFACT_RELIC_FORGE_CLOSE)
+### ArtifactRelicForgeClose
+LiteralName: `ARTIFACT_RELIC_FORGE_CLOSE`
 
 No Documentation
-### ArtifactRelicForgePreviewRelicChanged(ARTIFACT_RELIC_FORGE_PREVIEW_RELIC_CHANGED)
+
+### ArtifactRelicForgePreviewRelicChanged
+LiteralName: `ARTIFACT_RELIC_FORGE_PREVIEW_RELIC_CHANGED`
 
 No Documentation
-### ArtifactRelicForgeUpdate(ARTIFACT_RELIC_FORGE_UPDATE)
+
+### ArtifactRelicForgeUpdate
+LiteralName: `ARTIFACT_RELIC_FORGE_UPDATE`
 
 No Documentation
-### ArtifactRelicInfoReceived(ARTIFACT_RELIC_INFO_RECEIVED)
+
+### ArtifactRelicInfoReceived
+LiteralName: `ARTIFACT_RELIC_INFO_RECEIVED`
 
 No Documentation
-### ArtifactRespecPrompt(ARTIFACT_RESPEC_PROMPT)
+
+### ArtifactRespecPrompt
+LiteralName: `ARTIFACT_RESPEC_PROMPT`
 
 No Documentation
-### ArtifactTierChanged(ARTIFACT_TIER_CHANGED)
+
+### ArtifactTierChanged
+LiteralName: `ARTIFACT_TIER_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |newTier|number|false|No Documentation|
 |bagOrSlotIndex|number|false|No Documentation|
 |slotIndex|number|true|No Documentation|
-### ArtifactUpdate(ARTIFACT_UPDATE)
+### ArtifactUpdate
+LiteralName: `ARTIFACT_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |newItem|bool|false|No Documentation|
-### ArtifactXpUpdate(ARTIFACT_XP_UPDATE)
+### ArtifactXpUpdate
+LiteralName: `ARTIFACT_XP_UPDATE`
 
 No Documentation
+
+## Tables
+
+### ArtifactArtInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|textureKit|string|false|No Documentation|
+|titleName|string|false|No Documentation|
+|titleColor|table|false|No Documentation|
+|barConnectedColor|table|false|No Documentation|
+|barDisconnectedColor|table|false|No Documentation|
+|uiModelSceneID|number|false|No Documentation|
+|spellVisualKitID|number|false|No Documentation|
+### ArtifactPowerInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|spellID|number|false|No Documentation|
+|cost|number|false|No Documentation|
+|currentRank|number|false|No Documentation|
+|maxRank|number|false|No Documentation|
+|bonusRanks|number|false|No Documentation|
+|numMaxRankBonusFromTier|number|false|No Documentation|
+|prereqsMet|bool|false|No Documentation|
+|isStart|bool|false|No Documentation|
+|isGoldMedal|bool|false|No Documentation|
+|isFinal|bool|false|No Documentation|
+|tier|number|false|No Documentation|
+|position|table|false|No Documentation|
+|offset|table|true|No Documentation|
+|linearIndex|number|true|No Documentation|

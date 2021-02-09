@@ -7,6 +7,7 @@ Type: System / Namespace: C_AzeriteEmpoweredItem
 ### C_AzeriteEmpoweredItem.CanSelectPower
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -19,9 +20,11 @@ No Documentation
 ### C_AzeriteEmpoweredItem.CloseAzeriteEmpoweredItemRespec
 
 No Documentation
+
 ### C_AzeriteEmpoweredItem.ConfirmAzeriteEmpoweredItemRespec
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -29,6 +32,7 @@ No Documentation
 ### C_AzeriteEmpoweredItem.GetAllTierInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -40,6 +44,7 @@ No Documentation
 ### C_AzeriteEmpoweredItem.GetAllTierInfoByItemID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -52,6 +57,7 @@ No Documentation
 ### C_AzeriteEmpoweredItem.GetAzeriteEmpoweredItemRespecCost
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -59,6 +65,7 @@ No Documentation
 ### C_AzeriteEmpoweredItem.GetPowerInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -70,6 +77,7 @@ No Documentation
 ### C_AzeriteEmpoweredItem.GetPowerText
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -83,6 +91,7 @@ No Documentation
 ### C_AzeriteEmpoweredItem.GetSpecsForPower
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -94,6 +103,7 @@ No Documentation
 ### C_AzeriteEmpoweredItem.HasAnyUnselectedPowers
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -105,6 +115,7 @@ No Documentation
 ### C_AzeriteEmpoweredItem.HasBeenViewed
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -116,6 +127,7 @@ No Documentation
 ### C_AzeriteEmpoweredItem.IsAzeriteEmpoweredItem
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -127,6 +139,7 @@ No Documentation
 ### C_AzeriteEmpoweredItem.IsAzeriteEmpoweredItemByID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -138,6 +151,7 @@ No Documentation
 ### C_AzeriteEmpoweredItem.IsAzeritePreviewSourceDisplayable
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -150,6 +164,7 @@ No Documentation
 ### C_AzeriteEmpoweredItem.IsHeartOfAzerothEquipped
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -157,6 +172,7 @@ No Documentation
 ### C_AzeriteEmpoweredItem.IsPowerAvailableForSpec
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -169,6 +185,7 @@ No Documentation
 ### C_AzeriteEmpoweredItem.IsPowerSelected
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -181,6 +198,7 @@ No Documentation
 ### C_AzeriteEmpoweredItem.SelectPower
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -193,29 +211,86 @@ No Documentation
 ### C_AzeriteEmpoweredItem.SetHasBeenViewed
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |azeriteEmpoweredItemLocation|table|false|No Documentation|
 ## Events
 
-### AzeriteEmpoweredItemEquippedStatusChanged(AZERITE_EMPOWERED_ITEM_EQUIPPED_STATUS_CHANGED)
+### AzeriteEmpoweredItemEquippedStatusChanged
+LiteralName: `AZERITE_EMPOWERED_ITEM_EQUIPPED_STATUS_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |isHeartEquipped|bool|false|No Documentation|
-### AzeriteEmpoweredItemSelectionUpdated(AZERITE_EMPOWERED_ITEM_SELECTION_UPDATED)
+### AzeriteEmpoweredItemSelectionUpdated
+LiteralName: `AZERITE_EMPOWERED_ITEM_SELECTION_UPDATED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |azeriteEmpoweredItemLocation|table|false|No Documentation|
-### RespecAzeriteEmpoweredItemClosed(RESPEC_AZERITE_EMPOWERED_ITEM_CLOSED)
+### RespecAzeriteEmpoweredItemClosed
+LiteralName: `RESPEC_AZERITE_EMPOWERED_ITEM_CLOSED`
 
 No Documentation
-### RespecAzeriteEmpoweredItemOpened(RESPEC_AZERITE_EMPOWERED_ITEM_OPENED)
+
+### RespecAzeriteEmpoweredItemOpened
+LiteralName: `RESPEC_AZERITE_EMPOWERED_ITEM_OPENED`
 
 No Documentation
+
+## Tables
+
+### AzeritePowerLevel
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|Base|AzeritePowerLevel|undefined|No Documentation|
+|Upgraded|AzeritePowerLevel|undefined|No Documentation|
+|Downgraded|AzeritePowerLevel|undefined|No Documentation|
+### AzeriteEmpoweredItemPowerInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|azeritePowerID|number|false|No Documentation|
+|spellID|number|false|No Documentation|
+### AzeriteEmpoweredItemPowerText
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|description|string|false|No Documentation|
+### AzeriteEmpoweredItemTierInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|azeritePowerIDs|table|false|No Documentation|
+|unlockLevel|number|false|No Documentation|
+### AzeriteSpecInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|classID|number|false|No Documentation|
+|specID|number|false|No Documentation|

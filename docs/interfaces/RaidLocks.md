@@ -7,6 +7,7 @@ Type: System / Namespace: C_RaidLocks
 ### C_RaidLocks.IsEncounterComplete
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -17,4 +18,3 @@ No Documentation
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |encounterIsComplete|bool|false|No Documentation|
-## Events

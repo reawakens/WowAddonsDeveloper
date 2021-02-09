@@ -7,6 +7,7 @@ Type: System / Namespace: C_MythicPlus
 ### C_MythicPlus.GetCurrentAffixes
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -14,6 +15,7 @@ No Documentation
 ### C_MythicPlus.GetCurrentSeason
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -21,6 +23,7 @@ No Documentation
 ### C_MythicPlus.GetLastWeeklyBestInformation
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -29,6 +32,7 @@ No Documentation
 ### C_MythicPlus.GetOwnedKeystoneChallengeMapID
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -36,6 +40,7 @@ No Documentation
 ### C_MythicPlus.GetOwnedKeystoneLevel
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -43,6 +48,7 @@ No Documentation
 ### C_MythicPlus.GetRewardLevelForDifficultyLevel
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -55,6 +61,7 @@ No Documentation
 ### C_MythicPlus.GetRewardLevelFromKeystoneLevel
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -66,6 +73,7 @@ No Documentation
 ### C_MythicPlus.GetRunHistory
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -78,6 +86,7 @@ No Documentation
 ### C_MythicPlus.GetSeasonBestForMap
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -90,6 +99,7 @@ No Documentation
 ### C_MythicPlus.GetWeeklyBestForMap
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -105,6 +115,7 @@ No Documentation
 ### C_MythicPlus.GetWeeklyChestRewardLevel
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -115,6 +126,7 @@ No Documentation
 ### C_MythicPlus.IsMythicPlusActive
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -122,6 +134,7 @@ No Documentation
 ### C_MythicPlus.IsWeeklyRewardAvailable
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -129,32 +142,97 @@ No Documentation
 ### C_MythicPlus.RequestCurrentAffixes
 
 No Documentation
+
 ### C_MythicPlus.RequestMapInfo
 
 No Documentation
+
 ### C_MythicPlus.RequestRewards
 
 No Documentation
+
 ## Events
 
-### MythicPlusCurrentAffixUpdate(MYTHIC_PLUS_CURRENT_AFFIX_UPDATE)
+### MythicPlusCurrentAffixUpdate
+LiteralName: `MYTHIC_PLUS_CURRENT_AFFIX_UPDATE`
 
 No Documentation
-### MythicPlusNewSeasonRecord(MYTHIC_PLUS_NEW_SEASON_RECORD)
+
+### MythicPlusNewSeasonRecord
+LiteralName: `MYTHIC_PLUS_NEW_SEASON_RECORD`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |mapChallengeModeID|number|false|No Documentation|
 |completionMilliseconds|number|false|No Documentation|
 |level|number|false|No Documentation|
-### MythicPlusNewWeeklyRecord(MYTHIC_PLUS_NEW_WEEKLY_RECORD)
+### MythicPlusNewWeeklyRecord
+LiteralName: `MYTHIC_PLUS_NEW_WEEKLY_RECORD`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |mapChallengeModeID|number|false|No Documentation|
 |completionMilliseconds|number|false|No Documentation|
 |level|number|false|No Documentation|
+## Tables
+
+### MapSeasonBestInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|durationSec|number|false|No Documentation|
+|level|number|false|No Documentation|
+|completionDate|MythicPlusDate|false|No Documentation|
+|affixIDs|table|false|No Documentation|
+|members|table|false|No Documentation|
+### MythicPlusDate
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|year|number|false|No Documentation|
+|month|number|false|No Documentation|
+|day|number|false|No Documentation|
+|hour|number|false|No Documentation|
+|minute|number|false|No Documentation|
+### MythicPlusKeystoneAffix
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|id|number|false|No Documentation|
+|seasonID|number|false|No Documentation|
+### MythicPlusMember
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|true|No Documentation|
+|specID|number|false|No Documentation|
+|classID|number|false|No Documentation|
+### MythicPlusRunInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|mapChallengeModeID|number|false|No Documentation|
+|level|number|false|No Documentation|
+|thisWeek|bool|false|No Documentation|
+|completed|bool|false|No Documentation|

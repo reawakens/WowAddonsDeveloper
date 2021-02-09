@@ -7,6 +7,7 @@ Type: System / Namespace: C_Mail
 ### C_Mail.CanCheckInbox
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -15,6 +16,7 @@ No Documentation
 ### C_Mail.HasInboxMoney
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -26,65 +28,91 @@ No Documentation
 ### C_Mail.IsCommandPending
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |isCommandPending|bool|false|No Documentation|
 ## Events
 
-### CloseInboxItem(CLOSE_INBOX_ITEM)
+### CloseInboxItem
+LiteralName: `CLOSE_INBOX_ITEM`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |mailIndex|number|false|No Documentation|
-### MailClosed(MAIL_CLOSED)
+### MailClosed
+LiteralName: `MAIL_CLOSED`
 
 No Documentation
-### MailFailed(MAIL_FAILED)
+
+### MailFailed
+LiteralName: `MAIL_FAILED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |itemID|number|true|No Documentation|
-### MailInboxUpdate(MAIL_INBOX_UPDATE)
+### MailInboxUpdate
+LiteralName: `MAIL_INBOX_UPDATE`
 
 No Documentation
-### MailLockSendItems(MAIL_LOCK_SEND_ITEMS)
+
+### MailLockSendItems
+LiteralName: `MAIL_LOCK_SEND_ITEMS`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |attachSlot|number|false|No Documentation|
 |itemLink|string|false|No Documentation|
-### MailSendInfoUpdate(MAIL_SEND_INFO_UPDATE)
+### MailSendInfoUpdate
+LiteralName: `MAIL_SEND_INFO_UPDATE`
 
 No Documentation
-### MailSendSuccess(MAIL_SEND_SUCCESS)
+
+### MailSendSuccess
+LiteralName: `MAIL_SEND_SUCCESS`
 
 No Documentation
-### MailShow(MAIL_SHOW)
+
+### MailShow
+LiteralName: `MAIL_SHOW`
 
 No Documentation
-### MailSuccess(MAIL_SUCCESS)
+
+### MailSuccess
+LiteralName: `MAIL_SUCCESS`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |itemID|number|true|No Documentation|
-### MailUnlockSendItems(MAIL_UNLOCK_SEND_ITEMS)
+### MailUnlockSendItems
+LiteralName: `MAIL_UNLOCK_SEND_ITEMS`
 
 No Documentation
-### SendMailCodChanged(SEND_MAIL_COD_CHANGED)
+
+### SendMailCodChanged
+LiteralName: `SEND_MAIL_COD_CHANGED`
 
 No Documentation
-### SendMailMoneyChanged(SEND_MAIL_MONEY_CHANGED)
+
+### SendMailMoneyChanged
+LiteralName: `SEND_MAIL_MONEY_CHANGED`
 
 No Documentation
-### UpdatePendingMail(UPDATE_PENDING_MAIL)
+
+### UpdatePendingMail
+LiteralName: `UPDATE_PENDING_MAIL`
 
 No Documentation

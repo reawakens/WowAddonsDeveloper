@@ -7,6 +7,7 @@ Type: System / Namespace: C_ChatBubbles
 ### C_ChatBubbles.GetAllChatBubbles
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -15,4 +16,3 @@ No Documentation
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |chatBubbles|table|false|No Documentation|
-## Events

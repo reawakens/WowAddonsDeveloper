@@ -7,6 +7,7 @@ Type: System / Namespace: C_StorePublic
 ### C_StorePublic.DoesGroupHavePurchaseableProducts
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -18,6 +19,7 @@ No Documentation
 ### C_StorePublic.IsDisabledByParentalControls
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -25,8 +27,8 @@ No Documentation
 ### C_StorePublic.IsEnabled
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |enabled|bool|false|No Documentation|
-## Events

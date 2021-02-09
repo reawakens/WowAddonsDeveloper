@@ -7,6 +7,7 @@ Type: System / Namespace: C_BarberShop
 ### C_BarberShop.ApplyCustomizationChoices
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -14,12 +15,15 @@ No Documentation
 ### C_BarberShop.Cancel
 
 No Documentation
+
 ### C_BarberShop.ClearPreviewChoices
 
 No Documentation
+
 ### C_BarberShop.GetAvailableCustomizations
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -27,6 +31,7 @@ No Documentation
 ### C_BarberShop.GetCurrentCameraZoom
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -34,6 +39,7 @@ No Documentation
 ### C_BarberShop.GetCurrentCharacterData
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -41,6 +47,7 @@ No Documentation
 ### C_BarberShop.GetCurrentCost
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -48,6 +55,7 @@ No Documentation
 ### C_BarberShop.HasAnyChanges
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -55,6 +63,7 @@ No Documentation
 ### C_BarberShop.IsViewingAlteredForm
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -62,9 +71,11 @@ No Documentation
 ### C_BarberShop.OldBarberShopLoaded
 
 No Documentation
+
 ### C_BarberShop.PreviewCustomizationChoice
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -73,12 +84,15 @@ No Documentation
 ### C_BarberShop.ResetCameraRotation
 
 No Documentation
+
 ### C_BarberShop.ResetCustomizationChoices
 
 No Documentation
+
 ### C_BarberShop.RotateCamera
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -86,6 +100,7 @@ No Documentation
 ### C_BarberShop.SetCameraDistanceOffset
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -93,6 +108,7 @@ No Documentation
 ### C_BarberShop.SetCameraZoomLevel
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -101,6 +117,7 @@ No Documentation
 ### C_BarberShop.SetCustomizationChoice
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -109,6 +126,7 @@ No Documentation
 ### C_BarberShop.SetModelDressState
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -116,6 +134,7 @@ No Documentation
 ### C_BarberShop.SetSelectedSex
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -123,6 +142,7 @@ No Documentation
 ### C_BarberShop.SetViewingAlteredForm
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -130,6 +150,7 @@ No Documentation
 ### C_BarberShop.SetViewingShapeshiftForm
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -137,34 +158,70 @@ No Documentation
 ### C_BarberShop.ZoomCamera
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |zoomAmount|number|false|No Documentation|
 ## Events
 
-### BarberShopAppearanceApplied(BARBER_SHOP_APPEARANCE_APPLIED)
+### BarberShopAppearanceApplied
+LiteralName: `BARBER_SHOP_APPEARANCE_APPLIED`
 
 No Documentation
-### BarberShopCameraValuesUpdated(BARBER_SHOP_CAMERA_VALUES_UPDATED)
+
+### BarberShopCameraValuesUpdated
+LiteralName: `BARBER_SHOP_CAMERA_VALUES_UPDATED`
 
 No Documentation
-### BarberShopClose(BARBER_SHOP_CLOSE)
+
+### BarberShopClose
+LiteralName: `BARBER_SHOP_CLOSE`
 
 No Documentation
-### BarberShopCostUpdate(BARBER_SHOP_COST_UPDATE)
+
+### BarberShopCostUpdate
+LiteralName: `BARBER_SHOP_COST_UPDATE`
 
 No Documentation
-### BarberShopForceCustomizationsUpdate(BARBER_SHOP_FORCE_CUSTOMIZATIONS_UPDATE)
+
+### BarberShopForceCustomizationsUpdate
+LiteralName: `BARBER_SHOP_FORCE_CUSTOMIZATIONS_UPDATE`
 
 No Documentation
-### BarberShopOpen(BARBER_SHOP_OPEN)
+
+### BarberShopOpen
+LiteralName: `BARBER_SHOP_OPEN`
 
 No Documentation
-### BarberShopResult(BARBER_SHOP_RESULT)
+
+### BarberShopResult
+LiteralName: `BARBER_SHOP_RESULT`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |success|bool|false|No Documentation|
+## Tables
+
+### BarberShopCharacterData
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|raceData|BarberShopRaceData|false|No Documentation|
+|sex|number|false|No Documentation|
+### BarberShopRaceData
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|fileName|string|false|No Documentation|
+|alternateFormRaceData|CharacterAlternateFormData|true|No Documentation|

@@ -7,6 +7,7 @@ Type: System / Namespace: C_ClassColor
 ### C_ClassColor.GetClassColor
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -15,4 +16,3 @@ No Documentation
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |classColor|table|false|No Documentation|
-## Events

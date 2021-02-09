@@ -7,6 +7,7 @@ Type: System / Namespace: C_AccountInfo
 ### C_AccountInfo.GetIDFromBattleNetAccountGUID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -18,6 +19,7 @@ No Documentation
 ### C_AccountInfo.IsGUIDBattleNetAccountType
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -29,6 +31,7 @@ No Documentation
 ### C_AccountInfo.IsGUIDRelatedToLocalAccount
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -37,4 +40,3 @@ No Documentation
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |isLocalUser|bool|false|No Documentation|
-## Events

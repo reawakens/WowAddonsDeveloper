@@ -7,6 +7,7 @@ Type: System / Namespace: C_MerchantFrame
 ### C_MerchantFrame.GetBuybackItemID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -18,6 +19,7 @@ No Documentation
 ### C_MerchantFrame.IsMerchantItemRefundable
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -28,19 +30,26 @@ No Documentation
 |refundable|bool|false|No Documentation|
 ## Events
 
-### MerchantClosed(MERCHANT_CLOSED)
+### MerchantClosed
+LiteralName: `MERCHANT_CLOSED`
 
 No Documentation
-### MerchantFilterItemUpdate(MERCHANT_FILTER_ITEM_UPDATE)
+
+### MerchantFilterItemUpdate
+LiteralName: `MERCHANT_FILTER_ITEM_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |itemID|number|false|No Documentation|
-### MerchantShow(MERCHANT_SHOW)
+### MerchantShow
+LiteralName: `MERCHANT_SHOW`
 
 No Documentation
-### MerchantUpdate(MERCHANT_UPDATE)
+
+### MerchantUpdate
+LiteralName: `MERCHANT_UPDATE`
 
 No Documentation

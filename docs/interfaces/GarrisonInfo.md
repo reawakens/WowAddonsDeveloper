@@ -7,6 +7,7 @@ Type: System / Namespace: C_Garrison
 ### C_Garrison.AddFollowerToMission
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -20,6 +21,7 @@ No Documentation
 ### C_Garrison.GetAutoCombatDamageClassValues
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -27,6 +29,7 @@ No Documentation
 ### C_Garrison.GetAutoMissionBoardState
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -38,6 +41,7 @@ No Documentation
 ### C_Garrison.GetAutoMissionEnvironmentEffect
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -49,6 +53,7 @@ No Documentation
 ### C_Garrison.GetAutoMissionTargetingInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -62,6 +67,7 @@ No Documentation
 ### C_Garrison.GetAutoTroops
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -73,6 +79,7 @@ No Documentation
 ### C_Garrison.GetCombatLogSpellInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -84,6 +91,7 @@ No Documentation
 ### C_Garrison.GetCurrentGarrTalentTreeFriendshipFactionID
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -91,6 +99,7 @@ No Documentation
 ### C_Garrison.GetCurrentGarrTalentTreeID
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -98,6 +107,7 @@ No Documentation
 ### C_Garrison.GetFollowerAutoCombatSpells
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -110,6 +120,7 @@ No Documentation
 ### C_Garrison.GetFollowerAutoCombatStats
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -121,6 +132,7 @@ No Documentation
 ### C_Garrison.GetFollowerMissionCompleteInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -132,6 +144,7 @@ No Documentation
 ### C_Garrison.GetGarrisonPlotsInstancesForMap
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -143,6 +156,7 @@ No Documentation
 ### C_Garrison.GetGarrisonTalentTreeCurrencyTypes
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -154,6 +168,7 @@ No Documentation
 ### C_Garrison.GetGarrisonTalentTreeType
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -165,6 +180,7 @@ No Documentation
 ### C_Garrison.GetMissionCompleteEncounters
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -176,6 +192,7 @@ No Documentation
 ### C_Garrison.GetMissionDeploymentInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -187,6 +204,7 @@ No Documentation
 ### C_Garrison.GetMissionEncounterIconInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -198,6 +216,7 @@ No Documentation
 ### C_Garrison.GetTalentInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -209,6 +228,7 @@ No Documentation
 ### C_Garrison.GetTalentPointsSpentInTalentTree
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -220,6 +240,7 @@ No Documentation
 ### C_Garrison.GetTalentTreeIDsByClassID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -232,6 +253,7 @@ No Documentation
 ### C_Garrison.GetTalentTreeInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -243,6 +265,7 @@ No Documentation
 ### C_Garrison.GetTalentTreeResetInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -255,6 +278,7 @@ No Documentation
 ### C_Garrison.GetTalentTreeTalentPointResearchInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -270,6 +294,7 @@ No Documentation
 ### C_Garrison.GetTalentUnlockWorldQuest
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -281,6 +306,7 @@ No Documentation
 ### C_Garrison.HasAdventures
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -288,6 +314,7 @@ No Documentation
 ### C_Garrison.IsAtGarrisonMissionNPC
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -295,6 +322,7 @@ No Documentation
 ### C_Garrison.IsEnvironmentCountered
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -306,6 +334,7 @@ No Documentation
 ### C_Garrison.IsTalentConditionMet
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -318,6 +347,7 @@ No Documentation
 ### C_Garrison.RegenerateCombatLog
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -325,6 +355,7 @@ No Documentation
 ### C_Garrison.RemoveFollowerFromMission
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -334,6 +365,7 @@ No Documentation
 ### C_Garrison.RushHealAllFollowers
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -341,6 +373,7 @@ No Documentation
 ### C_Garrison.RushHealFollower
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -348,75 +381,96 @@ No Documentation
 ### C_Garrison.SetAutoCombatSpellFastForward
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |state|bool|false|No Documentation|
 ## Events
 
-### GarrisonArchitectClosed(GARRISON_ARCHITECT_CLOSED)
+### GarrisonArchitectClosed
+LiteralName: `GARRISON_ARCHITECT_CLOSED`
 
 No Documentation
-### GarrisonArchitectOpened(GARRISON_ARCHITECT_OPENED)
+
+### GarrisonArchitectOpened
+LiteralName: `GARRISON_ARCHITECT_OPENED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |followerTypeID|number|false|No Documentation|
-### GarrisonBuildingActivatable(GARRISON_BUILDING_ACTIVATABLE)
+### GarrisonBuildingActivatable
+LiteralName: `GARRISON_BUILDING_ACTIVATABLE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |buildingName|string|false|No Documentation|
 |garrisonType|number|false|No Documentation|
-### GarrisonBuildingActivated(GARRISON_BUILDING_ACTIVATED)
+### GarrisonBuildingActivated
+LiteralName: `GARRISON_BUILDING_ACTIVATED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |garrisonPlotInstanceID|number|false|No Documentation|
 |garrisonBuildingID|number|false|No Documentation|
-### GarrisonBuildingError(GARRISON_BUILDING_ERROR)
+### GarrisonBuildingError
+LiteralName: `GARRISON_BUILDING_ERROR`
 
 No Documentation
-### GarrisonBuildingListUpdate(GARRISON_BUILDING_LIST_UPDATE)
+
+### GarrisonBuildingListUpdate
+LiteralName: `GARRISON_BUILDING_LIST_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |categoryID|number|false|No Documentation|
-### GarrisonBuildingPlaced(GARRISON_BUILDING_PLACED)
+### GarrisonBuildingPlaced
+LiteralName: `GARRISON_BUILDING_PLACED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |garrisonPlotInstanceID|number|false|No Documentation|
 |newPlacement|bool|false|No Documentation|
-### GarrisonBuildingRemoved(GARRISON_BUILDING_REMOVED)
+### GarrisonBuildingRemoved
+LiteralName: `GARRISON_BUILDING_REMOVED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |garrPlotInstanceID|number|false|No Documentation|
 |garrBuildingID|number|false|No Documentation|
-### GarrisonBuildingUpdate(GARRISON_BUILDING_UPDATE)
+### GarrisonBuildingUpdate
+LiteralName: `GARRISON_BUILDING_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |garrisonBuildingID|number|false|No Documentation|
 |garrPlotInstanceID|number|true|No Documentation|
-### GarrisonFollowerAdded(GARRISON_FOLLOWER_ADDED)
+### GarrisonFollowerAdded
+LiteralName: `GARRISON_FOLLOWER_ADDED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -428,49 +482,63 @@ No Documentation
 |isUpgraded|bool|false|No Documentation|
 |textureKit|string|false|No Documentation|
 |followerTypeID|number|false|No Documentation|
-### GarrisonFollowerCategoriesUpdated(GARRISON_FOLLOWER_CATEGORIES_UPDATED)
+### GarrisonFollowerCategoriesUpdated
+LiteralName: `GARRISON_FOLLOWER_CATEGORIES_UPDATED`
 
 No Documentation
-### GarrisonFollowerDurabilityChanged(GARRISON_FOLLOWER_DURABILITY_CHANGED)
+
+### GarrisonFollowerDurabilityChanged
+LiteralName: `GARRISON_FOLLOWER_DURABILITY_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |garrFollowerTypeID|number|false|No Documentation|
 |followerDbID|string|false|No Documentation|
 |followerDurability|number|false|No Documentation|
-### GarrisonFollowerHealed(GARRISON_FOLLOWER_HEALED)
+### GarrisonFollowerHealed
+LiteralName: `GARRISON_FOLLOWER_HEALED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |followerID|string|false|No Documentation|
-### GarrisonFollowerListUpdate(GARRISON_FOLLOWER_LIST_UPDATE)
+### GarrisonFollowerListUpdate
+LiteralName: `GARRISON_FOLLOWER_LIST_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |followerTypeID|number|false|No Documentation|
-### GarrisonFollowerRemoved(GARRISON_FOLLOWER_REMOVED)
+### GarrisonFollowerRemoved
+LiteralName: `GARRISON_FOLLOWER_REMOVED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |followerTypeID|number|false|No Documentation|
-### GarrisonFollowerUpgraded(GARRISON_FOLLOWER_UPGRADED)
+### GarrisonFollowerUpgraded
+LiteralName: `GARRISON_FOLLOWER_UPGRADED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |followerDbID|string|false|No Documentation|
-### GarrisonFollowerXpChanged(GARRISON_FOLLOWER_XP_CHANGED)
+### GarrisonFollowerXpChanged
+LiteralName: `GARRISON_FOLLOWER_XP_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -480,36 +548,50 @@ No Documentation
 |oldFollowerXp|number|false|No Documentation|
 |oldFollowerLevel|number|false|No Documentation|
 |oldFollowerQuality|number|false|No Documentation|
-### GarrisonHideLandingPage(GARRISON_HIDE_LANDING_PAGE)
+### GarrisonHideLandingPage
+LiteralName: `GARRISON_HIDE_LANDING_PAGE`
 
 No Documentation
-### GarrisonInvasionAvailable(GARRISON_INVASION_AVAILABLE)
+
+### GarrisonInvasionAvailable
+LiteralName: `GARRISON_INVASION_AVAILABLE`
 
 No Documentation
-### GarrisonInvasionUnavailable(GARRISON_INVASION_UNAVAILABLE)
+
+### GarrisonInvasionUnavailable
+LiteralName: `GARRISON_INVASION_UNAVAILABLE`
 
 No Documentation
-### GarrisonLandingpageShipments(GARRISON_LANDINGPAGE_SHIPMENTS)
+
+### GarrisonLandingpageShipments
+LiteralName: `GARRISON_LANDINGPAGE_SHIPMENTS`
 
 No Documentation
-### GarrisonMissionAreaBonusAdded(GARRISON_MISSION_AREA_BONUS_ADDED)
+
+### GarrisonMissionAreaBonusAdded
+LiteralName: `GARRISON_MISSION_AREA_BONUS_ADDED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |garrisonMissonBonusAbilityID|number|false|No Documentation|
-### GarrisonMissionBonusRollComplete(GARRISON_MISSION_BONUS_ROLL_COMPLETE)
+### GarrisonMissionBonusRollComplete
+LiteralName: `GARRISON_MISSION_BONUS_ROLL_COMPLETE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |missionID|number|false|No Documentation|
 |success|bool|false|No Documentation|
-### GarrisonMissionCompleteResponse(GARRISON_MISSION_COMPLETE_RESPONSE)
+### GarrisonMissionCompleteResponse
+LiteralName: `GARRISON_MISSION_COMPLETE_RESPONSE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -519,200 +601,272 @@ No Documentation
 |bonusRollSuccess|bool|false|No Documentation|
 |followerDeaths|table|false|No Documentation|
 |autoCombatResult|AutoCombatResult|true|No Documentation|
-### GarrisonMissionFinished(GARRISON_MISSION_FINISHED)
+### GarrisonMissionFinished
+LiteralName: `GARRISON_MISSION_FINISHED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |followerTypeID|number|false|No Documentation|
 |missionID|number|false|No Documentation|
-### GarrisonMissionListUpdate(GARRISON_MISSION_LIST_UPDATE)
+### GarrisonMissionListUpdate
+LiteralName: `GARRISON_MISSION_LIST_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |garrFollowerTypeID|number|false|No Documentation|
-### GarrisonMissionNpcClosed(GARRISON_MISSION_NPC_CLOSED)
+### GarrisonMissionNpcClosed
+LiteralName: `GARRISON_MISSION_NPC_CLOSED`
 
 No Documentation
-### GarrisonMissionNpcOpened(GARRISON_MISSION_NPC_OPENED)
+
+### GarrisonMissionNpcOpened
+LiteralName: `GARRISON_MISSION_NPC_OPENED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |followerTypeID|number|false|No Documentation|
-### GarrisonMissionRewardInfo(GARRISON_MISSION_REWARD_INFO)
+### GarrisonMissionRewardInfo
+LiteralName: `GARRISON_MISSION_REWARD_INFO`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |missionID|number|false|No Documentation|
 |followerDbID|string|false|No Documentation|
-### GarrisonMissionStarted(GARRISON_MISSION_STARTED)
+### GarrisonMissionStarted
+LiteralName: `GARRISON_MISSION_STARTED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |garrFollowerTypeID|number|false|No Documentation|
 |missionID|number|false|No Documentation|
-### GarrisonMonumentCloseUi(GARRISON_MONUMENT_CLOSE_UI)
+### GarrisonMonumentCloseUi
+LiteralName: `GARRISON_MONUMENT_CLOSE_UI`
 
 No Documentation
-### GarrisonMonumentListLoaded(GARRISON_MONUMENT_LIST_LOADED)
+
+### GarrisonMonumentListLoaded
+LiteralName: `GARRISON_MONUMENT_LIST_LOADED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |success|bool|false|No Documentation|
-### GarrisonMonumentReplaced(GARRISON_MONUMENT_REPLACED)
+### GarrisonMonumentReplaced
+LiteralName: `GARRISON_MONUMENT_REPLACED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |success|bool|false|No Documentation|
-### GarrisonMonumentSelectedTrophyIdLoaded(GARRISON_MONUMENT_SELECTED_TROPHY_ID_LOADED)
+### GarrisonMonumentSelectedTrophyIdLoaded
+LiteralName: `GARRISON_MONUMENT_SELECTED_TROPHY_ID_LOADED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |success|bool|false|No Documentation|
-### GarrisonMonumentShowUi(GARRISON_MONUMENT_SHOW_UI)
+### GarrisonMonumentShowUi
+LiteralName: `GARRISON_MONUMENT_SHOW_UI`
 
 No Documentation
-### GarrisonRandomMissionAdded(GARRISON_RANDOM_MISSION_ADDED)
+
+### GarrisonRandomMissionAdded
+LiteralName: `GARRISON_RANDOM_MISSION_ADDED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |followerTypeID|number|false|No Documentation|
 |missionID|number|false|No Documentation|
-### GarrisonRecallPortalLastUsedTime(GARRISON_RECALL_PORTAL_LAST_USED_TIME)
+### GarrisonRecallPortalLastUsedTime
+LiteralName: `GARRISON_RECALL_PORTAL_LAST_USED_TIME`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |success|bool|false|No Documentation|
 |recallPortalLastUsedTime|number|false|No Documentation|
-### GarrisonRecallPortalUsed(GARRISON_RECALL_PORTAL_USED)
+### GarrisonRecallPortalUsed
+LiteralName: `GARRISON_RECALL_PORTAL_USED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |success|bool|false|No Documentation|
-### GarrisonRecruitFollowerResult(GARRISON_RECRUIT_FOLLOWER_RESULT)
+### GarrisonRecruitFollowerResult
+LiteralName: `GARRISON_RECRUIT_FOLLOWER_RESULT`
 
 No Documentation
-### GarrisonRecruitmentFollowersGenerated(GARRISON_RECRUITMENT_FOLLOWERS_GENERATED)
+
+### GarrisonRecruitmentFollowersGenerated
+LiteralName: `GARRISON_RECRUITMENT_FOLLOWERS_GENERATED`
 
 No Documentation
-### GarrisonRecruitmentNpcClosed(GARRISON_RECRUITMENT_NPC_CLOSED)
+
+### GarrisonRecruitmentNpcClosed
+LiteralName: `GARRISON_RECRUITMENT_NPC_CLOSED`
 
 No Documentation
-### GarrisonRecruitmentNpcOpened(GARRISON_RECRUITMENT_NPC_OPENED)
+
+### GarrisonRecruitmentNpcOpened
+LiteralName: `GARRISON_RECRUITMENT_NPC_OPENED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |followerTypeID|number|false|No Documentation|
-### GarrisonRecruitmentReady(GARRISON_RECRUITMENT_READY)
+### GarrisonRecruitmentReady
+LiteralName: `GARRISON_RECRUITMENT_READY`
 
 No Documentation
-### GarrisonShipmentReceived(GARRISON_SHIPMENT_RECEIVED)
+
+### GarrisonShipmentReceived
+LiteralName: `GARRISON_SHIPMENT_RECEIVED`
 
 No Documentation
-### GarrisonShipyardNpcClosed(GARRISON_SHIPYARD_NPC_CLOSED)
+
+### GarrisonShipyardNpcClosed
+LiteralName: `GARRISON_SHIPYARD_NPC_CLOSED`
 
 No Documentation
-### GarrisonShipyardNpcOpened(GARRISON_SHIPYARD_NPC_OPENED)
+
+### GarrisonShipyardNpcOpened
+LiteralName: `GARRISON_SHIPYARD_NPC_OPENED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |followerTypeID|number|false|No Documentation|
-### GarrisonShowLandingPage(GARRISON_SHOW_LANDING_PAGE)
+### GarrisonShowLandingPage
+LiteralName: `GARRISON_SHOW_LANDING_PAGE`
 
 No Documentation
-### GarrisonTalentComplete(GARRISON_TALENT_COMPLETE)
+
+### GarrisonTalentComplete
+LiteralName: `GARRISON_TALENT_COMPLETE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |garrTypeID|number|false|No Documentation|
 |doAlert|bool|false|No Documentation|
-### GarrisonTalentEventUpdate(GARRISON_TALENT_EVENT_UPDATE)
+### GarrisonTalentEventUpdate
+LiteralName: `GARRISON_TALENT_EVENT_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |eventType|number|false|No Documentation|
 |eventID|number|false|No Documentation|
-### GarrisonTalentNpcClosed(GARRISON_TALENT_NPC_CLOSED)
+### GarrisonTalentNpcClosed
+LiteralName: `GARRISON_TALENT_NPC_CLOSED`
 
 No Documentation
-### GarrisonTalentNpcOpened(GARRISON_TALENT_NPC_OPENED)
+
+### GarrisonTalentNpcOpened
+LiteralName: `GARRISON_TALENT_NPC_OPENED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |garrisonTypeID|number|false|No Documentation|
 |garrisonTalentTreeID|number|false|No Documentation|
-### GarrisonTalentResearchStarted(GARRISON_TALENT_RESEARCH_STARTED)
+### GarrisonTalentResearchStarted
+LiteralName: `GARRISON_TALENT_RESEARCH_STARTED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |garrTypeID|number|false|No Documentation|
 |garrisonTalentTreeID|number|false|No Documentation|
 |garrTalentID|number|false|No Documentation|
-### GarrisonTalentUnlocksResult(GARRISON_TALENT_UNLOCKS_RESULT)
+### GarrisonTalentUnlocksResult
+LiteralName: `GARRISON_TALENT_UNLOCKS_RESULT`
 
 No Documentation
-### GarrisonTalentUpdate(GARRISON_TALENT_UPDATE)
+
+### GarrisonTalentUpdate
+LiteralName: `GARRISON_TALENT_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |garrTypeID|number|false|No Documentation|
-### GarrisonTradeskillNpcClosed(GARRISON_TRADESKILL_NPC_CLOSED)
+### GarrisonTradeskillNpcClosed
+LiteralName: `GARRISON_TRADESKILL_NPC_CLOSED`
 
 No Documentation
-### GarrisonUpdate(GARRISON_UPDATE)
+
+### GarrisonUpdate
+LiteralName: `GARRISON_UPDATE`
 
 No Documentation
-### GarrisonUpgradeableResult(GARRISON_UPGRADEABLE_RESULT)
+
+### GarrisonUpgradeableResult
+LiteralName: `GARRISON_UPGRADEABLE_RESULT`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |garrisonUpgradeable|bool|false|No Documentation|
-### GarrisonUsePartyGarrisonChanged(GARRISON_USE_PARTY_GARRISON_CHANGED)
+### GarrisonUsePartyGarrisonChanged
+LiteralName: `GARRISON_USE_PARTY_GARRISON_CHANGED`
 
 No Documentation
-### ShipmentCrafterClosed(SHIPMENT_CRAFTER_CLOSED)
+
+### ShipmentCrafterClosed
+LiteralName: `SHIPMENT_CRAFTER_CLOSED`
 
 No Documentation
-### ShipmentCrafterInfo(SHIPMENT_CRAFTER_INFO)
+
+### ShipmentCrafterInfo
+LiteralName: `SHIPMENT_CRAFTER_INFO`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -721,21 +875,311 @@ No Documentation
 |maxShipments|number|false|No Documentation|
 |ownedShipments|number|false|No Documentation|
 |plotInstanceID|number|false|No Documentation|
-### ShipmentCrafterOpened(SHIPMENT_CRAFTER_OPENED)
+### ShipmentCrafterOpened
+LiteralName: `SHIPMENT_CRAFTER_OPENED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |charShipmentContainerID|number|false|No Documentation|
-### ShipmentCrafterReagentUpdate(SHIPMENT_CRAFTER_REAGENT_UPDATE)
+### ShipmentCrafterReagentUpdate
+LiteralName: `SHIPMENT_CRAFTER_REAGENT_UPDATE`
 
 No Documentation
-### ShipmentUpdate(SHIPMENT_UPDATE)
+
+### ShipmentUpdate
+LiteralName: `SHIPMENT_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |shipmentStarted|bool|true|No Documentation|
 |hasAttachedFollower|bool|true|No Documentation|
+## Tables
+
+### AutoCombatDamageClassString
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|damageClassValue|number|false|No Documentation|
+|locString|string|false|No Documentation|
+### AutoCombatResult
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|winner|bool|false|No Documentation|
+|combatLog|table|false|No Documentation|
+### AutoCombatSpellInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|autoCombatSpellID|number|false|No Documentation|
+|name|string|false|No Documentation|
+|description|string|false|No Documentation|
+|cooldown|number|false|No Documentation|
+|duration|number|false|No Documentation|
+|schoolMask|number|false|No Documentation|
+|previewMask|number|false|No Documentation|
+|icon|number|false|No Documentation|
+|spellTutorialFlag|number|false|No Documentation|
+### AutoCombatTroopInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|followerID|string|false|No Documentation|
+|garrFollowerID|string|false|No Documentation|
+|followerTypeID|number|false|No Documentation|
+|displayIDs|table|false|No Documentation|
+|level|number|false|No Documentation|
+|quality|number|false|No Documentation|
+|levelXP|number|false|No Documentation|
+|maxXP|number|false|No Documentation|
+|height|number|false|No Documentation|
+|scale|number|false|No Documentation|
+|displayScale|number|true|No Documentation|
+|displayHeight|number|true|No Documentation|
+|classSpec|number|true|No Documentation|
+|className|string|true|No Documentation|
+|flavorText|string|true|No Documentation|
+|classAtlas|string|false|No Documentation|
+|portraitIconID|number|false|No Documentation|
+|textureKit|string|false|No Documentation|
+|isTroop|bool|false|No Documentation|
+|raceID|number|false|No Documentation|
+|health|number|false|No Documentation|
+|maxHealth|number|false|No Documentation|
+|role|number|false|No Documentation|
+|isAutoTroop|bool|false|No Documentation|
+|isCollected|bool|false|No Documentation|
+|autoCombatStats|FollowerAutoCombatStatsInfo|false|No Documentation|
+|autoCombatSpells|table|false|No Documentation|
+### AutoMissionCombatEventInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|boardIndex|number|false|No Documentation|
+|oldHealth|number|false|No Documentation|
+|newHealth|number|false|No Documentation|
+|maxHealth|number|false|No Documentation|
+|points|number|true|No Documentation|
+### AutoMissionEnvironmentEffect
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|autoCombatSpellInfo|AutoCombatSpellInfo|false|No Documentation|
+### AutoMissionEvent
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|type|number|false|No Documentation|
+|spellID|number|false|No Documentation|
+|schoolMask|number|false|No Documentation|
+|effectIndex|number|false|No Documentation|
+|casterBoardIndex|number|false|No Documentation|
+|auraType|number|false|No Documentation|
+|targetInfo|table|false|No Documentation|
+### AutoMissionRound
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|events|table|false|No Documentation|
+### AutoMissionTargetingInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|targetIndex|number|false|No Documentation|
+|previewType|number|false|No Documentation|
+### FollowerAutoCombatStatsInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|currentHealth|number|false|No Documentation|
+|maxHealth|number|false|No Documentation|
+|attack|number|false|No Documentation|
+|healingTimestamp|number|false|No Documentation|
+|healCost|number|false|No Documentation|
+### FollowerDisplayID
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|id|number|false|No Documentation|
+|followerPageScale|number|false|No Documentation|
+|showWeapon|bool|false|No Documentation|
+### FollowerMissionCompleteInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|displayIDs|table|false|No Documentation|
+|level|number|false|No Documentation|
+|quality|number|false|No Documentation|
+|currentXP|number|false|No Documentation|
+|maxXP|number|false|No Documentation|
+|height|number|false|No Documentation|
+|scale|number|false|No Documentation|
+|movementType|number|true|No Documentation|
+|impactDelay|number|true|No Documentation|
+|castID|number|true|No Documentation|
+|castSoundID|number|true|No Documentation|
+|impactID|number|true|No Documentation|
+|impactSoundID|number|true|No Documentation|
+|targetImpactID|number|true|No Documentation|
+|targetImpactSoundID|number|true|No Documentation|
+|className|string|true|No Documentation|
+|classAtlas|string|false|No Documentation|
+|portraitIconID|number|false|No Documentation|
+|textureKit|string|false|No Documentation|
+|isTroop|bool|false|No Documentation|
+|boardIndex|number|false|No Documentation|
+|health|number|false|No Documentation|
+|maxHealth|number|false|No Documentation|
+|role|number|false|No Documentation|
+### GarrisonAbilityCounterInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|id|number|false|No Documentation|
+|icon|number|false|No Documentation|
+|name|string|false|No Documentation|
+|factor|number|false|No Documentation|
+|description|string|false|No Documentation|
+### GarrisonAbilityInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|id|number|false|No Documentation|
+|name|string|false|No Documentation|
+|description|string|false|No Documentation|
+|icon|number|false|No Documentation|
+|isTrait|bool|false|No Documentation|
+|isSpecialization|bool|false|No Documentation|
+|temporary|bool|false|No Documentation|
+|category|string|true|No Documentation|
+|counters|table|false|No Documentation|
+|isEmptySlot|bool|false|No Documentation|
+### GarrisonEnemyEncounterInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|displayID|number|false|No Documentation|
+|portraitFileDataID|number|false|No Documentation|
+|textureKit|string|false|No Documentation|
+|scale|number|false|No Documentation|
+|height|number|false|No Documentation|
+|mechanics|table|false|No Documentation|
+|autoCombatSpells|table|false|No Documentation|
+|role|number|false|No Documentation|
+|health|number|false|No Documentation|
+|maxHealth|number|false|No Documentation|
+|attack|number|false|No Documentation|
+|boardIndex|number|false|No Documentation|
+### GarrisonFollowerDeathInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|followerID|string|false|No Documentation|
+|state|number|false|No Documentation|
+### GarrisonMechanicInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|mechanicTypeID|number|false|No Documentation|
+|icon|number|false|No Documentation|
+|name|string|false|No Documentation|
+|factor|number|false|No Documentation|
+|description|string|false|No Documentation|
+|ability|GarrisonAbilityInfo|true|No Documentation|
+### GarrisonPlotInstanceMapInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|buildingPlotInstanceID|number|false|No Documentation|
+|position|table|false|No Documentation|
+|name|string|false|No Documentation|
+|atlasName|string|false|No Documentation|
+### MissionDeploymentInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|location|string|false|No Documentation|
+|xp|number|false|No Documentation|
+|environment|string|true|No Documentation|
+|environmentDesc|string|true|No Documentation|
+|environmentTexture|number|false|No Documentation|
+|locTextureKit|string|false|No Documentation|
+|isExhausting|bool|false|No Documentation|
+|enemies|table|false|No Documentation|
+### MissionEncounterIconInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|portraitFileDataID|number|false|No Documentation|
+|isElite|bool|false|No Documentation|
+|isRare|bool|false|No Documentation|

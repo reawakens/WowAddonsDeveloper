@@ -7,6 +7,7 @@ Type: System / Namespace: C_Navigation
 ### C_Navigation.GetDistance
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -14,6 +15,7 @@ No Documentation
 ### C_Navigation.GetFrame
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -21,6 +23,7 @@ No Documentation
 ### C_Navigation.GetTargetState
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -28,6 +31,7 @@ No Documentation
 ### C_Navigation.HasValidScreenPosition
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -35,19 +39,36 @@ No Documentation
 ### C_Navigation.WasClampedToScreen
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |wasClamped|bool|false|No Documentation|
 ## Events
 
-### NavigationFrameCreated(NAVIGATION_FRAME_CREATED)
+### NavigationFrameCreated
+LiteralName: `NAVIGATION_FRAME_CREATED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |region|table|false|No Documentation|
-### NavigationFrameDestroyed(NAVIGATION_FRAME_DESTROYED)
+### NavigationFrameDestroyed
+LiteralName: `NAVIGATION_FRAME_DESTROYED`
 
 No Documentation
+
+## Tables
+
+### NavigationState
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|Invalid|NavigationState|undefined|No Documentation|
+|Occluded|NavigationState|undefined|No Documentation|
+|InRange|NavigationState|undefined|No Documentation|

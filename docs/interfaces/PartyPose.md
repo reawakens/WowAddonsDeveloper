@@ -7,6 +7,7 @@ Type: System / Namespace: C_PartyPose
 ### C_PartyPose.GetPartyPoseInfoByMapID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -15,4 +16,19 @@ No Documentation
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |info|PartyPoseInfo|false|No Documentation|
-## Events
+## Tables
+
+### PartyPoseInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|partyPoseID|number|false|No Documentation|
+|mapID|number|false|No Documentation|
+|widgetSetID|number|true|No Documentation|
+|victoryModelSceneID|number|false|No Documentation|
+|defeatModelSceneID|number|false|No Documentation|
+|victorySoundKitID|number|false|No Documentation|
+|defeatSoundKitID|number|false|No Documentation|

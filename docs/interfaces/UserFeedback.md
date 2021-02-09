@@ -7,6 +7,7 @@ Type: System / Namespace: C_UserFeedback
 ### C_UserFeedback.SubmitBug
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -19,6 +20,7 @@ No Documentation
 ### C_UserFeedback.SubmitSuggestion
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -27,4 +29,3 @@ No Documentation
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |success|bool|false|No Documentation|
-## Events

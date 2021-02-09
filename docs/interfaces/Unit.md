@@ -1,12 +1,13 @@
 # Unit
 
-Type: System / Namespace: undefined
+Type: System / Namespace: None
 
 ## Functions
 
 ### GetNegativeCorruptionEffectInfo
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -14,6 +15,7 @@ No Documentation
 ### GetUnitChargedPowerPoints
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -25,6 +27,7 @@ No Documentation
 ### GetUnitPowerBarInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -36,6 +39,7 @@ No Documentation
 ### GetUnitPowerBarInfoByID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -47,6 +51,7 @@ No Documentation
 ### GetUnitPowerBarStrings
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -60,6 +65,7 @@ No Documentation
 ### GetUnitPowerBarStringsByID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -73,6 +79,7 @@ No Documentation
 ### GetUnitPowerBarTextureInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -90,6 +97,7 @@ No Documentation
 ### GetUnitPowerBarTextureInfoByID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -106,6 +114,7 @@ No Documentation
 ### IsUnitModelReadyForUI
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -117,6 +126,7 @@ No Documentation
 ### PlayerVehicleHasComboPoints
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -124,6 +134,7 @@ No Documentation
 ### SetPortraitTexture
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -132,6 +143,7 @@ No Documentation
 ### SetPortraitTextureFromCreatureDisplayID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -140,6 +152,7 @@ No Documentation
 ### UnitAlliedRaceInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -152,6 +165,7 @@ No Documentation
 ### UnitChromieTimeID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -163,6 +177,7 @@ No Documentation
 ### UnitClass
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -176,6 +191,7 @@ No Documentation
 ### UnitClassBase
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -188,6 +204,7 @@ No Documentation
 ### UnitInPartyShard
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -199,6 +216,7 @@ No Documentation
 ### UnitIsConnected
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -210,6 +228,7 @@ No Documentation
 ### UnitIsOwnerOrControllerOfUnit
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -222,6 +241,7 @@ No Documentation
 ### UnitNameplateShowsWidgetsOnly
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -233,6 +253,7 @@ No Documentation
 ### UnitPhaseReason
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -244,6 +265,7 @@ No Documentation
 ### UnitPower
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -257,6 +279,7 @@ No Documentation
 ### UnitPowerBarID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -268,6 +291,7 @@ No Documentation
 ### UnitPowerDisplayMod
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -279,6 +303,7 @@ No Documentation
 ### UnitPowerMax
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -292,6 +317,7 @@ No Documentation
 ### UnitPvpClassification
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -303,6 +329,7 @@ No Documentation
 ### UnitQuestTrivialLevelRange
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -314,6 +341,7 @@ No Documentation
 ### UnitQuestTrivialLevelRangeScaling
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -325,6 +353,7 @@ No Documentation
 ### UnitSex
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -336,6 +365,7 @@ No Documentation
 ### UnitTreatAsPlayerForDisplay
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -347,6 +377,7 @@ No Documentation
 ### UnitWidgetSet
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -357,94 +388,124 @@ No Documentation
 |uiWidgetSet|number|false|No Documentation|
 ## Events
 
-### ArenaCooldownsUpdate(ARENA_COOLDOWNS_UPDATE)
+### ArenaCooldownsUpdate
+LiteralName: `ARENA_COOLDOWNS_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### ArenaCrowdControlSpellUpdate(ARENA_CROWD_CONTROL_SPELL_UPDATE)
+### ArenaCrowdControlSpellUpdate
+LiteralName: `ARENA_CROWD_CONTROL_SPELL_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
 |spellID|number|false|No Documentation|
-### AutofollowBegin(AUTOFOLLOW_BEGIN)
+### AutofollowBegin
+LiteralName: `AUTOFOLLOW_BEGIN`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |name|string|false|No Documentation|
-### AutofollowEnd(AUTOFOLLOW_END)
+### AutofollowEnd
+LiteralName: `AUTOFOLLOW_END`
 
 No Documentation
-### CancelSummon(CANCEL_SUMMON)
+
+### CancelSummon
+LiteralName: `CANCEL_SUMMON`
 
 No Documentation
-### ConfirmBinder(CONFIRM_BINDER)
+
+### ConfirmBinder
+LiteralName: `CONFIRM_BINDER`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |areaName|string|false|No Documentation|
-### ConfirmSummon(CONFIRM_SUMMON)
+### ConfirmSummon
+LiteralName: `CONFIRM_SUMMON`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |summonReason|number|false|No Documentation|
 |skippingStartExperience|bool|false|No Documentation|
-### HearthstoneBound(HEARTHSTONE_BOUND)
+### HearthstoneBound
+LiteralName: `HEARTHSTONE_BOUND`
 
 No Documentation
-### HonorXpUpdate(HONOR_XP_UPDATE)
+
+### HonorXpUpdate
+LiteralName: `HONOR_XP_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### IncomingResurrectChanged(INCOMING_RESURRECT_CHANGED)
+### IncomingResurrectChanged
+LiteralName: `INCOMING_RESURRECT_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### IncomingSummonChanged(INCOMING_SUMMON_CHANGED)
+### IncomingSummonChanged
+LiteralName: `INCOMING_SUMMON_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### KnownTitlesUpdate(KNOWN_TITLES_UPDATE)
+### KnownTitlesUpdate
+LiteralName: `KNOWN_TITLES_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### LocalplayerPetRenamed(LOCALPLAYER_PET_RENAMED)
+### LocalplayerPetRenamed
+LiteralName: `LOCALPLAYER_PET_RENAMED`
 
 No Documentation
-### MirrorTimerPause(MIRROR_TIMER_PAUSE)
+
+### MirrorTimerPause
+LiteralName: `MIRROR_TIMER_PAUSE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |timerName|string|false|No Documentation|
 |paused|number|false|No Documentation|
-### MirrorTimerStart(MIRROR_TIMER_START)
+### MirrorTimerStart
+LiteralName: `MIRROR_TIMER_START`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -454,78 +515,106 @@ No Documentation
 |scale|number|false|No Documentation|
 |paused|number|false|No Documentation|
 |timerLabel|string|false|No Documentation|
-### MirrorTimerStop(MIRROR_TIMER_STOP)
+### MirrorTimerStop
+LiteralName: `MIRROR_TIMER_STOP`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |timerName|string|false|No Documentation|
-### NeutralFactionSelectResult(NEUTRAL_FACTION_SELECT_RESULT)
+### NeutralFactionSelectResult
+LiteralName: `NEUTRAL_FACTION_SELECT_RESULT`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |success|bool|false|No Documentation|
-### ObjectEnteredAOI(OBJECT_ENTERED_AOI)
+### ObjectEnteredAOI
+LiteralName: `OBJECT_ENTERED_AOI`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |guid|string|false|No Documentation|
-### ObjectLeftAOI(OBJECT_LEFT_AOI)
+### ObjectLeftAOI
+LiteralName: `OBJECT_LEFT_AOI`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |guid|string|false|No Documentation|
-### PetBarUpdateUsable(PET_BAR_UPDATE_USABLE)
+### PetBarUpdateUsable
+LiteralName: `PET_BAR_UPDATE_USABLE`
 
 No Documentation
-### PetUiUpdate(PET_UI_UPDATE)
+
+### PetUiUpdate
+LiteralName: `PET_UI_UPDATE`
 
 No Documentation
-### PlayerDamageDoneMods(PLAYER_DAMAGE_DONE_MODS)
+
+### PlayerDamageDoneMods
+LiteralName: `PLAYER_DAMAGE_DONE_MODS`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### PlayerEnterCombat(PLAYER_ENTER_COMBAT)
+### PlayerEnterCombat
+LiteralName: `PLAYER_ENTER_COMBAT`
 
 No Documentation
-### PlayerFarsightFocusChanged(PLAYER_FARSIGHT_FOCUS_CHANGED)
+
+### PlayerFarsightFocusChanged
+LiteralName: `PLAYER_FARSIGHT_FOCUS_CHANGED`
 
 No Documentation
-### PlayerFlagsChanged(PLAYER_FLAGS_CHANGED)
+
+### PlayerFlagsChanged
+LiteralName: `PLAYER_FLAGS_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### PlayerFocusChanged(PLAYER_FOCUS_CHANGED)
+### PlayerFocusChanged
+LiteralName: `PLAYER_FOCUS_CHANGED`
 
 No Documentation
-### PlayerLeaveCombat(PLAYER_LEAVE_COMBAT)
+
+### PlayerLeaveCombat
+LiteralName: `PLAYER_LEAVE_COMBAT`
 
 No Documentation
-### PlayerLevelChanged(PLAYER_LEVEL_CHANGED)
+
+### PlayerLevelChanged
+LiteralName: `PLAYER_LEVEL_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |oldLevel|number|false|No Documentation|
 |newLevel|number|false|No Documentation|
 |real|bool|false|No Documentation|
-### PlayerLevelUp(PLAYER_LEVEL_UP)
+### PlayerLevelUp
+LiteralName: `PLAYER_LEVEL_UP`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -538,105 +627,149 @@ No Documentation
 |agilityDelta|number|false|No Documentation|
 |staminaDelta|number|false|No Documentation|
 |intellectDelta|number|false|No Documentation|
-### PlayerMountDisplayChanged(PLAYER_MOUNT_DISPLAY_CHANGED)
+### PlayerMountDisplayChanged
+LiteralName: `PLAYER_MOUNT_DISPLAY_CHANGED`
 
 No Documentation
-### PlayerPvpKillsChanged(PLAYER_PVP_KILLS_CHANGED)
+
+### PlayerPvpKillsChanged
+LiteralName: `PLAYER_PVP_KILLS_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### PlayerPvpRankChanged(PLAYER_PVP_RANK_CHANGED)
+### PlayerPvpRankChanged
+LiteralName: `PLAYER_PVP_RANK_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### PlayerRegenDisabled(PLAYER_REGEN_DISABLED)
+### PlayerRegenDisabled
+LiteralName: `PLAYER_REGEN_DISABLED`
 
 No Documentation
-### PlayerRegenEnabled(PLAYER_REGEN_ENABLED)
+
+### PlayerRegenEnabled
+LiteralName: `PLAYER_REGEN_ENABLED`
 
 No Documentation
-### PlayerSpecializationChanged(PLAYER_SPECIALIZATION_CHANGED)
+
+### PlayerSpecializationChanged
+LiteralName: `PLAYER_SPECIALIZATION_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### PlayerStartedLooking(PLAYER_STARTED_LOOKING)
+### PlayerStartedLooking
+LiteralName: `PLAYER_STARTED_LOOKING`
 
 No Documentation
-### PlayerStartedMoving(PLAYER_STARTED_MOVING)
+
+### PlayerStartedMoving
+LiteralName: `PLAYER_STARTED_MOVING`
 
 No Documentation
-### PlayerStartedTurning(PLAYER_STARTED_TURNING)
+
+### PlayerStartedTurning
+LiteralName: `PLAYER_STARTED_TURNING`
 
 No Documentation
-### PlayerStoppedLooking(PLAYER_STOPPED_LOOKING)
+
+### PlayerStoppedLooking
+LiteralName: `PLAYER_STOPPED_LOOKING`
 
 No Documentation
-### PlayerStoppedMoving(PLAYER_STOPPED_MOVING)
+
+### PlayerStoppedMoving
+LiteralName: `PLAYER_STOPPED_MOVING`
 
 No Documentation
-### PlayerStoppedTurning(PLAYER_STOPPED_TURNING)
+
+### PlayerStoppedTurning
+LiteralName: `PLAYER_STOPPED_TURNING`
 
 No Documentation
-### PlayerTargetChanged(PLAYER_TARGET_CHANGED)
+
+### PlayerTargetChanged
+LiteralName: `PLAYER_TARGET_CHANGED`
 
 No Documentation
-### PlayerTrialXpUpdate(PLAYER_TRIAL_XP_UPDATE)
+
+### PlayerTrialXpUpdate
+LiteralName: `PLAYER_TRIAL_XP_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### PlayerUpdateResting(PLAYER_UPDATE_RESTING)
+### PlayerUpdateResting
+LiteralName: `PLAYER_UPDATE_RESTING`
 
 No Documentation
-### PlayerXpUpdate(PLAYER_XP_UPDATE)
+
+### PlayerXpUpdate
+LiteralName: `PLAYER_XP_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### PortraitsUpdated(PORTRAITS_UPDATED)
+### PortraitsUpdated
+LiteralName: `PORTRAITS_UPDATED`
 
 No Documentation
-### ProvingGroundsScoreUpdate(PROVING_GROUNDS_SCORE_UPDATE)
+
+### ProvingGroundsScoreUpdate
+LiteralName: `PROVING_GROUNDS_SCORE_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |points|number|false|No Documentation|
-### PvpTimerUpdate(PVP_TIMER_UPDATE)
+### PvpTimerUpdate
+LiteralName: `PVP_TIMER_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### RunePowerUpdate(RUNE_POWER_UPDATE)
+### RunePowerUpdate
+LiteralName: `RUNE_POWER_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |runeIndex|number|false|No Documentation|
 |added|bool|true|No Documentation|
-### ShowFactionSelectUi(SHOW_FACTION_SELECT_UI)
+### ShowFactionSelectUi
+LiteralName: `SHOW_FACTION_SELECT_UI`
 
 No Documentation
-### SpellConfirmationPrompt(SPELL_CONFIRMATION_PROMPT)
+
+### SpellConfirmationPrompt
+LiteralName: `SPELL_CONFIRMATION_PROMPT`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -647,69 +780,89 @@ No Documentation
 |currencyTypesID|number|false|No Documentation|
 |currencyCost|number|false|No Documentation|
 |currentDifficulty|number|false|No Documentation|
-### SpellConfirmationTimeout(SPELL_CONFIRMATION_TIMEOUT)
+### SpellConfirmationTimeout
+LiteralName: `SPELL_CONFIRMATION_TIMEOUT`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |spellID|number|false|No Documentation|
 |effectValue|number|false|No Documentation|
-### UnitAbsorbAmountChanged(UNIT_ABSORB_AMOUNT_CHANGED)
+### UnitAbsorbAmountChanged
+LiteralName: `UNIT_ABSORB_AMOUNT_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitAreaChanged(UNIT_AREA_CHANGED)
+### UnitAreaChanged
+LiteralName: `UNIT_AREA_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitAttack(UNIT_ATTACK)
+### UnitAttack
+LiteralName: `UNIT_ATTACK`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitAttackPower(UNIT_ATTACK_POWER)
+### UnitAttackPower
+LiteralName: `UNIT_ATTACK_POWER`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitAttackSpeed(UNIT_ATTACK_SPEED)
+### UnitAttackSpeed
+LiteralName: `UNIT_ATTACK_SPEED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitAura(UNIT_AURA)
+### UnitAura
+LiteralName: `UNIT_AURA`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitCheatToggleEvent(UNIT_CHEAT_TOGGLE_EVENT)
+### UnitCheatToggleEvent
+LiteralName: `UNIT_CHEAT_TOGGLE_EVENT`
 
 No Documentation
-### UnitClassificationChanged(UNIT_CLASSIFICATION_CHANGED)
+
+### UnitClassificationChanged
+LiteralName: `UNIT_CLASSIFICATION_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitCombat(UNIT_COMBAT)
+### UnitCombat
+LiteralName: `UNIT_COMBAT`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -718,394 +871,595 @@ No Documentation
 |flagText|string|false|No Documentation|
 |amount|number|false|No Documentation|
 |schoolMask|number|false|No Documentation|
-### UnitConnection(UNIT_CONNECTION)
+### UnitConnection
+LiteralName: `UNIT_CONNECTION`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
 |isConnected|bool|false|No Documentation|
-### UnitCtrOptions(UNIT_CTR_OPTIONS)
+### UnitCtrOptions
+LiteralName: `UNIT_CTR_OPTIONS`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitDamage(UNIT_DAMAGE)
+### UnitDamage
+LiteralName: `UNIT_DAMAGE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitDefense(UNIT_DEFENSE)
+### UnitDefense
+LiteralName: `UNIT_DEFENSE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitDisplaypower(UNIT_DISPLAYPOWER)
+### UnitDisplaypower
+LiteralName: `UNIT_DISPLAYPOWER`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitFaction(UNIT_FACTION)
+### UnitFaction
+LiteralName: `UNIT_FACTION`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitFlags(UNIT_FLAGS)
+### UnitFlags
+LiteralName: `UNIT_FLAGS`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitHealAbsorbAmountChanged(UNIT_HEAL_ABSORB_AMOUNT_CHANGED)
+### UnitHealAbsorbAmountChanged
+LiteralName: `UNIT_HEAL_ABSORB_AMOUNT_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitHealPrediction(UNIT_HEAL_PREDICTION)
+### UnitHealPrediction
+LiteralName: `UNIT_HEAL_PREDICTION`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitHealth(UNIT_HEALTH)
+### UnitHealth
+LiteralName: `UNIT_HEALTH`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitInventoryChanged(UNIT_INVENTORY_CHANGED)
+### UnitInventoryChanged
+LiteralName: `UNIT_INVENTORY_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitLevel(UNIT_LEVEL)
+### UnitLevel
+LiteralName: `UNIT_LEVEL`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitMana(UNIT_MANA)
+### UnitMana
+LiteralName: `UNIT_MANA`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitMaxhealth(UNIT_MAXHEALTH)
+### UnitMaxhealth
+LiteralName: `UNIT_MAXHEALTH`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitMaxpower(UNIT_MAXPOWER)
+### UnitMaxpower
+LiteralName: `UNIT_MAXPOWER`
 
 No Documentation
-#### Payload
-|Name|Type|Nilable|Documentation|
-|:---:|:---:|:---:|:---|
-|unitTarget|string|false|No Documentation|
-|powerType|string|false|No Documentation|
-### UnitModelChanged(UNIT_MODEL_CHANGED)
 
-No Documentation
-#### Payload
-|Name|Type|Nilable|Documentation|
-|:---:|:---:|:---:|:---|
-|unitTarget|string|false|No Documentation|
-### UnitNameUpdate(UNIT_NAME_UPDATE)
-
-No Documentation
-#### Payload
-|Name|Type|Nilable|Documentation|
-|:---:|:---:|:---:|:---|
-|unitTarget|string|false|No Documentation|
-### UnitOtherPartyChanged(UNIT_OTHER_PARTY_CHANGED)
-
-No Documentation
-#### Payload
-|Name|Type|Nilable|Documentation|
-|:---:|:---:|:---:|:---|
-|unitTarget|string|false|No Documentation|
-### UnitPet(UNIT_PET)
-
-No Documentation
-#### Payload
-|Name|Type|Nilable|Documentation|
-|:---:|:---:|:---:|:---|
-|unitTarget|string|false|No Documentation|
-### UnitPetExperience(UNIT_PET_EXPERIENCE)
-
-No Documentation
-#### Payload
-|Name|Type|Nilable|Documentation|
-|:---:|:---:|:---:|:---|
-|unitTarget|string|false|No Documentation|
-### UnitPhase(UNIT_PHASE)
-
-No Documentation
-#### Payload
-|Name|Type|Nilable|Documentation|
-|:---:|:---:|:---:|:---|
-|unitTarget|string|false|No Documentation|
-### UnitPortraitUpdate(UNIT_PORTRAIT_UPDATE)
-
-No Documentation
-#### Payload
-|Name|Type|Nilable|Documentation|
-|:---:|:---:|:---:|:---|
-|unitTarget|string|false|No Documentation|
-### UnitPowerBarHide(UNIT_POWER_BAR_HIDE)
-
-No Documentation
-#### Payload
-|Name|Type|Nilable|Documentation|
-|:---:|:---:|:---:|:---|
-|unitTarget|string|false|No Documentation|
-### UnitPowerBarShow(UNIT_POWER_BAR_SHOW)
-
-No Documentation
-#### Payload
-|Name|Type|Nilable|Documentation|
-|:---:|:---:|:---:|:---|
-|unitTarget|string|false|No Documentation|
-### UnitPowerBarTimerUpdate(UNIT_POWER_BAR_TIMER_UPDATE)
-
-No Documentation
-#### Payload
-|Name|Type|Nilable|Documentation|
-|:---:|:---:|:---:|:---|
-|unitTarget|string|false|No Documentation|
-### UnitPowerFrequent(UNIT_POWER_FREQUENT)
-
-No Documentation
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
 |powerType|string|false|No Documentation|
-### UnitPowerPointCharge(UNIT_POWER_POINT_CHARGE)
+### UnitModelChanged
+LiteralName: `UNIT_MODEL_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitPowerUpdate(UNIT_POWER_UPDATE)
+### UnitNameUpdate
+LiteralName: `UNIT_NAME_UPDATE`
 
 No Documentation
+
+#### Payload
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|unitTarget|string|false|No Documentation|
+### UnitOtherPartyChanged
+LiteralName: `UNIT_OTHER_PARTY_CHANGED`
+
+No Documentation
+
+#### Payload
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|unitTarget|string|false|No Documentation|
+### UnitPet
+LiteralName: `UNIT_PET`
+
+No Documentation
+
+#### Payload
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|unitTarget|string|false|No Documentation|
+### UnitPetExperience
+LiteralName: `UNIT_PET_EXPERIENCE`
+
+No Documentation
+
+#### Payload
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|unitTarget|string|false|No Documentation|
+### UnitPhase
+LiteralName: `UNIT_PHASE`
+
+No Documentation
+
+#### Payload
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|unitTarget|string|false|No Documentation|
+### UnitPortraitUpdate
+LiteralName: `UNIT_PORTRAIT_UPDATE`
+
+No Documentation
+
+#### Payload
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|unitTarget|string|false|No Documentation|
+### UnitPowerBarHide
+LiteralName: `UNIT_POWER_BAR_HIDE`
+
+No Documentation
+
+#### Payload
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|unitTarget|string|false|No Documentation|
+### UnitPowerBarShow
+LiteralName: `UNIT_POWER_BAR_SHOW`
+
+No Documentation
+
+#### Payload
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|unitTarget|string|false|No Documentation|
+### UnitPowerBarTimerUpdate
+LiteralName: `UNIT_POWER_BAR_TIMER_UPDATE`
+
+No Documentation
+
+#### Payload
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|unitTarget|string|false|No Documentation|
+### UnitPowerFrequent
+LiteralName: `UNIT_POWER_FREQUENT`
+
+No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
 |powerType|string|false|No Documentation|
-### UnitQuestLogChanged(UNIT_QUEST_LOG_CHANGED)
+### UnitPowerPointCharge
+LiteralName: `UNIT_POWER_POINT_CHARGE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitRangedAttackPower(UNIT_RANGED_ATTACK_POWER)
+### UnitPowerUpdate
+LiteralName: `UNIT_POWER_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitRangeddamage(UNIT_RANGEDDAMAGE)
+|powerType|string|false|No Documentation|
+### UnitQuestLogChanged
+LiteralName: `UNIT_QUEST_LOG_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitResistances(UNIT_RESISTANCES)
+### UnitRangedAttackPower
+LiteralName: `UNIT_RANGED_ATTACK_POWER`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitSpellHaste(UNIT_SPELL_HASTE)
+### UnitRangeddamage
+LiteralName: `UNIT_RANGEDDAMAGE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitSpellcastChannelStart(UNIT_SPELLCAST_CHANNEL_START)
+### UnitResistances
+LiteralName: `UNIT_RESISTANCES`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-|castGUID|string|false|No Documentation|
-|spellID|number|false|No Documentation|
-### UnitSpellcastChannelStop(UNIT_SPELLCAST_CHANNEL_STOP)
+### UnitSpellHaste
+LiteralName: `UNIT_SPELL_HASTE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-|castGUID|string|false|No Documentation|
-|spellID|number|false|No Documentation|
-### UnitSpellcastChannelUpdate(UNIT_SPELLCAST_CHANNEL_UPDATE)
+### UnitSpellcastChannelStart
+LiteralName: `UNIT_SPELLCAST_CHANNEL_START`
 
 No Documentation
-#### Payload
-|Name|Type|Nilable|Documentation|
-|:---:|:---:|:---:|:---|
-|unitTarget|string|false|No Documentation|
-|castGUID|string|false|No Documentation|
-|spellID|number|false|No Documentation|
-### UnitSpellcastDelayed(UNIT_SPELLCAST_DELAYED)
 
-No Documentation
-#### Payload
-|Name|Type|Nilable|Documentation|
-|:---:|:---:|:---:|:---|
-|unitTarget|string|false|No Documentation|
-|castGUID|string|false|No Documentation|
-|spellID|number|false|No Documentation|
-### UnitSpellcastFailed(UNIT_SPELLCAST_FAILED)
-
-No Documentation
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
 |castGUID|string|false|No Documentation|
 |spellID|number|false|No Documentation|
-### UnitSpellcastFailedQuiet(UNIT_SPELLCAST_FAILED_QUIET)
+### UnitSpellcastChannelStop
+LiteralName: `UNIT_SPELLCAST_CHANNEL_STOP`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
 |castGUID|string|false|No Documentation|
 |spellID|number|false|No Documentation|
-### UnitSpellcastInterrupted(UNIT_SPELLCAST_INTERRUPTED)
+### UnitSpellcastChannelUpdate
+LiteralName: `UNIT_SPELLCAST_CHANNEL_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
 |castGUID|string|false|No Documentation|
 |spellID|number|false|No Documentation|
-### UnitSpellcastInterruptible(UNIT_SPELLCAST_INTERRUPTIBLE)
+### UnitSpellcastDelayed
+LiteralName: `UNIT_SPELLCAST_DELAYED`
 
 No Documentation
-#### Payload
-|Name|Type|Nilable|Documentation|
-|:---:|:---:|:---:|:---|
-|unitTarget|string|false|No Documentation|
-### UnitSpellcastNotInterruptible(UNIT_SPELLCAST_NOT_INTERRUPTIBLE)
 
-No Documentation
-#### Payload
-|Name|Type|Nilable|Documentation|
-|:---:|:---:|:---:|:---|
-|unitTarget|string|false|No Documentation|
-### UnitSpellcastStart(UNIT_SPELLCAST_START)
-
-No Documentation
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
 |castGUID|string|false|No Documentation|
 |spellID|number|false|No Documentation|
-### UnitSpellcastStop(UNIT_SPELLCAST_STOP)
+### UnitSpellcastFailed
+LiteralName: `UNIT_SPELLCAST_FAILED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
 |castGUID|string|false|No Documentation|
 |spellID|number|false|No Documentation|
-### UnitSpellcastSucceeded(UNIT_SPELLCAST_SUCCEEDED)
+### UnitSpellcastFailedQuiet
+LiteralName: `UNIT_SPELLCAST_FAILED_QUIET`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
 |castGUID|string|false|No Documentation|
 |spellID|number|false|No Documentation|
-### UnitStats(UNIT_STATS)
+### UnitSpellcastInterrupted
+LiteralName: `UNIT_SPELLCAST_INTERRUPTED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitTarget(UNIT_TARGET)
+|castGUID|string|false|No Documentation|
+|spellID|number|false|No Documentation|
+### UnitSpellcastInterruptible
+LiteralName: `UNIT_SPELLCAST_INTERRUPTIBLE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitTargetableChanged(UNIT_TARGETABLE_CHANGED)
+### UnitSpellcastNotInterruptible
+LiteralName: `UNIT_SPELLCAST_NOT_INTERRUPTIBLE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitThreatListUpdate(UNIT_THREAT_LIST_UPDATE)
+### UnitSpellcastStart
+LiteralName: `UNIT_SPELLCAST_START`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UnitThreatSituationUpdate(UNIT_THREAT_SITUATION_UPDATE)
+|castGUID|string|false|No Documentation|
+|spellID|number|false|No Documentation|
+### UnitSpellcastStop
+LiteralName: `UNIT_SPELLCAST_STOP`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### UpdateExhaustion(UPDATE_EXHAUSTION)
+|castGUID|string|false|No Documentation|
+|spellID|number|false|No Documentation|
+### UnitSpellcastSucceeded
+LiteralName: `UNIT_SPELLCAST_SUCCEEDED`
 
 No Documentation
-### UpdateMouseoverUnit(UPDATE_MOUSEOVER_UNIT)
+
+#### Payload
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|unitTarget|string|false|No Documentation|
+|castGUID|string|false|No Documentation|
+|spellID|number|false|No Documentation|
+### UnitStats
+LiteralName: `UNIT_STATS`
 
 No Documentation
-### UpdateStealth(UPDATE_STEALTH)
+
+#### Payload
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|unitTarget|string|false|No Documentation|
+### UnitTarget
+LiteralName: `UNIT_TARGET`
 
 No Documentation
-### VehicleAngleUpdate(VEHICLE_ANGLE_UPDATE)
+
+#### Payload
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|unitTarget|string|false|No Documentation|
+### UnitTargetableChanged
+LiteralName: `UNIT_TARGETABLE_CHANGED`
 
 No Documentation
+
+#### Payload
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|unitTarget|string|false|No Documentation|
+### UnitThreatListUpdate
+LiteralName: `UNIT_THREAT_LIST_UPDATE`
+
+No Documentation
+
+#### Payload
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|unitTarget|string|false|No Documentation|
+### UnitThreatSituationUpdate
+LiteralName: `UNIT_THREAT_SITUATION_UPDATE`
+
+No Documentation
+
+#### Payload
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|unitTarget|string|false|No Documentation|
+### UpdateExhaustion
+LiteralName: `UPDATE_EXHAUSTION`
+
+No Documentation
+
+### UpdateMouseoverUnit
+LiteralName: `UPDATE_MOUSEOVER_UNIT`
+
+No Documentation
+
+### UpdateStealth
+LiteralName: `UPDATE_STEALTH`
+
+No Documentation
+
+### VehicleAngleUpdate
+LiteralName: `VEHICLE_ANGLE_UPDATE`
+
+No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |normalizedPitch|number|false|No Documentation|
 |radians|number|false|No Documentation|
+## Tables
+
+### PhaseReason
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|Phasing|PhaseReason|undefined|No Documentation|
+|Sharding|PhaseReason|undefined|No Documentation|
+|WarMode|PhaseReason|undefined|No Documentation|
+|ChromieTime|PhaseReason|undefined|No Documentation|
+### PowerType
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|HealthCost|PowerType|undefined|No Documentation|
+|None|PowerType|undefined|No Documentation|
+|Mana|PowerType|undefined|No Documentation|
+|Rage|PowerType|undefined|No Documentation|
+|Focus|PowerType|undefined|No Documentation|
+|Energy|PowerType|undefined|No Documentation|
+|ComboPoints|PowerType|undefined|No Documentation|
+|Runes|PowerType|undefined|No Documentation|
+|RunicPower|PowerType|undefined|No Documentation|
+|SoulShards|PowerType|undefined|No Documentation|
+|LunarPower|PowerType|undefined|No Documentation|
+|HolyPower|PowerType|undefined|No Documentation|
+|Alternate|PowerType|undefined|No Documentation|
+|Maelstrom|PowerType|undefined|No Documentation|
+|Chi|PowerType|undefined|No Documentation|
+|Insanity|PowerType|undefined|No Documentation|
+|Obsolete|PowerType|undefined|No Documentation|
+|Obsolete2|PowerType|undefined|No Documentation|
+|ArcaneCharges|PowerType|undefined|No Documentation|
+|Fury|PowerType|undefined|No Documentation|
+|Pain|PowerType|undefined|No Documentation|
+|NumPowerTypes|PowerType|undefined|No Documentation|
+### PvPUnitClassification
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|FlagCarrierHorde|PvPUnitClassification|undefined|No Documentation|
+|FlagCarrierAlliance|PvPUnitClassification|undefined|No Documentation|
+|FlagCarrierNeutral|PvPUnitClassification|undefined|No Documentation|
+|CartRunnerHorde|PvPUnitClassification|undefined|No Documentation|
+|CartRunnerAlliance|PvPUnitClassification|undefined|No Documentation|
+|AssassinHorde|PvPUnitClassification|undefined|No Documentation|
+|AssassinAlliance|PvPUnitClassification|undefined|No Documentation|
+|OrbCarrierBlue|PvPUnitClassification|undefined|No Documentation|
+|OrbCarrierGreen|PvPUnitClassification|undefined|No Documentation|
+|OrbCarrierOrange|PvPUnitClassification|undefined|No Documentation|
+|OrbCarrierPurple|PvPUnitClassification|undefined|No Documentation|
+### CorruptionEffectInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|description|string|false|No Documentation|
+|minCorruption|number|false|No Documentation|
+### UnitPowerBarInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|ID|number|false|No Documentation|
+|barType|number|false|No Documentation|
+|minPower|number|false|No Documentation|
+|startInset|number|false|No Documentation|
+|endInset|number|false|No Documentation|
+|smooth|bool|false|No Documentation|
+|hideFromOthers|bool|false|No Documentation|
+|showOnRaid|bool|false|No Documentation|
+|opaqueSpark|bool|false|No Documentation|
+|opaqueFlash|bool|false|No Documentation|
+|anchorTop|bool|false|No Documentation|
+|forcePercentage|bool|false|No Documentation|
+|sparkUnderFrame|bool|false|No Documentation|
+|flashAtMinPower|bool|false|No Documentation|
+|fractionalCounter|bool|false|No Documentation|
+|animateNumbers|bool|false|No Documentation|

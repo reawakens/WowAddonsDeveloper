@@ -6,7 +6,12 @@
     "author": "eValor<mipone@foxmail.com>",
     "license": "MIT",
     "dependencies": {
+        "@fiverr/i18n": "^1.8.3",
+        "chalk": "^4.1.0",
+        "json-format": "^1.0.1",
+        "jsonfile": "^6.1.0",
         "lodash": "^4.17.20",
-        "luaparse": "^0.2.1"
+        "luaparse": "^0.2.1",
+        "ora": "^5.3.0"
     }
 }

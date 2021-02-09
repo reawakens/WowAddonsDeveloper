@@ -7,6 +7,7 @@ Type: System / Namespace: C_PartyInfo
 ### C_PartyInfo.AllowedToDoPartyConversion
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -18,6 +19,7 @@ No Documentation
 ### C_PartyInfo.CanInvite
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -28,6 +30,7 @@ Immediately convert to raid with no regard for potentially destructive actions.
 ### C_PartyInfo.ConfirmInviteTravelPass
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -60,12 +63,14 @@ Immediately request an invite into the target party, this is the confirmation fu
 ### C_PartyInfo.ConvertToParty
 
 No Documentation
+
 ### C_PartyInfo.ConvertToRaid
 
 Usually this will convert to raid immediately. In some cases (e.g. PartySync) the user will be prompted to confirm converting to raid, because it's potentially destructive.
 ### C_PartyInfo.DoCountdown
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -73,6 +78,7 @@ No Documentation
 ### C_PartyInfo.GetActiveCategories
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -80,6 +86,7 @@ No Documentation
 ### C_PartyInfo.GetInviteConfirmationInvalidQueues
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -91,6 +98,7 @@ No Documentation
 ### C_PartyInfo.GetInviteReferralInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -106,6 +114,7 @@ No Documentation
 ### C_PartyInfo.GetMinLevel
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -124,6 +133,7 @@ Attempt to invite the named unit to a party, requires confirmation in some cases
 ### C_PartyInfo.IsPartyFull
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -135,6 +145,7 @@ No Documentation
 ### C_PartyInfo.IsPartyInJailersTower
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -158,9 +169,11 @@ Attempt to request an invite into the target party, requires confirmation in som
 |dps|bool|true|No Documentation|
 ## Events
 
-### BnetRequestInviteConfirmation(BNET_REQUEST_INVITE_CONFIRMATION)
+### BnetRequestInviteConfirmation
+LiteralName: `BNET_REQUEST_INVITE_CONFIRMATION`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -169,63 +182,87 @@ No Documentation
 |tank|bool|false|No Documentation|
 |healer|bool|false|No Documentation|
 |dps|bool|false|No Documentation|
-### ConvertToRaidConfirmation(CONVERT_TO_RAID_CONFIRMATION)
+### ConvertToRaidConfirmation
+LiteralName: `CONVERT_TO_RAID_CONFIRMATION`
 
 No Documentation
-### EnteredDifferentInstanceFromParty(ENTERED_DIFFERENT_INSTANCE_FROM_PARTY)
+
+### EnteredDifferentInstanceFromParty
+LiteralName: `ENTERED_DIFFERENT_INSTANCE_FROM_PARTY`
 
 No Documentation
-### GroupFormed(GROUP_FORMED)
+
+### GroupFormed
+LiteralName: `GROUP_FORMED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |category|number|false|No Documentation|
 |partyGUID|string|false|No Documentation|
-### GroupInviteConfirmation(GROUP_INVITE_CONFIRMATION)
+### GroupInviteConfirmation
+LiteralName: `GROUP_INVITE_CONFIRMATION`
 
 No Documentation
-### GroupJoined(GROUP_JOINED)
+
+### GroupJoined
+LiteralName: `GROUP_JOINED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |category|number|false|No Documentation|
 |partyGUID|string|false|No Documentation|
-### GroupLeft(GROUP_LEFT)
+### GroupLeft
+LiteralName: `GROUP_LEFT`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |category|number|false|No Documentation|
 |partyGUID|string|false|No Documentation|
-### GroupRosterUpdate(GROUP_ROSTER_UPDATE)
+### GroupRosterUpdate
+LiteralName: `GROUP_ROSTER_UPDATE`
 
 No Documentation
-### InstanceBootStart(INSTANCE_BOOT_START)
+
+### InstanceBootStart
+LiteralName: `INSTANCE_BOOT_START`
 
 No Documentation
-### InstanceBootStop(INSTANCE_BOOT_STOP)
+
+### InstanceBootStop
+LiteralName: `INSTANCE_BOOT_STOP`
 
 No Documentation
-### InstanceGroupSizeChanged(INSTANCE_GROUP_SIZE_CHANGED)
+
+### InstanceGroupSizeChanged
+LiteralName: `INSTANCE_GROUP_SIZE_CHANGED`
 
 No Documentation
-### InviteToPartyConfirmation(INVITE_TO_PARTY_CONFIRMATION)
+
+### InviteToPartyConfirmation
+LiteralName: `INVITE_TO_PARTY_CONFIRMATION`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |targetName|string|false|No Documentation|
 |willConvertToRaid|bool|false|No Documentation|
 |questSessionActive|bool|false|No Documentation|
-### InviteTravelPassConfirmation(INVITE_TRAVEL_PASS_CONFIRMATION)
+### InviteTravelPassConfirmation
+LiteralName: `INVITE_TRAVEL_PASS_CONFIRMATION`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -233,15 +270,21 @@ No Documentation
 |targetGUID|string|false|No Documentation|
 |willConvertToRaid|bool|false|No Documentation|
 |questSessionActive|bool|false|No Documentation|
-### LeavePartyConfirmation(LEAVE_PARTY_CONFIRMATION)
+### LeavePartyConfirmation
+LiteralName: `LEAVE_PARTY_CONFIRMATION`
 
 No Documentation
-### PartyInviteCancel(PARTY_INVITE_CANCEL)
+
+### PartyInviteCancel
+LiteralName: `PARTY_INVITE_CANCEL`
 
 No Documentation
-### PartyInviteRequest(PARTY_INVITE_REQUEST)
+
+### PartyInviteRequest
+LiteralName: `PARTY_INVITE_REQUEST`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -253,64 +296,88 @@ No Documentation
 |allowMultipleRoles|bool|false|No Documentation|
 |inviterGUID|string|false|No Documentation|
 |questSessionActive|bool|false|No Documentation|
-### PartyLeaderChanged(PARTY_LEADER_CHANGED)
+### PartyLeaderChanged
+LiteralName: `PARTY_LEADER_CHANGED`
 
 No Documentation
-### PartyLfgRestricted(PARTY_LFG_RESTRICTED)
+
+### PartyLfgRestricted
+LiteralName: `PARTY_LFG_RESTRICTED`
 
 No Documentation
-### PartyLootMethodChanged(PARTY_LOOT_METHOD_CHANGED)
+
+### PartyLootMethodChanged
+LiteralName: `PARTY_LOOT_METHOD_CHANGED`
 
 No Documentation
-### PartyMemberDisable(PARTY_MEMBER_DISABLE)
+
+### PartyMemberDisable
+LiteralName: `PARTY_MEMBER_DISABLE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### PartyMemberEnable(PARTY_MEMBER_ENABLE)
+### PartyMemberEnable
+LiteralName: `PARTY_MEMBER_ENABLE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
-### PlayerDifficultyChanged(PLAYER_DIFFICULTY_CHANGED)
+### PlayerDifficultyChanged
+LiteralName: `PLAYER_DIFFICULTY_CHANGED`
 
 No Documentation
-### PlayerRolesAssigned(PLAYER_ROLES_ASSIGNED)
+
+### PlayerRolesAssigned
+LiteralName: `PLAYER_ROLES_ASSIGNED`
 
 No Documentation
-### RaidRosterUpdate(RAID_ROSTER_UPDATE)
+
+### RaidRosterUpdate
+LiteralName: `RAID_ROSTER_UPDATE`
 
 No Documentation
-### ReadyCheck(READY_CHECK)
+
+### ReadyCheck
+LiteralName: `READY_CHECK`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |initiatorName|string|false|No Documentation|
 |readyCheckTimeLeft|number|false|No Documentation|
-### ReadyCheckConfirm(READY_CHECK_CONFIRM)
+### ReadyCheckConfirm
+LiteralName: `READY_CHECK_CONFIRM`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitTarget|string|false|No Documentation|
 |isReady|bool|false|No Documentation|
-### ReadyCheckFinished(READY_CHECK_FINISHED)
+### ReadyCheckFinished
+LiteralName: `READY_CHECK_FINISHED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |preempted|bool|false|No Documentation|
-### RequestInviteConfirmation(REQUEST_INVITE_CONFIRMATION)
+### RequestInviteConfirmation
+LiteralName: `REQUEST_INVITE_CONFIRMATION`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -320,9 +387,11 @@ No Documentation
 |tank|bool|true|No Documentation|
 |healer|bool|true|No Documentation|
 |dps|bool|true|No Documentation|
-### RoleChangedInform(ROLE_CHANGED_INFORM)
+### RoleChangedInform
+LiteralName: `ROLE_CHANGED_INFORM`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -330,18 +399,36 @@ No Documentation
 |fromName|string|false|No Documentation|
 |oldRole|string|false|No Documentation|
 |newRole|string|false|No Documentation|
-### RolePollBegin(ROLE_POLL_BEGIN)
+### RolePollBegin
+LiteralName: `ROLE_POLL_BEGIN`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |fromName|string|false|No Documentation|
-### VoteKickReasonNeeded(VOTE_KICK_REASON_NEEDED)
+### VoteKickReasonNeeded
+LiteralName: `VOTE_KICK_REASON_NEEDED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |name|string|false|No Documentation|
 |resultGUID|string|false|No Documentation|
+## Tables
+
+### PartyRequestJoinRelation
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|None|PartyRequestJoinRelation|undefined|No Documentation|
+|Friend|PartyRequestJoinRelation|undefined|No Documentation|
+|Guild|PartyRequestJoinRelation|undefined|No Documentation|
+|Club|PartyRequestJoinRelation|undefined|No Documentation|
+|NumPartyRequestJoinRelations|PartyRequestJoinRelation|undefined|No Documentation|

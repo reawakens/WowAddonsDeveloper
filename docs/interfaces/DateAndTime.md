@@ -7,6 +7,7 @@ Type: System / Namespace: C_DateAndTime
 ### C_DateAndTime.AdjustTimeByDays
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -19,6 +20,7 @@ No Documentation
 ### C_DateAndTime.AdjustTimeByMinutes
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -31,6 +33,7 @@ No Documentation
 ### C_DateAndTime.CompareCalendarTime
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -43,6 +46,7 @@ No Documentation
 ### C_DateAndTime.GetCalendarTimeFromEpoch
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -54,6 +58,7 @@ No Documentation
 ### C_DateAndTime.GetCurrentCalendarTime
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -61,6 +66,7 @@ No Documentation
 ### C_DateAndTime.GetSecondsUntilDailyReset
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -68,6 +74,7 @@ No Documentation
 ### C_DateAndTime.GetSecondsUntilWeeklyReset
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -75,8 +82,8 @@ No Documentation
 ### C_DateAndTime.GetServerTimeLocal
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |serverTimeLocal|number|false|No Documentation|
-## Events

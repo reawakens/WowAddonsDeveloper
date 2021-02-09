@@ -7,6 +7,7 @@ Type: System / Namespace: C_VignetteInfo
 ### C_VignetteInfo.FindBestUniqueVignette
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -18,6 +19,7 @@ No Documentation
 ### C_VignetteInfo.GetVignetteInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -29,6 +31,7 @@ No Documentation
 ### C_VignetteInfo.GetVignettePosition
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -41,20 +44,60 @@ No Documentation
 ### C_VignetteInfo.GetVignettes
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |vignetteGUIDs|table|false|No Documentation|
 ## Events
 
-### VignetteMinimapUpdated(VIGNETTE_MINIMAP_UPDATED)
+### VignetteMinimapUpdated
+LiteralName: `VIGNETTE_MINIMAP_UPDATED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |vignetteGUID|string|false|No Documentation|
 |onMinimap|bool|false|No Documentation|
-### VignettesUpdated(VIGNETTES_UPDATED)
+### VignettesUpdated
+LiteralName: `VIGNETTES_UPDATED`
 
 No Documentation
+
+## Tables
+
+### VignetteType
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|Normal|VignetteType|undefined|No Documentation|
+|PvPBounty|VignetteType|undefined|No Documentation|
+|Torghast|VignetteType|undefined|No Documentation|
+|Treasure|VignetteType|undefined|No Documentation|
+### VignetteInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|vignetteGUID|string|false|No Documentation|
+|objectGUID|string|false|No Documentation|
+|name|string|false|No Documentation|
+|isDead|bool|false|No Documentation|
+|onWorldMap|bool|false|No Documentation|
+|zoneInfiniteAOI|bool|false|No Documentation|
+|onMinimap|bool|false|No Documentation|
+|isUnique|bool|false|No Documentation|
+|inFogOfWar|bool|false|No Documentation|
+|atlasName|string|false|No Documentation|
+|hasTooltip|bool|false|No Documentation|
+|vignetteID|number|false|No Documentation|
+|type|VignetteType|false|No Documentation|
+|rewardQuestID|number|false|No Documentation|
+|widgetSetID|number|true|No Documentation|

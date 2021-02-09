@@ -7,6 +7,7 @@ Type: System / Namespace: C_TradeSkillUI
 ### C_TradeSkillUI.CraftRecipe
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -17,6 +18,7 @@ No Documentation
 ### C_TradeSkillUI.GetAllProfessionTradeSkillLines
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -24,6 +26,7 @@ No Documentation
 ### C_TradeSkillUI.GetOptionalReagentBonusText
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -37,6 +40,7 @@ No Documentation
 ### C_TradeSkillUI.GetOptionalReagentInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -48,6 +52,7 @@ No Documentation
 ### C_TradeSkillUI.GetRecipeInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -60,6 +65,7 @@ No Documentation
 ### C_TradeSkillUI.GetRecipeNumReagents
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -72,6 +78,7 @@ No Documentation
 ### C_TradeSkillUI.GetRecipeReagentInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -88,6 +95,7 @@ No Documentation
 ### C_TradeSkillUI.GetRecipeRepeatCount
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -95,6 +103,7 @@ No Documentation
 ### C_TradeSkillUI.GetTradeSkillDisplayName
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -106,6 +115,7 @@ No Documentation
 ### C_TradeSkillUI.GetTradeSkillLine
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -119,6 +129,7 @@ No Documentation
 ### C_TradeSkillUI.GetTradeSkillLineInfoByID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -134,6 +145,7 @@ No Documentation
 ### C_TradeSkillUI.IsEmptySkillLineCategory
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -145,6 +157,7 @@ No Documentation
 ### C_TradeSkillUI.SetRecipeRepeatCount
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -153,52 +166,98 @@ No Documentation
 |optionalReagents|table|true|No Documentation|
 ## Events
 
-### NewRecipeLearned(NEW_RECIPE_LEARNED)
+### NewRecipeLearned
+LiteralName: `NEW_RECIPE_LEARNED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |recipeID|number|false|No Documentation|
 |recipeLevel|number|true|No Documentation|
 |baseRecipeID|number|true|No Documentation|
-### ObliterumForgeClose(OBLITERUM_FORGE_CLOSE)
+### ObliterumForgeClose
+LiteralName: `OBLITERUM_FORGE_CLOSE`
 
 No Documentation
-### ObliterumForgePendingItemChanged(OBLITERUM_FORGE_PENDING_ITEM_CHANGED)
+
+### ObliterumForgePendingItemChanged
+LiteralName: `OBLITERUM_FORGE_PENDING_ITEM_CHANGED`
 
 No Documentation
-### ObliterumForgeShow(OBLITERUM_FORGE_SHOW)
+
+### ObliterumForgeShow
+LiteralName: `OBLITERUM_FORGE_SHOW`
 
 No Documentation
-### TradeSkillClose(TRADE_SKILL_CLOSE)
+
+### TradeSkillClose
+LiteralName: `TRADE_SKILL_CLOSE`
 
 No Documentation
-### TradeSkillDataSourceChanged(TRADE_SKILL_DATA_SOURCE_CHANGED)
+
+### TradeSkillDataSourceChanged
+LiteralName: `TRADE_SKILL_DATA_SOURCE_CHANGED`
 
 No Documentation
-### TradeSkillDataSourceChanging(TRADE_SKILL_DATA_SOURCE_CHANGING)
+
+### TradeSkillDataSourceChanging
+LiteralName: `TRADE_SKILL_DATA_SOURCE_CHANGING`
 
 No Documentation
-### TradeSkillDetailsUpdate(TRADE_SKILL_DETAILS_UPDATE)
+
+### TradeSkillDetailsUpdate
+LiteralName: `TRADE_SKILL_DETAILS_UPDATE`
 
 No Documentation
-### TradeSkillListUpdate(TRADE_SKILL_LIST_UPDATE)
+
+### TradeSkillListUpdate
+LiteralName: `TRADE_SKILL_LIST_UPDATE`
 
 No Documentation
-### TradeSkillNameUpdate(TRADE_SKILL_NAME_UPDATE)
+
+### TradeSkillNameUpdate
+LiteralName: `TRADE_SKILL_NAME_UPDATE`
 
 No Documentation
-### TradeSkillOptionalReagentBonusTextUpdated(TRADE_SKILL_OPTIONAL_REAGENT_BONUS_TEXT_UPDATED)
+
+### TradeSkillOptionalReagentBonusTextUpdated
+LiteralName: `TRADE_SKILL_OPTIONAL_REAGENT_BONUS_TEXT_UPDATED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |itemID|number|false|No Documentation|
-### TradeSkillShow(TRADE_SKILL_SHOW)
+### TradeSkillShow
+LiteralName: `TRADE_SKILL_SHOW`
 
 No Documentation
-### UpdateTradeskillRecast(UPDATE_TRADESKILL_RECAST)
+
+### UpdateTradeskillRecast
+LiteralName: `UPDATE_TRADESKILL_RECAST`
 
 No Documentation
+
+## Tables
+
+### OptionalReagentItemFlag
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|TooltipShowsAsStatModifications|OptionalReagentItemFlag|undefined|No Documentation|
+### OptionalReagentSlot
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|requiredSkillRank|number|false|No Documentation|
+|slotText|string|true|No Documentation|
+|options|table|false|No Documentation|

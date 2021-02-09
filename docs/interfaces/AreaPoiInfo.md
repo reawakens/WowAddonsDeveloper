@@ -7,6 +7,7 @@ Type: System / Namespace: C_AreaPoiInfo
 ### C_AreaPoiInfo.GetAreaPOIForMap
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -18,6 +19,7 @@ No Documentation
 ### C_AreaPoiInfo.GetAreaPOIInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -51,6 +53,25 @@ This statically determines if the POI is timed, GetAreaPOITimeLeft retrieves the
 |isTimed|bool|false|No Documentation|
 ## Events
 
-### AreaPoisUpdated(AREA_POIS_UPDATED)
+### AreaPoisUpdated
+LiteralName: `AREA_POIS_UPDATED`
 
 No Documentation
+
+## Tables
+
+### AreaPOIInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|areaPoiID|number|false|No Documentation|
+|position|table|false|No Documentation|
+|name|string|false|No Documentation|
+|description|string|true|No Documentation|
+|textureIndex|number|true|No Documentation|
+|widgetSetID|number|true|No Documentation|
+|atlasName|string|true|No Documentation|
+|uiTextureKit|string|true|No Documentation|

@@ -7,6 +7,7 @@ Type: System / Namespace: C_MountJournal
 ### C_MountJournal.ApplyMountEquipment
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -18,6 +19,7 @@ No Documentation
 ### C_MountJournal.AreMountEquipmentEffectsSuppressed
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -25,6 +27,7 @@ No Documentation
 ### C_MountJournal.ClearFanfare
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -32,12 +35,15 @@ No Documentation
 ### C_MountJournal.ClearRecentFanfares
 
 No Documentation
+
 ### C_MountJournal.Dismiss
 
 No Documentation
+
 ### C_MountJournal.GetAppliedMountEquipmentID
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -45,6 +51,7 @@ No Documentation
 ### C_MountJournal.GetCollectedFilterSetting
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -56,6 +63,7 @@ No Documentation
 ### C_MountJournal.GetDisplayedMountAllCreatureDisplayInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -67,6 +75,7 @@ No Documentation
 ### C_MountJournal.GetDisplayedMountInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -89,6 +98,7 @@ No Documentation
 ### C_MountJournal.GetDisplayedMountInfoExtra
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -108,6 +118,7 @@ No Documentation
 ### C_MountJournal.GetIsFavorite
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -120,6 +131,7 @@ No Documentation
 ### C_MountJournal.GetMountAllCreatureDisplayInfoByID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -131,6 +143,7 @@ No Documentation
 ### C_MountJournal.GetMountEquipmentUnlockLevel
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -138,6 +151,7 @@ No Documentation
 ### C_MountJournal.GetMountFromItem
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -149,6 +163,7 @@ No Documentation
 ### C_MountJournal.GetMountFromSpell
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -160,6 +175,7 @@ No Documentation
 ### C_MountJournal.GetMountIDs
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -167,6 +183,7 @@ No Documentation
 ### C_MountJournal.GetMountInfoByID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -189,6 +206,7 @@ No Documentation
 ### C_MountJournal.GetMountInfoExtraByID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -208,6 +226,7 @@ No Documentation
 ### C_MountJournal.GetMountUsabilityByID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -221,6 +240,7 @@ No Documentation
 ### C_MountJournal.GetNumDisplayedMounts
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -228,6 +248,7 @@ No Documentation
 ### C_MountJournal.GetNumMounts
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -235,6 +256,7 @@ No Documentation
 ### C_MountJournal.GetNumMountsNeedingFanfare
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -253,6 +275,7 @@ Determines if the item is mount equipment based on its class and subclass.
 ### C_MountJournal.IsMountEquipmentApplied
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -260,6 +283,7 @@ No Documentation
 ### C_MountJournal.IsSourceChecked
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -271,6 +295,7 @@ No Documentation
 ### C_MountJournal.IsValidSourceFilter
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -282,6 +307,7 @@ No Documentation
 ### C_MountJournal.NeedsFanfare
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -293,6 +319,7 @@ No Documentation
 ### C_MountJournal.Pickup
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -300,6 +327,7 @@ No Documentation
 ### C_MountJournal.SetAllSourceFilters
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -307,6 +335,7 @@ No Documentation
 ### C_MountJournal.SetCollectedFilterSetting
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -315,6 +344,7 @@ No Documentation
 ### C_MountJournal.SetIsFavorite
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -323,6 +353,7 @@ No Documentation
 ### C_MountJournal.SetSearch
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -330,6 +361,7 @@ No Documentation
 ### C_MountJournal.SetSourceFilter
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -338,29 +370,49 @@ No Documentation
 ### C_MountJournal.SummonByID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |mountID|number|false|No Documentation|
 ## Events
 
-### MountEquipmentApplyResult(MOUNT_EQUIPMENT_APPLY_RESULT)
+### MountEquipmentApplyResult
+LiteralName: `MOUNT_EQUIPMENT_APPLY_RESULT`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |success|bool|false|No Documentation|
-### MountJournalSearchUpdated(MOUNT_JOURNAL_SEARCH_UPDATED)
+### MountJournalSearchUpdated
+LiteralName: `MOUNT_JOURNAL_SEARCH_UPDATED`
 
 No Documentation
-### MountJournalUsabilityChanged(MOUNT_JOURNAL_USABILITY_CHANGED)
+
+### MountJournalUsabilityChanged
+LiteralName: `MOUNT_JOURNAL_USABILITY_CHANGED`
 
 No Documentation
-### NewMountAdded(NEW_MOUNT_ADDED)
+
+### NewMountAdded
+LiteralName: `NEW_MOUNT_ADDED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |mountID|number|false|No Documentation|
+## Tables
+
+### MountCreatureDisplayInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|creatureDisplayID|number|false|No Documentation|
+|isVisible|bool|false|No Documentation|

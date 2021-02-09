@@ -7,6 +7,7 @@ Type: System / Namespace: C_StableInfo
 ### C_StableInfo.GetNumActivePets
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -14,21 +15,29 @@ No Documentation
 ### C_StableInfo.GetNumStablePets
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |numStablePets|number|false|No Documentation|
 ## Events
 
-### PetStableClosed(PET_STABLE_CLOSED)
+### PetStableClosed
+LiteralName: `PET_STABLE_CLOSED`
 
 No Documentation
-### PetStableShow(PET_STABLE_SHOW)
+
+### PetStableShow
+LiteralName: `PET_STABLE_SHOW`
 
 No Documentation
-### PetStableUpdate(PET_STABLE_UPDATE)
+
+### PetStableUpdate
+LiteralName: `PET_STABLE_UPDATE`
 
 No Documentation
-### PetStableUpdatePaperdoll(PET_STABLE_UPDATE_PAPERDOLL)
+
+### PetStableUpdatePaperdoll
+LiteralName: `PET_STABLE_UPDATE_PAPERDOLL`
 
 No Documentation

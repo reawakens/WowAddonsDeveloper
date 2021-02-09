@@ -7,12 +7,15 @@ Type: System / Namespace: C_ChallengeMode
 ### C_ChallengeMode.ClearKeystone
 
 No Documentation
+
 ### C_ChallengeMode.CloseKeystoneFrame
 
 No Documentation
+
 ### C_ChallengeMode.GetActiveChallengeMapID
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -20,6 +23,7 @@ No Documentation
 ### C_ChallengeMode.GetActiveKeystoneInfo
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -29,6 +33,7 @@ No Documentation
 ### C_ChallengeMode.GetAffixInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -42,6 +47,7 @@ No Documentation
 ### C_ChallengeMode.GetCompletionInfo
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -54,6 +60,7 @@ No Documentation
 ### C_ChallengeMode.GetDeathCount
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -62,6 +69,7 @@ No Documentation
 ### C_ChallengeMode.GetGuildLeaders
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -69,6 +77,7 @@ No Documentation
 ### C_ChallengeMode.GetMapTable
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -76,6 +85,7 @@ No Documentation
 ### C_ChallengeMode.GetMapUIInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -91,6 +101,7 @@ No Documentation
 ### C_ChallengeMode.GetPowerLevelDamageHealthMod
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -103,6 +114,7 @@ No Documentation
 ### C_ChallengeMode.GetSlottedKeystoneInfo
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -112,6 +124,7 @@ No Documentation
 ### C_ChallengeMode.HasSlottedKeystone
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -119,6 +132,7 @@ No Documentation
 ### C_ChallengeMode.IsChallengeModeActive
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -126,6 +140,7 @@ No Documentation
 ### C_ChallengeMode.RemoveKeystone
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -133,6 +148,7 @@ No Documentation
 ### C_ChallengeMode.RequestLeaders
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -140,57 +156,103 @@ No Documentation
 ### C_ChallengeMode.Reset
 
 No Documentation
+
 ### C_ChallengeMode.SetKeystoneTooltip
 
 No Documentation
+
 ### C_ChallengeMode.SlotKeystone
 
 No Documentation
+
 ### C_ChallengeMode.StartChallengeMode
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |success|bool|false|No Documentation|
 ## Events
 
-### ChallengeModeCompleted(CHALLENGE_MODE_COMPLETED)
+### ChallengeModeCompleted
+LiteralName: `CHALLENGE_MODE_COMPLETED`
 
 No Documentation
-### ChallengeModeDeathCountUpdated(CHALLENGE_MODE_DEATH_COUNT_UPDATED)
+
+### ChallengeModeDeathCountUpdated
+LiteralName: `CHALLENGE_MODE_DEATH_COUNT_UPDATED`
 
 No Documentation
-### ChallengeModeKeystoneReceptableOpen(CHALLENGE_MODE_KEYSTONE_RECEPTABLE_OPEN)
+
+### ChallengeModeKeystoneReceptableOpen
+LiteralName: `CHALLENGE_MODE_KEYSTONE_RECEPTABLE_OPEN`
 
 No Documentation
-### ChallengeModeKeystoneSlotted(CHALLENGE_MODE_KEYSTONE_SLOTTED)
+
+### ChallengeModeKeystoneSlotted
+LiteralName: `CHALLENGE_MODE_KEYSTONE_SLOTTED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |keystoneID|number|false|No Documentation|
-### ChallengeModeLeadersUpdate(CHALLENGE_MODE_LEADERS_UPDATE)
+### ChallengeModeLeadersUpdate
+LiteralName: `CHALLENGE_MODE_LEADERS_UPDATE`
 
 No Documentation
-### ChallengeModeMapsUpdate(CHALLENGE_MODE_MAPS_UPDATE)
+
+### ChallengeModeMapsUpdate
+LiteralName: `CHALLENGE_MODE_MAPS_UPDATE`
 
 No Documentation
-### ChallengeModeMemberInfoUpdated(CHALLENGE_MODE_MEMBER_INFO_UPDATED)
+
+### ChallengeModeMemberInfoUpdated
+LiteralName: `CHALLENGE_MODE_MEMBER_INFO_UPDATED`
 
 No Documentation
-### ChallengeModeReset(CHALLENGE_MODE_RESET)
+
+### ChallengeModeReset
+LiteralName: `CHALLENGE_MODE_RESET`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |mapID|number|false|No Documentation|
-### ChallengeModeStart(CHALLENGE_MODE_START)
+### ChallengeModeStart
+LiteralName: `CHALLENGE_MODE_START`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |mapID|number|false|No Documentation|
+## Tables
+
+### ChallengeModeGuildAttemptMember
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|classFileName|string|false|No Documentation|
+### ChallengeModeGuildTopAttempt
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|classFileName|string|false|No Documentation|
+|keystoneLevel|number|false|No Documentation|
+|mapChallengeModeID|number|false|No Documentation|
+|isYou|bool|false|No Documentation|
+|members|table|false|No Documentation|

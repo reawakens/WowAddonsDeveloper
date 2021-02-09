@@ -7,6 +7,7 @@ Type: System / Namespace: C_PvP
 ### C_PvP.CanDisplayDeaths
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -14,6 +15,7 @@ No Documentation
 ### C_PvP.CanDisplayHonorableKills
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -21,6 +23,7 @@ No Documentation
 ### C_PvP.CanPlayerUseRatedPVPUI
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -29,6 +32,7 @@ No Documentation
 ### C_PvP.CanToggleWarMode
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -40,6 +44,7 @@ No Documentation
 ### C_PvP.CanToggleWarModeInArea
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -47,6 +52,7 @@ No Documentation
 ### C_PvP.DoesMatchOutcomeAffectRating
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -54,6 +60,7 @@ No Documentation
 ### C_PvP.GetActiveBrawlInfo
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -61,6 +68,7 @@ No Documentation
 ### C_PvP.GetActiveMatchBracket
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -68,6 +76,7 @@ No Documentation
 ### C_PvP.GetActiveMatchDuration
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -75,6 +84,7 @@ No Documentation
 ### C_PvP.GetActiveMatchState
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -82,6 +92,7 @@ No Documentation
 ### C_PvP.GetActiveMatchWinner
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -89,6 +100,7 @@ No Documentation
 ### C_PvP.GetArenaCrowdControlInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -102,6 +114,7 @@ No Documentation
 ### C_PvP.GetArenaRewards
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -116,6 +129,7 @@ No Documentation
 ### C_PvP.GetArenaSkirmishRewards
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -133,6 +147,7 @@ If nil is returned, PVP_BRAWL_INFO_UPDATED event will be sent when the data is r
 ### C_PvP.GetBattlefieldVehicleInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -145,6 +160,7 @@ No Documentation
 ### C_PvP.GetBattlefieldVehicles
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -156,6 +172,7 @@ No Documentation
 ### C_PvP.GetBrawlRewards
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -171,6 +188,7 @@ No Documentation
 ### C_PvP.GetGlobalPvpScalingInfoForSpecID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -182,6 +200,7 @@ No Documentation
 ### C_PvP.GetHonorRewardInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -193,6 +212,7 @@ No Documentation
 ### C_PvP.GetLevelUpBattlegrounds
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -204,6 +224,7 @@ No Documentation
 ### C_PvP.GetMatchPVPStatColumn
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -215,6 +236,7 @@ No Documentation
 ### C_PvP.GetMatchPVPStatColumns
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -222,6 +244,7 @@ No Documentation
 ### C_PvP.GetNextHonorLevelForReward
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -233,6 +256,7 @@ No Documentation
 ### C_PvP.GetOutdoorPvPWaitTime
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -244,6 +268,7 @@ No Documentation
 ### C_PvP.GetPVPActiveMatchPersonalRatedInfo
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -251,6 +276,7 @@ No Documentation
 ### C_PvP.GetPostMatchCurrencyRewards
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -258,6 +284,7 @@ No Documentation
 ### C_PvP.GetPostMatchItemRewards
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -265,6 +292,7 @@ No Documentation
 ### C_PvP.GetPvpTierID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -277,6 +305,7 @@ No Documentation
 ### C_PvP.GetPvpTierInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -288,6 +317,7 @@ No Documentation
 ### C_PvP.GetRandomBGInfo
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -295,6 +325,7 @@ No Documentation
 ### C_PvP.GetRandomBGRewards
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -305,6 +336,7 @@ No Documentation
 ### C_PvP.GetRandomEpicBGInfo
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -312,6 +344,7 @@ No Documentation
 ### C_PvP.GetRandomEpicBGRewards
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -322,6 +355,7 @@ No Documentation
 ### C_PvP.GetRatedBGRewards
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -332,6 +366,7 @@ No Documentation
 ### C_PvP.GetRewardItemLevelsByTierEnum
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -344,6 +379,7 @@ No Documentation
 ### C_PvP.GetScoreInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -355,6 +391,7 @@ No Documentation
 ### C_PvP.GetScoreInfoByPlayerGuid
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -366,6 +403,7 @@ No Documentation
 ### C_PvP.GetSeasonBestInfo
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -374,6 +412,7 @@ No Documentation
 ### C_PvP.GetSkirmishInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -385,6 +424,7 @@ No Documentation
 ### C_PvP.GetSpecialEventDetails
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -392,6 +432,7 @@ No Documentation
 ### C_PvP.GetSpecialEventInfo
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -399,6 +440,7 @@ No Documentation
 ### C_PvP.GetTeamInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -410,6 +452,7 @@ No Documentation
 ### C_PvP.GetWarModeRewardBonus
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -417,6 +460,7 @@ No Documentation
 ### C_PvP.GetWarModeRewardBonusDefault
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -424,6 +468,7 @@ No Documentation
 ### C_PvP.GetWeeklyChestInfo
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -434,6 +479,7 @@ No Documentation
 ### C_PvP.HasArenaSkirmishWinToday
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -441,6 +487,7 @@ No Documentation
 ### C_PvP.IsActiveBattlefield
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -448,6 +495,7 @@ No Documentation
 ### C_PvP.IsActiveMatchRegistered
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -455,6 +503,7 @@ No Documentation
 ### C_PvP.IsArena
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -462,6 +511,7 @@ No Documentation
 ### C_PvP.IsBattleground
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -469,6 +519,7 @@ No Documentation
 ### C_PvP.IsBattlegroundEnlistmentBonusActive
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -477,6 +528,7 @@ No Documentation
 ### C_PvP.IsInBrawl
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -484,6 +536,7 @@ No Documentation
 ### C_PvP.IsMatchConsideredArena
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -491,6 +544,7 @@ No Documentation
 ### C_PvP.IsMatchFactional
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -498,6 +552,7 @@ No Documentation
 ### C_PvP.IsPVPMap
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -505,6 +560,7 @@ No Documentation
 ### C_PvP.IsRatedArena
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -512,6 +568,7 @@ No Documentation
 ### C_PvP.IsRatedBattleground
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -519,6 +576,7 @@ No Documentation
 ### C_PvP.IsRatedMap
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -526,6 +584,7 @@ No Documentation
 ### C_PvP.IsWarModeActive
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -533,6 +592,7 @@ No Documentation
 ### C_PvP.IsWarModeDesired
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -540,6 +600,7 @@ No Documentation
 ### C_PvP.IsWarModeFeatureEnabled
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -547,9 +608,11 @@ No Documentation
 ### C_PvP.JoinBrawl
 
 No Documentation
+
 ### C_PvP.RequestCrowdControlSpell
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -557,6 +620,7 @@ No Documentation
 ### C_PvP.SetWarModeDesired
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -564,147 +628,212 @@ No Documentation
 ### C_PvP.ToggleWarMode
 
 No Documentation
+
 ## Events
 
-### ArenaOpponentUpdate(ARENA_OPPONENT_UPDATE)
+### ArenaOpponentUpdate
+LiteralName: `ARENA_OPPONENT_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |unitToken|string|false|No Documentation|
 |updateReason|string|false|No Documentation|
-### ArenaPrepOpponentSpecializations(ARENA_PREP_OPPONENT_SPECIALIZATIONS)
+### ArenaPrepOpponentSpecializations
+LiteralName: `ARENA_PREP_OPPONENT_SPECIALIZATIONS`
 
 No Documentation
-### ArenaSeasonWorldState(ARENA_SEASON_WORLD_STATE)
+
+### ArenaSeasonWorldState
+LiteralName: `ARENA_SEASON_WORLD_STATE`
 
 No Documentation
-### BattlefieldQueueTimeout(BATTLEFIELD_QUEUE_TIMEOUT)
+
+### BattlefieldQueueTimeout
+LiteralName: `BATTLEFIELD_QUEUE_TIMEOUT`
 
 No Documentation
-### BattlefieldsClosed(BATTLEFIELDS_CLOSED)
+
+### BattlefieldsClosed
+LiteralName: `BATTLEFIELDS_CLOSED`
 
 No Documentation
-### BattlefieldsShow(BATTLEFIELDS_SHOW)
+
+### BattlefieldsShow
+LiteralName: `BATTLEFIELDS_SHOW`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |isArena|bool|true|No Documentation|
 |battleMasterListID|number|true|No Documentation|
-### BattlegroundObjectivesUpdate(BATTLEGROUND_OBJECTIVES_UPDATE)
+### BattlegroundObjectivesUpdate
+LiteralName: `BATTLEGROUND_OBJECTIVES_UPDATE`
 
 No Documentation
-### BattlegroundPointsUpdate(BATTLEGROUND_POINTS_UPDATE)
+
+### BattlegroundPointsUpdate
+LiteralName: `BATTLEGROUND_POINTS_UPDATE`
 
 No Documentation
-### GdfSimComplete(GDF_SIM_COMPLETE)
+
+### GdfSimComplete
+LiteralName: `GDF_SIM_COMPLETE`
 
 No Documentation
-### HonorLevelUpdate(HONOR_LEVEL_UPDATE)
+
+### HonorLevelUpdate
+LiteralName: `HONOR_LEVEL_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |isHigherLevel|bool|false|No Documentation|
-### NotifyPvpAfkResult(NOTIFY_PVP_AFK_RESULT)
+### NotifyPvpAfkResult
+LiteralName: `NOTIFY_PVP_AFK_RESULT`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |offender|string|false|No Documentation|
 |numBlackMarksOnOffender|number|false|No Documentation|
 |numPlayersIHaveReported|number|false|No Documentation|
-### PlayerEnteringBattleground(PLAYER_ENTERING_BATTLEGROUND)
+### PlayerEnteringBattleground
+LiteralName: `PLAYER_ENTERING_BATTLEGROUND`
 
 No Documentation
-### PostMatchCurrencyRewardUpdate(POST_MATCH_CURRENCY_REWARD_UPDATE)
+
+### PostMatchCurrencyRewardUpdate
+LiteralName: `POST_MATCH_CURRENCY_REWARD_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |reward|PVPPostMatchCurrencyReward|false|No Documentation|
-### PostMatchItemRewardUpdate(POST_MATCH_ITEM_REWARD_UPDATE)
+### PostMatchItemRewardUpdate
+LiteralName: `POST_MATCH_ITEM_REWARD_UPDATE`
 
 No Documentation
-### PvpBrawlInfoUpdated(PVP_BRAWL_INFO_UPDATED)
+
+### PvpBrawlInfoUpdated
+LiteralName: `PVP_BRAWL_INFO_UPDATED`
 
 No Documentation
-### PvpMatchActive(PVP_MATCH_ACTIVE)
+
+### PvpMatchActive
+LiteralName: `PVP_MATCH_ACTIVE`
 
 No Documentation
-### PvpMatchComplete(PVP_MATCH_COMPLETE)
+
+### PvpMatchComplete
+LiteralName: `PVP_MATCH_COMPLETE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |winner|number|false|No Documentation|
 |duration|number|false|No Documentation|
-### PvpMatchInactive(PVP_MATCH_INACTIVE)
+### PvpMatchInactive
+LiteralName: `PVP_MATCH_INACTIVE`
 
 No Documentation
-### PvpRatedStatsUpdate(PVP_RATED_STATS_UPDATE)
+
+### PvpRatedStatsUpdate
+LiteralName: `PVP_RATED_STATS_UPDATE`
 
 No Documentation
-### PvpRewardsUpdate(PVP_REWARDS_UPDATE)
+
+### PvpRewardsUpdate
+LiteralName: `PVP_REWARDS_UPDATE`
 
 No Documentation
-### PvpRoleUpdate(PVP_ROLE_UPDATE)
+
+### PvpRoleUpdate
+LiteralName: `PVP_ROLE_UPDATE`
 
 No Documentation
-### PvpSpecialEventInfoUpdated(PVP_SPECIAL_EVENT_INFO_UPDATED)
+
+### PvpSpecialEventInfoUpdated
+LiteralName: `PVP_SPECIAL_EVENT_INFO_UPDATED`
 
 No Documentation
-### PvpTypesEnabled(PVP_TYPES_ENABLED)
+
+### PvpTypesEnabled
+LiteralName: `PVP_TYPES_ENABLED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |wargameBattlegrounds|bool|false|No Documentation|
 |ratedBattlegrounds|bool|false|No Documentation|
 |ratedArenas|bool|false|No Documentation|
-### PvpVehicleInfoUpdated(PVP_VEHICLE_INFO_UPDATED)
+### PvpVehicleInfoUpdated
+LiteralName: `PVP_VEHICLE_INFO_UPDATED`
 
 No Documentation
-### PvpWorldstateUpdate(PVP_WORLDSTATE_UPDATE)
+
+### PvpWorldstateUpdate
+LiteralName: `PVP_WORLDSTATE_UPDATE`
 
 No Documentation
-### PvpqueueAnywhereShow(PVPQUEUE_ANYWHERE_SHOW)
+
+### PvpqueueAnywhereShow
+LiteralName: `PVPQUEUE_ANYWHERE_SHOW`
 
 No Documentation
-### PvpqueueAnywhereUpdateAvailable(PVPQUEUE_ANYWHERE_UPDATE_AVAILABLE)
+
+### PvpqueueAnywhereUpdateAvailable
+LiteralName: `PVPQUEUE_ANYWHERE_UPDATE_AVAILABLE`
 
 No Documentation
-### UpdateActiveBattlefield(UPDATE_ACTIVE_BATTLEFIELD)
+
+### UpdateActiveBattlefield
+LiteralName: `UPDATE_ACTIVE_BATTLEFIELD`
 
 No Documentation
-### UpdateBattlefieldScore(UPDATE_BATTLEFIELD_SCORE)
+
+### UpdateBattlefieldScore
+LiteralName: `UPDATE_BATTLEFIELD_SCORE`
 
 No Documentation
-### UpdateBattlefieldStatus(UPDATE_BATTLEFIELD_STATUS)
+
+### UpdateBattlefieldStatus
+LiteralName: `UPDATE_BATTLEFIELD_STATUS`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |battleFieldIndex|number|false|No Documentation|
-### WarModeStatusUpdate(WAR_MODE_STATUS_UPDATE)
+### WarModeStatusUpdate
+LiteralName: `WAR_MODE_STATUS_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |warModeEnabled|bool|false|No Documentation|
-### WargameRequested(WARGAME_REQUESTED)
+### WargameRequested
+LiteralName: `WARGAME_REQUESTED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -712,3 +841,265 @@ No Documentation
 |battlegroundName|string|false|No Documentation|
 |timeoutSeconds|number|false|No Documentation|
 |tournamentRules|bool|false|No Documentation|
+## Tables
+
+### BrawlType
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|None|BrawlType|undefined|No Documentation|
+|Battleground|BrawlType|undefined|No Documentation|
+|Arena|BrawlType|undefined|No Documentation|
+|Lfg|BrawlType|undefined|No Documentation|
+### PvPMatchState
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|Inactive|PvPMatchState|undefined|No Documentation|
+|Active|PvPMatchState|undefined|No Documentation|
+|Complete|PvPMatchState|undefined|No Documentation|
+### BattlefieldCurrencyReward
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|id|number|false|No Documentation|
+|quantity|number|false|No Documentation|
+### BattlefieldItemReward
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|id|number|false|No Documentation|
+|name|string|false|No Documentation|
+|texture|number|false|No Documentation|
+|quantity|number|false|No Documentation|
+### BattlefieldVehicleInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|x|number|false|No Documentation|
+|y|number|false|No Documentation|
+|name|string|false|No Documentation|
+|isOccupied|bool|false|No Documentation|
+|atlas|string|false|No Documentation|
+|textureWidth|number|false|No Documentation|
+|textureHeight|number|false|No Documentation|
+|facing|number|false|No Documentation|
+|isPlayer|bool|false|No Documentation|
+|isAlive|bool|false|No Documentation|
+|shouldDrawBelowPlayerBlips|bool|false|No Documentation|
+### BattlemasterListInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|instanceType|number|false|No Documentation|
+|minPlayers|number|false|No Documentation|
+|maxPlayers|number|false|No Documentation|
+|icon|number|false|No Documentation|
+|longDescription|string|false|No Documentation|
+|shortDescription|string|false|No Documentation|
+### HonorRewardInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|honorLevelName|string|false|No Documentation|
+|badgeFileDataID|number|false|No Documentation|
+|achievementRewardedID|number|false|No Documentation|
+### LevelUpBattlegroundInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|id|number|false|No Documentation|
+|icon|number|false|No Documentation|
+|name|string|false|No Documentation|
+|isEpic|bool|false|No Documentation|
+### MatchPVPStatColumn
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|pvpStatID|number|false|No Documentation|
+|columnHeaderID|number|false|No Documentation|
+|orderIndex|number|false|No Documentation|
+|name|string|false|No Documentation|
+|tooltip|string|false|No Documentation|
+### PvpBrawlInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|shortDescription|string|false|No Documentation|
+|longDescription|string|false|No Documentation|
+|canQueue|bool|false|No Documentation|
+|timeLeftUntilNextChange|number|false|No Documentation|
+|brawlType|BrawlType|false|No Documentation|
+|mapNames|table|false|No Documentation|
+### PVPPersonalRatedInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|personalRating|number|false|No Documentation|
+|bestSeasonRating|number|false|No Documentation|
+|bestWeeklyRating|number|false|No Documentation|
+|seasonPlayed|number|false|No Documentation|
+|seasonWon|number|false|No Documentation|
+|weeklyPlayed|number|false|No Documentation|
+|weeklyWon|number|false|No Documentation|
+|lastWeeksBestRating|number|false|No Documentation|
+|hasWonBracketToday|bool|false|No Documentation|
+|tier|number|false|No Documentation|
+|ranking|number|true|No Documentation|
+### PVPPostMatchCurrencyReward
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|currencyType|number|false|No Documentation|
+|quantityChanged|number|false|No Documentation|
+### PVPPostMatchItemReward
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|type|string|false|No Documentation|
+|link|string|false|No Documentation|
+|quantity|number|false|No Documentation|
+|specID|number|false|No Documentation|
+|sex|number|false|No Documentation|
+|isUpgraded|bool|false|No Documentation|
+### PvpScalingData
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|scalingDataID|number|false|No Documentation|
+|specializationID|number|false|No Documentation|
+|name|string|false|No Documentation|
+|value|number|false|No Documentation|
+### PVPScoreInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|guid|string|false|No Documentation|
+|killingBlows|number|false|No Documentation|
+|honorableKills|number|false|No Documentation|
+|deaths|number|false|No Documentation|
+|honorGained|number|false|No Documentation|
+|faction|number|false|No Documentation|
+|raceName|string|false|No Documentation|
+|className|string|false|No Documentation|
+|classToken|string|false|No Documentation|
+|damageDone|number|false|No Documentation|
+|healingDone|number|false|No Documentation|
+|rating|number|false|No Documentation|
+|ratingChange|number|false|No Documentation|
+|prematchMMR|number|false|No Documentation|
+|mmrChange|number|false|No Documentation|
+|talentSpec|string|false|No Documentation|
+|honorLevel|number|false|No Documentation|
+|stats|table|false|No Documentation|
+### PVPStatInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|pvpStatID|number|false|No Documentation|
+|pvpStatValue|number|false|No Documentation|
+|orderIndex|number|false|No Documentation|
+|name|string|false|No Documentation|
+|tooltip|string|false|No Documentation|
+|iconName|string|false|No Documentation|
+### PVPTeamInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|size|number|false|No Documentation|
+|rating|number|false|No Documentation|
+|ratingNew|number|false|No Documentation|
+|ratingMMR|number|false|No Documentation|
+### PvpTierInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|descendRating|number|false|No Documentation|
+|ascendRating|number|false|No Documentation|
+|descendTier|number|false|No Documentation|
+|ascendTier|number|false|No Documentation|
+|pvpTierEnum|number|false|No Documentation|
+|tierIconID|number|false|No Documentation|
+### RandomBGInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|canQueue|bool|false|No Documentation|
+|bgID|number|false|No Documentation|
+|hasRandomWinToday|bool|false|No Documentation|
+|minLevel|number|false|No Documentation|
+|maxLevel|number|false|No Documentation|
+### SpecialEventDetails
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|shortDescription|string|false|No Documentation|
+|longDescription|string|false|No Documentation|
+|achievementID|number|false|No Documentation|
+|isActive|bool|false|No Documentation|

@@ -7,6 +7,7 @@ Type: System / Namespace: C_IncomingSummon
 ### C_IncomingSummon.HasIncomingSummon
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -18,6 +19,7 @@ No Documentation
 ### C_IncomingSummon.IncomingSummonStatus
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -26,4 +28,16 @@ No Documentation
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |status|SummonStatus|false|No Documentation|
-## Events
+## Tables
+
+### SummonStatus
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|None|SummonStatus|undefined|No Documentation|
+|Pending|SummonStatus|undefined|No Documentation|
+|Accepted|SummonStatus|undefined|No Documentation|
+|Declined|SummonStatus|undefined|No Documentation|

@@ -7,6 +7,7 @@ Type: System / Namespace: C_Social
 ### C_Social.GetLastAchievement
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -17,6 +18,7 @@ No Documentation
 ### C_Social.GetLastItem
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -29,6 +31,7 @@ No Documentation
 ### C_Social.GetLastScreenshotIndex
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -36,6 +39,7 @@ No Documentation
 ### C_Social.GetMaxTweetLength
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -43,6 +47,7 @@ No Documentation
 ### C_Social.GetScreenshotInfoByIndex
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -55,6 +60,7 @@ No Documentation
 ### C_Social.GetTweetLength
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -66,6 +72,7 @@ No Documentation
 ### C_Social.IsSocialEnabled
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -82,6 +89,7 @@ Not allowed to be called by addons
 ### C_Social.TwitterGetMSTillCanPost
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -95,28 +103,36 @@ Not allowed to be called by addons
 |message|string|false|No Documentation|
 ## Events
 
-### SocialItemReceived(SOCIAL_ITEM_RECEIVED)
+### SocialItemReceived
+LiteralName: `SOCIAL_ITEM_RECEIVED`
 
 No Documentation
-### TwitterLinkResult(TWITTER_LINK_RESULT)
+
+### TwitterLinkResult
+LiteralName: `TWITTER_LINK_RESULT`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |isLinked|bool|false|No Documentation|
 |screenName|string|false|No Documentation|
 |error|string|false|No Documentation|
-### TwitterPostResult(TWITTER_POST_RESULT)
+### TwitterPostResult
+LiteralName: `TWITTER_POST_RESULT`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |result|number|false|No Documentation|
-### TwitterStatusUpdate(TWITTER_STATUS_UPDATE)
+### TwitterStatusUpdate
+LiteralName: `TWITTER_STATUS_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|

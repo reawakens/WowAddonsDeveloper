@@ -7,6 +7,7 @@ Type: System / Namespace: C_ReportSystem
 ### C_ReportSystem.CanReportPlayer
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -18,6 +19,7 @@ No Documentation
 ### C_ReportSystem.CanReportPlayerForLanguage
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -50,9 +52,11 @@ Addons should use this to open the ReportPlayer dialog. InitiateReportPlayer and
 ### C_ReportSystem.ReportServerLag
 
 No Documentation
+
 ### C_ReportSystem.ReportStuckInCombat
 
 No Documentation
+
 ### C_ReportSystem.SendReportPlayer
 
 Not allowed to be called by addons
@@ -64,6 +68,7 @@ Not allowed to be called by addons
 ### C_ReportSystem.SetPendingReportPetTarget
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -75,6 +80,7 @@ No Documentation
 ### C_ReportSystem.SetPendingReportTarget
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -86,6 +92,7 @@ No Documentation
 ### C_ReportSystem.SetPendingReportTargetByGuid
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -96,18 +103,22 @@ No Documentation
 |set|bool|false|No Documentation|
 ## Events
 
-### OpenReportPlayer(OPEN_REPORT_PLAYER)
+### OpenReportPlayer
+LiteralName: `OPEN_REPORT_PLAYER`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |token|number|false|No Documentation|
 |reportType|string|false|No Documentation|
 |playerName|string|false|No Documentation|
-### ReportPlayerResult(REPORT_PLAYER_RESULT)
+### ReportPlayerResult
+LiteralName: `REPORT_PLAYER_RESULT`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|

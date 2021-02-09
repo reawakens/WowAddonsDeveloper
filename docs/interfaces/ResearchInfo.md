@@ -7,6 +7,7 @@ Type: System / Namespace: C_ResearchInfo
 ### C_ResearchInfo.GetDigSitesForMap
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -17,21 +18,27 @@ No Documentation
 |digSites|table|false|No Documentation|
 ## Events
 
-### ArchaeologyClosed(ARCHAEOLOGY_CLOSED)
+### ArchaeologyClosed
+LiteralName: `ARCHAEOLOGY_CLOSED`
 
 No Documentation
-### ArchaeologyFindComplete(ARCHAEOLOGY_FIND_COMPLETE)
+
+### ArchaeologyFindComplete
+LiteralName: `ARCHAEOLOGY_FIND_COMPLETE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |numFindsCompleted|number|false|No Documentation|
 |totalFinds|number|false|No Documentation|
 |researchBranchID|number|false|No Documentation|
-### ArchaeologySurveyCast(ARCHAEOLOGY_SURVEY_CAST)
+### ArchaeologySurveyCast
+LiteralName: `ARCHAEOLOGY_SURVEY_CAST`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -39,29 +46,54 @@ No Documentation
 |totalFinds|number|false|No Documentation|
 |researchBranchID|number|false|No Documentation|
 |successfulFind|number|false|No Documentation|
-### ArchaeologyToggle(ARCHAEOLOGY_TOGGLE)
+### ArchaeologyToggle
+LiteralName: `ARCHAEOLOGY_TOGGLE`
 
 No Documentation
-### ArtifactDigsiteComplete(ARTIFACT_DIGSITE_COMPLETE)
+
+### ArtifactDigsiteComplete
+LiteralName: `ARTIFACT_DIGSITE_COMPLETE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |researchBranchID|number|false|No Documentation|
-### ResearchArtifactComplete(RESEARCH_ARTIFACT_COMPLETE)
+### ResearchArtifactComplete
+LiteralName: `RESEARCH_ARTIFACT_COMPLETE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |name|string|false|No Documentation|
-### ResearchArtifactDigSiteUpdated(RESEARCH_ARTIFACT_DIG_SITE_UPDATED)
+### ResearchArtifactDigSiteUpdated
+LiteralName: `RESEARCH_ARTIFACT_DIG_SITE_UPDATED`
 
 No Documentation
-### ResearchArtifactHistoryReady(RESEARCH_ARTIFACT_HISTORY_READY)
+
+### ResearchArtifactHistoryReady
+LiteralName: `RESEARCH_ARTIFACT_HISTORY_READY`
 
 No Documentation
-### ResearchArtifactUpdate(RESEARCH_ARTIFACT_UPDATE)
+
+### ResearchArtifactUpdate
+LiteralName: `RESEARCH_ARTIFACT_UPDATE`
 
 No Documentation
+
+## Tables
+
+### DigSiteMapInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|researchSiteID|number|false|No Documentation|
+|position|table|false|No Documentation|
+|name|string|false|No Documentation|
+|textureIndex|number|false|No Documentation|

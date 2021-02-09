@@ -7,6 +7,7 @@ Type: System / Namespace: C_Club
 ### C_Club.AcceptInvitation
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -14,6 +15,7 @@ No Documentation
 ### C_Club.AddClubStreamChatChannel
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -22,6 +24,7 @@ No Documentation
 ### C_Club.AdvanceStreamViewMarker
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -30,6 +33,7 @@ No Documentation
 ### C_Club.AssignMemberRole
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -39,6 +43,7 @@ No Documentation
 ### C_Club.CanResolvePlayerLocationFromClubMessageData
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -53,12 +58,15 @@ No Documentation
 ### C_Club.ClearAutoAdvanceStreamViewMarker
 
 No Documentation
+
 ### C_Club.ClearClubPresenceSubscription
 
 No Documentation
+
 ### C_Club.CompareBattleNetDisplayName
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -72,6 +80,7 @@ No Documentation
 ### C_Club.CreateClub
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -103,6 +112,7 @@ Check canCreateTicket privilege.
 ### C_Club.DeclineInvitation
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -117,6 +127,7 @@ Check the canDestroy privilege.
 ### C_Club.DestroyMessage
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -154,6 +165,7 @@ nil arguments will not change existing club data
 ### C_Club.EditMessage
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -175,9 +187,11 @@ Check the canSetStreamName, canSetStreamSubject, canSetStreamAccess privileges. 
 ### C_Club.Flush
 
 No Documentation
+
 ### C_Club.FocusStream
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -190,6 +204,7 @@ No Documentation
 ### C_Club.GetAssignableRoles
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -213,6 +228,7 @@ listen for AVATAR_LIST_UPDATED event. This can happen if we haven't downloaded t
 ### C_Club.GetClubCapacity
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -220,6 +236,7 @@ No Documentation
 ### C_Club.GetClubInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -231,6 +248,7 @@ No Documentation
 ### C_Club.GetClubLimits
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -242,6 +260,7 @@ No Documentation
 ### C_Club.GetClubMembers
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -265,6 +284,7 @@ The privileges for the logged in user for this club
 ### C_Club.GetClubStreamNotificationSettings
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -276,6 +296,7 @@ No Documentation
 ### C_Club.GetCommunityNameResultText
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -287,6 +308,7 @@ No Documentation
 ### C_Club.GetGuildClubId
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -294,6 +316,7 @@ No Documentation
 ### C_Club.GetInfoFromLastCommunityChatLine
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -348,6 +371,7 @@ These are the clubs the active player has been invited to.
 ### C_Club.GetLastTicketResponse
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -361,6 +385,7 @@ No Documentation
 ### C_Club.GetMemberInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -437,6 +462,7 @@ Get downloaded messages in the given range. These are filtered by ignored player
 ### C_Club.GetStreamInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -449,6 +475,7 @@ No Documentation
 ### C_Club.GetStreamViewMarker
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -461,6 +488,7 @@ No Documentation
 ### C_Club.GetStreams
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -472,6 +500,7 @@ No Documentation
 ### C_Club.GetSubscribedClubs
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -490,6 +519,7 @@ Get the existing tickets for this club. Call RequestTickets() to retrieve ticket
 ### C_Club.IsAccountMuted
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -514,6 +544,7 @@ Returns whether the given message is the first message in the stream, taking int
 ### C_Club.IsEnabled
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -521,6 +552,7 @@ No Documentation
 ### C_Club.IsRestricted
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -528,6 +560,7 @@ No Documentation
 ### C_Club.IsSubscribedToStream
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -548,6 +581,7 @@ Check kickableRoleIds privilege.
 ### C_Club.LeaveClub
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -555,6 +589,7 @@ No Documentation
 ### C_Club.RedeemTicket
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -583,6 +618,7 @@ Call this when the user scrolls near the top of the message view, and more need 
 ### C_Club.RequestTicket
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -605,6 +641,7 @@ Check canRevokeOwnInvitation or canRevokeOtherInvitation
 ### C_Club.SendBattleTagFriendRequest
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -613,6 +650,7 @@ No Documentation
 ### C_Club.SendCharacterInvitation
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -629,6 +667,7 @@ Check the canSendInvitation privilege.
 ### C_Club.SendMessage
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -646,6 +685,7 @@ Only one stream can be set for auto-advance at a time. Focused streams will have
 ### C_Club.SetAvatarTexture
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -671,6 +711,7 @@ You can only be subscribed to 0 or 1 clubs for presence.  Subscribing to a new c
 ### C_Club.SetClubStreamNotificationSettings
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -679,6 +720,7 @@ No Documentation
 ### C_Club.SetFavorite
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -687,6 +729,7 @@ No Documentation
 ### C_Club.SetSocialQueueingEnabled
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -695,6 +738,7 @@ No Documentation
 ### C_Club.ShouldAllowClubType
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -706,6 +750,7 @@ No Documentation
 ### C_Club.UnfocusStream
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -714,6 +759,7 @@ No Documentation
 ### C_Club.ValidateText
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -726,104 +772,130 @@ No Documentation
 |result|ValidateNameResult|false|No Documentation|
 ## Events
 
-### AvatarListUpdated(AVATAR_LIST_UPDATED)
+### AvatarListUpdated
+LiteralName: `AVATAR_LIST_UPDATED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubType|ClubType|false|No Documentation|
-### ClubAdded(CLUB_ADDED)
+### ClubAdded
+LiteralName: `CLUB_ADDED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
-### ClubError(CLUB_ERROR)
+### ClubError
+LiteralName: `CLUB_ERROR`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |action|ClubActionType|false|No Documentation|
 |error|ClubErrorType|false|No Documentation|
 |clubType|ClubType|false|No Documentation|
-### ClubInvitationAddedForSelf(CLUB_INVITATION_ADDED_FOR_SELF)
+### ClubInvitationAddedForSelf
+LiteralName: `CLUB_INVITATION_ADDED_FOR_SELF`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |invitation|ClubSelfInvitationInfo|false|No Documentation|
-### ClubInvitationRemovedForSelf(CLUB_INVITATION_REMOVED_FOR_SELF)
+### ClubInvitationRemovedForSelf
+LiteralName: `CLUB_INVITATION_REMOVED_FOR_SELF`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |invitationId|string|false|No Documentation|
-### ClubInvitationsReceivedForClub(CLUB_INVITATIONS_RECEIVED_FOR_CLUB)
+### ClubInvitationsReceivedForClub
+LiteralName: `CLUB_INVITATIONS_RECEIVED_FOR_CLUB`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
-### ClubMemberAdded(CLUB_MEMBER_ADDED)
+### ClubMemberAdded
+LiteralName: `CLUB_MEMBER_ADDED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 |memberId|number|false|No Documentation|
-### ClubMemberPresenceUpdated(CLUB_MEMBER_PRESENCE_UPDATED)
+### ClubMemberPresenceUpdated
+LiteralName: `CLUB_MEMBER_PRESENCE_UPDATED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 |memberId|number|false|No Documentation|
 |presence|ClubMemberPresence|false|No Documentation|
-### ClubMemberRemoved(CLUB_MEMBER_REMOVED)
+### ClubMemberRemoved
+LiteralName: `CLUB_MEMBER_REMOVED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 |memberId|number|false|No Documentation|
-### ClubMemberRoleUpdated(CLUB_MEMBER_ROLE_UPDATED)
+### ClubMemberRoleUpdated
+LiteralName: `CLUB_MEMBER_ROLE_UPDATED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 |memberId|number|false|No Documentation|
 |roleId|number|false|No Documentation|
-### ClubMemberUpdated(CLUB_MEMBER_UPDATED)
+### ClubMemberUpdated
+LiteralName: `CLUB_MEMBER_UPDATED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 |memberId|number|false|No Documentation|
-### ClubMessageAdded(CLUB_MESSAGE_ADDED)
+### ClubMessageAdded
+LiteralName: `CLUB_MESSAGE_ADDED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 |streamId|string|false|No Documentation|
 |messageId|ClubMessageIdentifier|false|No Documentation|
-### ClubMessageHistoryReceived(CLUB_MESSAGE_HISTORY_RECEIVED)
+### ClubMessageHistoryReceived
+LiteralName: `CLUB_MESSAGE_HISTORY_RECEIVED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -831,123 +903,572 @@ No Documentation
 |streamId|string|false|No Documentation|
 |downloadedRange|ClubMessageRange|false|Range of history messages received.|
 |contiguousRange|ClubMessageRange|false|Range of contiguous messages that the received messages are in.|
-### ClubMessageUpdated(CLUB_MESSAGE_UPDATED)
+### ClubMessageUpdated
+LiteralName: `CLUB_MESSAGE_UPDATED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 |streamId|string|false|No Documentation|
 |messageId|ClubMessageIdentifier|false|No Documentation|
-### ClubRemoved(CLUB_REMOVED)
+### ClubRemoved
+LiteralName: `CLUB_REMOVED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
-### ClubRemovedMessage(CLUB_REMOVED_MESSAGE)
+### ClubRemovedMessage
+LiteralName: `CLUB_REMOVED_MESSAGE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubName|string|false|No Documentation|
 |clubRemovedReason|ClubRemovedReason|false|No Documentation|
-### ClubSelfMemberRoleUpdated(CLUB_SELF_MEMBER_ROLE_UPDATED)
+### ClubSelfMemberRoleUpdated
+LiteralName: `CLUB_SELF_MEMBER_ROLE_UPDATED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 |roleId|number|false|No Documentation|
-### ClubStreamAdded(CLUB_STREAM_ADDED)
+### ClubStreamAdded
+LiteralName: `CLUB_STREAM_ADDED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 |streamId|string|false|No Documentation|
-### ClubStreamRemoved(CLUB_STREAM_REMOVED)
+### ClubStreamRemoved
+LiteralName: `CLUB_STREAM_REMOVED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 |streamId|string|false|No Documentation|
-### ClubStreamSubscribed(CLUB_STREAM_SUBSCRIBED)
+### ClubStreamSubscribed
+LiteralName: `CLUB_STREAM_SUBSCRIBED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 |streamId|string|false|No Documentation|
-### ClubStreamUnsubscribed(CLUB_STREAM_UNSUBSCRIBED)
+### ClubStreamUnsubscribed
+LiteralName: `CLUB_STREAM_UNSUBSCRIBED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 |streamId|string|false|No Documentation|
-### ClubStreamUpdated(CLUB_STREAM_UPDATED)
+### ClubStreamUpdated
+LiteralName: `CLUB_STREAM_UPDATED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 |streamId|string|false|No Documentation|
-### ClubStreamsLoaded(CLUB_STREAMS_LOADED)
+### ClubStreamsLoaded
+LiteralName: `CLUB_STREAMS_LOADED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
-### ClubTicketCreated(CLUB_TICKET_CREATED)
+### ClubTicketCreated
+LiteralName: `CLUB_TICKET_CREATED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 |ticketInfo|ClubTicketInfo|false|No Documentation|
-### ClubTicketReceived(CLUB_TICKET_RECEIVED)
+### ClubTicketReceived
+LiteralName: `CLUB_TICKET_RECEIVED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |ticket|string|false|No Documentation|
-### ClubTicketsReceived(CLUB_TICKETS_RECEIVED)
+### ClubTicketsReceived
+LiteralName: `CLUB_TICKETS_RECEIVED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
-### ClubUpdated(CLUB_UPDATED)
+### ClubUpdated
+LiteralName: `CLUB_UPDATED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
-### InitialClubsLoaded(INITIAL_CLUBS_LOADED)
+### InitialClubsLoaded
+LiteralName: `INITIAL_CLUBS_LOADED`
 
 No Documentation
-### StreamViewMarkerUpdated(STREAM_VIEW_MARKER_UPDATED)
+
+### StreamViewMarkerUpdated
+LiteralName: `STREAM_VIEW_MARKER_UPDATED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 |streamId|string|false|No Documentation|
 |lastReadTime|number|true|nil if stream view is at current|
+## Tables
+
+### ClubActionType
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|ErrorClubActionSubscribe|ClubActionType|undefined|No Documentation|
+|ErrorClubActionCreate|ClubActionType|undefined|No Documentation|
+|ErrorClubActionEdit|ClubActionType|undefined|No Documentation|
+|ErrorClubActionDestroy|ClubActionType|undefined|No Documentation|
+|ErrorClubActionLeave|ClubActionType|undefined|No Documentation|
+|ErrorClubActionCreateTicket|ClubActionType|undefined|No Documentation|
+|ErrorClubActionDestroyTicket|ClubActionType|undefined|No Documentation|
+|ErrorClubActionRedeemTicket|ClubActionType|undefined|No Documentation|
+|ErrorClubActionGetTicket|ClubActionType|undefined|No Documentation|
+|ErrorClubActionGetTickets|ClubActionType|undefined|No Documentation|
+|ErrorClubActionGetBans|ClubActionType|undefined|No Documentation|
+|ErrorClubActionGetInvitations|ClubActionType|undefined|No Documentation|
+|ErrorClubActionRevokeInvitation|ClubActionType|undefined|No Documentation|
+|ErrorClubActionAcceptInvitation|ClubActionType|undefined|No Documentation|
+|ErrorClubActionDeclineInvitation|ClubActionType|undefined|No Documentation|
+|ErrorClubActionCreateStream|ClubActionType|undefined|No Documentation|
+|ErrorClubActionEditStream|ClubActionType|undefined|No Documentation|
+|ErrorClubActionDestroyStream|ClubActionType|undefined|No Documentation|
+|ErrorClubActionInviteMember|ClubActionType|undefined|No Documentation|
+|ErrorClubActionEditMember|ClubActionType|undefined|No Documentation|
+|ErrorClubActionEditMemberNote|ClubActionType|undefined|No Documentation|
+|ErrorClubActionKickMember|ClubActionType|undefined|No Documentation|
+|ErrorClubActionAddBan|ClubActionType|undefined|No Documentation|
+|ErrorClubActionRemoveBan|ClubActionType|undefined|No Documentation|
+|ErrorClubActionCreateMessage|ClubActionType|undefined|No Documentation|
+|ErrorClubActionEditMessage|ClubActionType|undefined|No Documentation|
+|ErrorClubActionDestroyMessage|ClubActionType|undefined|No Documentation|
+### ClubErrorType
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|ErrorCommunitiesNone|ClubErrorType|undefined|No Documentation|
+|ErrorCommunitiesUnknown|ClubErrorType|undefined|No Documentation|
+|ErrorCommunitiesNeutralFaction|ClubErrorType|undefined|No Documentation|
+|ErrorCommunitiesUnknownRealm|ClubErrorType|undefined|No Documentation|
+|ErrorCommunitiesBadTarget|ClubErrorType|undefined|No Documentation|
+|ErrorCommunitiesWrongFaction|ClubErrorType|undefined|No Documentation|
+|ErrorCommunitiesRestricted|ClubErrorType|undefined|No Documentation|
+|ErrorCommunitiesIgnored|ClubErrorType|undefined|No Documentation|
+|ErrorCommunitiesGuild|ClubErrorType|undefined|No Documentation|
+|ErrorCommunitiesWrongRegion|ClubErrorType|undefined|No Documentation|
+|ErrorCommunitiesUnknownTicket|ClubErrorType|undefined|No Documentation|
+|ErrorCommunitiesMissingShortName|ClubErrorType|undefined|No Documentation|
+|ErrorCommunitiesProfanity|ClubErrorType|undefined|No Documentation|
+|ErrorCommunitiesTrial|ClubErrorType|undefined|No Documentation|
+|ErrorCommunitiesVeteranTrial|ClubErrorType|undefined|No Documentation|
+|ErrorCommunitiesChatMute|ClubErrorType|undefined|No Documentation|
+|ErrorClubFull|ClubErrorType|undefined|No Documentation|
+|ErrorClubNoClub|ClubErrorType|undefined|No Documentation|
+|ErrorClubNotMember|ClubErrorType|undefined|No Documentation|
+|ErrorClubAlreadyMember|ClubErrorType|undefined|No Documentation|
+|ErrorClubNoSuchMember|ClubErrorType|undefined|No Documentation|
+|ErrorClubNoSuchInvitation|ClubErrorType|undefined|No Documentation|
+|ErrorClubInvitationAlreadyExists|ClubErrorType|undefined|No Documentation|
+|ErrorClubInvalidRoleID|ClubErrorType|undefined|No Documentation|
+|ErrorClubInsufficientPrivileges|ClubErrorType|undefined|No Documentation|
+|ErrorClubTooManyClubsJoined|ClubErrorType|undefined|No Documentation|
+|ErrorClubVoiceFull|ClubErrorType|undefined|No Documentation|
+|ErrorClubStreamNoStream|ClubErrorType|undefined|No Documentation|
+|ErrorClubStreamInvalidName|ClubErrorType|undefined|No Documentation|
+|ErrorClubStreamCountAtMin|ClubErrorType|undefined|No Documentation|
+|ErrorClubStreamCountAtMax|ClubErrorType|undefined|No Documentation|
+|ErrorClubMemberHasRequiredRole|ClubErrorType|undefined|No Documentation|
+|ErrorClubSentInvitationCountAtMax|ClubErrorType|undefined|No Documentation|
+|ErrorClubReceivedInvitationCountAtMax|ClubErrorType|undefined|No Documentation|
+|ErrorClubTargetIsBanned|ClubErrorType|undefined|No Documentation|
+|ErrorClubBanAlreadyExists|ClubErrorType|undefined|No Documentation|
+|ErrorClubBanCountAtMax|ClubErrorType|undefined|No Documentation|
+|ErrorClubTicketCountAtMax|ClubErrorType|undefined|No Documentation|
+|ErrorClubTicketNoSuchTicket|ClubErrorType|undefined|No Documentation|
+|ErrorClubTicketHasConsumedAllowedRedeemCount|ClubErrorType|undefined|No Documentation|
+### ClubFieldType
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|ClubName|ClubFieldType|undefined|No Documentation|
+|ClubShortName|ClubFieldType|undefined|No Documentation|
+|ClubDescription|ClubFieldType|undefined|No Documentation|
+|ClubBroadcast|ClubFieldType|undefined|No Documentation|
+|ClubStreamName|ClubFieldType|undefined|No Documentation|
+|ClubStreamSubject|ClubFieldType|undefined|No Documentation|
+|NumTypes|ClubFieldType|undefined|No Documentation|
+### ClubInvitationCandidateStatus
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|Available|ClubInvitationCandidateStatus|undefined|No Documentation|
+|InvitePending|ClubInvitationCandidateStatus|undefined|No Documentation|
+|AlreadyMember|ClubInvitationCandidateStatus|undefined|No Documentation|
+### ClubMemberPresence
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|Unknown|ClubMemberPresence|undefined|No Documentation|
+|Online|ClubMemberPresence|undefined|No Documentation|
+|OnlineMobile|ClubMemberPresence|undefined|No Documentation|
+|Offline|ClubMemberPresence|undefined|No Documentation|
+|Away|ClubMemberPresence|undefined|No Documentation|
+|Busy|ClubMemberPresence|undefined|No Documentation|
+### ClubRemovedReason
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|None|ClubRemovedReason|undefined|No Documentation|
+|Banned|ClubRemovedReason|undefined|No Documentation|
+|Removed|ClubRemovedReason|undefined|No Documentation|
+|ClubDestroyed|ClubRemovedReason|undefined|No Documentation|
+### ClubRestrictionReason
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|None|ClubRestrictionReason|undefined|No Documentation|
+|Unavailable|ClubRestrictionReason|undefined|No Documentation|
+### ClubRoleIdentifier
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|Owner|ClubRoleIdentifier|undefined|No Documentation|
+|Leader|ClubRoleIdentifier|undefined|No Documentation|
+|Moderator|ClubRoleIdentifier|undefined|No Documentation|
+|Member|ClubRoleIdentifier|undefined|No Documentation|
+### ClubStreamNotificationFilter
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|None|ClubStreamNotificationFilter|undefined|No Documentation|
+|Mention|ClubStreamNotificationFilter|undefined|No Documentation|
+|All|ClubStreamNotificationFilter|undefined|No Documentation|
+### ClubStreamType
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|General|ClubStreamType|undefined|No Documentation|
+|Guild|ClubStreamType|undefined|No Documentation|
+|Officer|ClubStreamType|undefined|No Documentation|
+|Other|ClubStreamType|undefined|No Documentation|
+### ClubType
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|BattleNet|ClubType|undefined|No Documentation|
+|Character|ClubType|undefined|No Documentation|
+|Guild|ClubType|undefined|No Documentation|
+|Other|ClubType|undefined|No Documentation|
+### ValidateNameResult
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|NameSuccess|ValidateNameResult|undefined|No Documentation|
+|NameFailure|ValidateNameResult|undefined|No Documentation|
+|NameNoName|ValidateNameResult|undefined|No Documentation|
+|NameTooShort|ValidateNameResult|undefined|No Documentation|
+|NameTooLong|ValidateNameResult|undefined|No Documentation|
+|NameInvalidCharacter|ValidateNameResult|undefined|No Documentation|
+|NameMixedLanguages|ValidateNameResult|undefined|No Documentation|
+|NameProfane|ValidateNameResult|undefined|No Documentation|
+|NameReserved|ValidateNameResult|undefined|No Documentation|
+|NameInvalidApostrophe|ValidateNameResult|undefined|No Documentation|
+|NameMultipleApostrophes|ValidateNameResult|undefined|No Documentation|
+|NameThreeConsecutive|ValidateNameResult|undefined|No Documentation|
+|NameInvalidSpace|ValidateNameResult|undefined|No Documentation|
+|NameConsecutiveSpaces|ValidateNameResult|undefined|No Documentation|
+|NameRussianConsecutiveSilentCharacters|ValidateNameResult|undefined|No Documentation|
+|NameRussianSilentCharacterAtBeginningOrEnd|ValidateNameResult|undefined|No Documentation|
+|NameDeclensionDoesntMatchBaseName|ValidateNameResult|undefined|No Documentation|
+|NameSpacesDisallowed|ValidateNameResult|undefined|No Documentation|
+### ClubInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|clubId|string|false|No Documentation|
+|name|string|false|No Documentation|
+|shortName|string|true|No Documentation|
+|description|string|false|No Documentation|
+|broadcast|string|false|No Documentation|
+|clubType|ClubType|false|No Documentation|
+|avatarId|number|false|No Documentation|
+|memberCount|number|true|No Documentation|
+|favoriteTimeStamp|number|true|No Documentation|
+|joinTime|number|true|No Documentation|
+|socialQueueingEnabled|bool|true|No Documentation|
+### ClubInvitationCandidateInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|memberId|number|false|No Documentation|
+|name|string|false|No Documentation|
+|priority|number|false|No Documentation|
+|status|ClubInvitationCandidateStatus|false|No Documentation|
+### ClubInvitationInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|invitationId|string|false|No Documentation|
+|isMyInvitation|bool|false|No Documentation|
+|invitee|ClubMemberInfo|false|No Documentation|
+### ClubLimits
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|maximumNumberOfStreams|number|false|No Documentation|
+### ClubMemberInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|isSelf|bool|false|No Documentation|
+|memberId|number|false|No Documentation|
+|name|string|true|name may be encoded as a Kstring|
+|role|ClubRoleIdentifier|true|No Documentation|
+|presence|ClubMemberPresence|false|No Documentation|
+|clubType|ClubType|true|No Documentation|
+|guid|string|true|No Documentation|
+|bnetAccountId|number|true|No Documentation|
+|memberNote|string|true|No Documentation|
+|officerNote|string|true|No Documentation|
+|classID|number|true|No Documentation|
+|race|number|true|No Documentation|
+|level|number|true|No Documentation|
+|zone|string|true|No Documentation|
+|achievementPoints|number|true|No Documentation|
+|profession1ID|number|true|No Documentation|
+|profession1Rank|number|true|No Documentation|
+|profession1Name|string|true|No Documentation|
+|profession2ID|number|true|No Documentation|
+|profession2Rank|number|true|No Documentation|
+|profession2Name|string|true|No Documentation|
+|lastOnlineYear|number|true|No Documentation|
+|lastOnlineMonth|number|true|No Documentation|
+|lastOnlineDay|number|true|No Documentation|
+|lastOnlineHour|number|true|No Documentation|
+|guildRank|string|true|No Documentation|
+|guildRankOrder|number|true|No Documentation|
+|isRemoteChat|bool|true|No Documentation|
+### ClubMessageIdentifier
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|epoch|number|false|number of microseconds since the UNIX epoch.|
+|position|number|false|sort order for messages at the same time|
+### ClubMessageInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|messageId|ClubMessageIdentifier|false|No Documentation|
+|content|string|false|No Documentation|
+|author|ClubMemberInfo|false|No Documentation|
+|destroyer|ClubMemberInfo|true|May be nil even if the message has been destroyed|
+|destroyed|bool|false|No Documentation|
+|edited|bool|false|No Documentation|
+### ClubMessageRange
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|oldestMessageId|ClubMessageIdentifier|false|No Documentation|
+|newestMessageId|ClubMessageIdentifier|false|No Documentation|
+### ClubPrivilegeInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|canDestroy|bool|false|No Documentation|
+|canSetAttribute|bool|false|No Documentation|
+|canSetName|bool|false|No Documentation|
+|canSetDescription|bool|false|No Documentation|
+|canSetAvatar|bool|false|No Documentation|
+|canSetBroadcast|bool|false|No Documentation|
+|canSetPrivacyLevel|bool|false|No Documentation|
+|canSetOwnMemberAttribute|bool|false|No Documentation|
+|canSetOtherMemberAttribute|bool|false|No Documentation|
+|canSetOwnMemberNote|bool|false|No Documentation|
+|canSetOtherMemberNote|bool|false|No Documentation|
+|canSetOwnVoiceState|bool|false|No Documentation|
+|canSetOwnPresenceLevel|bool|false|No Documentation|
+|canUseVoice|bool|false|No Documentation|
+|canVoiceMuteMemberForAll|bool|false|No Documentation|
+|canGetInvitation|bool|false|No Documentation|
+|canSendInvitation|bool|false|No Documentation|
+|canSendGuestInvitation|bool|false|No Documentation|
+|canRevokeOwnInvitation|bool|false|No Documentation|
+|canRevokeOtherInvitation|bool|false|No Documentation|
+|canGetBan|bool|false|No Documentation|
+|canGetSuggestion|bool|false|No Documentation|
+|canSuggestMember|bool|false|No Documentation|
+|canGetTicket|bool|false|No Documentation|
+|canCreateTicket|bool|false|No Documentation|
+|canDestroyTicket|bool|false|No Documentation|
+|canAddBan|bool|false|No Documentation|
+|canRemoveBan|bool|false|No Documentation|
+|canCreateStream|bool|false|No Documentation|
+|canDestroyStream|bool|false|No Documentation|
+|canSetStreamPosition|bool|false|No Documentation|
+|canSetStreamAttribute|bool|false|No Documentation|
+|canSetStreamName|bool|false|No Documentation|
+|canSetStreamSubject|bool|false|No Documentation|
+|canSetStreamAccess|bool|false|No Documentation|
+|canSetStreamVoiceLevel|bool|false|No Documentation|
+|canCreateMessage|bool|false|No Documentation|
+|canDestroyOwnMessage|bool|false|No Documentation|
+|canDestroyOtherMessage|bool|false|No Documentation|
+|canEditOwnMessage|bool|false|No Documentation|
+|canPinMessage|bool|false|No Documentation|
+|kickableRoleIds|table|false|Roles that can be kicked and banned|
+### ClubSelfInvitationInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|invitationId|string|false|No Documentation|
+|club|ClubInfo|false|No Documentation|
+|inviter|ClubMemberInfo|false|No Documentation|
+|leaders|table|false|No Documentation|
+### ClubStreamInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|streamId|string|false|No Documentation|
+|name|string|false|No Documentation|
+|subject|string|false|No Documentation|
+|leadersAndModeratorsOnly|bool|false|No Documentation|
+|streamType|ClubStreamType|false|No Documentation|
+|creationTime|number|false|No Documentation|
+### ClubStreamNotificationSetting
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|streamId|string|false|No Documentation|
+|filter|ClubStreamNotificationFilter|false|No Documentation|
+### ClubTicketInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|ticketId|string|false|No Documentation|
+|allowedRedeemCount|number|false|No Documentation|
+|currentRedeemCount|number|false|No Documentation|
+|creationTime|number|false|Creation time in microseconds since the UNIX epoch.|
+|expirationTime|number|false|Expiration time in microseconds since the UNIX epoch.|
+|defaultStreamId|string|true|No Documentation|
+|creator|ClubMemberInfo|false|No Documentation|

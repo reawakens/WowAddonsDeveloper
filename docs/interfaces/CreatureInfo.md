@@ -7,6 +7,7 @@ Type: System / Namespace: C_CreatureInfo
 ### C_CreatureInfo.GetClassInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -18,6 +19,7 @@ No Documentation
 ### C_CreatureInfo.GetFactionInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -29,6 +31,7 @@ No Documentation
 ### C_CreatureInfo.GetRaceInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -37,4 +40,34 @@ No Documentation
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |raceInfo|RaceInfo|true|No Documentation|
-## Events
+## Tables
+
+### ClassInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|className|string|false|No Documentation|
+|classFile|string|false|No Documentation|
+|classID|number|false|No Documentation|
+### FactionInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|groupTag|string|false|No Documentation|
+### RaceInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|raceName|string|false|No Documentation|
+|clientFileString|string|false|No Documentation|
+|raceID|number|false|No Documentation|

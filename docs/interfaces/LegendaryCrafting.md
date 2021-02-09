@@ -7,9 +7,11 @@ Type: System / Namespace: C_LegendaryCrafting
 ### C_LegendaryCrafting.CloseRuneforgeInteraction
 
 No Documentation
+
 ### C_LegendaryCrafting.CraftRuneforgeLegendary
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -17,6 +19,7 @@ No Documentation
 ### C_LegendaryCrafting.GetRuneforgeItemPreviewInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -30,6 +33,7 @@ No Documentation
 ### C_LegendaryCrafting.GetRuneforgeLegendaryComponentInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -41,6 +45,7 @@ No Documentation
 ### C_LegendaryCrafting.GetRuneforgeLegendaryCost
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -52,6 +57,7 @@ No Documentation
 ### C_LegendaryCrafting.GetRuneforgeLegendaryCraftSpellID
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -59,6 +65,7 @@ No Documentation
 ### C_LegendaryCrafting.GetRuneforgeLegendaryCurrencies
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -66,6 +73,7 @@ No Documentation
 ### C_LegendaryCrafting.GetRuneforgeLegendaryUpgradeCost
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -78,6 +86,7 @@ No Documentation
 ### C_LegendaryCrafting.GetRuneforgeModifierInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -93,6 +102,7 @@ No Documentation
 ### C_LegendaryCrafting.GetRuneforgeModifiers
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -100,6 +110,7 @@ No Documentation
 ### C_LegendaryCrafting.GetRuneforgePowerInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -111,6 +122,7 @@ No Documentation
 ### C_LegendaryCrafting.GetRuneforgePowerSlots
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -122,6 +134,7 @@ No Documentation
 ### C_LegendaryCrafting.GetRuneforgePowers
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -135,6 +148,7 @@ No Documentation
 ### C_LegendaryCrafting.GetRuneforgePowersByClassAndSpec
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -148,6 +162,7 @@ No Documentation
 ### C_LegendaryCrafting.IsRuneforgeLegendary
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -159,6 +174,7 @@ No Documentation
 ### C_LegendaryCrafting.IsRuneforgeLegendaryMaxLevel
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -170,6 +186,7 @@ No Documentation
 ### C_LegendaryCrafting.IsUpgradeItemValidForRuneforgeLegendary
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -182,6 +199,7 @@ No Documentation
 ### C_LegendaryCrafting.IsValidRuneforgeBaseItem
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -193,6 +211,7 @@ No Documentation
 ### C_LegendaryCrafting.MakeRuneforgeCraftDescription
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -206,6 +225,7 @@ No Documentation
 ### C_LegendaryCrafting.UpgradeRuneforgeLegendary
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -213,26 +233,34 @@ No Documentation
 |upgradeItem|table|false|No Documentation|
 ## Events
 
-### NewRuneforgePowerAdded(NEW_RUNEFORGE_POWER_ADDED)
+### NewRuneforgePowerAdded
+LiteralName: `NEW_RUNEFORGE_POWER_ADDED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |powerID|number|false|No Documentation|
-### RuneforgeLegendaryCraftingClosed(RUNEFORGE_LEGENDARY_CRAFTING_CLOSED)
+### RuneforgeLegendaryCraftingClosed
+LiteralName: `RUNEFORGE_LEGENDARY_CRAFTING_CLOSED`
 
 No Documentation
-### RuneforgeLegendaryCraftingOpened(RUNEFORGE_LEGENDARY_CRAFTING_OPENED)
+
+### RuneforgeLegendaryCraftingOpened
+LiteralName: `RUNEFORGE_LEGENDARY_CRAFTING_OPENED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |isUpgrade|bool|false|No Documentation|
-### RuneforgePowerInfoUpdated(RUNEFORGE_POWER_INFO_UPDATED)
+### RuneforgePowerInfoUpdated
+LiteralName: `RUNEFORGE_POWER_INFO_UPDATED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|

@@ -7,12 +7,15 @@ Type: System / Namespace: C_SummonInfo
 ### C_SummonInfo.CancelSummon
 
 No Documentation
+
 ### C_SummonInfo.ConfirmSummon
 
 No Documentation
+
 ### C_SummonInfo.GetSummonConfirmAreaName
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -20,6 +23,7 @@ No Documentation
 ### C_SummonInfo.GetSummonConfirmSummoner
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -27,6 +31,7 @@ No Documentation
 ### C_SummonInfo.GetSummonConfirmTimeLeft
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -34,6 +39,7 @@ No Documentation
 ### C_SummonInfo.GetSummonReason
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -41,8 +47,8 @@ No Documentation
 ### C_SummonInfo.IsSummonSkippingStartExperience
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |isSummonSkippingStartExperience|bool|false|No Documentation|
-## Events

@@ -7,6 +7,7 @@ Type: System / Namespace: C_AuctionHouse
 ### C_AuctionHouse.CalculateCommodityDeposit
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -20,6 +21,7 @@ No Documentation
 ### C_AuctionHouse.CalculateItemDeposit
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -33,6 +35,7 @@ No Documentation
 ### C_AuctionHouse.CanCancelAuction
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -44,6 +47,7 @@ No Documentation
 ### C_AuctionHouse.CancelAuction
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -51,15 +55,19 @@ No Documentation
 ### C_AuctionHouse.CancelCommoditiesPurchase
 
 No Documentation
+
 ### C_AuctionHouse.CancelSell
 
 No Documentation
+
 ### C_AuctionHouse.CloseAuctionHouse
 
 No Documentation
+
 ### C_AuctionHouse.ConfirmCommoditiesPurchase
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -68,6 +76,7 @@ No Documentation
 ### C_AuctionHouse.FavoritesAreAvailable
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -75,6 +84,7 @@ No Documentation
 ### C_AuctionHouse.GetAuctionItemSubClasses
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -86,6 +96,7 @@ No Documentation
 ### C_AuctionHouse.GetAvailablePostCount
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -97,6 +108,7 @@ No Documentation
 ### C_AuctionHouse.GetBidInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -108,6 +120,7 @@ No Documentation
 ### C_AuctionHouse.GetBidType
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -119,6 +132,7 @@ No Documentation
 ### C_AuctionHouse.GetBrowseResults
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -126,6 +140,7 @@ No Documentation
 ### C_AuctionHouse.GetCancelCost
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -137,6 +152,7 @@ No Documentation
 ### C_AuctionHouse.GetCommoditySearchResultInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -149,6 +165,7 @@ No Documentation
 ### C_AuctionHouse.GetCommoditySearchResultsQuantity
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -160,6 +177,7 @@ No Documentation
 ### C_AuctionHouse.GetExtraBrowseInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -171,6 +189,7 @@ No Documentation
 ### C_AuctionHouse.GetFilterGroups
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -178,6 +197,7 @@ No Documentation
 ### C_AuctionHouse.GetItemCommodityStatus
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -189,6 +209,7 @@ No Documentation
 ### C_AuctionHouse.GetItemKeyFromItem
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -200,6 +221,7 @@ No Documentation
 ### C_AuctionHouse.GetItemKeyInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -212,6 +234,7 @@ No Documentation
 ### C_AuctionHouse.GetItemKeyRequiredLevel
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -223,6 +246,7 @@ No Documentation
 ### C_AuctionHouse.GetItemSearchResultInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -235,6 +259,7 @@ No Documentation
 ### C_AuctionHouse.GetItemSearchResultsQuantity
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -246,6 +271,7 @@ No Documentation
 ### C_AuctionHouse.GetMaxBidItemBid
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -253,6 +279,7 @@ No Documentation
 ### C_AuctionHouse.GetMaxBidItemBuyout
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -260,6 +287,7 @@ No Documentation
 ### C_AuctionHouse.GetMaxCommoditySearchResultPrice
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -271,6 +299,7 @@ No Documentation
 ### C_AuctionHouse.GetMaxItemSearchResultBid
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -282,6 +311,7 @@ No Documentation
 ### C_AuctionHouse.GetMaxItemSearchResultBuyout
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -293,6 +323,7 @@ No Documentation
 ### C_AuctionHouse.GetMaxOwnedAuctionBid
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -300,6 +331,7 @@ No Documentation
 ### C_AuctionHouse.GetMaxOwnedAuctionBuyout
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -307,6 +339,7 @@ No Documentation
 ### C_AuctionHouse.GetNumBidTypes
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -314,6 +347,7 @@ No Documentation
 ### C_AuctionHouse.GetNumBids
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -321,6 +355,7 @@ No Documentation
 ### C_AuctionHouse.GetNumCommoditySearchResults
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -332,6 +367,7 @@ No Documentation
 ### C_AuctionHouse.GetNumItemSearchResults
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -343,6 +379,7 @@ No Documentation
 ### C_AuctionHouse.GetNumOwnedAuctionTypes
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -350,6 +387,7 @@ No Documentation
 ### C_AuctionHouse.GetNumOwnedAuctions
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -357,6 +395,7 @@ No Documentation
 ### C_AuctionHouse.GetNumReplicateItems
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -364,6 +403,7 @@ No Documentation
 ### C_AuctionHouse.GetOwnedAuctionInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -375,6 +415,7 @@ No Documentation
 ### C_AuctionHouse.GetOwnedAuctionType
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -386,6 +427,7 @@ No Documentation
 ### C_AuctionHouse.GetQuoteDurationRemaining
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -393,6 +435,7 @@ No Documentation
 ### C_AuctionHouse.GetReplicateItemBattlePetInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -405,6 +448,7 @@ No Documentation
 ### C_AuctionHouse.GetReplicateItemInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -433,6 +477,7 @@ No Documentation
 ### C_AuctionHouse.GetReplicateItemLink
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -444,6 +489,7 @@ No Documentation
 ### C_AuctionHouse.GetReplicateItemTimeLeft
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -455,6 +501,7 @@ No Documentation
 ### C_AuctionHouse.GetTimeLeftBandInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -467,6 +514,7 @@ No Documentation
 ### C_AuctionHouse.HasFavorites
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -474,6 +522,7 @@ No Documentation
 ### C_AuctionHouse.HasFullBidResults
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -481,6 +530,7 @@ No Documentation
 ### C_AuctionHouse.HasFullBrowseResults
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -488,6 +538,7 @@ No Documentation
 ### C_AuctionHouse.HasFullCommoditySearchResults
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -499,6 +550,7 @@ No Documentation
 ### C_AuctionHouse.HasFullItemSearchResults
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -510,6 +562,7 @@ No Documentation
 ### C_AuctionHouse.HasFullOwnedAuctionResults
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -517,6 +570,7 @@ No Documentation
 ### C_AuctionHouse.HasMaxFavorites
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -524,6 +578,7 @@ No Documentation
 ### C_AuctionHouse.HasSearchResults
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -535,6 +590,7 @@ No Documentation
 ### C_AuctionHouse.IsFavoriteItem
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -546,6 +602,7 @@ No Documentation
 ### C_AuctionHouse.IsSellItemValid
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -558,6 +615,7 @@ No Documentation
 ### C_AuctionHouse.IsThrottledMessageSystemReady
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -565,6 +623,7 @@ No Documentation
 ### C_AuctionHouse.MakeItemKey
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -579,6 +638,7 @@ No Documentation
 ### C_AuctionHouse.PlaceBid
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -587,6 +647,7 @@ No Documentation
 ### C_AuctionHouse.PostCommodity
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -597,6 +658,7 @@ No Documentation
 ### C_AuctionHouse.PostItem
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -608,6 +670,7 @@ No Documentation
 ### C_AuctionHouse.QueryBids
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -616,6 +679,7 @@ No Documentation
 ### C_AuctionHouse.QueryOwnedAuctions
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -623,6 +687,7 @@ No Documentation
 ### C_AuctionHouse.RefreshCommoditySearchResults
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -630,6 +695,7 @@ No Documentation
 ### C_AuctionHouse.RefreshItemSearchResults
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -640,9 +706,11 @@ This function should be used in place of an 'allItem' QueryAuctionItems call to 
 ### C_AuctionHouse.RequestMoreBrowseResults
 
 No Documentation
+
 ### C_AuctionHouse.RequestMoreCommoditySearchResults
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -654,6 +722,7 @@ No Documentation
 ### C_AuctionHouse.RequestMoreItemSearchResults
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -665,6 +734,7 @@ No Documentation
 ### C_AuctionHouse.RequestOwnedAuctionBidderInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -676,6 +746,7 @@ No Documentation
 ### C_AuctionHouse.SearchForFavorites
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -683,6 +754,7 @@ No Documentation
 ### C_AuctionHouse.SearchForItemKeys
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -691,6 +763,7 @@ No Documentation
 ### C_AuctionHouse.SendBrowseQuery
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -716,6 +789,7 @@ Search queries are restricted to 100 calls per minute. These should not be used 
 ### C_AuctionHouse.SetFavoriteItem
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -724,6 +798,7 @@ No Documentation
 ### C_AuctionHouse.StartCommoditiesPurchase
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -731,191 +806,442 @@ No Documentation
 |quantity|number|false|No Documentation|
 ## Events
 
-### AuctionCanceled(AUCTION_CANCELED)
+### AuctionCanceled
+LiteralName: `AUCTION_CANCELED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |auctionID|number|false|No Documentation|
-### AuctionHouseAuctionCreated(AUCTION_HOUSE_AUCTION_CREATED)
+### AuctionHouseAuctionCreated
+LiteralName: `AUCTION_HOUSE_AUCTION_CREATED`
 
 This signal is not used in the base UI but is included for AddOn ease-of-use.
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |auctionID|number|false|No Documentation|
-### AuctionHouseBrowseFailure(AUCTION_HOUSE_BROWSE_FAILURE)
+### AuctionHouseBrowseFailure
+LiteralName: `AUCTION_HOUSE_BROWSE_FAILURE`
 
 No Documentation
-### AuctionHouseBrowseResultsAdded(AUCTION_HOUSE_BROWSE_RESULTS_ADDED)
+
+### AuctionHouseBrowseResultsAdded
+LiteralName: `AUCTION_HOUSE_BROWSE_RESULTS_ADDED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |addedBrowseResults|table|false|No Documentation|
-### AuctionHouseBrowseResultsUpdated(AUCTION_HOUSE_BROWSE_RESULTS_UPDATED)
+### AuctionHouseBrowseResultsUpdated
+LiteralName: `AUCTION_HOUSE_BROWSE_RESULTS_UPDATED`
 
 No Documentation
-### AuctionHouseClosed(AUCTION_HOUSE_CLOSED)
+
+### AuctionHouseClosed
+LiteralName: `AUCTION_HOUSE_CLOSED`
 
 No Documentation
-### AuctionHouseDisabled(AUCTION_HOUSE_DISABLED)
+
+### AuctionHouseDisabled
+LiteralName: `AUCTION_HOUSE_DISABLED`
 
 No Documentation
-### AuctionHouseFavoritesUpdated(AUCTION_HOUSE_FAVORITES_UPDATED)
+
+### AuctionHouseFavoritesUpdated
+LiteralName: `AUCTION_HOUSE_FAVORITES_UPDATED`
 
 No Documentation
-### AuctionHouseNewBidReceived(AUCTION_HOUSE_NEW_BID_RECEIVED)
+
+### AuctionHouseNewBidReceived
+LiteralName: `AUCTION_HOUSE_NEW_BID_RECEIVED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |auctionID|number|false|No Documentation|
-### AuctionHouseNewResultsReceived(AUCTION_HOUSE_NEW_RESULTS_RECEIVED)
+### AuctionHouseNewResultsReceived
+LiteralName: `AUCTION_HOUSE_NEW_RESULTS_RECEIVED`
 
 This signal is not used in the base UI but is included for AddOn ease-of-use. Payload is nil for browse queries.
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |itemKey|ItemKey|true|No Documentation|
-### AuctionHouseScriptDeprecated(AUCTION_HOUSE_SCRIPT_DEPRECATED)
+### AuctionHouseScriptDeprecated
+LiteralName: `AUCTION_HOUSE_SCRIPT_DEPRECATED`
 
 No Documentation
-### AuctionHouseShow(AUCTION_HOUSE_SHOW)
+
+### AuctionHouseShow
+LiteralName: `AUCTION_HOUSE_SHOW`
 
 No Documentation
-### AuctionHouseThrottledMessageDropped(AUCTION_HOUSE_THROTTLED_MESSAGE_DROPPED)
+
+### AuctionHouseThrottledMessageDropped
+LiteralName: `AUCTION_HOUSE_THROTTLED_MESSAGE_DROPPED`
 
 No Documentation
-### AuctionHouseThrottledMessageQueued(AUCTION_HOUSE_THROTTLED_MESSAGE_QUEUED)
+
+### AuctionHouseThrottledMessageQueued
+LiteralName: `AUCTION_HOUSE_THROTTLED_MESSAGE_QUEUED`
 
 No Documentation
-### AuctionHouseThrottledMessageResponseReceived(AUCTION_HOUSE_THROTTLED_MESSAGE_RESPONSE_RECEIVED)
+
+### AuctionHouseThrottledMessageResponseReceived
+LiteralName: `AUCTION_HOUSE_THROTTLED_MESSAGE_RESPONSE_RECEIVED`
 
 No Documentation
-### AuctionHouseThrottledMessageSent(AUCTION_HOUSE_THROTTLED_MESSAGE_SENT)
+
+### AuctionHouseThrottledMessageSent
+LiteralName: `AUCTION_HOUSE_THROTTLED_MESSAGE_SENT`
 
 No Documentation
-### AuctionHouseThrottledSystemReady(AUCTION_HOUSE_THROTTLED_SYSTEM_READY)
+
+### AuctionHouseThrottledSystemReady
+LiteralName: `AUCTION_HOUSE_THROTTLED_SYSTEM_READY`
 
 No Documentation
-### AuctionMultisellFailure(AUCTION_MULTISELL_FAILURE)
+
+### AuctionMultisellFailure
+LiteralName: `AUCTION_MULTISELL_FAILURE`
 
 No Documentation
-### AuctionMultisellStart(AUCTION_MULTISELL_START)
+
+### AuctionMultisellStart
+LiteralName: `AUCTION_MULTISELL_START`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |numRepetitions|number|false|No Documentation|
-### AuctionMultisellUpdate(AUCTION_MULTISELL_UPDATE)
+### AuctionMultisellUpdate
+LiteralName: `AUCTION_MULTISELL_UPDATE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |createdCount|number|false|No Documentation|
 |totalToCreate|number|false|No Documentation|
-### BidAdded(BID_ADDED)
+### BidAdded
+LiteralName: `BID_ADDED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |bidID|number|false|No Documentation|
-### BidsUpdated(BIDS_UPDATED)
+### BidsUpdated
+LiteralName: `BIDS_UPDATED`
 
 No Documentation
-### CommodityPriceUnavailable(COMMODITY_PRICE_UNAVAILABLE)
+
+### CommodityPriceUnavailable
+LiteralName: `COMMODITY_PRICE_UNAVAILABLE`
 
 No Documentation
-### CommodityPriceUpdated(COMMODITY_PRICE_UPDATED)
+
+### CommodityPriceUpdated
+LiteralName: `COMMODITY_PRICE_UPDATED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |updatedUnitPrice|number|false|No Documentation|
 |updatedTotalPrice|number|false|No Documentation|
-### CommodityPurchaseFailed(COMMODITY_PURCHASE_FAILED)
+### CommodityPurchaseFailed
+LiteralName: `COMMODITY_PURCHASE_FAILED`
 
 No Documentation
-### CommodityPurchaseSucceeded(COMMODITY_PURCHASE_SUCCEEDED)
+
+### CommodityPurchaseSucceeded
+LiteralName: `COMMODITY_PURCHASE_SUCCEEDED`
 
 No Documentation
-### CommodityPurchased(COMMODITY_PURCHASED)
+
+### CommodityPurchased
+LiteralName: `COMMODITY_PURCHASED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |itemID|number|false|No Documentation|
 |quantity|number|false|No Documentation|
-### CommoditySearchResultsAdded(COMMODITY_SEARCH_RESULTS_ADDED)
+### CommoditySearchResultsAdded
+LiteralName: `COMMODITY_SEARCH_RESULTS_ADDED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |itemID|number|false|No Documentation|
-### CommoditySearchResultsUpdated(COMMODITY_SEARCH_RESULTS_UPDATED)
+### CommoditySearchResultsUpdated
+LiteralName: `COMMODITY_SEARCH_RESULTS_UPDATED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |itemID|number|false|No Documentation|
-### ExtraBrowseInfoReceived(EXTRA_BROWSE_INFO_RECEIVED)
+### ExtraBrowseInfoReceived
+LiteralName: `EXTRA_BROWSE_INFO_RECEIVED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |itemID|number|false|No Documentation|
-### ItemKeyItemInfoReceived(ITEM_KEY_ITEM_INFO_RECEIVED)
+### ItemKeyItemInfoReceived
+LiteralName: `ITEM_KEY_ITEM_INFO_RECEIVED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |itemID|number|false|No Documentation|
-### ItemPurchased(ITEM_PURCHASED)
+### ItemPurchased
+LiteralName: `ITEM_PURCHASED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |itemID|number|false|No Documentation|
-### ItemSearchResultsAdded(ITEM_SEARCH_RESULTS_ADDED)
+### ItemSearchResultsAdded
+LiteralName: `ITEM_SEARCH_RESULTS_ADDED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |itemKey|ItemKey|false|No Documentation|
-### ItemSearchResultsUpdated(ITEM_SEARCH_RESULTS_UPDATED)
+### ItemSearchResultsUpdated
+LiteralName: `ITEM_SEARCH_RESULTS_UPDATED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |itemKey|ItemKey|false|No Documentation|
 |newAuctionID|number|true|No Documentation|
-### OwnedAuctionBidderInfoReceived(OWNED_AUCTION_BIDDER_INFO_RECEIVED)
+### OwnedAuctionBidderInfoReceived
+LiteralName: `OWNED_AUCTION_BIDDER_INFO_RECEIVED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |auctionID|number|false|No Documentation|
 |bidderName|string|false|No Documentation|
-### OwnedAuctionsUpdated(OWNED_AUCTIONS_UPDATED)
+### OwnedAuctionsUpdated
+LiteralName: `OWNED_AUCTIONS_UPDATED`
 
 No Documentation
-### ReplicateItemListUpdate(REPLICATE_ITEM_LIST_UPDATE)
+
+### ReplicateItemListUpdate
+LiteralName: `REPLICATE_ITEM_LIST_UPDATE`
 
 No Documentation
+
+## Tables
+
+### AuctionHouseFilterCategory
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|Uncategorized|AuctionHouseFilterCategory|undefined|No Documentation|
+|Equipment|AuctionHouseFilterCategory|undefined|No Documentation|
+|Rarity|AuctionHouseFilterCategory|undefined|No Documentation|
+### AuctionStatus
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|Active|AuctionStatus|undefined|No Documentation|
+|Sold|AuctionStatus|undefined|No Documentation|
+### ItemCommodityStatus
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|Unknown|ItemCommodityStatus|undefined|No Documentation|
+|Item|ItemCommodityStatus|undefined|No Documentation|
+|Commodity|ItemCommodityStatus|undefined|No Documentation|
+### AuctionHouseBrowseQuery
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|searchString|string|false|No Documentation|
+|sorts|table|false|No Documentation|
+|minLevel|number|true|No Documentation|
+|maxLevel|number|true|No Documentation|
+|filters|table|true|No Documentation|
+|itemClassFilters|table|true|No Documentation|
+### AuctionHouseFilterGroup
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|category|AuctionHouseFilterCategory|false|No Documentation|
+|filters|table|false|No Documentation|
+### AuctionHouseItemClassFilter
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|classID|number|false|No Documentation|
+|subClassID|number|true|No Documentation|
+|inventoryType|number|true|No Documentation|
+### AuctionHouseSortType
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|sortOrder|AuctionHouseSortOrder|false|No Documentation|
+|reverseSort|bool|false|No Documentation|
+### BidInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|auctionID|number|false|No Documentation|
+|itemKey|ItemKey|false|No Documentation|
+|itemLink|string|true|No Documentation|
+|timeLeft|AuctionHouseTimeLeftBand|false|No Documentation|
+|minBid|number|true|No Documentation|
+|bidAmount|number|true|No Documentation|
+|buyoutAmount|number|true|No Documentation|
+|bidder|string|true|No Documentation|
+### BrowseResultInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|itemKey|ItemKey|false|No Documentation|
+|appearanceLink|string|true|No Documentation|
+|totalQuantity|number|false|No Documentation|
+|minPrice|number|false|No Documentation|
+|containsOwnerItem|bool|false|No Documentation|
+### CommoditySearchResultInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|itemID|number|false|No Documentation|
+|quantity|number|false|No Documentation|
+|unitPrice|number|false|No Documentation|
+|auctionID|number|false|No Documentation|
+|owners|table|false|No Documentation|
+|timeLeftSeconds|number|true|No Documentation|
+|numOwnerItems|number|false|No Documentation|
+|containsOwnerItem|bool|false|No Documentation|
+|containsAccountItem|bool|false|No Documentation|
+### ItemKey
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|itemID|number|false|No Documentation|
+|itemLevel|number|false|No Documentation|
+|itemSuffix|number|false|No Documentation|
+|battlePetSpeciesID|number|false|No Documentation|
+### ItemKeyInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|itemName|string|false|No Documentation|
+|battlePetLink|string|true|No Documentation|
+|appearanceLink|string|true|No Documentation|
+|quality|number|false|No Documentation|
+|iconFileID|number|false|No Documentation|
+|isPet|bool|false|No Documentation|
+|isCommodity|bool|false|No Documentation|
+|isEquipment|bool|false|No Documentation|
+### ItemSearchResultInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|itemKey|ItemKey|false|No Documentation|
+|owners|table|false|No Documentation|
+|timeLeft|AuctionHouseTimeLeftBand|false|No Documentation|
+|auctionID|number|false|No Documentation|
+|quantity|number|false|No Documentation|
+|itemLink|string|true|No Documentation|
+|containsOwnerItem|bool|false|No Documentation|
+|containsAccountItem|bool|false|No Documentation|
+|containsSocketedItem|bool|false|No Documentation|
+|bidder|string|true|No Documentation|
+|minBid|number|true|No Documentation|
+|bidAmount|number|true|No Documentation|
+|buyoutAmount|number|true|No Documentation|
+|timeLeftSeconds|number|true|No Documentation|
+### OwnedAuctionInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|auctionID|number|false|No Documentation|
+|itemKey|ItemKey|false|No Documentation|
+|itemLink|string|true|No Documentation|
+|status|AuctionStatus|false|No Documentation|
+|quantity|number|false|No Documentation|
+|timeLeftSeconds|number|true|No Documentation|
+|timeLeft|AuctionHouseTimeLeftBand|true|No Documentation|
+|bidAmount|number|true|No Documentation|
+|buyoutAmount|number|true|No Documentation|
+|bidder|string|true|No Documentation|

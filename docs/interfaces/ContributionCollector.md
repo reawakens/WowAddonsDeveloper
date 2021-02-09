@@ -7,9 +7,11 @@ Type: System / Namespace: C_ContributionCollector
 ### C_ContributionCollector.Close
 
 No Documentation
+
 ### C_ContributionCollector.Contribute
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -17,6 +19,7 @@ No Documentation
 ### C_ContributionCollector.GetActive
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -24,6 +27,7 @@ No Documentation
 ### C_ContributionCollector.GetAtlases
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -35,6 +39,7 @@ No Documentation
 ### C_ContributionCollector.GetBuffs
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -46,6 +51,7 @@ No Documentation
 ### C_ContributionCollector.GetContributionAppearance
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -58,6 +64,7 @@ No Documentation
 ### C_ContributionCollector.GetContributionCollectorsForMap
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -69,6 +76,7 @@ No Documentation
 ### C_ContributionCollector.GetContributionResult
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -80,6 +88,7 @@ No Documentation
 ### C_ContributionCollector.GetDescription
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -91,6 +100,7 @@ No Documentation
 ### C_ContributionCollector.GetManagedContributionsForCreatureID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -102,6 +112,7 @@ No Documentation
 ### C_ContributionCollector.GetName
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -113,6 +124,7 @@ No Documentation
 ### C_ContributionCollector.GetOrderIndex
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -124,6 +136,7 @@ No Documentation
 ### C_ContributionCollector.GetRequiredContributionCurrency
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -136,6 +149,7 @@ No Documentation
 ### C_ContributionCollector.GetRequiredContributionItem
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -148,6 +162,7 @@ No Documentation
 ### C_ContributionCollector.GetRewardQuestID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -159,6 +174,7 @@ No Documentation
 ### C_ContributionCollector.GetState
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -173,6 +189,7 @@ No Documentation
 ### C_ContributionCollector.HasPendingContribution
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -184,6 +201,7 @@ No Documentation
 ### C_ContributionCollector.IsAwaitingRewardQuestData
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -194,9 +212,11 @@ No Documentation
 |awaitingData|bool|false|No Documentation|
 ## Events
 
-### ContributionChanged(CONTRIBUTION_CHANGED)
+### ContributionChanged
+LiteralName: `CONTRIBUTION_CHANGED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -204,28 +224,101 @@ No Documentation
 |result|ContributionResult|false|No Documentation|
 |name|string|false|No Documentation|
 |contributionID|number|false|No Documentation|
-### ContributionCollectorClose(CONTRIBUTION_COLLECTOR_CLOSE)
+### ContributionCollectorClose
+LiteralName: `CONTRIBUTION_COLLECTOR_CLOSE`
 
 No Documentation
-### ContributionCollectorOpen(CONTRIBUTION_COLLECTOR_OPEN)
+
+### ContributionCollectorOpen
+LiteralName: `CONTRIBUTION_COLLECTOR_OPEN`
 
 No Documentation
-### ContributionCollectorPending(CONTRIBUTION_COLLECTOR_PENDING)
+
+### ContributionCollectorPending
+LiteralName: `CONTRIBUTION_COLLECTOR_PENDING`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |contributionID|number|false|No Documentation|
 |isPending|bool|false|No Documentation|
 |result|number|false|No Documentation|
-### ContributionCollectorUpdate(CONTRIBUTION_COLLECTOR_UPDATE)
+### ContributionCollectorUpdate
+LiteralName: `CONTRIBUTION_COLLECTOR_UPDATE`
 
 No Documentation
-### ContributionCollectorUpdateSingle(CONTRIBUTION_COLLECTOR_UPDATE_SINGLE)
+
+### ContributionCollectorUpdateSingle
+LiteralName: `CONTRIBUTION_COLLECTOR_UPDATE_SINGLE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |contributionID|number|false|No Documentation|
+## Tables
+
+### ContributionAppearanceFlags
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|TooltipUseTimeRemaining|ContributionAppearanceFlags|undefined|No Documentation|
+### ContributionResult
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|Success|ContributionResult|undefined|No Documentation|
+|MustBeNearNpc|ContributionResult|undefined|No Documentation|
+|IncorrectState|ContributionResult|undefined|No Documentation|
+|InvalidID|ContributionResult|undefined|No Documentation|
+|QuestDataMissing|ContributionResult|undefined|No Documentation|
+|FailedConditionCheck|ContributionResult|undefined|No Documentation|
+|UnableToCompleteTurnIn|ContributionResult|undefined|No Documentation|
+|InternalError|ContributionResult|undefined|No Documentation|
+### ContributionState
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|None|ContributionState|undefined|No Documentation|
+|Building|ContributionState|undefined|No Documentation|
+|Active|ContributionState|undefined|No Documentation|
+|UnderAttack|ContributionState|undefined|No Documentation|
+|Destroyed|ContributionState|undefined|No Documentation|
+### ContributionAppearance
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|stateName|string|false|No Documentation|
+|stateColor|table|false|No Documentation|
+|tooltipLine|string|false|No Documentation|
+|tooltipUseTimeRemaining|bool|false|No Documentation|
+|statusBarAtlas|string|false|No Documentation|
+|borderAtlas|string|false|No Documentation|
+|bannerAtlas|string|false|No Documentation|
+### ContributionMapInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|areaPoiID|number|false|No Documentation|
+|position|table|false|No Documentation|
+|name|string|false|No Documentation|
+|atlasName|string|false|No Documentation|
+|collectorCreatureID|number|false|No Documentation|

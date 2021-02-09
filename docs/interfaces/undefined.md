@@ -1,3 +1,3 @@
-# undefined
+# Documentation.lua
 
-Type: undefined / Namespace: undefined
+Type: Unknown / Namespace: None

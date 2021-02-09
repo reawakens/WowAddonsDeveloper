@@ -7,6 +7,7 @@ Type: System / Namespace: C_SocialRestrictions
 ### C_SocialRestrictions.IsMuted
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -14,6 +15,7 @@ No Documentation
 ### C_SocialRestrictions.IsSilenced
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -21,8 +23,8 @@ No Documentation
 ### C_SocialRestrictions.IsSquelched
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |isSquelched|bool|false|No Documentation|
-## Events

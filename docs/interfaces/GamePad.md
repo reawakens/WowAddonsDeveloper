@@ -7,9 +7,11 @@ Type: System / Namespace: C_GamePad
 ### C_GamePad.ApplyConfigs
 
 No Documentation
+
 ### C_GamePad.AxisIndexToConfigName
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -21,6 +23,7 @@ No Documentation
 ### C_GamePad.ButtonBindingToIndex
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -32,6 +35,7 @@ No Documentation
 ### C_GamePad.ButtonIndexToBinding
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -43,6 +47,7 @@ No Documentation
 ### C_GamePad.ButtonIndexToConfigName
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -54,6 +59,7 @@ No Documentation
 ### C_GamePad.DeleteConfig
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -61,6 +67,7 @@ No Documentation
 ### C_GamePad.GetActiveDeviceID
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -68,6 +75,7 @@ No Documentation
 ### C_GamePad.GetAllConfigIDs
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -75,6 +83,7 @@ No Documentation
 ### C_GamePad.GetAllDeviceIDs
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -82,6 +91,7 @@ No Documentation
 ### C_GamePad.GetCombinedDeviceID
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -89,6 +99,7 @@ No Documentation
 ### C_GamePad.GetConfig
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -100,6 +111,7 @@ No Documentation
 ### C_GamePad.GetDeviceMappedState
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -111,6 +123,7 @@ No Documentation
 ### C_GamePad.GetDeviceRawState
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -122,6 +135,7 @@ No Documentation
 ### C_GamePad.IsEnabled
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -129,6 +143,7 @@ No Documentation
 ### C_GamePad.SetConfig
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -136,6 +151,7 @@ No Documentation
 ### C_GamePad.StickIndexToConfigName
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -146,12 +162,132 @@ No Documentation
 |configName|string|true|No Documentation|
 ## Events
 
-### GamePadConfigsChanged(GAME_PAD_CONFIGS_CHANGED)
+### GamePadConfigsChanged
+LiteralName: `GAME_PAD_CONFIGS_CHANGED`
 
 No Documentation
-### GamePadConnected(GAME_PAD_CONNECTED)
+
+### GamePadConnected
+LiteralName: `GAME_PAD_CONNECTED`
 
 No Documentation
-### GamePadDisconnected(GAME_PAD_DISCONNECTED)
+
+### GamePadDisconnected
+LiteralName: `GAME_PAD_DISCONNECTED`
 
 No Documentation
+
+## Tables
+
+### GamePadAxisConfig
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|axis|string|false|No Documentation|
+|shift|number|true|No Documentation|
+|scale|number|true|No Documentation|
+|deadzone|number|true|No Documentation|
+|buttonThreshold|number|true|No Documentation|
+|buttonPos|string|true|No Documentation|
+|buttonNeg|string|true|No Documentation|
+|comment|string|true|No Documentation|
+### GamePadConfig
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|comment|string|true|No Documentation|
+|name|string|true|No Documentation|
+|configID|GamePadConfigID|false|No Documentation|
+|labelStyle|string|true|No Documentation|
+|rawButtonMappings|table|false|No Documentation|
+|rawAxisMappings|table|false|No Documentation|
+|axisConfigs|table|false|No Documentation|
+|stickConfigs|table|false|No Documentation|
+### GamePadConfigID
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|vendorID|number|true|No Documentation|
+|productID|number|true|No Documentation|
+### GamePadMappedState
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|labelStyle|string|false|No Documentation|
+|buttonCount|number|false|No Documentation|
+|axisCount|number|false|No Documentation|
+|stickCount|number|false|No Documentation|
+|buttons|table|false|No Documentation|
+|axes|table|false|No Documentation|
+|sticks|table|false|No Documentation|
+### GamePadRawAxisMapping
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|rawIndex|number|false|No Documentation|
+|axis|string|true|No Documentation|
+|comment|string|true|No Documentation|
+### GamePadRawButtonMapping
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|rawIndex|number|false|No Documentation|
+|button|string|true|No Documentation|
+|axis|string|true|No Documentation|
+|axisValue|number|true|No Documentation|
+|comment|string|true|No Documentation|
+### GamePadRawState
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|vendorID|number|false|No Documentation|
+|productID|number|false|No Documentation|
+|rawButtonCount|number|false|No Documentation|
+|rawAxisCount|number|false|No Documentation|
+|rawButtons|table|false|No Documentation|
+|rawAxes|table|false|No Documentation|
+### GamePadStick
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|x|number|false|No Documentation|
+|y|number|false|No Documentation|
+|len|number|false|No Documentation|
+### GamePadStickConfig
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|stick|string|false|No Documentation|
+|axisX|string|true|No Documentation|
+|axisY|string|true|No Documentation|
+|deadzone|number|true|No Documentation|
+|comment|string|true|No Documentation|

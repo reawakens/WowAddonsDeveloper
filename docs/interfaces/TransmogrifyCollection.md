@@ -7,6 +7,7 @@ Type: System / Namespace: C_TransmogCollection
 ### C_TransmogCollection.GetAppearanceSources
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -19,6 +20,7 @@ No Documentation
 ### C_TransmogCollection.GetIllusionSourceInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -33,6 +35,7 @@ No Documentation
 ### C_TransmogCollection.GetSourceIcon
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -44,6 +47,7 @@ No Documentation
 ### C_TransmogCollection.GetSourceInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -52,4 +56,3 @@ No Documentation
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |sourceInfo|AppearanceSourceInfo|false|No Documentation|
-## Events

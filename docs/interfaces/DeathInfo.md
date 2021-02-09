@@ -7,6 +7,7 @@ Type: System / Namespace: C_DeathInfo
 ### C_DeathInfo.GetCorpseMapPosition
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -18,6 +19,7 @@ No Documentation
 ### C_DeathInfo.GetDeathReleasePosition
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -29,6 +31,7 @@ No Documentation
 ### C_DeathInfo.GetGraveyardsForMap
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -40,6 +43,7 @@ No Documentation
 ### C_DeathInfo.GetSelfResurrectOptions
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -47,6 +51,7 @@ No Documentation
 ### C_DeathInfo.UseSelfResurrectOption
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -54,57 +59,122 @@ No Documentation
 |id|number|false|No Documentation|
 ## Events
 
-### AreaSpiritHealerInRange(AREA_SPIRIT_HEALER_IN_RANGE)
+### AreaSpiritHealerInRange
+LiteralName: `AREA_SPIRIT_HEALER_IN_RANGE`
 
 No Documentation
-### AreaSpiritHealerOutOfRange(AREA_SPIRIT_HEALER_OUT_OF_RANGE)
+
+### AreaSpiritHealerOutOfRange
+LiteralName: `AREA_SPIRIT_HEALER_OUT_OF_RANGE`
 
 No Documentation
-### CemeteryPreferenceUpdated(CEMETERY_PREFERENCE_UPDATED)
+
+### CemeteryPreferenceUpdated
+LiteralName: `CEMETERY_PREFERENCE_UPDATED`
 
 No Documentation
-### ConfirmXpLoss(CONFIRM_XP_LOSS)
+
+### ConfirmXpLoss
+LiteralName: `CONFIRM_XP_LOSS`
 
 No Documentation
-### CorpseInInstance(CORPSE_IN_INSTANCE)
+
+### CorpseInInstance
+LiteralName: `CORPSE_IN_INSTANCE`
 
 No Documentation
-### CorpseInRange(CORPSE_IN_RANGE)
+
+### CorpseInRange
+LiteralName: `CORPSE_IN_RANGE`
 
 No Documentation
-### CorpseOutOfRange(CORPSE_OUT_OF_RANGE)
+
+### CorpseOutOfRange
+LiteralName: `CORPSE_OUT_OF_RANGE`
 
 No Documentation
-### PlayerAlive(PLAYER_ALIVE)
+
+### PlayerAlive
+LiteralName: `PLAYER_ALIVE`
 
 No Documentation
-### PlayerDead(PLAYER_DEAD)
+
+### PlayerDead
+LiteralName: `PLAYER_DEAD`
 
 No Documentation
-### PlayerSkinned(PLAYER_SKINNED)
+
+### PlayerSkinned
+LiteralName: `PLAYER_SKINNED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |hasFreeRepop|number|false|No Documentation|
-### PlayerUnghost(PLAYER_UNGHOST)
+### PlayerUnghost
+LiteralName: `PLAYER_UNGHOST`
 
 No Documentation
-### RequestCemeteryListResponse(REQUEST_CEMETERY_LIST_RESPONSE)
+
+### RequestCemeteryListResponse
+LiteralName: `REQUEST_CEMETERY_LIST_RESPONSE`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |isGossipTriggered|bool|false|No Documentation|
-### ResurrectRequest(RESURRECT_REQUEST)
+### ResurrectRequest
+LiteralName: `RESURRECT_REQUEST`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |inviter|string|false|No Documentation|
-### SelfResSpellChanged(SELF_RES_SPELL_CHANGED)
+### SelfResSpellChanged
+LiteralName: `SELF_RES_SPELL_CHANGED`
 
 No Documentation
+
+## Tables
+
+### SelfResurrectOptionType
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|Spell|SelfResurrectOptionType|undefined|No Documentation|
+|Item|SelfResurrectOptionType|undefined|No Documentation|
+### GraveyardMapInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|areaPoiID|number|false|No Documentation|
+|position|table|false|No Documentation|
+|name|string|false|No Documentation|
+|textureIndex|number|false|No Documentation|
+|graveyardID|number|false|No Documentation|
+|isGraveyardSelectable|bool|false|No Documentation|
+### SelfResurrectOption
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|name|string|false|No Documentation|
+|optionType|SelfResurrectOptionType|false|No Documentation|
+|id|number|false|No Documentation|
+|canUse|bool|false|No Documentation|
+|isLimited|bool|false|No Documentation|
+|priority|number|false|No Documentation|

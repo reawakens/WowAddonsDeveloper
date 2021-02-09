@@ -7,6 +7,7 @@ Type: System / Namespace: C_Map
 ### C_Map.CanSetUserWaypointOnMap
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -18,12 +19,15 @@ No Documentation
 ### C_Map.ClearUserWaypoint
 
 No Documentation
+
 ### C_Map.CloseWorldMapInteraction
 
 No Documentation
+
 ### C_Map.GetAreaInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -46,6 +50,7 @@ Only works for the player and party members.
 ### C_Map.GetBountySetMaps
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -57,6 +62,7 @@ No Documentation
 ### C_Map.GetFallbackWorldMapID
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -64,6 +70,7 @@ No Documentation
 ### C_Map.GetMapArtBackgroundAtlas
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -75,6 +82,7 @@ No Documentation
 ### C_Map.GetMapArtHelpTextPosition
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -86,6 +94,7 @@ No Documentation
 ### C_Map.GetMapArtID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -97,6 +106,7 @@ No Documentation
 ### C_Map.GetMapArtLayerTextures
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -109,6 +119,7 @@ No Documentation
 ### C_Map.GetMapArtLayers
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -120,6 +131,7 @@ No Documentation
 ### C_Map.GetMapBannersForMap
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -131,6 +143,7 @@ No Documentation
 ### C_Map.GetMapChildrenInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -144,6 +157,7 @@ No Documentation
 ### C_Map.GetMapDisplayInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -155,6 +169,7 @@ No Documentation
 ### C_Map.GetMapGroupID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -166,6 +181,7 @@ No Documentation
 ### C_Map.GetMapGroupMembersInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -177,6 +193,7 @@ No Documentation
 ### C_Map.GetMapHighlightInfoAtPosition
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -197,6 +214,7 @@ No Documentation
 ### C_Map.GetMapInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -208,6 +226,7 @@ No Documentation
 ### C_Map.GetMapInfoAtPosition
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -221,6 +240,7 @@ No Documentation
 ### C_Map.GetMapLevels
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -235,6 +255,7 @@ No Documentation
 ### C_Map.GetMapLinksForMap
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -246,6 +267,7 @@ No Documentation
 ### C_Map.GetMapPosFromWorldPos
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -260,6 +282,7 @@ No Documentation
 ### C_Map.GetMapRectOnMap
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -299,6 +322,7 @@ Only works for the player and party members.
 ### C_Map.GetUserWaypoint
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -306,6 +330,7 @@ No Documentation
 ### C_Map.GetUserWaypointFromHyperlink
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -317,6 +342,7 @@ No Documentation
 ### C_Map.GetUserWaypointHyperlink
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -324,6 +350,7 @@ No Documentation
 ### C_Map.GetUserWaypointPositionForMap
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -335,6 +362,7 @@ No Documentation
 ### C_Map.GetWorldPosFromMapPos
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -348,6 +376,7 @@ No Documentation
 ### C_Map.HasUserWaypoint
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -355,6 +384,7 @@ No Documentation
 ### C_Map.IsMapValidForNavBarDropDown
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -366,6 +396,7 @@ No Documentation
 ### C_Map.MapHasArt
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -377,6 +408,7 @@ No Documentation
 ### C_Map.RequestPreloadMap
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -384,34 +416,170 @@ No Documentation
 ### C_Map.SetUserWaypoint
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |point|table|false|No Documentation|
 ## Events
 
-### NewWmoChunk(NEW_WMO_CHUNK)
+### NewWmoChunk
+LiteralName: `NEW_WMO_CHUNK`
 
 No Documentation
-### UserWaypointUpdated(USER_WAYPOINT_UPDATED)
+
+### UserWaypointUpdated
+LiteralName: `USER_WAYPOINT_UPDATED`
 
 No Documentation
-### WorldMapClose(WORLD_MAP_CLOSE)
+
+### WorldMapClose
+LiteralName: `WORLD_MAP_CLOSE`
 
 No Documentation
-### WorldMapOpen(WORLD_MAP_OPEN)
+
+### WorldMapOpen
+LiteralName: `WORLD_MAP_OPEN`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |uiMapID|number|false|No Documentation|
-### ZoneChanged(ZONE_CHANGED)
+### ZoneChanged
+LiteralName: `ZONE_CHANGED`
 
 No Documentation
-### ZoneChangedIndoors(ZONE_CHANGED_INDOORS)
+
+### ZoneChangedIndoors
+LiteralName: `ZONE_CHANGED_INDOORS`
 
 No Documentation
-### ZoneChangedNewArea(ZONE_CHANGED_NEW_AREA)
+
+### ZoneChangedNewArea
+LiteralName: `ZONE_CHANGED_NEW_AREA`
 
 No Documentation
+
+## Tables
+
+### MapCanvasPosition
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|None|MapCanvasPosition|undefined|No Documentation|
+|BottomLeft|MapCanvasPosition|undefined|No Documentation|
+|BottomRight|MapCanvasPosition|undefined|No Documentation|
+|TopLeft|MapCanvasPosition|undefined|No Documentation|
+|TopRight|MapCanvasPosition|undefined|No Documentation|
+### UIMapFlag
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|NoHighlight|UIMapFlag|undefined|No Documentation|
+|ShowOverlays|UIMapFlag|undefined|No Documentation|
+|ShowTaxiNodes|UIMapFlag|undefined|No Documentation|
+|GarrisonMap|UIMapFlag|undefined|No Documentation|
+|FallbackToParentMap|UIMapFlag|undefined|No Documentation|
+|NoHighlightTexture|UIMapFlag|undefined|No Documentation|
+|ShowTaskObjectives|UIMapFlag|undefined|No Documentation|
+|NoWorldPositions|UIMapFlag|undefined|No Documentation|
+|HideArchaeologyDigs|UIMapFlag|undefined|No Documentation|
+|Deprecated|UIMapFlag|undefined|No Documentation|
+|HideIcons|UIMapFlag|undefined|No Documentation|
+|HideVignettes|UIMapFlag|undefined|No Documentation|
+|ForceAllOverlayExplored|UIMapFlag|undefined|No Documentation|
+|FlightMapShowZoomOut|UIMapFlag|undefined|No Documentation|
+|FlightMapAutoZoom|UIMapFlag|undefined|No Documentation|
+|ForceOnNavbar|UIMapFlag|undefined|No Documentation|
+### UIMapSystem
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|World|UIMapSystem|undefined|No Documentation|
+|Taxi|UIMapSystem|undefined|No Documentation|
+|Adventure|UIMapSystem|undefined|No Documentation|
+|Minimap|UIMapSystem|undefined|No Documentation|
+### UIMapType
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|Cosmic|UIMapType|undefined|No Documentation|
+|World|UIMapType|undefined|No Documentation|
+|Continent|UIMapType|undefined|No Documentation|
+|Zone|UIMapType|undefined|No Documentation|
+|Dungeon|UIMapType|undefined|No Documentation|
+|Micro|UIMapType|undefined|No Documentation|
+|Orphan|UIMapType|undefined|No Documentation|
+### MapBannerInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|areaPoiID|number|false|No Documentation|
+|name|string|false|No Documentation|
+|atlasName|string|false|No Documentation|
+|uiTextureKit|string|true|No Documentation|
+### MapLinkInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|areaPoiID|number|false|No Documentation|
+|position|table|false|No Documentation|
+|name|string|false|No Documentation|
+|atlasName|string|false|No Documentation|
+|linkedUiMapID|number|false|No Documentation|
+### UiMapDetails
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|mapID|number|false|No Documentation|
+|name|string|false|No Documentation|
+|mapType|UIMapType|false|No Documentation|
+|parentMapID|number|false|No Documentation|
+|flags|number|false|No Documentation|
+### UiMapGroupMemberInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|mapID|number|false|No Documentation|
+|relativeHeightIndex|number|false|No Documentation|
+|name|string|false|No Documentation|
+### UiMapLayerInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|layerWidth|number|false|No Documentation|
+|layerHeight|number|false|No Documentation|
+|tileWidth|number|false|No Documentation|
+|tileHeight|number|false|No Documentation|
+|minScale|number|false|No Documentation|
+|maxScale|number|false|No Documentation|
+|additionalZoomSteps|number|false|No Documentation|

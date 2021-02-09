@@ -7,6 +7,7 @@ Type: System / Namespace: C_PlayerMentorship
 ### C_PlayerMentorship.GetMentorLevelRequirement
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -14,6 +15,7 @@ No Documentation
 ### C_PlayerMentorship.GetMentorOptionalAchievementIDs
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -21,6 +23,7 @@ No Documentation
 ### C_PlayerMentorship.GetMentorshipStatus
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -32,6 +35,7 @@ No Documentation
 ### C_PlayerMentorship.IsActivePlayerConsideredNewcomer
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -39,15 +43,19 @@ No Documentation
 ### C_PlayerMentorship.IsMentorRestricted
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |isRestricted|bool|false|No Documentation|
 ## Events
 
-### MentorshipStatusChanged(MENTORSHIP_STATUS_CHANGED)
+### MentorshipStatusChanged
+LiteralName: `MENTORSHIP_STATUS_CHANGED`
 
 No Documentation
-### NewcomerGraduation(NEWCOMER_GRADUATION)
+
+### NewcomerGraduation
+LiteralName: `NEWCOMER_GRADUATION`
 
 No Documentation

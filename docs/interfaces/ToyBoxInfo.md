@@ -7,6 +7,7 @@ Type: System / Namespace: C_ToyBoxInfo
 ### C_ToyBoxInfo.ClearFanfare
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -14,6 +15,7 @@ No Documentation
 ### C_ToyBoxInfo.NeedsFanfare
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -24,16 +26,20 @@ No Documentation
 |needsFanfare|bool|false|No Documentation|
 ## Events
 
-### NewToyAdded(NEW_TOY_ADDED)
+### NewToyAdded
+LiteralName: `NEW_TOY_ADDED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |itemID|number|false|No Documentation|
-### ToysUpdated(TOYS_UPDATED)
+### ToysUpdated
+LiteralName: `TOYS_UPDATED`
 
 No Documentation
+
 #### Payload
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|

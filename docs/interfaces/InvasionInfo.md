@@ -14,6 +14,7 @@ Returns true if invasions are active in the same physical area as the player.
 ### C_InvasionInfo.GetInvasionForUiMapID
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -25,6 +26,7 @@ No Documentation
 ### C_InvasionInfo.GetInvasionInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -36,6 +38,7 @@ No Documentation
 ### C_InvasionInfo.GetInvasionTimeLeft
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -44,4 +47,17 @@ No Documentation
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |timeLeftMinutes|number|true|No Documentation|
-## Events
+## Tables
+
+### InvasionMapInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|invasionID|number|false|No Documentation|
+|name|string|false|No Documentation|
+|position|table|false|No Documentation|
+|atlasName|string|false|No Documentation|
+|rewardQuestID|number|true|No Documentation|

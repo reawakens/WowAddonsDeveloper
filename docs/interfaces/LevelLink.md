@@ -7,6 +7,7 @@ Type: System / Namespace: C_LevelLink
 ### C_LevelLink.IsActionLocked
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -18,6 +19,7 @@ No Documentation
 ### C_LevelLink.IsSpellLocked
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -26,4 +28,3 @@ No Documentation
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |isLocked|bool|false|No Documentation|
-## Events

@@ -7,9 +7,11 @@ Type: System / Namespace: C_ChromieTime
 ### C_ChromieTime.CloseUI
 
 No Documentation
+
 ### C_ChromieTime.GetChromieTimeExpansionOption
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -21,6 +23,7 @@ No Documentation
 ### C_ChromieTime.GetChromieTimeExpansionOptions
 
 No Documentation
+
 #### Returns
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -28,15 +31,36 @@ No Documentation
 ### C_ChromieTime.SelectChromieTimeOption
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
 |chromieTimeExpansionInfoId|number|false|No Documentation|
 ## Events
 
-### ChromieTimeClose(CHROMIE_TIME_CLOSE)
+### ChromieTimeClose
+LiteralName: `CHROMIE_TIME_CLOSE`
 
 No Documentation
-### ChromieTimeOpen(CHROMIE_TIME_OPEN)
+
+### ChromieTimeOpen
+LiteralName: `CHROMIE_TIME_OPEN`
 
 No Documentation
+
+## Tables
+
+### ChromieTimeExpansionInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|id|number|false|No Documentation|
+|name|string|false|No Documentation|
+|description|string|false|No Documentation|
+|mapAtlas|string|false|No Documentation|
+|previewAtlas|string|false|No Documentation|
+|completed|bool|false|No Documentation|
+|alreadyOn|bool|false|No Documentation|

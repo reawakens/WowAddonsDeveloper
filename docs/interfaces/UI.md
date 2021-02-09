@@ -7,8 +7,10 @@ Type: System / Namespace: C_UI
 ### C_UI.Reload
 
 No Documentation
+
 ## Events
 
-### UiScaleChanged(UI_SCALE_CHANGED)
+### UiScaleChanged
+LiteralName: `UI_SCALE_CHANGED`
 
 No Documentation

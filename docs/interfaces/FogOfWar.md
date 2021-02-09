@@ -7,6 +7,7 @@ Type: System / Namespace: C_FogOfWar
 ### C_FogOfWar.GetFogOfWarForMap
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -18,6 +19,7 @@ No Documentation
 ### C_FogOfWar.GetFogOfWarInfo
 
 No Documentation
+
 #### Arguments
 |Name|Type|Nilable|Documentation|
 |:---:|:---:|:---:|:---|
@@ -28,6 +30,21 @@ No Documentation
 |fogOfWarInfo|FogOfWarInfo|true|No Documentation|
 ## Events
 
-### FogOfWarUpdated(FOG_OF_WAR_UPDATED)
+### FogOfWarUpdated
+LiteralName: `FOG_OF_WAR_UPDATED`
 
 No Documentation
+
+## Tables
+
+### FogOfWarInfo
+
+No Documentation
+
+#### Fields
+|Name|Type|Nilable|Documentation|
+|:---:|:---:|:---:|:---|
+|fogOfWarID|number|false|No Documentation|
+|backgroundAtlas|string|false|No Documentation|
+|maskAtlas|string|false|No Documentation|
+|maskScalar|number|false|No Documentation|
