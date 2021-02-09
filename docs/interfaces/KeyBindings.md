@@ -1,6 +1,6 @@
 # KeyBindings
 
-Type: System / Namespace: C_KeyBindings
+Name: KeyBindings / Type: System / Namespace: C_KeyBindings
 
 ## Functions
 

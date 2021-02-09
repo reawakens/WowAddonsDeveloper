@@ -1,6 +1,6 @@
 # UI
 
-Type: System / Namespace: C_UI
+Name: UI / Type: System / Namespace: C_UI
 
 ## Functions
 

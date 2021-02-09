@@ -1,6 +1,6 @@
 # CombatLog
 
-Type: System / Namespace: C_CombatLog
+Name: CombatLog / Type: System / Namespace: C_CombatLog
 
 ## Events
 

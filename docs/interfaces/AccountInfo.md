@@ -1,6 +1,6 @@
 # AccountInfo
 
-Type: System / Namespace: C_AccountInfo
+Name: AccountInfo / Type: System / Namespace: C_AccountInfo
 
 ## Functions
 

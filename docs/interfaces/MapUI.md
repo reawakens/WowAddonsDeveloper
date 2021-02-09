@@ -1,6 +1,6 @@
 # MapUI
 
-Type: System / Namespace: C_Map
+Name: MapUI / Type: System / Namespace: C_Map
 
 ## Functions
 

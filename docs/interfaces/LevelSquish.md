@@ -1,6 +1,6 @@
 # LevelSquish
 
-Type: System / Namespace: C_LevelSquish
+Name: LevelSquish / Type: System / Namespace: C_LevelSquish
 
 ## Functions
 

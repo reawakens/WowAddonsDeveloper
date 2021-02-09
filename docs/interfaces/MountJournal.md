@@ -1,6 +1,6 @@
 # MountJournal
 
-Type: System / Namespace: C_MountJournal
+Name: MountJournal / Type: System / Namespace: C_MountJournal
 
 ## Functions
 

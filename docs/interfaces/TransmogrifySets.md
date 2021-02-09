@@ -1,6 +1,6 @@
 # TransmogrifySets
 
-Type: System / Namespace: C_TransmogSets
+Name: TransmogrifySets / Type: System / Namespace: C_TransmogSets
 
 ## Functions
 

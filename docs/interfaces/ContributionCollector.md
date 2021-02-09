@@ -1,6 +1,6 @@
 # ContributionCollector
 
-Type: System / Namespace: C_ContributionCollector
+Name: ContributionCollector / Type: System / Namespace: C_ContributionCollector
 
 ## Functions
 

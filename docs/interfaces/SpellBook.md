@@ -1,6 +1,6 @@
 # SpellBook
 
-Type: System / Namespace: C_SpellBook
+Name: SpellBook / Type: System / Namespace: C_SpellBook
 
 ## Functions
 

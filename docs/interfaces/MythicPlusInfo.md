@@ -1,6 +1,6 @@
 # MythicPlusInfo
 
-Type: System / Namespace: C_MythicPlus
+Name: MythicPlusInfo / Type: System / Namespace: C_MythicPlus
 
 ## Functions
 

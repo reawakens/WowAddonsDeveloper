@@ -1,6 +1,6 @@
 # PaperDollInfo
 
-Type: System / Namespace: C_PaperDollInfo
+Name: PaperDollInfo / Type: System / Namespace: C_PaperDollInfo
 
 ## Functions
 

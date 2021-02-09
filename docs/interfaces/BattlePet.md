@@ -1,6 +1,6 @@
 # BattlePet
 
-Type: System / Namespace: C_BattlePet
+Name: BattlePet / Type: System / Namespace: C_BattlePet
 
 ## Events
 

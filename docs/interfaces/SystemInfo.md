@@ -1,6 +1,6 @@
 # SystemInfo
 
-Type: System / Namespace: C_System
+Name: SystemInfo / Type: System / Namespace: C_System
 
 ## Functions
 

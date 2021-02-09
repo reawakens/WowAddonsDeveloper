@@ -1,6 +1,6 @@
 # CompactUnitFrames
 
-Type: System / Namespace: C_CompactUnitFrames
+Name: CompactUnitFrames / Type: System / Namespace: C_CompactUnitFrames
 
 ## Events
 

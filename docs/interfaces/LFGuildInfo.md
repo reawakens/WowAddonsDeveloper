@@ -1,6 +1,6 @@
 # LFGuildInfo
 
-Type: System / Namespace: C_LFGuildInfo
+Name: LFGuildInfo / Type: System / Namespace: C_LFGuildInfo
 
 ## Functions
 

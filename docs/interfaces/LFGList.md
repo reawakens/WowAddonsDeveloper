@@ -1,6 +1,6 @@
 # LFGList
 
-Type: System / Namespace: C_LFGList
+Name: LFGList / Type: System / Namespace: C_LFGList
 
 ## Functions
 

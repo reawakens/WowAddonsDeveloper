@@ -1,6 +1,6 @@
 # InstanceEncounter
 
-Type: System / Namespace: C_InstanceEncounter
+Name: InstanceEncounter / Type: System / Namespace: C_InstanceEncounter
 
 ## Events
 

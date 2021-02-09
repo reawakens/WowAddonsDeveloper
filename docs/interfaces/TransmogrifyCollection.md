@@ -1,6 +1,6 @@
 # TransmogrifyCollection
 
-Type: System / Namespace: C_TransmogCollection
+Name: TransmogrifyCollection / Type: System / Namespace: C_TransmogCollection
 
 ## Functions
 

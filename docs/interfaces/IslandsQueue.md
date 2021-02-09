@@ -1,6 +1,6 @@
 # IslandsQueue
 
-Type: System / Namespace: C_IslandsQueue
+Name: IslandsQueue / Type: System / Namespace: C_IslandsQueue
 
 ## Functions
 

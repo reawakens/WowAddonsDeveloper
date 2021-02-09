@@ -1,6 +1,6 @@
 # ChallengeModeInfo
 
-Type: System / Namespace: C_ChallengeMode
+Name: ChallengeModeInfo / Type: System / Namespace: C_ChallengeMode
 
 ## Functions
 

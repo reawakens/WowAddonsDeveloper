@@ -1,6 +1,6 @@
 # TalkingHead
 
-Type: System / Namespace: C_TalkingHead
+Name: TalkingHead / Type: System / Namespace: C_TalkingHead
 
 ## Events
 

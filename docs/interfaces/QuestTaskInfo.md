@@ -1,6 +1,6 @@
 # QuestTaskInfo
 
-Type: System / Namespace: C_TaskQuest
+Name: QuestTaskInfo / Type: System / Namespace: C_TaskQuest
 
 ## Functions
 

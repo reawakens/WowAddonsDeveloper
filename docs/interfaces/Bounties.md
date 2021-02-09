@@ -1,6 +1,6 @@
 # Bounties
 
-Type: System / Namespace: C_Bounties
+Name: Bounties / Type: System / Namespace: C_Bounties
 
 ## Functions
 

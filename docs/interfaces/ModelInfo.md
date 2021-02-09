@@ -1,6 +1,6 @@
 # ModelInfo
 
-Type: System / Namespace: C_ModelInfo
+Name: ModelInfo / Type: System / Namespace: C_ModelInfo
 
 ## Functions
 

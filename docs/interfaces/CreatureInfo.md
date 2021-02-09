@@ -1,6 +1,6 @@
 # CreatureInfo
 
-Type: System / Namespace: C_CreatureInfo
+Name: CreatureInfo / Type: System / Namespace: C_CreatureInfo
 
 ## Functions
 

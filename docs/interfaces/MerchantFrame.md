@@ -1,6 +1,6 @@
 # MerchantFrame
 
-Type: System / Namespace: C_MerchantFrame
+Name: MerchantFrame / Type: System / Namespace: C_MerchantFrame
 
 ## Functions
 

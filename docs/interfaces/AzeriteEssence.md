@@ -1,6 +1,6 @@
 # AzeriteEssence
 
-Type: System / Namespace: C_AzeriteEssence
+Name: AzeriteEssence / Type: System / Namespace: C_AzeriteEssence
 
 ## Functions
 

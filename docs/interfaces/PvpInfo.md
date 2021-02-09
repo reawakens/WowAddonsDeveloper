@@ -1,6 +1,6 @@
 # PvpInfo
 
-Type: System / Namespace: C_PvP
+Name: PvpInfo / Type: System / Namespace: C_PvP
 
 ## Functions
 

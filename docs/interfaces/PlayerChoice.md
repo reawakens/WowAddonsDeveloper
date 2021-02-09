@@ -1,6 +1,6 @@
 # PlayerChoice
 
-Type: System / Namespace: C_PlayerChoice
+Name: PlayerChoice / Type: System / Namespace: C_PlayerChoice
 
 ## Functions
 

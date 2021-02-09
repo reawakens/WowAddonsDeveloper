@@ -1,6 +1,6 @@
 # Soulbinds
 
-Type: System / Namespace: C_Soulbinds
+Name: Soulbinds / Type: System / Namespace: C_Soulbinds
 
 ## Functions
 

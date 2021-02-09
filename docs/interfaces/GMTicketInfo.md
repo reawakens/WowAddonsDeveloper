@@ -1,6 +1,6 @@
 # GMTicketInfo
 
-Type: System / Namespace: C_GMTicketInfo
+Name: GMTicketInfo / Type: System / Namespace: C_GMTicketInfo
 
 ## Events
 

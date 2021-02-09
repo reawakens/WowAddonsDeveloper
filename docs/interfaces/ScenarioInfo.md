@@ -1,6 +1,6 @@
 # ScenarioInfo
 
-Type: System / Namespace: C_ScenarioInfo
+Name: ScenarioInfo / Type: System / Namespace: C_ScenarioInfo
 
 ## Functions
 

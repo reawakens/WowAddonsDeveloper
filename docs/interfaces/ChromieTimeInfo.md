@@ -1,6 +1,6 @@
 # ChromieTimeInfo
 
-Type: System / Namespace: C_ChromieTime
+Name: ChromieTimeInfo / Type: System / Namespace: C_ChromieTime
 
 ## Functions
 

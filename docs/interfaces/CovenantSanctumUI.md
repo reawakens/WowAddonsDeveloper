@@ -1,6 +1,6 @@
 # CovenantSanctumUI
 
-Type: System / Namespace: C_CovenantSanctumUI
+Name: CovenantSanctumUI / Type: System / Namespace: C_CovenantSanctumUI
 
 ## Functions
 

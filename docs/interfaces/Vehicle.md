@@ -1,6 +1,6 @@
 # Vehicle
 
-Type: System / Namespace: C_Vehicle
+Name: Vehicle / Type: System / Namespace: C_Vehicle
 
 ## Events
 

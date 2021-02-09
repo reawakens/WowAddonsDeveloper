@@ -1,6 +1,6 @@
 # ConfigurationWarnings
 
-Type: System / Namespace: C_ConfigurationWarnings
+Name: ConfigurationWarnings / Type: System / Namespace: C_ConfigurationWarnings
 
 ## Functions
 

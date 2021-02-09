@@ -1,6 +1,6 @@
 # Spell
 
-Type: System / Namespace: C_Spell
+Name: Spell / Type: System / Namespace: C_Spell
 
 ## Functions
 

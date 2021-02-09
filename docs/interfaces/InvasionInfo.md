@@ -1,6 +1,6 @@
 # InvasionInfo
 
-Type: System / Namespace: C_InvasionInfo
+Name: InvasionInfo / Type: System / Namespace: C_InvasionInfo
 
 ## Functions
 

@@ -1,6 +1,6 @@
 # ClassTrial
 
-Type: System / Namespace: C_ClassTrial
+Name: ClassTrial / Type: System / Namespace: C_ClassTrial
 
 ## Events
 

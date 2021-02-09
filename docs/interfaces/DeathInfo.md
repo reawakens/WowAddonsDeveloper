@@ -1,6 +1,6 @@
 # DeathInfo
 
-Type: System / Namespace: C_DeathInfo
+Name: DeathInfo / Type: System / Namespace: C_DeathInfo
 
 ## Functions
 

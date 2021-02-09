@@ -1,6 +1,6 @@
 # ZoneAbility
 
-Type: System / Namespace: C_ZoneAbility
+Name: ZoneAbility / Type: System / Namespace: C_ZoneAbility
 
 ## Functions
 

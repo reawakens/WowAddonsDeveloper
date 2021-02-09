@@ -1,6 +1,6 @@
 # ArtifactUI
 
-Type: System / Namespace: C_ArtifactUI
+Name: ArtifactUI / Type: System / Namespace: C_ArtifactUI
 
 ## Functions
 

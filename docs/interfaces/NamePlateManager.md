@@ -1,6 +1,6 @@
 # NamePlateManager
 
-Type: System / Namespace: C_NamePlateManager
+Name: NamePlateManager / Type: System / Namespace: C_NamePlateManager
 
 ## Events
 

@@ -1,6 +1,6 @@
 # Cursor
 
-Type: System / Namespace: C_Cursor
+Name: Cursor / Type: System / Namespace: C_Cursor
 
 ## Functions
 

@@ -1,6 +1,6 @@
 # Cinematic
 
-Type: System / Namespace: C_Cinematic
+Name: Cinematic / Type: System / Namespace: C_Cinematic
 
 ## Events
 

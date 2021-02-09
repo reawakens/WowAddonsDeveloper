@@ -1,6 +1,6 @@
 # ScriptWarnings
 
-Type: System / Namespace: C_ScriptWarnings
+Name: ScriptWarnings / Type: System / Namespace: C_ScriptWarnings
 
 ## Events
 

@@ -1,6 +1,6 @@
 # Console
 
-Type: System / Namespace: C_Console
+Name: Console / Type: System / Namespace: C_Console
 
 ## Functions
 

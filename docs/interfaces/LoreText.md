@@ -1,6 +1,6 @@
 # LoreText
 
-Type: System / Namespace: C_LoreText
+Name: LoreText / Type: System / Namespace: C_LoreText
 
 ## Functions
 

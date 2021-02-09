@@ -1,6 +1,6 @@
 # WarCampaign
 
-Type: System / Namespace: C_CampaignInfo
+Name: WarCampaign / Type: System / Namespace: C_CampaignInfo
 
 ## Functions
 

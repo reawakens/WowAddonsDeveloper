@@ -1,6 +1,6 @@
 # ReportSystem
 
-Type: System / Namespace: C_ReportSystem
+Name: ReportSystem / Type: System / Namespace: C_ReportSystem
 
 ## Functions
 

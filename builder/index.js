@@ -7,7 +7,7 @@ const I18n = require('@fiverr/i18n');
 
 const { parse: luaTableParse } = require('./luaParser')
 const documentLocation = '../wow-ui-source/AddOns/Blizzard_APIDocumentation/'
-const translations = require('./localize/zhCN.json');
+const translations = require('./localize/zh_CN.json');
 const i18n = new I18n({ translations });
 const show = console.log;
 
@@ -25,7 +25,7 @@ function walkSync(currentDirPath, callback) {
 }
 
 // Create the markdown of the Blizzard APIDocumentation
-function buildMarkdown(documentApi, basename) {
+function buildMarkdown(documentApi, basename, i18nFile) {
 
     let markdown = [];
     const APIName = documentApi.Name || basename.substr(basename.length - 'Documentation.lua'.length);
@@ -33,7 +33,7 @@ function buildMarkdown(documentApi, basename) {
     const Namespace = documentApi.Namespace;
 
     markdown.push(`# ${ APIName }\n`)
-    markdown.push(`Type: ${ APIType } / Namespace: ${ Namespace || 'None' }\n`)
+    markdown.push(`Name: ${ APIName } / Type: ${ APIType } / Namespace: ${ Namespace || 'None' }\n`)
     show(`Create [${ chalk.blue(APIType) }] ${ chalk.green(basename) } markdown.`);
 
     // Build Functions
@@ -247,4 +247,4 @@ walkSync(documentLocation, (filePath, stat) => {
 });
 
 // Build the localize translate template
-fs.writeFileSync('./localize/template.json', JSONFormat(translate))
+fs.writeFileSync('./localize/_tpl.json', JSONFormat(translate))

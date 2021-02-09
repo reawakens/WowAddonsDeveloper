@@ -1,6 +1,6 @@
 # LossOfControl
 
-Type: System / Namespace: C_LossOfControl
+Name: LossOfControl / Type: System / Namespace: C_LossOfControl
 
 ## Functions
 

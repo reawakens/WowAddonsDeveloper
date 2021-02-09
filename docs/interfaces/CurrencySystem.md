@@ -1,6 +1,6 @@
 # CurrencySystem
 
-Type: System / Namespace: C_CurrencyInfo
+Name: CurrencySystem / Type: System / Namespace: C_CurrencyInfo
 
 ## Functions
 

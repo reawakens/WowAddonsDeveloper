@@ -1,6 +1,6 @@
 # HeirloomInfo
 
-Type: System / Namespace: C_HeirloomInfo
+Name: HeirloomInfo / Type: System / Namespace: C_HeirloomInfo
 
 ## Events
 

@@ -1,6 +1,6 @@
 # EncounterInfo
 
-Type: System / Namespace: C_EncounterInfo
+Name: EncounterInfo / Type: System / Namespace: C_EncounterInfo
 
 ## Events
 

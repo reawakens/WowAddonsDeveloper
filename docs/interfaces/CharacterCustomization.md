@@ -1,6 +1,6 @@
 # CharacterCustomization
 
-Type: System / Namespace: C_CharacterCustomization
+Name: CharacterCustomization / Type: System / Namespace: C_CharacterCustomization
 
 ## Functions
 

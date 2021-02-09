@@ -1,6 +1,6 @@
 # KnowledgeBase
 
-Type: System / Namespace: C_KnowledgeBase
+Name: KnowledgeBase / Type: System / Namespace: C_KnowledgeBase
 
 ## Events
 

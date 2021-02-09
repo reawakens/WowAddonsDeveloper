@@ -1,6 +1,6 @@
 # SocialQueue
 
-Type: System / Namespace: C_SocialQueue
+Name: SocialQueue / Type: System / Namespace: C_SocialQueue
 
 ## Functions
 

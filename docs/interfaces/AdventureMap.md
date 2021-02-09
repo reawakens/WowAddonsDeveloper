@@ -1,6 +1,6 @@
 # AdventureMap
 
-Type: System / Namespace: C_AdventureMap
+Name: AdventureMap / Type: System / Namespace: C_AdventureMap
 
 ## Events
 

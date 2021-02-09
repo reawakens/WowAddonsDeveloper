@@ -1,6 +1,6 @@
 # QuestSession
 
-Type: System / Namespace: C_QuestSession
+Name: QuestSession / Type: System / Namespace: C_QuestSession
 
 ## Functions
 

@@ -1,6 +1,6 @@
 # ItemText
 
-Type: System / Namespace: C_ItemText
+Name: ItemText / Type: System / Namespace: C_ItemText
 
 ## Events
 

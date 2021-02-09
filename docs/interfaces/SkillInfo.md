@@ -1,6 +1,6 @@
 # SkillInfo
 
-Type: System / Namespace: C_SkillInfo
+Name: SkillInfo / Type: System / Namespace: C_SkillInfo
 
 ## Events
 

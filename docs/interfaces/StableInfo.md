@@ -1,6 +1,6 @@
 # StableInfo
 
-Type: System / Namespace: C_StableInfo
+Name: StableInfo / Type: System / Namespace: C_StableInfo
 
 ## Functions
 

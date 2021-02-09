@@ -1,6 +1,6 @@
 # PetJournalInfo
 
-Type: System / Namespace: C_PetJournal
+Name: PetJournalInfo / Type: System / Namespace: C_PetJournal
 
 ## Functions
 

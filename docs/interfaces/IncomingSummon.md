@@ -1,6 +1,6 @@
 # IncomingSummon
 
-Type: System / Namespace: C_IncomingSummon
+Name: IncomingSummon / Type: System / Namespace: C_IncomingSummon
 
 ## Functions
 

@@ -1,6 +1,6 @@
 # TaxiMap
 
-Type: System / Namespace: C_TaxiMap
+Name: TaxiMap / Type: System / Namespace: C_TaxiMap
 
 ## Functions
 

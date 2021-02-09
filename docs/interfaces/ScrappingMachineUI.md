@@ -1,6 +1,6 @@
 # ScrappingMachineUI
 
-Type: System / Namespace: C_ScrappingMachineUI
+Name: ScrappingMachineUI / Type: System / Namespace: C_ScrappingMachineUI
 
 ## Functions
 

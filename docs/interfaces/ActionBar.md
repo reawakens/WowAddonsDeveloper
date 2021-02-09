@@ -1,6 +1,6 @@
 # ActionBar
 
-Type: System / Namespace: C_ActionBar
+Name: ActionBar / Type: System / Namespace: C_ActionBar
 
 ## Functions
 

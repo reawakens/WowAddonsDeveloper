@@ -1,6 +1,6 @@
 # WowTokenUI
 
-Type: System / Namespace: C_WowTokenUI
+Name: WowTokenUI / Type: System / Namespace: C_WowTokenUI
 
 ## Functions
 

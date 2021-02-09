@@ -1,6 +1,6 @@
 # SecureTransfer
 
-Type: System / Namespace: C_SecureTransfer
+Name: SecureTransfer / Type: System / Namespace: C_SecureTransfer
 
 ## Events
 

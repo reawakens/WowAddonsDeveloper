@@ -1,6 +1,6 @@
 # AddOns
 
-Type: System / Namespace: C_AddOns
+Name: AddOns / Type: System / Namespace: C_AddOns
 
 ## Events
 

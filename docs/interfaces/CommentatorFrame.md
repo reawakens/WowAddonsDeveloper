@@ -1,6 +1,6 @@
 # CommentatorFrame
 
-Type: System / Namespace: C_Commentator
+Name: CommentatorFrame / Type: System / Namespace: C_Commentator
 
 ## Functions
 

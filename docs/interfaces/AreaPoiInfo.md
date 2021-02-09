@@ -1,6 +1,6 @@
 # AreaPoiInfo
 
-Type: System / Namespace: C_AreaPoiInfo
+Name: AreaPoiInfo / Type: System / Namespace: C_AreaPoiInfo
 
 ## Functions
 

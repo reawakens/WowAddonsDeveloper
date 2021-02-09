@@ -1,6 +1,6 @@
 # QuestLineUI
 
-Type: System / Namespace: C_QuestLine
+Name: QuestLineUI / Type: System / Namespace: C_QuestLine
 
 ## Functions
 

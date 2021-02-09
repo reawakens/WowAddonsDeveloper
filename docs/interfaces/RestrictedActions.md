@@ -1,6 +1,6 @@
 # RestrictedActions
 
-Type: System / Namespace: C_RestrictedActions
+Name: RestrictedActions / Type: System / Namespace: C_RestrictedActions
 
 ## Events
 

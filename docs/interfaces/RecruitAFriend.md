@@ -1,6 +1,6 @@
 # RecruitAFriend
 
-Type: System / Namespace: C_RecruitAFriend
+Name: RecruitAFriend / Type: System / Namespace: C_RecruitAFriend
 
 ## Functions
 

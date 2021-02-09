@@ -1,6 +1,6 @@
 # AlliedRaces
 
-Type: System / Namespace: C_AlliedRaces
+Name: AlliedRaces / Type: System / Namespace: C_AlliedRaces
 
 ## Functions
 

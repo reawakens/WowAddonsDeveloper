@@ -1,6 +1,6 @@
 # WorldStateInfo
 
-Type: System / Namespace: C_WorldStateInfo
+Name: WorldStateInfo / Type: System / Namespace: C_WorldStateInfo
 
 ## Events
 

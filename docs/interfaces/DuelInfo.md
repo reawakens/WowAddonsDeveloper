@@ -1,6 +1,6 @@
 # DuelInfo
 
-Type: System / Namespace: C_DuelInfo
+Name: DuelInfo / Type: System / Namespace: C_DuelInfo
 
 ## Events
 

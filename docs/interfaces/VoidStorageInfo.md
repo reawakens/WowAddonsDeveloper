@@ -1,6 +1,6 @@
 # VoidStorageInfo
 
-Type: System / Namespace: C_VoidStorageInfo
+Name: VoidStorageInfo / Type: System / Namespace: C_VoidStorageInfo
 
 ## Events
 

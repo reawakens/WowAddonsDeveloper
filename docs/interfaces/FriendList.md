@@ -1,6 +1,6 @@
 # FriendList
 
-Type: System / Namespace: C_FriendList
+Name: FriendList / Type: System / Namespace: C_FriendList
 
 ## Functions
 

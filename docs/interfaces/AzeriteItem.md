@@ -1,6 +1,6 @@
 # AzeriteItem
 
-Type: System / Namespace: C_AzeriteItem
+Name: AzeriteItem / Type: System / Namespace: C_AzeriteItem
 
 ## Functions
 

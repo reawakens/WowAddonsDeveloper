@@ -1,6 +1,6 @@
 # GarrisonInfo
 
-Type: System / Namespace: C_Garrison
+Name: GarrisonInfo / Type: System / Namespace: C_Garrison
 
 ## Functions
 

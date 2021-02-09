@@ -1,6 +1,6 @@
 # Bank
 
-Type: System / Namespace: C_Bank
+Name: Bank / Type: System / Namespace: C_Bank
 
 ## Events
 

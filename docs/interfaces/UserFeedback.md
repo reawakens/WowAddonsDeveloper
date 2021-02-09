@@ -1,6 +1,6 @@
 # UserFeedback
 
-Type: System / Namespace: C_UserFeedback
+Name: UserFeedback / Type: System / Namespace: C_UserFeedback
 
 ## Functions
 

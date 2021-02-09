@@ -1,6 +1,6 @@
 # MailInfo
 
-Type: System / Namespace: C_Mail
+Name: MailInfo / Type: System / Namespace: C_Mail
 
 ## Functions
 

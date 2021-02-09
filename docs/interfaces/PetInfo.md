@@ -1,6 +1,6 @@
 # PetInfo
 
-Type: System / Namespace: C_PetInfo
+Name: PetInfo / Type: System / Namespace: C_PetInfo
 
 ## Functions
 

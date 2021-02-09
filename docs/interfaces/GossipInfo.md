@@ -1,6 +1,6 @@
 # GossipInfo
 
-Type: System / Namespace: C_GossipInfo
+Name: GossipInfo / Type: System / Namespace: C_GossipInfo
 
 ## Functions
 

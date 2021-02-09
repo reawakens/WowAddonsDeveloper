@@ -1,6 +1,6 @@
 # ClubFinderInfo
 
-Type: System / Namespace: C_ClubFinder
+Name: ClubFinderInfo / Type: System / Namespace: C_ClubFinder
 
 ## Functions
 

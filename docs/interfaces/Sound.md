@@ -1,6 +1,6 @@
 # Sound
 
-Type: System / Namespace: C_Sound
+Name: Sound / Type: System / Namespace: C_Sound
 
 ## Events
 

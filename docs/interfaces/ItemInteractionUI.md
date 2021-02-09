@@ -1,6 +1,6 @@
 # ItemInteractionUI
 
-Type: System / Namespace: C_ItemInteraction
+Name: ItemInteractionUI / Type: System / Namespace: C_ItemInteraction
 
 ## Functions
 

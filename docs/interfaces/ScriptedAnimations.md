@@ -1,6 +1,6 @@
 # ScriptedAnimations
 
-Type: System / Namespace: C_ScriptedAnimations
+Name: ScriptedAnimations / Type: System / Namespace: C_ScriptedAnimations
 
 ## Functions
 

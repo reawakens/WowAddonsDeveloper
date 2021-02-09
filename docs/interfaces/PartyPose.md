@@ -1,6 +1,6 @@
 # PartyPose
 
-Type: System / Namespace: C_PartyPose
+Name: PartyPose / Type: System / Namespace: C_PartyPose
 
 ## Functions
 

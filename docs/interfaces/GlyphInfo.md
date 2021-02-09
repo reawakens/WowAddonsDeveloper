@@ -1,6 +1,6 @@
 # GlyphInfo
 
-Type: System / Namespace: C_GlyphInfo
+Name: GlyphInfo / Type: System / Namespace: C_GlyphInfo
 
 ## Events
 

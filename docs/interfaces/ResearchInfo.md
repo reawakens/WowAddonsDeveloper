@@ -1,6 +1,6 @@
 # ResearchInfo
 
-Type: System / Namespace: C_ResearchInfo
+Name: ResearchInfo / Type: System / Namespace: C_ResearchInfo
 
 ## Functions
 

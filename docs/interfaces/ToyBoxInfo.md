@@ -1,6 +1,6 @@
 # ToyBoxInfo
 
-Type: System / Namespace: C_ToyBoxInfo
+Name: ToyBoxInfo / Type: System / Namespace: C_ToyBoxInfo
 
 ## Functions
 

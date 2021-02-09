@@ -1,6 +1,6 @@
 # GuildInfo
 
-Type: System / Namespace: C_GuildInfo
+Name: GuildInfo / Type: System / Namespace: C_GuildInfo
 
 ## Functions
 

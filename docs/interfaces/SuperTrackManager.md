@@ -1,6 +1,6 @@
 # SuperTrackManager
 
-Type: System / Namespace: C_SuperTrack
+Name: SuperTrackManager / Type: System / Namespace: C_SuperTrack
 
 ## Functions
 

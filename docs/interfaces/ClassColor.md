@@ -1,6 +1,6 @@
 # ClassColor
 
-Type: System / Namespace: C_ClassColor
+Name: ClassColor / Type: System / Namespace: C_ClassColor
 
 ## Functions
 

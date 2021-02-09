@@ -1,6 +1,6 @@
 # SplashScreen
 
-Type: System / Namespace: C_SplashScreen
+Name: SplashScreen / Type: System / Namespace: C_SplashScreen
 
 ## Functions
 

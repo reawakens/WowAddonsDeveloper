@@ -1,6 +1,6 @@
 # Covenant
 
-Type: System / Namespace: C_Covenants
+Name: Covenant / Type: System / Namespace: C_Covenants
 
 ## Functions
 

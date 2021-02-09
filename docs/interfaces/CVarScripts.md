@@ -1,6 +1,6 @@
 # CVarScripts
 
-Type: System / Namespace: C_CVar
+Name: CVarScripts / Type: System / Namespace: C_CVar
 
 ## Functions
 

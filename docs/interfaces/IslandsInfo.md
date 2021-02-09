@@ -1,6 +1,6 @@
 # IslandsInfo
 
-Type: System / Namespace: C_IslandsInfo
+Name: IslandsInfo / Type: System / Namespace: C_IslandsInfo
 
 ## Events
 

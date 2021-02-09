@@ -1,6 +1,6 @@
 # Browser
 
-Type: System / Namespace: C_Browser
+Name: Browser / Type: System / Namespace: C_Browser
 
 ## Events
 

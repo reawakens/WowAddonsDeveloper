@@ -1,6 +1,6 @@
 # SpecializationInfo
 
-Type: System / Namespace: C_SpecializationInfo
+Name: SpecializationInfo / Type: System / Namespace: C_SpecializationInfo
 
 ## Functions
 

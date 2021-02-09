@@ -1,6 +1,6 @@
 # TextureUtils
 
-Type: System / Namespace: C_Texture
+Name: TextureUtils / Type: System / Namespace: C_Texture
 
 ## Functions
 

@@ -1,6 +1,6 @@
 # AzeriteEmpoweredItem
 
-Type: System / Namespace: C_AzeriteEmpoweredItem
+Name: AzeriteEmpoweredItem / Type: System / Namespace: C_AzeriteEmpoweredItem
 
 ## Functions
 

@@ -1,6 +1,6 @@
 # UIWidgetManager
 
-Type: System / Namespace: C_UIWidgetManager
+Name: UIWidgetManager / Type: System / Namespace: C_UIWidgetManager
 
 ## Functions
 

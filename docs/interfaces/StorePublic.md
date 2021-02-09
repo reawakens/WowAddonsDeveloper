@@ -1,6 +1,6 @@
 # StorePublic
 
-Type: System / Namespace: C_StorePublic
+Name: StorePublic / Type: System / Namespace: C_StorePublic
 
 ## Functions
 

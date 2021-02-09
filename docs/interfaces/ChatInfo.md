@@ -1,6 +1,6 @@
 # ChatInfo
 
-Type: System / Namespace: C_ChatInfo
+Name: ChatInfo / Type: System / Namespace: C_ChatInfo
 
 ## Functions
 

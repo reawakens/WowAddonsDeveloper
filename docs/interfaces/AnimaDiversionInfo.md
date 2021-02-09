@@ -1,6 +1,6 @@
 # AnimaDiversionInfo
 
-Type: System / Namespace: C_AnimaDiversion
+Name: AnimaDiversionInfo / Type: System / Namespace: C_AnimaDiversion
 
 ## Functions
 

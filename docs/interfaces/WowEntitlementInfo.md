@@ -1,6 +1,6 @@
 # WowEntitlementInfo
 
-Type: System / Namespace: C_WowEntitlementInfo
+Name: WowEntitlementInfo / Type: System / Namespace: C_WowEntitlementInfo
 
 ## Events
 

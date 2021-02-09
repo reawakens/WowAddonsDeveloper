@@ -1,6 +1,6 @@
 # LFGInfo
 
-Type: System / Namespace: C_LFGInfo
+Name: LFGInfo / Type: System / Namespace: C_LFGInfo
 
 ## Functions
 

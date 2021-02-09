@@ -1,6 +1,6 @@
 # PlayerLocationInfo
 
-Type: System / Namespace: C_PlayerInfo
+Name: PlayerLocationInfo / Type: System / Namespace: C_PlayerInfo
 
 ## Functions
 

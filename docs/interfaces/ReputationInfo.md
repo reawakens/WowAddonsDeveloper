@@ -1,6 +1,6 @@
 # ReputationInfo
 
-Type: System / Namespace: C_Reputation
+Name: ReputationInfo / Type: System / Namespace: C_Reputation
 
 ## Functions
 

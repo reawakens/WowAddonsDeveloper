@@ -1,6 +1,6 @@
 # LevelLink
 
-Type: System / Namespace: C_LevelLink
+Name: LevelLink / Type: System / Namespace: C_LevelLink
 
 ## Functions
 

@@ -1,6 +1,6 @@
 # PlayerInfo
 
-Type: System / Namespace: C_PlayerInfo
+Name: PlayerInfo / Type: System / Namespace: C_PlayerInfo
 
 ## Functions
 

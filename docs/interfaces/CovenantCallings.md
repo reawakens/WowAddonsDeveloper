@@ -1,6 +1,6 @@
 # CovenantCallings
 
-Type: System / Namespace: C_CovenantCallings
+Name: CovenantCallings / Type: System / Namespace: C_CovenantCallings
 
 ## Functions
 

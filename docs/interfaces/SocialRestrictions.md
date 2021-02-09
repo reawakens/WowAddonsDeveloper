@@ -1,6 +1,6 @@
 # SocialRestrictions
 
-Type: System / Namespace: C_SocialRestrictions
+Name: SocialRestrictions / Type: System / Namespace: C_SocialRestrictions
 
 ## Functions
 

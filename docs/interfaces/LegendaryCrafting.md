@@ -1,6 +1,6 @@
 # LegendaryCrafting
 
-Type: System / Namespace: C_LegendaryCrafting
+Name: LegendaryCrafting / Type: System / Namespace: C_LegendaryCrafting
 
 ## Functions
 

@@ -1,6 +1,6 @@
 # DateAndTime
 
-Type: System / Namespace: C_DateAndTime
+Name: DateAndTime / Type: System / Namespace: C_DateAndTime
 
 ## Functions
 

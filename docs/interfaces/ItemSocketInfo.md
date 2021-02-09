@@ -1,6 +1,6 @@
 # ItemSocketInfo
 
-Type: System / Namespace: C_ItemSocketInfo
+Name: ItemSocketInfo / Type: System / Namespace: C_ItemSocketInfo
 
 ## Functions
 

@@ -1,6 +1,6 @@
 # AchievementInfo
 
-Type: System / Namespace: C_AchievementInfo
+Name: AchievementInfo / Type: System / Namespace: C_AchievementInfo
 
 ## Functions
 

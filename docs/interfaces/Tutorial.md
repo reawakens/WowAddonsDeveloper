@@ -1,6 +1,6 @@
 # Tutorial
 
-Type: System / Namespace: C_Tutorial
+Name: Tutorial / Type: System / Namespace: C_Tutorial
 
 ## Functions
 

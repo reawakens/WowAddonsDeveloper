@@ -1,6 +1,6 @@
 # GamePad
 
-Type: System / Namespace: C_GamePad
+Name: GamePad / Type: System / Namespace: C_GamePad
 
 ## Functions
 

@@ -1,6 +1,6 @@
 # TradeSkillUI
 
-Type: System / Namespace: C_TradeSkillUI
+Name: TradeSkillUI / Type: System / Namespace: C_TradeSkillUI
 
 ## Functions
 

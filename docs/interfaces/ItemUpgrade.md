@@ -1,6 +1,6 @@
 # ItemUpgrade
 
-Type: System / Namespace: C_ItemUpgrade
+Name: ItemUpgrade / Type: System / Namespace: C_ItemUpgrade
 
 ## Functions
 

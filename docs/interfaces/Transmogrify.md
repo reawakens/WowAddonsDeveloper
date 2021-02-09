@@ -1,6 +1,6 @@
 # Transmogrify
 
-Type: System / Namespace: C_Transmog
+Name: Transmogrify / Type: System / Namespace: C_Transmog
 
 ## Functions
 

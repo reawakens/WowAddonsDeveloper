@@ -1,6 +1,6 @@
 # AdventureJournal
 
-Type: System / Namespace: C_AdventureJournal
+Name: AdventureJournal / Type: System / Namespace: C_AdventureJournal
 
 ## Events
 

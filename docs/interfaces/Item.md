@@ -1,6 +1,6 @@
 # Item
 
-Type: System / Namespace: C_Item
+Name: Item / Type: System / Namespace: C_Item
 
 ## Functions
 

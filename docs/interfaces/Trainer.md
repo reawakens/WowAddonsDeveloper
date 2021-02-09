@@ -1,6 +1,6 @@
 # Trainer
 
-Type: System / Namespace: C_Trainer
+Name: Trainer / Type: System / Namespace: C_Trainer
 
 ## Events
 

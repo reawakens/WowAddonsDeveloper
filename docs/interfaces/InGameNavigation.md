@@ -1,6 +1,6 @@
 # InGameNavigation
 
-Type: System / Namespace: C_Navigation
+Name: InGameNavigation / Type: System / Namespace: C_Navigation
 
 ## Functions
 

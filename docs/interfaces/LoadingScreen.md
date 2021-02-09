@@ -1,6 +1,6 @@
 # LoadingScreen
 
-Type: System / Namespace: C_LoadingScreen
+Name: LoadingScreen / Type: System / Namespace: C_LoadingScreen
 
 ## Events
 

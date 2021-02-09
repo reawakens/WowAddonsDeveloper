@@ -1,6 +1,6 @@
 # EncounterJournal
 
-Type: System / Namespace: C_EncounterJournal
+Name: EncounterJournal / Type: System / Namespace: C_EncounterJournal
 
 ## Functions
 

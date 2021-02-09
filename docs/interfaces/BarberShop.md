@@ -1,6 +1,6 @@
 # BarberShop
 
-Type: System / Namespace: C_BarberShop
+Name: BarberShop / Type: System / Namespace: C_BarberShop
 
 ## Functions
 

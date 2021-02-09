@@ -1,6 +1,6 @@
 # QuestOffer
 
-Type: System / Namespace: C_QuestOffer
+Name: QuestOffer / Type: System / Namespace: C_QuestOffer
 
 ## Events
 

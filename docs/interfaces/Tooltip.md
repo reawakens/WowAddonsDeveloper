@@ -1,6 +1,6 @@
 # Tooltip
 
-Type: System / Namespace: C_Tooltip
+Name: Tooltip / Type: System / Namespace: C_Tooltip
 
 ## Tables
 

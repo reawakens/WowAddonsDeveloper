@@ -1,6 +1,6 @@
 # VoiceChat
 
-Type: System / Namespace: C_VoiceChat
+Name: VoiceChat / Type: System / Namespace: C_VoiceChat
 
 ## Functions
 

@@ -1,6 +1,6 @@
 # MapExplorationInfo
 
-Type: System / Namespace: C_MapExplorationInfo
+Name: MapExplorationInfo / Type: System / Namespace: C_MapExplorationInfo
 
 ## Functions
 

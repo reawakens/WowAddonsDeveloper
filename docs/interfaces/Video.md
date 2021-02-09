@@ -1,6 +1,6 @@
 # Video
 
-Type: System / Namespace: C_VideoOptions
+Name: Video / Type: System / Namespace: C_VideoOptions
 
 ## Functions
 

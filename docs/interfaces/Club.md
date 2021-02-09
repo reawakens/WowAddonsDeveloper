@@ -1,6 +1,6 @@
 # Club
 
-Type: System / Namespace: C_Club
+Name: Club / Type: System / Namespace: C_Club
 
 ## Functions
 

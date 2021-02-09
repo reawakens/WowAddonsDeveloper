@@ -1,6 +1,6 @@
 # Expansion
 
-Type: System / Namespace: None
+Name: Expansion / Type: System / Namespace: None
 
 ## Functions
 

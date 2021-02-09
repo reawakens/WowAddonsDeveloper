@@ -1,6 +1,6 @@
 # ArdenwealdGardening
 
-Type: System / Namespace: C_ArdenwealdGardening
+Name: ArdenwealdGardening / Type: System / Namespace: C_ArdenwealdGardening
 
 ## Functions
 

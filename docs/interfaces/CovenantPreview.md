@@ -1,6 +1,6 @@
 # CovenantPreview
 
-Type: System / Namespace: C_CovenantPreview
+Name: CovenantPreview / Type: System / Namespace: C_CovenantPreview
 
 ## Functions
 

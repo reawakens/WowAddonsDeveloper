@@ -1,6 +1,6 @@
 # RaidLocks
 
-Type: System / Namespace: C_RaidLocks
+Name: RaidLocks / Type: System / Namespace: C_RaidLocks
 
 ## Functions
 

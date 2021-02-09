@@ -1,6 +1,6 @@
 # Calendar
 
-Type: System / Namespace: C_Calendar
+Name: Calendar / Type: System / Namespace: C_Calendar
 
 ## Functions
 

@@ -1,6 +1,6 @@
 # AuctionHouse
 
-Type: System / Namespace: C_AuctionHouse
+Name: AuctionHouse / Type: System / Namespace: C_AuctionHouse
 
 ## Functions
 

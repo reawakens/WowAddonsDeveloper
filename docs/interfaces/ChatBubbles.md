@@ -1,6 +1,6 @@
 # ChatBubbles
 
-Type: System / Namespace: C_ChatBubbles
+Name: ChatBubbles / Type: System / Namespace: C_ChatBubbles
 
 ## Functions
 

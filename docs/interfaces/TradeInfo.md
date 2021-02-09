@@ -1,6 +1,6 @@
 # TradeInfo
 
-Type: System / Namespace: C_TradeInfo
+Name: TradeInfo / Type: System / Namespace: C_TradeInfo
 
 ## Events
 

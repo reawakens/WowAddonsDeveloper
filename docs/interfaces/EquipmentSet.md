@@ -1,6 +1,6 @@
 # EquipmentSet
 
-Type: System / Namespace: C_EquipmentSet
+Name: EquipmentSet / Type: System / Namespace: C_EquipmentSet
 
 ## Functions
 

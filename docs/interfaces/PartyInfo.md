@@ -1,6 +1,6 @@
 # PartyInfo
 
-Type: System / Namespace: C_PartyInfo
+Name: PartyInfo / Type: System / Namespace: C_PartyInfo
 
 ## Functions
 

@@ -1,6 +1,6 @@
 # SocialInfo
 
-Type: System / Namespace: C_Social
+Name: SocialInfo / Type: System / Namespace: C_Social
 
 ## Functions
 

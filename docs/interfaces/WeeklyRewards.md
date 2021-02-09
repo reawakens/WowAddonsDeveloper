@@ -1,6 +1,6 @@
 # WeeklyRewards
 
-Type: System / Namespace: C_WeeklyRewards
+Name: WeeklyRewards / Type: System / Namespace: C_WeeklyRewards
 
 ## Functions
 

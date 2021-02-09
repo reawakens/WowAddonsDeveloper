@@ -1,6 +1,6 @@
 # SummonInfo
 
-Type: System / Namespace: C_SummonInfo
+Name: SummonInfo / Type: System / Namespace: C_SummonInfo
 
 ## Functions
 

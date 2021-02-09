@@ -1,6 +1,6 @@
 # BlackMarketInfo
 
-Type: System / Namespace: C_BlackMarketInfo
+Name: BlackMarketInfo / Type: System / Namespace: C_BlackMarketInfo
 
 ## Events
 

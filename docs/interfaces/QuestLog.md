@@ -1,6 +1,6 @@
 # QuestLog
 
-Type: System / Namespace: C_QuestLog
+Name: QuestLog / Type: System / Namespace: C_QuestLog
 
 ## Functions
 

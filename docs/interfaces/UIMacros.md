@@ -1,6 +1,6 @@
 # UIMacros
 
-Type: System / Namespace: C_Macro
+Name: UIMacros / Type: System / Namespace: C_Macro
 
 ## Events
 

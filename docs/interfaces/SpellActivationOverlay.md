@@ -1,6 +1,6 @@
 # SpellActivationOverlay
 
-Type: System / Namespace: C_SpellActivationOverlay
+Name: SpellActivationOverlay / Type: System / Namespace: C_SpellActivationOverlay
 
 ## Events
 

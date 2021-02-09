@@ -1,6 +1,6 @@
 # GuildBank
 
-Type: System / Namespace: C_GuildBank
+Name: GuildBank / Type: System / Namespace: C_GuildBank
 
 ## Events
 

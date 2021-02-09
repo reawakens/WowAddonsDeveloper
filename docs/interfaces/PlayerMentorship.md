@@ -1,6 +1,6 @@
 # PlayerMentorship
 
-Type: System / Namespace: C_PlayerMentorship
+Name: PlayerMentorship / Type: System / Namespace: C_PlayerMentorship
 
 ## Functions
 

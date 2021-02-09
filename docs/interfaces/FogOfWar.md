@@ -1,6 +1,6 @@
 # FogOfWar
 
-Type: System / Namespace: C_FogOfWar
+Name: FogOfWar / Type: System / Namespace: C_FogOfWar
 
 ## Functions
 

@@ -1,6 +1,6 @@
 # Minimap
 
-Type: System / Namespace: C_Minimap
+Name: Minimap / Type: System / Namespace: C_Minimap
 
 ## Functions
 

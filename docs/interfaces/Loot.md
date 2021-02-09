@@ -1,6 +1,6 @@
 # Loot
 
-Type: System / Namespace: C_Loot
+Name: Loot / Type: System / Namespace: C_Loot
 
 ## Functions
 
