@@ -1,0 +1,3 @@
+[submodule "wow-ui-source"]
+	path = wow-ui-source
+	url = https://github.com/Gethe/wow-ui-source.git
