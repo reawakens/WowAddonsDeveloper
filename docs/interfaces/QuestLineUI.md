@@ -5,6 +5,7 @@ Type: System / Namespace: C_QuestLine
 ## Functions
 
 ### C_QuestLine.GetAvailableQuestLines
+?> WowPedia link: [C_QuestLine.GetAvailableQuestLines](https://wow.gamepedia.com/API_C_QuestLine.GetAvailableQuestLines)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |questLines|table|false|No Documentation|
 ### C_QuestLine.GetQuestLineInfo
+?> WowPedia link: [C_QuestLine.GetQuestLineInfo](https://wow.gamepedia.com/API_C_QuestLine.GetQuestLineInfo)
 
 No Documentation
 
@@ -30,6 +32,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |questLineInfo|QuestLineInfo|true|No Documentation|
 ### C_QuestLine.GetQuestLineQuests
+?> WowPedia link: [C_QuestLine.GetQuestLineQuests](https://wow.gamepedia.com/API_C_QuestLine.GetQuestLineQuests)
 
 No Documentation
 
@@ -42,6 +45,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |questIDs|table|false|No Documentation|
 ### C_QuestLine.IsComplete
+?> WowPedia link: [C_QuestLine.IsComplete](https://wow.gamepedia.com/API_C_QuestLine.IsComplete)
 
 No Documentation
 
@@ -54,6 +58,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isComplete|bool|false|No Documentation|
 ### C_QuestLine.RequestQuestLinesForMap
+?> WowPedia link: [C_QuestLine.RequestQuestLinesForMap](https://wow.gamepedia.com/API_C_QuestLine.RequestQuestLinesForMap)
 
 No Documentation
 

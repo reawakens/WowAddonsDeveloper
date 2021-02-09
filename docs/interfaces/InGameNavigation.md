@@ -5,6 +5,7 @@ Type: System / Namespace: C_Navigation
 ## Functions
 
 ### C_Navigation.GetDistance
+?> WowPedia link: [C_Navigation.GetDistance](https://wow.gamepedia.com/API_C_Navigation.GetDistance)
 
 No Documentation
 
@@ -13,6 +14,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |distance|number|false|No Documentation|
 ### C_Navigation.GetFrame
+?> WowPedia link: [C_Navigation.GetFrame](https://wow.gamepedia.com/API_C_Navigation.GetFrame)
 
 No Documentation
 
@@ -21,6 +23,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |frame|table|true|No Documentation|
 ### C_Navigation.GetTargetState
+?> WowPedia link: [C_Navigation.GetTargetState](https://wow.gamepedia.com/API_C_Navigation.GetTargetState)
 
 No Documentation
 
@@ -29,6 +32,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |state|NavigationState|false|No Documentation|
 ### C_Navigation.HasValidScreenPosition
+?> WowPedia link: [C_Navigation.HasValidScreenPosition](https://wow.gamepedia.com/API_C_Navigation.HasValidScreenPosition)
 
 No Documentation
 
@@ -37,6 +41,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasValidScreenPosition|bool|false|No Documentation|
 ### C_Navigation.WasClampedToScreen
+?> WowPedia link: [C_Navigation.WasClampedToScreen](https://wow.gamepedia.com/API_C_Navigation.WasClampedToScreen)
 
 No Documentation
 

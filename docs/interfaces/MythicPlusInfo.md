@@ -5,6 +5,7 @@ Type: System / Namespace: C_MythicPlus
 ## Functions
 
 ### C_MythicPlus.GetCurrentAffixes
+?> WowPedia link: [C_MythicPlus.GetCurrentAffixes](https://wow.gamepedia.com/API_C_MythicPlus.GetCurrentAffixes)
 
 No Documentation
 
@@ -13,6 +14,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |affixIDs|table|false|No Documentation|
 ### C_MythicPlus.GetCurrentSeason
+?> WowPedia link: [C_MythicPlus.GetCurrentSeason](https://wow.gamepedia.com/API_C_MythicPlus.GetCurrentSeason)
 
 No Documentation
 
@@ -21,6 +23,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |seasonID|number|false|No Documentation|
 ### C_MythicPlus.GetLastWeeklyBestInformation
+?> WowPedia link: [C_MythicPlus.GetLastWeeklyBestInformation](https://wow.gamepedia.com/API_C_MythicPlus.GetLastWeeklyBestInformation)
 
 No Documentation
 
@@ -30,6 +33,7 @@ No Documentation
 |challengeMapId|number|false|No Documentation|
 |level|number|false|No Documentation|
 ### C_MythicPlus.GetOwnedKeystoneChallengeMapID
+?> WowPedia link: [C_MythicPlus.GetOwnedKeystoneChallengeMapID](https://wow.gamepedia.com/API_C_MythicPlus.GetOwnedKeystoneChallengeMapID)
 
 No Documentation
 
@@ -38,6 +42,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |challengeMapID|number|false|No Documentation|
 ### C_MythicPlus.GetOwnedKeystoneLevel
+?> WowPedia link: [C_MythicPlus.GetOwnedKeystoneLevel](https://wow.gamepedia.com/API_C_MythicPlus.GetOwnedKeystoneLevel)
 
 No Documentation
 
@@ -46,6 +51,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |keyStoneLevel|number|false|No Documentation|
 ### C_MythicPlus.GetRewardLevelForDifficultyLevel
+?> WowPedia link: [C_MythicPlus.GetRewardLevelForDifficultyLevel](https://wow.gamepedia.com/API_C_MythicPlus.GetRewardLevelForDifficultyLevel)
 
 No Documentation
 
@@ -59,6 +65,7 @@ No Documentation
 |weeklyRewardLevel|number|false|No Documentation|
 |endOfRunRewardLevel|number|false|No Documentation|
 ### C_MythicPlus.GetRewardLevelFromKeystoneLevel
+?> WowPedia link: [C_MythicPlus.GetRewardLevelFromKeystoneLevel](https://wow.gamepedia.com/API_C_MythicPlus.GetRewardLevelFromKeystoneLevel)
 
 No Documentation
 
@@ -71,6 +78,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |rewardLevel|number|true|No Documentation|
 ### C_MythicPlus.GetRunHistory
+?> WowPedia link: [C_MythicPlus.GetRunHistory](https://wow.gamepedia.com/API_C_MythicPlus.GetRunHistory)
 
 No Documentation
 
@@ -84,6 +92,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |runs|table|false|No Documentation|
 ### C_MythicPlus.GetSeasonBestForMap
+?> WowPedia link: [C_MythicPlus.GetSeasonBestForMap](https://wow.gamepedia.com/API_C_MythicPlus.GetSeasonBestForMap)
 
 No Documentation
 
@@ -97,6 +106,7 @@ No Documentation
 |intimeInfo|MapSeasonBestInfo|true|No Documentation|
 |overtimeInfo|MapSeasonBestInfo|true|No Documentation|
 ### C_MythicPlus.GetWeeklyBestForMap
+?> WowPedia link: [C_MythicPlus.GetWeeklyBestForMap](https://wow.gamepedia.com/API_C_MythicPlus.GetWeeklyBestForMap)
 
 No Documentation
 
@@ -113,6 +123,7 @@ No Documentation
 |affixIDs|table|false|No Documentation|
 |members|table|false|No Documentation|
 ### C_MythicPlus.GetWeeklyChestRewardLevel
+?> WowPedia link: [C_MythicPlus.GetWeeklyChestRewardLevel](https://wow.gamepedia.com/API_C_MythicPlus.GetWeeklyChestRewardLevel)
 
 No Documentation
 
@@ -124,6 +135,7 @@ No Documentation
 |nextDifficultyWeeklyRewardLevel|number|false|No Documentation|
 |nextBestLevel|number|false|No Documentation|
 ### C_MythicPlus.IsMythicPlusActive
+?> WowPedia link: [C_MythicPlus.IsMythicPlusActive](https://wow.gamepedia.com/API_C_MythicPlus.IsMythicPlusActive)
 
 No Documentation
 
@@ -132,6 +144,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isMythicPlusActive|bool|false|No Documentation|
 ### C_MythicPlus.IsWeeklyRewardAvailable
+?> WowPedia link: [C_MythicPlus.IsWeeklyRewardAvailable](https://wow.gamepedia.com/API_C_MythicPlus.IsWeeklyRewardAvailable)
 
 No Documentation
 
@@ -140,14 +153,17 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |weeklyRewardAvailable|bool|false|No Documentation|
 ### C_MythicPlus.RequestCurrentAffixes
+?> WowPedia link: [C_MythicPlus.RequestCurrentAffixes](https://wow.gamepedia.com/API_C_MythicPlus.RequestCurrentAffixes)
 
 No Documentation
 
 ### C_MythicPlus.RequestMapInfo
+?> WowPedia link: [C_MythicPlus.RequestMapInfo](https://wow.gamepedia.com/API_C_MythicPlus.RequestMapInfo)
 
 No Documentation
 
 ### C_MythicPlus.RequestRewards
+?> WowPedia link: [C_MythicPlus.RequestRewards](https://wow.gamepedia.com/API_C_MythicPlus.RequestRewards)
 
 No Documentation
 

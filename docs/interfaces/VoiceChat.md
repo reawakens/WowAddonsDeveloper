@@ -5,6 +5,7 @@ Type: System / Namespace: C_VoiceChat
 ## Functions
 
 ### C_VoiceChat.ActivateChannel
+?> WowPedia link: [C_VoiceChat.ActivateChannel](https://wow.gamepedia.com/API_C_VoiceChat.ActivateChannel)
 
 No Documentation
 
@@ -13,6 +14,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |channelID|number|false|No Documentation|
 ### C_VoiceChat.BeginLocalCapture
+?> WowPedia link: [C_VoiceChat.BeginLocalCapture](https://wow.gamepedia.com/API_C_VoiceChat.BeginLocalCapture)
 
 No Documentation
 
@@ -21,6 +23,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |listenToLocalUser|bool|false|No Documentation|
 ### C_VoiceChat.CanPlayerUseVoiceChat
+?> WowPedia link: [C_VoiceChat.CanPlayerUseVoiceChat](https://wow.gamepedia.com/API_C_VoiceChat.CanPlayerUseVoiceChat)
 
 No Documentation
 
@@ -29,6 +32,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canUseVoiceChat|bool|false|No Documentation|
 ### C_VoiceChat.CreateChannel
+?> WowPedia link: [C_VoiceChat.CreateChannel](https://wow.gamepedia.com/API_C_VoiceChat.CreateChannel)
 
 No Documentation
 
@@ -41,6 +45,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |status|VoiceChatStatusCode|false|No Documentation|
 ### C_VoiceChat.DeactivateChannel
+?> WowPedia link: [C_VoiceChat.DeactivateChannel](https://wow.gamepedia.com/API_C_VoiceChat.DeactivateChannel)
 
 No Documentation
 
@@ -49,10 +54,12 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |channelID|number|false|No Documentation|
 ### C_VoiceChat.EndLocalCapture
+?> WowPedia link: [C_VoiceChat.EndLocalCapture](https://wow.gamepedia.com/API_C_VoiceChat.EndLocalCapture)
 
 No Documentation
 
 ### C_VoiceChat.GetActiveChannelID
+?> WowPedia link: [C_VoiceChat.GetActiveChannelID](https://wow.gamepedia.com/API_C_VoiceChat.GetActiveChannelID)
 
 No Documentation
 
@@ -61,6 +68,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |channelID|number|true|No Documentation|
 ### C_VoiceChat.GetActiveChannelType
+?> WowPedia link: [C_VoiceChat.GetActiveChannelType](https://wow.gamepedia.com/API_C_VoiceChat.GetActiveChannelType)
 
 No Documentation
 
@@ -69,6 +77,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |channelType|ChatChannelType|true|No Documentation|
 ### C_VoiceChat.GetAvailableInputDevices
+?> WowPedia link: [C_VoiceChat.GetAvailableInputDevices](https://wow.gamepedia.com/API_C_VoiceChat.GetAvailableInputDevices)
 
 No Documentation
 
@@ -77,6 +86,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |inputDevices|table|true|No Documentation|
 ### C_VoiceChat.GetAvailableOutputDevices
+?> WowPedia link: [C_VoiceChat.GetAvailableOutputDevices](https://wow.gamepedia.com/API_C_VoiceChat.GetAvailableOutputDevices)
 
 No Documentation
 
@@ -85,6 +95,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |outputDevices|table|true|No Documentation|
 ### C_VoiceChat.GetChannel
+?> WowPedia link: [C_VoiceChat.GetChannel](https://wow.gamepedia.com/API_C_VoiceChat.GetChannel)
 
 No Documentation
 
@@ -97,6 +108,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |channel|VoiceChatChannel|true|No Documentation|
 ### C_VoiceChat.GetChannelForChannelType
+?> WowPedia link: [C_VoiceChat.GetChannelForChannelType](https://wow.gamepedia.com/API_C_VoiceChat.GetChannelForChannelType)
 
 No Documentation
 
@@ -109,6 +121,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |channel|VoiceChatChannel|true|No Documentation|
 ### C_VoiceChat.GetChannelForCommunityStream
+?> WowPedia link: [C_VoiceChat.GetChannelForCommunityStream](https://wow.gamepedia.com/API_C_VoiceChat.GetChannelForCommunityStream)
 
 No Documentation
 
@@ -122,6 +135,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |channel|VoiceChatChannel|true|No Documentation|
 ### C_VoiceChat.GetCommunicationMode
+?> WowPedia link: [C_VoiceChat.GetCommunicationMode](https://wow.gamepedia.com/API_C_VoiceChat.GetCommunicationMode)
 
 No Documentation
 
@@ -130,6 +144,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |communicationMode|CommunicationMode|true|No Documentation|
 ### C_VoiceChat.GetCurrentVoiceChatConnectionStatusCode
+?> WowPedia link: [C_VoiceChat.GetCurrentVoiceChatConnectionStatusCode](https://wow.gamepedia.com/API_C_VoiceChat.GetCurrentVoiceChatConnectionStatusCode)
 
 No Documentation
 
@@ -138,6 +153,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |statusCode|VoiceChatStatusCode|false|No Documentation|
 ### C_VoiceChat.GetInputVolume
+?> WowPedia link: [C_VoiceChat.GetInputVolume](https://wow.gamepedia.com/API_C_VoiceChat.GetInputVolume)
 
 No Documentation
 
@@ -146,6 +162,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |volume|number|true|No Documentation|
 ### C_VoiceChat.GetJoinClubVoiceChannelError
+?> WowPedia link: [C_VoiceChat.GetJoinClubVoiceChannelError](https://wow.gamepedia.com/API_C_VoiceChat.GetJoinClubVoiceChannelError)
 
 No Documentation
 
@@ -158,6 +175,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |errorReason|VoiceChannelErrorReason|true|No Documentation|
 ### C_VoiceChat.GetLocalPlayerActiveChannelMemberInfo
+?> WowPedia link: [C_VoiceChat.GetLocalPlayerActiveChannelMemberInfo](https://wow.gamepedia.com/API_C_VoiceChat.GetLocalPlayerActiveChannelMemberInfo)
 
 No Documentation
 
@@ -166,6 +184,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |memberInfo|VoiceChatMember|true|No Documentation|
 ### C_VoiceChat.GetLocalPlayerMemberID
+?> WowPedia link: [C_VoiceChat.GetLocalPlayerMemberID](https://wow.gamepedia.com/API_C_VoiceChat.GetLocalPlayerMemberID)
 
 No Documentation
 
@@ -178,6 +197,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |memberID|number|true|No Documentation|
 ### C_VoiceChat.GetMasterVolumeScale
+?> WowPedia link: [C_VoiceChat.GetMasterVolumeScale](https://wow.gamepedia.com/API_C_VoiceChat.GetMasterVolumeScale)
 
 No Documentation
 
@@ -186,6 +206,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |scale|number|false|No Documentation|
 ### C_VoiceChat.GetMemberGUID
+?> WowPedia link: [C_VoiceChat.GetMemberGUID](https://wow.gamepedia.com/API_C_VoiceChat.GetMemberGUID)
 
 No Documentation
 
@@ -199,6 +220,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |memberGUID|string|false|No Documentation|
 ### C_VoiceChat.GetMemberID
+?> WowPedia link: [C_VoiceChat.GetMemberID](https://wow.gamepedia.com/API_C_VoiceChat.GetMemberID)
 
 No Documentation
 
@@ -212,6 +234,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |memberID|number|true|No Documentation|
 ### C_VoiceChat.GetMemberInfo
+?> WowPedia link: [C_VoiceChat.GetMemberInfo](https://wow.gamepedia.com/API_C_VoiceChat.GetMemberInfo)
 
 No Documentation
 
@@ -225,6 +248,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |memberInfo|VoiceChatMember|true|No Documentation|
 ### C_VoiceChat.GetMemberName
+?> WowPedia link: [C_VoiceChat.GetMemberName](https://wow.gamepedia.com/API_C_VoiceChat.GetMemberName)
 
 No Documentation
 
@@ -238,6 +262,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |memberName|string|true|No Documentation|
 ### C_VoiceChat.GetMemberVolume
+?> WowPedia link: [C_VoiceChat.GetMemberVolume](https://wow.gamepedia.com/API_C_VoiceChat.GetMemberVolume)
 
 No Documentation
 
@@ -250,6 +275,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |volume|number|true|No Documentation|
 ### C_VoiceChat.GetOutputVolume
+?> WowPedia link: [C_VoiceChat.GetOutputVolume](https://wow.gamepedia.com/API_C_VoiceChat.GetOutputVolume)
 
 No Documentation
 
@@ -258,6 +284,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |volume|number|true|No Documentation|
 ### C_VoiceChat.GetPTTButtonPressedState
+?> WowPedia link: [C_VoiceChat.GetPTTButtonPressedState](https://wow.gamepedia.com/API_C_VoiceChat.GetPTTButtonPressedState)
 
 No Documentation
 
@@ -266,6 +293,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isPressed|bool|true|No Documentation|
 ### C_VoiceChat.GetProcesses
+?> WowPedia link: [C_VoiceChat.GetProcesses](https://wow.gamepedia.com/API_C_VoiceChat.GetProcesses)
 
 No Documentation
 
@@ -274,6 +302,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |processes|table|false|No Documentation|
 ### C_VoiceChat.GetPushToTalkBinding
+?> WowPedia link: [C_VoiceChat.GetPushToTalkBinding](https://wow.gamepedia.com/API_C_VoiceChat.GetPushToTalkBinding)
 
 No Documentation
 
@@ -282,6 +311,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |keys|table|true|No Documentation|
 ### C_VoiceChat.GetVADSensitivity
+?> WowPedia link: [C_VoiceChat.GetVADSensitivity](https://wow.gamepedia.com/API_C_VoiceChat.GetVADSensitivity)
 
 No Documentation
 
@@ -290,6 +320,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |sensitivity|number|true|No Documentation|
 ### C_VoiceChat.IsChannelJoinPending
+?> WowPedia link: [C_VoiceChat.IsChannelJoinPending](https://wow.gamepedia.com/API_C_VoiceChat.IsChannelJoinPending)
 
 No Documentation
 
@@ -304,6 +335,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isPending|bool|false|No Documentation|
 ### C_VoiceChat.IsDeafened
+?> WowPedia link: [C_VoiceChat.IsDeafened](https://wow.gamepedia.com/API_C_VoiceChat.IsDeafened)
 
 No Documentation
 
@@ -312,6 +344,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isDeafened|bool|true|No Documentation|
 ### C_VoiceChat.IsEnabled
+?> WowPedia link: [C_VoiceChat.IsEnabled](https://wow.gamepedia.com/API_C_VoiceChat.IsEnabled)
 
 No Documentation
 
@@ -320,6 +353,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isEnabled|bool|false|No Documentation|
 ### C_VoiceChat.IsLoggedIn
+?> WowPedia link: [C_VoiceChat.IsLoggedIn](https://wow.gamepedia.com/API_C_VoiceChat.IsLoggedIn)
 
 No Documentation
 
@@ -328,6 +362,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isLoggedIn|bool|false|No Documentation|
 ### C_VoiceChat.IsMemberLocalPlayer
+?> WowPedia link: [C_VoiceChat.IsMemberLocalPlayer](https://wow.gamepedia.com/API_C_VoiceChat.IsMemberLocalPlayer)
 
 No Documentation
 
@@ -341,6 +376,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isLocalPlayer|bool|false|No Documentation|
 ### C_VoiceChat.IsMemberMuted
+?> WowPedia link: [C_VoiceChat.IsMemberMuted](https://wow.gamepedia.com/API_C_VoiceChat.IsMemberMuted)
 
 No Documentation
 
@@ -353,6 +389,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |mutedForMe|bool|true|No Documentation|
 ### C_VoiceChat.IsMemberMutedForAll
+?> WowPedia link: [C_VoiceChat.IsMemberMutedForAll](https://wow.gamepedia.com/API_C_VoiceChat.IsMemberMutedForAll)
 
 No Documentation
 
@@ -366,6 +403,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |mutedForAll|bool|true|No Documentation|
 ### C_VoiceChat.IsMemberSilenced
+?> WowPedia link: [C_VoiceChat.IsMemberSilenced](https://wow.gamepedia.com/API_C_VoiceChat.IsMemberSilenced)
 
 No Documentation
 
@@ -379,6 +417,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |silenced|bool|true|No Documentation|
 ### C_VoiceChat.IsMuted
+?> WowPedia link: [C_VoiceChat.IsMuted](https://wow.gamepedia.com/API_C_VoiceChat.IsMuted)
 
 No Documentation
 
@@ -387,6 +426,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isMuted|bool|true|No Documentation|
 ### C_VoiceChat.IsParentalDisabled
+?> WowPedia link: [C_VoiceChat.IsParentalDisabled](https://wow.gamepedia.com/API_C_VoiceChat.IsParentalDisabled)
 
 No Documentation
 
@@ -395,6 +435,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isParentalDisabled|bool|false|No Documentation|
 ### C_VoiceChat.IsParentalMuted
+?> WowPedia link: [C_VoiceChat.IsParentalMuted](https://wow.gamepedia.com/API_C_VoiceChat.IsParentalMuted)
 
 No Documentation
 
@@ -403,6 +444,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isParentalMuted|bool|false|No Documentation|
 ### C_VoiceChat.IsPlayerUsingVoice
+?> WowPedia link: [C_VoiceChat.IsPlayerUsingVoice](https://wow.gamepedia.com/API_C_VoiceChat.IsPlayerUsingVoice)
 
 No Documentation
 
@@ -415,6 +457,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isUsingVoice|bool|false|No Documentation|
 ### C_VoiceChat.IsSilenced
+?> WowPedia link: [C_VoiceChat.IsSilenced](https://wow.gamepedia.com/API_C_VoiceChat.IsSilenced)
 
 No Documentation
 
@@ -423,6 +466,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isSilenced|bool|true|No Documentation|
 ### C_VoiceChat.LeaveChannel
+?> WowPedia link: [C_VoiceChat.LeaveChannel](https://wow.gamepedia.com/API_C_VoiceChat.LeaveChannel)
 
 No Documentation
 
@@ -431,6 +475,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |channelID|number|false|No Documentation|
 ### C_VoiceChat.Login
+?> WowPedia link: [C_VoiceChat.Login](https://wow.gamepedia.com/API_C_VoiceChat.Login)
 
 No Documentation
 
@@ -439,6 +484,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |status|VoiceChatStatusCode|false|No Documentation|
 ### C_VoiceChat.Logout
+?> WowPedia link: [C_VoiceChat.Logout](https://wow.gamepedia.com/API_C_VoiceChat.Logout)
 
 No Documentation
 
@@ -447,9 +493,11 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |status|VoiceChatStatusCode|false|No Documentation|
 ### C_VoiceChat.MarkChannelsDiscovered
+?> WowPedia link: [C_VoiceChat.MarkChannelsDiscovered](https://wow.gamepedia.com/API_C_VoiceChat.MarkChannelsDiscovered)
 
 Once the UI has enumerated all channels, use this to reset the channel discovery state, it will be updated again if appropriate
 ### C_VoiceChat.RequestJoinAndActivateCommunityStreamChannel
+?> WowPedia link: [C_VoiceChat.RequestJoinAndActivateCommunityStreamChannel](https://wow.gamepedia.com/API_C_VoiceChat.RequestJoinAndActivateCommunityStreamChannel)
 
 No Documentation
 
@@ -459,6 +507,7 @@ No Documentation
 |clubId|string|false|No Documentation|
 |streamId|string|false|No Documentation|
 ### C_VoiceChat.RequestJoinChannelByChannelType
+?> WowPedia link: [C_VoiceChat.RequestJoinChannelByChannelType](https://wow.gamepedia.com/API_C_VoiceChat.RequestJoinChannelByChannelType)
 
 No Documentation
 
@@ -468,6 +517,7 @@ No Documentation
 |channelType|ChatChannelType|false|No Documentation|
 |autoActivate|bool|true|No Documentation|
 ### C_VoiceChat.SetCommunicationMode
+?> WowPedia link: [C_VoiceChat.SetCommunicationMode](https://wow.gamepedia.com/API_C_VoiceChat.SetCommunicationMode)
 
 No Documentation
 
@@ -476,6 +526,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |communicationMode|CommunicationMode|false|No Documentation|
 ### C_VoiceChat.SetDeafened
+?> WowPedia link: [C_VoiceChat.SetDeafened](https://wow.gamepedia.com/API_C_VoiceChat.SetDeafened)
 
 No Documentation
 
@@ -484,6 +535,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isDeafened|bool|false|No Documentation|
 ### C_VoiceChat.SetInputDevice
+?> WowPedia link: [C_VoiceChat.SetInputDevice](https://wow.gamepedia.com/API_C_VoiceChat.SetInputDevice)
 
 No Documentation
 
@@ -492,6 +544,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |deviceID|string|false|No Documentation|
 ### C_VoiceChat.SetInputVolume
+?> WowPedia link: [C_VoiceChat.SetInputVolume](https://wow.gamepedia.com/API_C_VoiceChat.SetInputVolume)
 
 No Documentation
 
@@ -500,6 +553,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |volume|number|false|No Documentation|
 ### C_VoiceChat.SetMasterVolumeScale
+?> WowPedia link: [C_VoiceChat.SetMasterVolumeScale](https://wow.gamepedia.com/API_C_VoiceChat.SetMasterVolumeScale)
 
 No Documentation
 
@@ -508,6 +562,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |scale|number|false|No Documentation|
 ### C_VoiceChat.SetMemberMuted
+?> WowPedia link: [C_VoiceChat.SetMemberMuted](https://wow.gamepedia.com/API_C_VoiceChat.SetMemberMuted)
 
 No Documentation
 
@@ -517,6 +572,7 @@ No Documentation
 |playerLocation|table|false|No Documentation|
 |muted|bool|false|No Documentation|
 ### C_VoiceChat.SetMemberVolume
+?> WowPedia link: [C_VoiceChat.SetMemberVolume](https://wow.gamepedia.com/API_C_VoiceChat.SetMemberVolume)
 
 Adjusts member volume across all channels
 #### Arguments
@@ -525,6 +581,7 @@ Adjusts member volume across all channels
 |playerLocation|table|false|No Documentation|
 |volume|number|false|No Documentation|
 ### C_VoiceChat.SetMuted
+?> WowPedia link: [C_VoiceChat.SetMuted](https://wow.gamepedia.com/API_C_VoiceChat.SetMuted)
 
 No Documentation
 
@@ -533,6 +590,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isMuted|bool|false|No Documentation|
 ### C_VoiceChat.SetOutputDevice
+?> WowPedia link: [C_VoiceChat.SetOutputDevice](https://wow.gamepedia.com/API_C_VoiceChat.SetOutputDevice)
 
 No Documentation
 
@@ -541,6 +599,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |deviceID|string|false|No Documentation|
 ### C_VoiceChat.SetOutputVolume
+?> WowPedia link: [C_VoiceChat.SetOutputVolume](https://wow.gamepedia.com/API_C_VoiceChat.SetOutputVolume)
 
 No Documentation
 
@@ -549,6 +608,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |volume|number|false|No Documentation|
 ### C_VoiceChat.SetPortraitTexture
+?> WowPedia link: [C_VoiceChat.SetPortraitTexture](https://wow.gamepedia.com/API_C_VoiceChat.SetPortraitTexture)
 
 No Documentation
 
@@ -559,6 +619,7 @@ No Documentation
 |memberID|number|false|No Documentation|
 |channelID|number|false|No Documentation|
 ### C_VoiceChat.SetPushToTalkBinding
+?> WowPedia link: [C_VoiceChat.SetPushToTalkBinding](https://wow.gamepedia.com/API_C_VoiceChat.SetPushToTalkBinding)
 
 No Documentation
 
@@ -567,6 +628,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |keys|table|false|No Documentation|
 ### C_VoiceChat.SetVADSensitivity
+?> WowPedia link: [C_VoiceChat.SetVADSensitivity](https://wow.gamepedia.com/API_C_VoiceChat.SetVADSensitivity)
 
 No Documentation
 
@@ -575,6 +637,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |sensitivity|number|false|No Documentation|
 ### C_VoiceChat.ShouldDiscoverChannels
+?> WowPedia link: [C_VoiceChat.ShouldDiscoverChannels](https://wow.gamepedia.com/API_C_VoiceChat.ShouldDiscoverChannels)
 
 Use this while loading to determine if the UI should attempt to rediscover the previously joined/active voice channels
 #### Returns
@@ -582,10 +645,12 @@ Use this while loading to determine if the UI should attempt to rediscover the p
 |:---:|:---:|:---:|:---|
 |shouldDiscoverChannels|bool|false|No Documentation|
 ### C_VoiceChat.ToggleDeafened
+?> WowPedia link: [C_VoiceChat.ToggleDeafened](https://wow.gamepedia.com/API_C_VoiceChat.ToggleDeafened)
 
 No Documentation
 
 ### C_VoiceChat.ToggleMemberMuted
+?> WowPedia link: [C_VoiceChat.ToggleMemberMuted](https://wow.gamepedia.com/API_C_VoiceChat.ToggleMemberMuted)
 
 No Documentation
 
@@ -594,6 +659,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |playerLocation|table|false|No Documentation|
 ### C_VoiceChat.ToggleMuted
+?> WowPedia link: [C_VoiceChat.ToggleMuted](https://wow.gamepedia.com/API_C_VoiceChat.ToggleMuted)
 
 No Documentation
 

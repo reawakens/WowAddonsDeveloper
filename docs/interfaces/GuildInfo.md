@@ -5,6 +5,7 @@ Type: System / Namespace: C_GuildInfo
 ## Functions
 
 ### C_GuildInfo.CanEditOfficerNote
+?> WowPedia link: [C_GuildInfo.CanEditOfficerNote](https://wow.gamepedia.com/API_C_GuildInfo.CanEditOfficerNote)
 
 No Documentation
 
@@ -13,6 +14,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canEditOfficerNote|bool|false|No Documentation|
 ### C_GuildInfo.CanSpeakInGuildChat
+?> WowPedia link: [C_GuildInfo.CanSpeakInGuildChat](https://wow.gamepedia.com/API_C_GuildInfo.CanSpeakInGuildChat)
 
 No Documentation
 
@@ -21,6 +23,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canSpeakInGuildChat|bool|false|No Documentation|
 ### C_GuildInfo.CanViewOfficerNote
+?> WowPedia link: [C_GuildInfo.CanViewOfficerNote](https://wow.gamepedia.com/API_C_GuildInfo.CanViewOfficerNote)
 
 No Documentation
 
@@ -29,6 +32,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canViewOfficerNote|bool|false|No Documentation|
 ### C_GuildInfo.GetGuildNewsInfo
+?> WowPedia link: [C_GuildInfo.GetGuildNewsInfo](https://wow.gamepedia.com/API_C_GuildInfo.GetGuildNewsInfo)
 
 No Documentation
 
@@ -41,6 +45,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |newsInfo|GuildNewsInfo|false|No Documentation|
 ### C_GuildInfo.GetGuildRankOrder
+?> WowPedia link: [C_GuildInfo.GetGuildRankOrder](https://wow.gamepedia.com/API_C_GuildInfo.GetGuildRankOrder)
 
 No Documentation
 
@@ -53,6 +58,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |rankOrder|number|false|No Documentation|
 ### C_GuildInfo.GetGuildTabardInfo
+?> WowPedia link: [C_GuildInfo.GetGuildTabardInfo](https://wow.gamepedia.com/API_C_GuildInfo.GetGuildTabardInfo)
 
 No Documentation
 
@@ -65,6 +71,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |tabardInfo|GuildTabardInfo|true|No Documentation|
 ### C_GuildInfo.GuildControlGetRankFlags
+?> WowPedia link: [C_GuildInfo.GuildControlGetRankFlags](https://wow.gamepedia.com/API_C_GuildInfo.GuildControlGetRankFlags)
 
 No Documentation
 
@@ -77,10 +84,12 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |permissions|table|false|No Documentation|
 ### C_GuildInfo.GuildRoster
+?> WowPedia link: [C_GuildInfo.GuildRoster](https://wow.gamepedia.com/API_C_GuildInfo.GuildRoster)
 
 No Documentation
 
 ### C_GuildInfo.IsGuildOfficer
+?> WowPedia link: [C_GuildInfo.IsGuildOfficer](https://wow.gamepedia.com/API_C_GuildInfo.IsGuildOfficer)
 
 No Documentation
 
@@ -89,6 +98,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isOfficer|bool|false|No Documentation|
 ### C_GuildInfo.IsGuildRankAssignmentAllowed
+?> WowPedia link: [C_GuildInfo.IsGuildRankAssignmentAllowed](https://wow.gamepedia.com/API_C_GuildInfo.IsGuildRankAssignmentAllowed)
 
 No Documentation
 
@@ -102,6 +112,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isGuildRankAssignmentAllowed|bool|false|No Documentation|
 ### C_GuildInfo.QueryGuildMemberRecipes
+?> WowPedia link: [C_GuildInfo.QueryGuildMemberRecipes](https://wow.gamepedia.com/API_C_GuildInfo.QueryGuildMemberRecipes)
 
 No Documentation
 
@@ -111,6 +122,7 @@ No Documentation
 |guildMemberGUID|string|false|No Documentation|
 |skillLineID|number|false|No Documentation|
 ### C_GuildInfo.RemoveFromGuild
+?> WowPedia link: [C_GuildInfo.RemoveFromGuild](https://wow.gamepedia.com/API_C_GuildInfo.RemoveFromGuild)
 
 No Documentation
 
@@ -119,6 +131,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |guid|string|false|No Documentation|
 ### C_GuildInfo.SetGuildRankOrder
+?> WowPedia link: [C_GuildInfo.SetGuildRankOrder](https://wow.gamepedia.com/API_C_GuildInfo.SetGuildRankOrder)
 
 No Documentation
 
@@ -128,6 +141,7 @@ No Documentation
 |guid|string|false|No Documentation|
 |rankOrder|number|false|No Documentation|
 ### C_GuildInfo.SetNote
+?> WowPedia link: [C_GuildInfo.SetNote](https://wow.gamepedia.com/API_C_GuildInfo.SetNote)
 
 No Documentation
 

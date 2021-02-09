@@ -5,6 +5,7 @@ Type: System / Namespace: C_PetInfo
 ## Functions
 
 ### C_PetInfo.GetPetTamersForMap
+?> WowPedia link: [C_PetInfo.GetPetTamersForMap](https://wow.gamepedia.com/API_C_PetInfo.GetPetTamersForMap)
 
 No Documentation
 

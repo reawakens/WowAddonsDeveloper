@@ -5,6 +5,7 @@ Type: System / Namespace: C_LFGuildInfo
 ## Functions
 
 ### C_LFGuildInfo.GetRecruitingGuildTabardInfo
+?> WowPedia link: [C_LFGuildInfo.GetRecruitingGuildTabardInfo](https://wow.gamepedia.com/API_C_LFGuildInfo.GetRecruitingGuildTabardInfo)
 
 No Documentation
 

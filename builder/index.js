@@ -42,6 +42,7 @@ function buildMarkdown(documentApi, basename) {
         documentApi.Functions.forEach(FunctionItem => {
             let fullApiName = Namespace ? Namespace + '.' + FunctionItem.Name : FunctionItem.Name;
             markdown.push(`### ${ fullApiName }`)
+            markdown.push(`?> WowPedia link: [${ fullApiName }](https://wow.gamepedia.com/API_${ fullApiName })`)
 
             // API Documentation
             let documentation = FunctionItem.Documentation ? FunctionItem.Documentation.join("\n") : 'No Documentation\n';

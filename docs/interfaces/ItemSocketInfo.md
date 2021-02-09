@@ -5,6 +5,7 @@ Type: System / Namespace: C_ItemSocketInfo
 ## Functions
 
 ### C_ItemSocketInfo.CompleteSocketing
+?> WowPedia link: [C_ItemSocketInfo.CompleteSocketing](https://wow.gamepedia.com/API_C_ItemSocketInfo.CompleteSocketing)
 
 No Documentation
 

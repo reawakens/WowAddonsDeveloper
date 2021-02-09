@@ -5,6 +5,7 @@ Type: System / Namespace: C_ScriptedAnimations
 ## Functions
 
 ### C_ScriptedAnimations.GetAllScriptedAnimationEffects
+?> WowPedia link: [C_ScriptedAnimations.GetAllScriptedAnimationEffects](https://wow.gamepedia.com/API_C_ScriptedAnimations.GetAllScriptedAnimationEffects)
 
 No Documentation
 

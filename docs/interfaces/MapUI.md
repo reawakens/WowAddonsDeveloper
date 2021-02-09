@@ -5,6 +5,7 @@ Type: System / Namespace: C_Map
 ## Functions
 
 ### C_Map.CanSetUserWaypointOnMap
+?> WowPedia link: [C_Map.CanSetUserWaypointOnMap](https://wow.gamepedia.com/API_C_Map.CanSetUserWaypointOnMap)
 
 No Documentation
 
@@ -17,14 +18,17 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canSet|bool|false|No Documentation|
 ### C_Map.ClearUserWaypoint
+?> WowPedia link: [C_Map.ClearUserWaypoint](https://wow.gamepedia.com/API_C_Map.ClearUserWaypoint)
 
 No Documentation
 
 ### C_Map.CloseWorldMapInteraction
+?> WowPedia link: [C_Map.CloseWorldMapInteraction](https://wow.gamepedia.com/API_C_Map.CloseWorldMapInteraction)
 
 No Documentation
 
 ### C_Map.GetAreaInfo
+?> WowPedia link: [C_Map.GetAreaInfo](https://wow.gamepedia.com/API_C_Map.GetAreaInfo)
 
 No Documentation
 
@@ -37,6 +41,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |name|string|false|No Documentation|
 ### C_Map.GetBestMapForUnit
+?> WowPedia link: [C_Map.GetBestMapForUnit](https://wow.gamepedia.com/API_C_Map.GetBestMapForUnit)
 
 Only works for the player and party members.
 #### Arguments
@@ -48,6 +53,7 @@ Only works for the player and party members.
 |:---:|:---:|:---:|:---|
 |uiMapID|number|true|No Documentation|
 ### C_Map.GetBountySetMaps
+?> WowPedia link: [C_Map.GetBountySetMaps](https://wow.gamepedia.com/API_C_Map.GetBountySetMaps)
 
 No Documentation
 
@@ -60,6 +66,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |mapIDs|table|false|No Documentation|
 ### C_Map.GetFallbackWorldMapID
+?> WowPedia link: [C_Map.GetFallbackWorldMapID](https://wow.gamepedia.com/API_C_Map.GetFallbackWorldMapID)
 
 No Documentation
 
@@ -68,6 +75,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |uiMapID|number|false|No Documentation|
 ### C_Map.GetMapArtBackgroundAtlas
+?> WowPedia link: [C_Map.GetMapArtBackgroundAtlas](https://wow.gamepedia.com/API_C_Map.GetMapArtBackgroundAtlas)
 
 No Documentation
 
@@ -80,6 +88,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |atlasName|string|false|No Documentation|
 ### C_Map.GetMapArtHelpTextPosition
+?> WowPedia link: [C_Map.GetMapArtHelpTextPosition](https://wow.gamepedia.com/API_C_Map.GetMapArtHelpTextPosition)
 
 No Documentation
 
@@ -92,6 +101,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |position|MapCanvasPosition|false|No Documentation|
 ### C_Map.GetMapArtID
+?> WowPedia link: [C_Map.GetMapArtID](https://wow.gamepedia.com/API_C_Map.GetMapArtID)
 
 No Documentation
 
@@ -104,6 +114,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |uiMapArtID|number|false|No Documentation|
 ### C_Map.GetMapArtLayerTextures
+?> WowPedia link: [C_Map.GetMapArtLayerTextures](https://wow.gamepedia.com/API_C_Map.GetMapArtLayerTextures)
 
 No Documentation
 
@@ -117,6 +128,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |textures|table|false|No Documentation|
 ### C_Map.GetMapArtLayers
+?> WowPedia link: [C_Map.GetMapArtLayers](https://wow.gamepedia.com/API_C_Map.GetMapArtLayers)
 
 No Documentation
 
@@ -129,6 +141,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |layerInfo|table|false|No Documentation|
 ### C_Map.GetMapBannersForMap
+?> WowPedia link: [C_Map.GetMapBannersForMap](https://wow.gamepedia.com/API_C_Map.GetMapBannersForMap)
 
 No Documentation
 
@@ -141,6 +154,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |mapBanners|table|false|No Documentation|
 ### C_Map.GetMapChildrenInfo
+?> WowPedia link: [C_Map.GetMapChildrenInfo](https://wow.gamepedia.com/API_C_Map.GetMapChildrenInfo)
 
 No Documentation
 
@@ -155,6 +169,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|table|false|No Documentation|
 ### C_Map.GetMapDisplayInfo
+?> WowPedia link: [C_Map.GetMapDisplayInfo](https://wow.gamepedia.com/API_C_Map.GetMapDisplayInfo)
 
 No Documentation
 
@@ -167,6 +182,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hideIcons|bool|false|No Documentation|
 ### C_Map.GetMapGroupID
+?> WowPedia link: [C_Map.GetMapGroupID](https://wow.gamepedia.com/API_C_Map.GetMapGroupID)
 
 No Documentation
 
@@ -179,6 +195,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |uiMapGroupID|number|false|No Documentation|
 ### C_Map.GetMapGroupMembersInfo
+?> WowPedia link: [C_Map.GetMapGroupMembersInfo](https://wow.gamepedia.com/API_C_Map.GetMapGroupMembersInfo)
 
 No Documentation
 
@@ -191,6 +208,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|table|false|No Documentation|
 ### C_Map.GetMapHighlightInfoAtPosition
+?> WowPedia link: [C_Map.GetMapHighlightInfoAtPosition](https://wow.gamepedia.com/API_C_Map.GetMapHighlightInfoAtPosition)
 
 No Documentation
 
@@ -212,6 +230,7 @@ No Documentation
 |scrollChildX|number|false|No Documentation|
 |scrollChildY|number|false|No Documentation|
 ### C_Map.GetMapInfo
+?> WowPedia link: [C_Map.GetMapInfo](https://wow.gamepedia.com/API_C_Map.GetMapInfo)
 
 No Documentation
 
@@ -224,6 +243,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|UiMapDetails|false|No Documentation|
 ### C_Map.GetMapInfoAtPosition
+?> WowPedia link: [C_Map.GetMapInfoAtPosition](https://wow.gamepedia.com/API_C_Map.GetMapInfoAtPosition)
 
 No Documentation
 
@@ -238,6 +258,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|UiMapDetails|false|No Documentation|
 ### C_Map.GetMapLevels
+?> WowPedia link: [C_Map.GetMapLevels](https://wow.gamepedia.com/API_C_Map.GetMapLevels)
 
 No Documentation
 
@@ -253,6 +274,7 @@ No Documentation
 |petMinLevel|number|false|No Documentation|
 |petMaxLevel|number|false|No Documentation|
 ### C_Map.GetMapLinksForMap
+?> WowPedia link: [C_Map.GetMapLinksForMap](https://wow.gamepedia.com/API_C_Map.GetMapLinksForMap)
 
 No Documentation
 
@@ -265,6 +287,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |mapLinks|table|false|No Documentation|
 ### C_Map.GetMapPosFromWorldPos
+?> WowPedia link: [C_Map.GetMapPosFromWorldPos](https://wow.gamepedia.com/API_C_Map.GetMapPosFromWorldPos)
 
 No Documentation
 
@@ -280,6 +303,7 @@ No Documentation
 |uiMapID|number|false|No Documentation|
 |mapPosition|table|false|No Documentation|
 ### C_Map.GetMapRectOnMap
+?> WowPedia link: [C_Map.GetMapRectOnMap](https://wow.gamepedia.com/API_C_Map.GetMapRectOnMap)
 
 No Documentation
 
@@ -296,6 +320,7 @@ No Documentation
 |minY|number|false|No Documentation|
 |maxY|number|false|No Documentation|
 ### C_Map.GetMapWorldSize
+?> WowPedia link: [C_Map.GetMapWorldSize](https://wow.gamepedia.com/API_C_Map.GetMapWorldSize)
 
 Returns the size in yards of the area represented by the map.
 #### Arguments
@@ -308,6 +333,7 @@ Returns the size in yards of the area represented by the map.
 |width|number|false|No Documentation|
 |height|number|false|No Documentation|
 ### C_Map.GetPlayerMapPosition
+?> WowPedia link: [C_Map.GetPlayerMapPosition](https://wow.gamepedia.com/API_C_Map.GetPlayerMapPosition)
 
 Only works for the player and party members.
 #### Arguments
@@ -320,6 +346,7 @@ Only works for the player and party members.
 |:---:|:---:|:---:|:---|
 |position|table|true|No Documentation|
 ### C_Map.GetUserWaypoint
+?> WowPedia link: [C_Map.GetUserWaypoint](https://wow.gamepedia.com/API_C_Map.GetUserWaypoint)
 
 No Documentation
 
@@ -328,6 +355,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |point|table|false|No Documentation|
 ### C_Map.GetUserWaypointFromHyperlink
+?> WowPedia link: [C_Map.GetUserWaypointFromHyperlink](https://wow.gamepedia.com/API_C_Map.GetUserWaypointFromHyperlink)
 
 No Documentation
 
@@ -340,6 +368,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |point|table|false|No Documentation|
 ### C_Map.GetUserWaypointHyperlink
+?> WowPedia link: [C_Map.GetUserWaypointHyperlink](https://wow.gamepedia.com/API_C_Map.GetUserWaypointHyperlink)
 
 No Documentation
 
@@ -348,6 +377,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hyperlink|string|false|No Documentation|
 ### C_Map.GetUserWaypointPositionForMap
+?> WowPedia link: [C_Map.GetUserWaypointPositionForMap](https://wow.gamepedia.com/API_C_Map.GetUserWaypointPositionForMap)
 
 No Documentation
 
@@ -360,6 +390,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |mapPosition|table|false|No Documentation|
 ### C_Map.GetWorldPosFromMapPos
+?> WowPedia link: [C_Map.GetWorldPosFromMapPos](https://wow.gamepedia.com/API_C_Map.GetWorldPosFromMapPos)
 
 No Documentation
 
@@ -374,6 +405,7 @@ No Documentation
 |continentID|number|false|No Documentation|
 |worldPosition|table|false|No Documentation|
 ### C_Map.HasUserWaypoint
+?> WowPedia link: [C_Map.HasUserWaypoint](https://wow.gamepedia.com/API_C_Map.HasUserWaypoint)
 
 No Documentation
 
@@ -382,6 +414,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasUserWaypoint|bool|false|No Documentation|
 ### C_Map.IsMapValidForNavBarDropDown
+?> WowPedia link: [C_Map.IsMapValidForNavBarDropDown](https://wow.gamepedia.com/API_C_Map.IsMapValidForNavBarDropDown)
 
 No Documentation
 
@@ -394,6 +427,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isValid|bool|false|No Documentation|
 ### C_Map.MapHasArt
+?> WowPedia link: [C_Map.MapHasArt](https://wow.gamepedia.com/API_C_Map.MapHasArt)
 
 No Documentation
 
@@ -406,6 +440,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasArt|bool|false|No Documentation|
 ### C_Map.RequestPreloadMap
+?> WowPedia link: [C_Map.RequestPreloadMap](https://wow.gamepedia.com/API_C_Map.RequestPreloadMap)
 
 No Documentation
 
@@ -414,6 +449,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |uiMapID|number|false|No Documentation|
 ### C_Map.SetUserWaypoint
+?> WowPedia link: [C_Map.SetUserWaypoint](https://wow.gamepedia.com/API_C_Map.SetUserWaypoint)
 
 No Documentation
 

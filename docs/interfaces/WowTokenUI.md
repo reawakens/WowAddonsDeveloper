@@ -5,6 +5,7 @@ Type: System / Namespace: C_WowTokenUI
 ## Functions
 
 ### C_WowTokenUI.StartTokenSell
+?> WowPedia link: [C_WowTokenUI.StartTokenSell](https://wow.gamepedia.com/API_C_WowTokenUI.StartTokenSell)
 
 No Documentation
 

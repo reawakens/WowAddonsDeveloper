@@ -5,6 +5,7 @@ Type: System / Namespace: C_LoreText
 ## Functions
 
 ### C_LoreText.RequestLoreTextForCampaignID
+?> WowPedia link: [C_LoreText.RequestLoreTextForCampaignID](https://wow.gamepedia.com/API_C_LoreText.RequestLoreTextForCampaignID)
 
 No Documentation
 

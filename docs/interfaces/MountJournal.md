@@ -5,6 +5,7 @@ Type: System / Namespace: C_MountJournal
 ## Functions
 
 ### C_MountJournal.ApplyMountEquipment
+?> WowPedia link: [C_MountJournal.ApplyMountEquipment](https://wow.gamepedia.com/API_C_MountJournal.ApplyMountEquipment)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canContinue|bool|false|No Documentation|
 ### C_MountJournal.AreMountEquipmentEffectsSuppressed
+?> WowPedia link: [C_MountJournal.AreMountEquipmentEffectsSuppressed](https://wow.gamepedia.com/API_C_MountJournal.AreMountEquipmentEffectsSuppressed)
 
 No Documentation
 
@@ -25,6 +27,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |areEffectsSuppressed|bool|false|No Documentation|
 ### C_MountJournal.ClearFanfare
+?> WowPedia link: [C_MountJournal.ClearFanfare](https://wow.gamepedia.com/API_C_MountJournal.ClearFanfare)
 
 No Documentation
 
@@ -33,14 +36,17 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |mountID|number|false|No Documentation|
 ### C_MountJournal.ClearRecentFanfares
+?> WowPedia link: [C_MountJournal.ClearRecentFanfares](https://wow.gamepedia.com/API_C_MountJournal.ClearRecentFanfares)
 
 No Documentation
 
 ### C_MountJournal.Dismiss
+?> WowPedia link: [C_MountJournal.Dismiss](https://wow.gamepedia.com/API_C_MountJournal.Dismiss)
 
 No Documentation
 
 ### C_MountJournal.GetAppliedMountEquipmentID
+?> WowPedia link: [C_MountJournal.GetAppliedMountEquipmentID](https://wow.gamepedia.com/API_C_MountJournal.GetAppliedMountEquipmentID)
 
 No Documentation
 
@@ -49,6 +55,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |itemID|number|true|No Documentation|
 ### C_MountJournal.GetCollectedFilterSetting
+?> WowPedia link: [C_MountJournal.GetCollectedFilterSetting](https://wow.gamepedia.com/API_C_MountJournal.GetCollectedFilterSetting)
 
 No Documentation
 
@@ -61,6 +68,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isChecked|bool|false|No Documentation|
 ### C_MountJournal.GetDisplayedMountAllCreatureDisplayInfo
+?> WowPedia link: [C_MountJournal.GetDisplayedMountAllCreatureDisplayInfo](https://wow.gamepedia.com/API_C_MountJournal.GetDisplayedMountAllCreatureDisplayInfo)
 
 No Documentation
 
@@ -73,6 +81,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |allDisplayInfo|table|false|No Documentation|
 ### C_MountJournal.GetDisplayedMountInfo
+?> WowPedia link: [C_MountJournal.GetDisplayedMountInfo](https://wow.gamepedia.com/API_C_MountJournal.GetDisplayedMountInfo)
 
 No Documentation
 
@@ -96,6 +105,7 @@ No Documentation
 |isCollected|bool|false|No Documentation|
 |mountID|number|false|No Documentation|
 ### C_MountJournal.GetDisplayedMountInfoExtra
+?> WowPedia link: [C_MountJournal.GetDisplayedMountInfoExtra](https://wow.gamepedia.com/API_C_MountJournal.GetDisplayedMountInfoExtra)
 
 No Documentation
 
@@ -116,6 +126,7 @@ No Documentation
 |spellVisualKitID|number|false|No Documentation|
 |disablePlayerMountPreview|bool|false|No Documentation|
 ### C_MountJournal.GetIsFavorite
+?> WowPedia link: [C_MountJournal.GetIsFavorite](https://wow.gamepedia.com/API_C_MountJournal.GetIsFavorite)
 
 No Documentation
 
@@ -129,6 +140,7 @@ No Documentation
 |isFavorite|bool|false|No Documentation|
 |canSetFavorite|bool|false|No Documentation|
 ### C_MountJournal.GetMountAllCreatureDisplayInfoByID
+?> WowPedia link: [C_MountJournal.GetMountAllCreatureDisplayInfoByID](https://wow.gamepedia.com/API_C_MountJournal.GetMountAllCreatureDisplayInfoByID)
 
 No Documentation
 
@@ -141,6 +153,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |allDisplayInfo|table|false|No Documentation|
 ### C_MountJournal.GetMountEquipmentUnlockLevel
+?> WowPedia link: [C_MountJournal.GetMountEquipmentUnlockLevel](https://wow.gamepedia.com/API_C_MountJournal.GetMountEquipmentUnlockLevel)
 
 No Documentation
 
@@ -149,6 +162,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |level|number|false|No Documentation|
 ### C_MountJournal.GetMountFromItem
+?> WowPedia link: [C_MountJournal.GetMountFromItem](https://wow.gamepedia.com/API_C_MountJournal.GetMountFromItem)
 
 No Documentation
 
@@ -161,6 +175,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |mountID|number|true|No Documentation|
 ### C_MountJournal.GetMountFromSpell
+?> WowPedia link: [C_MountJournal.GetMountFromSpell](https://wow.gamepedia.com/API_C_MountJournal.GetMountFromSpell)
 
 No Documentation
 
@@ -173,6 +188,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |mountID|number|true|No Documentation|
 ### C_MountJournal.GetMountIDs
+?> WowPedia link: [C_MountJournal.GetMountIDs](https://wow.gamepedia.com/API_C_MountJournal.GetMountIDs)
 
 No Documentation
 
@@ -181,6 +197,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |mountIDs|table|false|No Documentation|
 ### C_MountJournal.GetMountInfoByID
+?> WowPedia link: [C_MountJournal.GetMountInfoByID](https://wow.gamepedia.com/API_C_MountJournal.GetMountInfoByID)
 
 No Documentation
 
@@ -204,6 +221,7 @@ No Documentation
 |isCollected|bool|false|No Documentation|
 |mountID|number|false|No Documentation|
 ### C_MountJournal.GetMountInfoExtraByID
+?> WowPedia link: [C_MountJournal.GetMountInfoExtraByID](https://wow.gamepedia.com/API_C_MountJournal.GetMountInfoExtraByID)
 
 No Documentation
 
@@ -224,6 +242,7 @@ No Documentation
 |spellVisualKitID|number|false|No Documentation|
 |disablePlayerMountPreview|bool|false|No Documentation|
 ### C_MountJournal.GetMountUsabilityByID
+?> WowPedia link: [C_MountJournal.GetMountUsabilityByID](https://wow.gamepedia.com/API_C_MountJournal.GetMountUsabilityByID)
 
 No Documentation
 
@@ -238,6 +257,7 @@ No Documentation
 |isUsable|bool|false|No Documentation|
 |useError|string|true|No Documentation|
 ### C_MountJournal.GetNumDisplayedMounts
+?> WowPedia link: [C_MountJournal.GetNumDisplayedMounts](https://wow.gamepedia.com/API_C_MountJournal.GetNumDisplayedMounts)
 
 No Documentation
 
@@ -246,6 +266,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numMounts|number|false|No Documentation|
 ### C_MountJournal.GetNumMounts
+?> WowPedia link: [C_MountJournal.GetNumMounts](https://wow.gamepedia.com/API_C_MountJournal.GetNumMounts)
 
 No Documentation
 
@@ -254,6 +275,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numMounts|number|false|No Documentation|
 ### C_MountJournal.GetNumMountsNeedingFanfare
+?> WowPedia link: [C_MountJournal.GetNumMountsNeedingFanfare](https://wow.gamepedia.com/API_C_MountJournal.GetNumMountsNeedingFanfare)
 
 No Documentation
 
@@ -262,6 +284,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numMountsNeedingFanfare|number|false|No Documentation|
 ### C_MountJournal.IsItemMountEquipment
+?> WowPedia link: [C_MountJournal.IsItemMountEquipment](https://wow.gamepedia.com/API_C_MountJournal.IsItemMountEquipment)
 
 Determines if the item is mount equipment based on its class and subclass.
 #### Arguments
@@ -273,6 +296,7 @@ Determines if the item is mount equipment based on its class and subclass.
 |:---:|:---:|:---:|:---|
 |isMountEquipment|bool|false|No Documentation|
 ### C_MountJournal.IsMountEquipmentApplied
+?> WowPedia link: [C_MountJournal.IsMountEquipmentApplied](https://wow.gamepedia.com/API_C_MountJournal.IsMountEquipmentApplied)
 
 No Documentation
 
@@ -281,6 +305,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isApplied|bool|false|No Documentation|
 ### C_MountJournal.IsSourceChecked
+?> WowPedia link: [C_MountJournal.IsSourceChecked](https://wow.gamepedia.com/API_C_MountJournal.IsSourceChecked)
 
 No Documentation
 
@@ -293,6 +318,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isChecked|bool|false|No Documentation|
 ### C_MountJournal.IsValidSourceFilter
+?> WowPedia link: [C_MountJournal.IsValidSourceFilter](https://wow.gamepedia.com/API_C_MountJournal.IsValidSourceFilter)
 
 No Documentation
 
@@ -305,6 +331,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isValid|bool|false|No Documentation|
 ### C_MountJournal.NeedsFanfare
+?> WowPedia link: [C_MountJournal.NeedsFanfare](https://wow.gamepedia.com/API_C_MountJournal.NeedsFanfare)
 
 No Documentation
 
@@ -317,6 +344,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |needsFanfare|bool|false|No Documentation|
 ### C_MountJournal.Pickup
+?> WowPedia link: [C_MountJournal.Pickup](https://wow.gamepedia.com/API_C_MountJournal.Pickup)
 
 No Documentation
 
@@ -325,6 +353,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |displayIndex|number|false|No Documentation|
 ### C_MountJournal.SetAllSourceFilters
+?> WowPedia link: [C_MountJournal.SetAllSourceFilters](https://wow.gamepedia.com/API_C_MountJournal.SetAllSourceFilters)
 
 No Documentation
 
@@ -333,6 +362,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isChecked|bool|false|No Documentation|
 ### C_MountJournal.SetCollectedFilterSetting
+?> WowPedia link: [C_MountJournal.SetCollectedFilterSetting](https://wow.gamepedia.com/API_C_MountJournal.SetCollectedFilterSetting)
 
 No Documentation
 
@@ -342,6 +372,7 @@ No Documentation
 |filterIndex|number|false|No Documentation|
 |isChecked|bool|false|No Documentation|
 ### C_MountJournal.SetIsFavorite
+?> WowPedia link: [C_MountJournal.SetIsFavorite](https://wow.gamepedia.com/API_C_MountJournal.SetIsFavorite)
 
 No Documentation
 
@@ -351,6 +382,7 @@ No Documentation
 |mountIndex|number|false|No Documentation|
 |isFavorite|bool|false|No Documentation|
 ### C_MountJournal.SetSearch
+?> WowPedia link: [C_MountJournal.SetSearch](https://wow.gamepedia.com/API_C_MountJournal.SetSearch)
 
 No Documentation
 
@@ -359,6 +391,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |searchValue|string|false|No Documentation|
 ### C_MountJournal.SetSourceFilter
+?> WowPedia link: [C_MountJournal.SetSourceFilter](https://wow.gamepedia.com/API_C_MountJournal.SetSourceFilter)
 
 No Documentation
 
@@ -368,6 +401,7 @@ No Documentation
 |filterIndex|number|false|No Documentation|
 |isChecked|bool|false|No Documentation|
 ### C_MountJournal.SummonByID
+?> WowPedia link: [C_MountJournal.SummonByID](https://wow.gamepedia.com/API_C_MountJournal.SummonByID)
 
 No Documentation
 

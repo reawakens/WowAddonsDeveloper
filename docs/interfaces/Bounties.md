@@ -5,6 +5,7 @@ Type: System / Namespace: C_Bounties
 ## Functions
 
 ### C_Bounties.GetBountiesForMapID
+?> WowPedia link: [C_Bounties.GetBountiesForMapID](https://wow.gamepedia.com/API_C_Bounties.GetBountiesForMapID)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |bounties|table|true|No Documentation|
 ### C_Bounties.GetBountyInfo
+?> WowPedia link: [C_Bounties.GetBountyInfo](https://wow.gamepedia.com/API_C_Bounties.GetBountyInfo)
 
 No Documentation
 
@@ -29,6 +31,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |bounty|BountyInfo|true|No Documentation|
 ### C_Bounties.GetBountySetInfoForMapID
+?> WowPedia link: [C_Bounties.GetBountySetInfoForMapID](https://wow.gamepedia.com/API_C_Bounties.GetBountySetInfoForMapID)
 
 No Documentation
 

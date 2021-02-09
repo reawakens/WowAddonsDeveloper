@@ -5,6 +5,7 @@ Type: System / Namespace: C_Console
 ## Functions
 
 ### C_Console.GetAllCommands
+?> WowPedia link: [C_Console.GetAllCommands](https://wow.gamepedia.com/API_C_Console.GetAllCommands)
 
 No Documentation
 
@@ -13,6 +14,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |commands|table|false|No Documentation|
 ### C_Console.GetColorFromType
+?> WowPedia link: [C_Console.GetColorFromType](https://wow.gamepedia.com/API_C_Console.GetColorFromType)
 
 No Documentation
 
@@ -25,6 +27,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |color|table|false|No Documentation|
 ### C_Console.GetFontHeight
+?> WowPedia link: [C_Console.GetFontHeight](https://wow.gamepedia.com/API_C_Console.GetFontHeight)
 
 No Documentation
 
@@ -33,6 +36,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |fontHeightInPixels|number|false|No Documentation|
 ### C_Console.PrintAllMatchingCommands
+?> WowPedia link: [C_Console.PrintAllMatchingCommands](https://wow.gamepedia.com/API_C_Console.PrintAllMatchingCommands)
 
 No Documentation
 
@@ -41,6 +45,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |partialCommandText|string|false|No Documentation|
 ### C_Console.SetFontHeight
+?> WowPedia link: [C_Console.SetFontHeight](https://wow.gamepedia.com/API_C_Console.SetFontHeight)
 
 No Documentation
 

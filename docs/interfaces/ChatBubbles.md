@@ -5,6 +5,7 @@ Type: System / Namespace: C_ChatBubbles
 ## Functions
 
 ### C_ChatBubbles.GetAllChatBubbles
+?> WowPedia link: [C_ChatBubbles.GetAllChatBubbles](https://wow.gamepedia.com/API_C_ChatBubbles.GetAllChatBubbles)
 
 No Documentation
 

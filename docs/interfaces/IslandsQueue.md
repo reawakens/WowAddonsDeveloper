@@ -5,10 +5,12 @@ Type: System / Namespace: C_IslandsQueue
 ## Functions
 
 ### C_IslandsQueue.CloseIslandsQueueScreen
+?> WowPedia link: [C_IslandsQueue.CloseIslandsQueueScreen](https://wow.gamepedia.com/API_C_IslandsQueue.CloseIslandsQueueScreen)
 
 No Documentation
 
 ### C_IslandsQueue.GetIslandDifficultyInfo
+?> WowPedia link: [C_IslandsQueue.GetIslandDifficultyInfo](https://wow.gamepedia.com/API_C_IslandsQueue.GetIslandDifficultyInfo)
 
 No Documentation
 
@@ -17,6 +19,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |islandDifficultyInfo|table|false|No Documentation|
 ### C_IslandsQueue.GetIslandsMaxGroupSize
+?> WowPedia link: [C_IslandsQueue.GetIslandsMaxGroupSize](https://wow.gamepedia.com/API_C_IslandsQueue.GetIslandsMaxGroupSize)
 
 No Documentation
 
@@ -25,6 +28,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |maxGroupSize|number|false|No Documentation|
 ### C_IslandsQueue.GetIslandsWeeklyQuestID
+?> WowPedia link: [C_IslandsQueue.GetIslandsWeeklyQuestID](https://wow.gamepedia.com/API_C_IslandsQueue.GetIslandsWeeklyQuestID)
 
 No Documentation
 
@@ -33,6 +37,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |questID|number|true|No Documentation|
 ### C_IslandsQueue.QueueForIsland
+?> WowPedia link: [C_IslandsQueue.QueueForIsland](https://wow.gamepedia.com/API_C_IslandsQueue.QueueForIsland)
 
 No Documentation
 
@@ -41,6 +46,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |difficultyID|number|false|No Documentation|
 ### C_IslandsQueue.RequestPreloadRewardData
+?> WowPedia link: [C_IslandsQueue.RequestPreloadRewardData](https://wow.gamepedia.com/API_C_IslandsQueue.RequestPreloadRewardData)
 
 No Documentation
 

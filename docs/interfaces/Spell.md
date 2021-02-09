@@ -5,6 +5,7 @@ Type: System / Namespace: C_Spell
 ## Functions
 
 ### C_Spell.DoesSpellExist
+?> WowPedia link: [C_Spell.DoesSpellExist](https://wow.gamepedia.com/API_C_Spell.DoesSpellExist)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |spellExists|bool|false|No Documentation|
 ### C_Spell.GetMawPowerBorderAtlasBySpellID
+?> WowPedia link: [C_Spell.GetMawPowerBorderAtlasBySpellID](https://wow.gamepedia.com/API_C_Spell.GetMawPowerBorderAtlasBySpellID)
 
 No Documentation
 
@@ -29,6 +31,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |rarityBorderAtlas|string|false|No Documentation|
 ### C_Spell.IsSpellDataCached
+?> WowPedia link: [C_Spell.IsSpellDataCached](https://wow.gamepedia.com/API_C_Spell.IsSpellDataCached)
 
 No Documentation
 
@@ -41,6 +44,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isCached|bool|false|No Documentation|
 ### C_Spell.RequestLoadSpellData
+?> WowPedia link: [C_Spell.RequestLoadSpellData](https://wow.gamepedia.com/API_C_Spell.RequestLoadSpellData)
 
 No Documentation
 

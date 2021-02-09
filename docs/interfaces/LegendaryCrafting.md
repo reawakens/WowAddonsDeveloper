@@ -5,10 +5,12 @@ Type: System / Namespace: C_LegendaryCrafting
 ## Functions
 
 ### C_LegendaryCrafting.CloseRuneforgeInteraction
+?> WowPedia link: [C_LegendaryCrafting.CloseRuneforgeInteraction](https://wow.gamepedia.com/API_C_LegendaryCrafting.CloseRuneforgeInteraction)
 
 No Documentation
 
 ### C_LegendaryCrafting.CraftRuneforgeLegendary
+?> WowPedia link: [C_LegendaryCrafting.CraftRuneforgeLegendary](https://wow.gamepedia.com/API_C_LegendaryCrafting.CraftRuneforgeLegendary)
 
 No Documentation
 
@@ -17,6 +19,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |description|RuneforgeLegendaryCraftDescription|false|No Documentation|
 ### C_LegendaryCrafting.GetRuneforgeItemPreviewInfo
+?> WowPedia link: [C_LegendaryCrafting.GetRuneforgeItemPreviewInfo](https://wow.gamepedia.com/API_C_LegendaryCrafting.GetRuneforgeItemPreviewInfo)
 
 No Documentation
 
@@ -31,6 +34,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|RuneforgeItemPreviewInfo|true|No Documentation|
 ### C_LegendaryCrafting.GetRuneforgeLegendaryComponentInfo
+?> WowPedia link: [C_LegendaryCrafting.GetRuneforgeLegendaryComponentInfo](https://wow.gamepedia.com/API_C_LegendaryCrafting.GetRuneforgeLegendaryComponentInfo)
 
 No Documentation
 
@@ -43,6 +47,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |componentInfo|RuneforgeLegendaryComponentInfo|false|No Documentation|
 ### C_LegendaryCrafting.GetRuneforgeLegendaryCost
+?> WowPedia link: [C_LegendaryCrafting.GetRuneforgeLegendaryCost](https://wow.gamepedia.com/API_C_LegendaryCrafting.GetRuneforgeLegendaryCost)
 
 No Documentation
 
@@ -55,6 +60,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |cost|table|false|No Documentation|
 ### C_LegendaryCrafting.GetRuneforgeLegendaryCraftSpellID
+?> WowPedia link: [C_LegendaryCrafting.GetRuneforgeLegendaryCraftSpellID](https://wow.gamepedia.com/API_C_LegendaryCrafting.GetRuneforgeLegendaryCraftSpellID)
 
 No Documentation
 
@@ -63,6 +69,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |spellID|number|false|No Documentation|
 ### C_LegendaryCrafting.GetRuneforgeLegendaryCurrencies
+?> WowPedia link: [C_LegendaryCrafting.GetRuneforgeLegendaryCurrencies](https://wow.gamepedia.com/API_C_LegendaryCrafting.GetRuneforgeLegendaryCurrencies)
 
 No Documentation
 
@@ -71,6 +78,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |currencies|table|false|No Documentation|
 ### C_LegendaryCrafting.GetRuneforgeLegendaryUpgradeCost
+?> WowPedia link: [C_LegendaryCrafting.GetRuneforgeLegendaryUpgradeCost](https://wow.gamepedia.com/API_C_LegendaryCrafting.GetRuneforgeLegendaryUpgradeCost)
 
 No Documentation
 
@@ -84,6 +92,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |cost|table|false|No Documentation|
 ### C_LegendaryCrafting.GetRuneforgeModifierInfo
+?> WowPedia link: [C_LegendaryCrafting.GetRuneforgeModifierInfo](https://wow.gamepedia.com/API_C_LegendaryCrafting.GetRuneforgeModifierInfo)
 
 No Documentation
 
@@ -100,6 +109,7 @@ No Documentation
 |name|string|false|No Documentation|
 |description|string|false|No Documentation|
 ### C_LegendaryCrafting.GetRuneforgeModifiers
+?> WowPedia link: [C_LegendaryCrafting.GetRuneforgeModifiers](https://wow.gamepedia.com/API_C_LegendaryCrafting.GetRuneforgeModifiers)
 
 No Documentation
 
@@ -108,6 +118,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |modifiedReagentItemIDs|table|false|No Documentation|
 ### C_LegendaryCrafting.GetRuneforgePowerInfo
+?> WowPedia link: [C_LegendaryCrafting.GetRuneforgePowerInfo](https://wow.gamepedia.com/API_C_LegendaryCrafting.GetRuneforgePowerInfo)
 
 No Documentation
 
@@ -120,6 +131,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |power|RuneforgePower|false|No Documentation|
 ### C_LegendaryCrafting.GetRuneforgePowerSlots
+?> WowPedia link: [C_LegendaryCrafting.GetRuneforgePowerSlots](https://wow.gamepedia.com/API_C_LegendaryCrafting.GetRuneforgePowerSlots)
 
 No Documentation
 
@@ -132,6 +144,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |slotNames|table|false|No Documentation|
 ### C_LegendaryCrafting.GetRuneforgePowers
+?> WowPedia link: [C_LegendaryCrafting.GetRuneforgePowers](https://wow.gamepedia.com/API_C_LegendaryCrafting.GetRuneforgePowers)
 
 No Documentation
 
@@ -146,6 +159,7 @@ No Documentation
 |specRuneforgePowerIDs|table|false|No Documentation|
 |otherSpecRuneforgePowerIDs|table|false|No Documentation|
 ### C_LegendaryCrafting.GetRuneforgePowersByClassAndSpec
+?> WowPedia link: [C_LegendaryCrafting.GetRuneforgePowersByClassAndSpec](https://wow.gamepedia.com/API_C_LegendaryCrafting.GetRuneforgePowersByClassAndSpec)
 
 No Documentation
 
@@ -160,6 +174,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |runeforgePowerIDs|table|false|No Documentation|
 ### C_LegendaryCrafting.IsRuneforgeLegendary
+?> WowPedia link: [C_LegendaryCrafting.IsRuneforgeLegendary](https://wow.gamepedia.com/API_C_LegendaryCrafting.IsRuneforgeLegendary)
 
 No Documentation
 
@@ -172,6 +187,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isRuneforgeLegendary|bool|false|No Documentation|
 ### C_LegendaryCrafting.IsRuneforgeLegendaryMaxLevel
+?> WowPedia link: [C_LegendaryCrafting.IsRuneforgeLegendaryMaxLevel](https://wow.gamepedia.com/API_C_LegendaryCrafting.IsRuneforgeLegendaryMaxLevel)
 
 No Documentation
 
@@ -184,6 +200,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isMaxLevel|bool|false|No Documentation|
 ### C_LegendaryCrafting.IsUpgradeItemValidForRuneforgeLegendary
+?> WowPedia link: [C_LegendaryCrafting.IsUpgradeItemValidForRuneforgeLegendary](https://wow.gamepedia.com/API_C_LegendaryCrafting.IsUpgradeItemValidForRuneforgeLegendary)
 
 No Documentation
 
@@ -197,6 +214,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isValid|bool|false|No Documentation|
 ### C_LegendaryCrafting.IsValidRuneforgeBaseItem
+?> WowPedia link: [C_LegendaryCrafting.IsValidRuneforgeBaseItem](https://wow.gamepedia.com/API_C_LegendaryCrafting.IsValidRuneforgeBaseItem)
 
 No Documentation
 
@@ -209,6 +227,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isValid|bool|false|No Documentation|
 ### C_LegendaryCrafting.MakeRuneforgeCraftDescription
+?> WowPedia link: [C_LegendaryCrafting.MakeRuneforgeCraftDescription](https://wow.gamepedia.com/API_C_LegendaryCrafting.MakeRuneforgeCraftDescription)
 
 No Documentation
 
@@ -223,6 +242,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |description|RuneforgeLegendaryCraftDescription|false|No Documentation|
 ### C_LegendaryCrafting.UpgradeRuneforgeLegendary
+?> WowPedia link: [C_LegendaryCrafting.UpgradeRuneforgeLegendary](https://wow.gamepedia.com/API_C_LegendaryCrafting.UpgradeRuneforgeLegendary)
 
 No Documentation
 

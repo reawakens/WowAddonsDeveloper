@@ -5,10 +5,12 @@ Type: System / Namespace: C_AnimaDiversion
 ## Functions
 
 ### C_AnimaDiversion.CloseUI
+?> WowPedia link: [C_AnimaDiversion.CloseUI](https://wow.gamepedia.com/API_C_AnimaDiversion.CloseUI)
 
 No Documentation
 
 ### C_AnimaDiversion.GetAnimaDiversionNodes
+?> WowPedia link: [C_AnimaDiversion.GetAnimaDiversionNodes](https://wow.gamepedia.com/API_C_AnimaDiversion.GetAnimaDiversionNodes)
 
 No Documentation
 
@@ -17,6 +19,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |animaNodes|table|false|No Documentation|
 ### C_AnimaDiversion.GetOriginPosition
+?> WowPedia link: [C_AnimaDiversion.GetOriginPosition](https://wow.gamepedia.com/API_C_AnimaDiversion.GetOriginPosition)
 
 No Documentation
 
@@ -25,6 +28,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |normalizedPosition|table|true|No Documentation|
 ### C_AnimaDiversion.GetReinforceProgress
+?> WowPedia link: [C_AnimaDiversion.GetReinforceProgress](https://wow.gamepedia.com/API_C_AnimaDiversion.GetReinforceProgress)
 
 No Documentation
 
@@ -33,6 +37,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |progress|number|false|No Documentation|
 ### C_AnimaDiversion.GetTextureKit
+?> WowPedia link: [C_AnimaDiversion.GetTextureKit](https://wow.gamepedia.com/API_C_AnimaDiversion.GetTextureKit)
 
 No Documentation
 
@@ -41,10 +46,12 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |textureKit|string|false|No Documentation|
 ### C_AnimaDiversion.OpenAnimaDiversionUI
+?> WowPedia link: [C_AnimaDiversion.OpenAnimaDiversionUI](https://wow.gamepedia.com/API_C_AnimaDiversion.OpenAnimaDiversionUI)
 
 No Documentation
 
 ### C_AnimaDiversion.SelectAnimaNode
+?> WowPedia link: [C_AnimaDiversion.SelectAnimaNode](https://wow.gamepedia.com/API_C_AnimaDiversion.SelectAnimaNode)
 
 No Documentation
 

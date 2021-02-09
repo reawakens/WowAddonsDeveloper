@@ -5,6 +5,7 @@ Type: System / Namespace: C_ConfigurationWarnings
 ## Functions
 
 ### C_ConfigurationWarnings.GetConfigurationWarningSeen
+?> WowPedia link: [C_ConfigurationWarnings.GetConfigurationWarningSeen](https://wow.gamepedia.com/API_C_ConfigurationWarnings.GetConfigurationWarningSeen)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasSeenConfigurationWarning|bool|false|No Documentation|
 ### C_ConfigurationWarnings.GetConfigurationWarningString
+?> WowPedia link: [C_ConfigurationWarnings.GetConfigurationWarningString](https://wow.gamepedia.com/API_C_ConfigurationWarnings.GetConfigurationWarningString)
 
 No Documentation
 
@@ -29,6 +31,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |configurationWarningString|string|false|No Documentation|
 ### C_ConfigurationWarnings.GetConfigurationWarnings
+?> WowPedia link: [C_ConfigurationWarnings.GetConfigurationWarnings](https://wow.gamepedia.com/API_C_ConfigurationWarnings.GetConfigurationWarnings)
 
 No Documentation
 
@@ -41,6 +44,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |configurationWarnings|table|false|No Documentation|
 ### C_ConfigurationWarnings.SetConfigurationWarningSeen
+?> WowPedia link: [C_ConfigurationWarnings.SetConfigurationWarningSeen](https://wow.gamepedia.com/API_C_ConfigurationWarnings.SetConfigurationWarningSeen)
 
 No Documentation
 

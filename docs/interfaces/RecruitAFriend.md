@@ -5,6 +5,7 @@ Type: System / Namespace: C_RecruitAFriend
 ## Functions
 
 ### C_RecruitAFriend.ClaimActivityReward
+?> WowPedia link: [C_RecruitAFriend.ClaimActivityReward](https://wow.gamepedia.com/API_C_RecruitAFriend.ClaimActivityReward)
 
 No Documentation
 
@@ -18,6 +19,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |success|bool|false|No Documentation|
 ### C_RecruitAFriend.ClaimNextReward
+?> WowPedia link: [C_RecruitAFriend.ClaimNextReward](https://wow.gamepedia.com/API_C_RecruitAFriend.ClaimNextReward)
 
 No Documentation
 
@@ -26,6 +28,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |success|bool|false|No Documentation|
 ### C_RecruitAFriend.GenerateRecruitmentLink
+?> WowPedia link: [C_RecruitAFriend.GenerateRecruitmentLink](https://wow.gamepedia.com/API_C_RecruitAFriend.GenerateRecruitmentLink)
 
 No Documentation
 
@@ -34,6 +37,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |success|bool|false|No Documentation|
 ### C_RecruitAFriend.GetRAFInfo
+?> WowPedia link: [C_RecruitAFriend.GetRAFInfo](https://wow.gamepedia.com/API_C_RecruitAFriend.GetRAFInfo)
 
 No Documentation
 
@@ -42,6 +46,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|RafInfo|false|No Documentation|
 ### C_RecruitAFriend.GetRAFSystemInfo
+?> WowPedia link: [C_RecruitAFriend.GetRAFSystemInfo](https://wow.gamepedia.com/API_C_RecruitAFriend.GetRAFSystemInfo)
 
 No Documentation
 
@@ -50,6 +55,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |systemInfo|RafSystemInfo|false|No Documentation|
 ### C_RecruitAFriend.GetRecruitActivityRequirementsText
+?> WowPedia link: [C_RecruitAFriend.GetRecruitActivityRequirementsText](https://wow.gamepedia.com/API_C_RecruitAFriend.GetRecruitActivityRequirementsText)
 
 No Documentation
 
@@ -63,6 +69,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |requirementsText|table|false|No Documentation|
 ### C_RecruitAFriend.GetRecruitInfo
+?> WowPedia link: [C_RecruitAFriend.GetRecruitInfo](https://wow.gamepedia.com/API_C_RecruitAFriend.GetRecruitInfo)
 
 No Documentation
 
@@ -72,6 +79,7 @@ No Documentation
 |active|bool|false|No Documentation|
 |faction|number|false|No Documentation|
 ### C_RecruitAFriend.IsEnabled
+?> WowPedia link: [C_RecruitAFriend.IsEnabled](https://wow.gamepedia.com/API_C_RecruitAFriend.IsEnabled)
 
 No Documentation
 
@@ -80,6 +88,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |enabled|bool|false|No Documentation|
 ### C_RecruitAFriend.IsRecruitingEnabled
+?> WowPedia link: [C_RecruitAFriend.IsRecruitingEnabled](https://wow.gamepedia.com/API_C_RecruitAFriend.IsRecruitingEnabled)
 
 No Documentation
 
@@ -88,6 +97,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |enabled|bool|false|No Documentation|
 ### C_RecruitAFriend.RemoveRAFRecruit
+?> WowPedia link: [C_RecruitAFriend.RemoveRAFRecruit](https://wow.gamepedia.com/API_C_RecruitAFriend.RemoveRAFRecruit)
 
 No Documentation
 
@@ -100,6 +110,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |success|bool|false|No Documentation|
 ### C_RecruitAFriend.RequestUpdatedRecruitmentInfo
+?> WowPedia link: [C_RecruitAFriend.RequestUpdatedRecruitmentInfo](https://wow.gamepedia.com/API_C_RecruitAFriend.RequestUpdatedRecruitmentInfo)
 
 No Documentation
 

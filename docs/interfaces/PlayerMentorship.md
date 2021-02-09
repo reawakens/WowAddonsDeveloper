@@ -5,6 +5,7 @@ Type: System / Namespace: C_PlayerMentorship
 ## Functions
 
 ### C_PlayerMentorship.GetMentorLevelRequirement
+?> WowPedia link: [C_PlayerMentorship.GetMentorLevelRequirement](https://wow.gamepedia.com/API_C_PlayerMentorship.GetMentorLevelRequirement)
 
 No Documentation
 
@@ -13,6 +14,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |level|number|true|No Documentation|
 ### C_PlayerMentorship.GetMentorOptionalAchievementIDs
+?> WowPedia link: [C_PlayerMentorship.GetMentorOptionalAchievementIDs](https://wow.gamepedia.com/API_C_PlayerMentorship.GetMentorOptionalAchievementIDs)
 
 No Documentation
 
@@ -21,6 +23,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |achievementIDs|table|false|No Documentation|
 ### C_PlayerMentorship.GetMentorshipStatus
+?> WowPedia link: [C_PlayerMentorship.GetMentorshipStatus](https://wow.gamepedia.com/API_C_PlayerMentorship.GetMentorshipStatus)
 
 No Documentation
 
@@ -33,6 +36,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |status|PlayerMentorshipStatus|false|No Documentation|
 ### C_PlayerMentorship.IsActivePlayerConsideredNewcomer
+?> WowPedia link: [C_PlayerMentorship.IsActivePlayerConsideredNewcomer](https://wow.gamepedia.com/API_C_PlayerMentorship.IsActivePlayerConsideredNewcomer)
 
 No Documentation
 
@@ -41,6 +45,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isConsideredNewcomer|bool|false|No Documentation|
 ### C_PlayerMentorship.IsMentorRestricted
+?> WowPedia link: [C_PlayerMentorship.IsMentorRestricted](https://wow.gamepedia.com/API_C_PlayerMentorship.IsMentorRestricted)
 
 No Documentation
 

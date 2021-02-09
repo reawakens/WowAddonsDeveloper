@@ -5,6 +5,7 @@ Type: System / Namespace: C_MapExplorationInfo
 ## Functions
 
 ### C_MapExplorationInfo.GetExploredAreaIDsAtPosition
+?> WowPedia link: [C_MapExplorationInfo.GetExploredAreaIDsAtPosition](https://wow.gamepedia.com/API_C_MapExplorationInfo.GetExploredAreaIDsAtPosition)
 
 No Documentation
 
@@ -18,6 +19,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |areaID|table|true|No Documentation|
 ### C_MapExplorationInfo.GetExploredMapTextures
+?> WowPedia link: [C_MapExplorationInfo.GetExploredMapTextures](https://wow.gamepedia.com/API_C_MapExplorationInfo.GetExploredMapTextures)
 
 No Documentation
 

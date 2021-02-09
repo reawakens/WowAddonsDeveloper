@@ -5,6 +5,7 @@ Type: System / Namespace: C_VideoOptions
 ## Functions
 
 ### C_VideoOptions.GetGxAdapterInfo
+?> WowPedia link: [C_VideoOptions.GetGxAdapterInfo](https://wow.gamepedia.com/API_C_VideoOptions.GetGxAdapterInfo)
 
 No Documentation
 

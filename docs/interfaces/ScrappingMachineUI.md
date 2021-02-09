@@ -5,10 +5,12 @@ Type: System / Namespace: C_ScrappingMachineUI
 ## Functions
 
 ### C_ScrappingMachineUI.CloseScrappingMachine
+?> WowPedia link: [C_ScrappingMachineUI.CloseScrappingMachine](https://wow.gamepedia.com/API_C_ScrappingMachineUI.CloseScrappingMachine)
 
 No Documentation
 
 ### C_ScrappingMachineUI.DropPendingScrapItemFromCursor
+?> WowPedia link: [C_ScrappingMachineUI.DropPendingScrapItemFromCursor](https://wow.gamepedia.com/API_C_ScrappingMachineUI.DropPendingScrapItemFromCursor)
 
 No Documentation
 
@@ -17,6 +19,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |index|number|false|No Documentation|
 ### C_ScrappingMachineUI.GetCurrentPendingScrapItemLocationByIndex
+?> WowPedia link: [C_ScrappingMachineUI.GetCurrentPendingScrapItemLocationByIndex](https://wow.gamepedia.com/API_C_ScrappingMachineUI.GetCurrentPendingScrapItemLocationByIndex)
 
 No Documentation
 
@@ -29,6 +32,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |itemLoc|table|false|No Documentation|
 ### C_ScrappingMachineUI.GetScrapSpellID
+?> WowPedia link: [C_ScrappingMachineUI.GetScrapSpellID](https://wow.gamepedia.com/API_C_ScrappingMachineUI.GetScrapSpellID)
 
 No Documentation
 
@@ -37,6 +41,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |spellID|number|false|No Documentation|
 ### C_ScrappingMachineUI.GetScrappingMachineName
+?> WowPedia link: [C_ScrappingMachineUI.GetScrappingMachineName](https://wow.gamepedia.com/API_C_ScrappingMachineUI.GetScrappingMachineName)
 
 No Documentation
 
@@ -45,6 +50,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |name|string|false|No Documentation|
 ### C_ScrappingMachineUI.HasScrappableItems
+?> WowPedia link: [C_ScrappingMachineUI.HasScrappableItems](https://wow.gamepedia.com/API_C_ScrappingMachineUI.HasScrappableItems)
 
 No Documentation
 
@@ -53,14 +59,17 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasScrappableItems|bool|false|No Documentation|
 ### C_ScrappingMachineUI.RemoveAllScrapItems
+?> WowPedia link: [C_ScrappingMachineUI.RemoveAllScrapItems](https://wow.gamepedia.com/API_C_ScrappingMachineUI.RemoveAllScrapItems)
 
 No Documentation
 
 ### C_ScrappingMachineUI.RemoveCurrentScrappingItem
+?> WowPedia link: [C_ScrappingMachineUI.RemoveCurrentScrappingItem](https://wow.gamepedia.com/API_C_ScrappingMachineUI.RemoveCurrentScrappingItem)
 
 No Documentation
 
 ### C_ScrappingMachineUI.RemoveItemToScrap
+?> WowPedia link: [C_ScrappingMachineUI.RemoveItemToScrap](https://wow.gamepedia.com/API_C_ScrappingMachineUI.RemoveItemToScrap)
 
 No Documentation
 
@@ -69,10 +78,12 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |index|number|false|No Documentation|
 ### C_ScrappingMachineUI.ScrapItems
+?> WowPedia link: [C_ScrappingMachineUI.ScrapItems](https://wow.gamepedia.com/API_C_ScrappingMachineUI.ScrapItems)
 
 No Documentation
 
 ### C_ScrappingMachineUI.SetScrappingMachine
+?> WowPedia link: [C_ScrappingMachineUI.SetScrappingMachine](https://wow.gamepedia.com/API_C_ScrappingMachineUI.SetScrappingMachine)
 
 No Documentation
 
@@ -81,6 +92,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |gameObject|string|false|No Documentation|
 ### C_ScrappingMachineUI.ValidateScrappingList
+?> WowPedia link: [C_ScrappingMachineUI.ValidateScrappingList](https://wow.gamepedia.com/API_C_ScrappingMachineUI.ValidateScrappingList)
 
 No Documentation
 

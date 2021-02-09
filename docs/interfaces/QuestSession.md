@@ -5,6 +5,7 @@ Type: System / Namespace: C_QuestSession
 ## Functions
 
 ### C_QuestSession.CanStart
+?> WowPedia link: [C_QuestSession.CanStart](https://wow.gamepedia.com/API_C_QuestSession.CanStart)
 
 No Documentation
 
@@ -13,6 +14,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |allowed|bool|false|No Documentation|
 ### C_QuestSession.CanStop
+?> WowPedia link: [C_QuestSession.CanStop](https://wow.gamepedia.com/API_C_QuestSession.CanStop)
 
 No Documentation
 
@@ -21,6 +23,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |allowed|bool|false|No Documentation|
 ### C_QuestSession.Exists
+?> WowPedia link: [C_QuestSession.Exists](https://wow.gamepedia.com/API_C_QuestSession.Exists)
 
 No Documentation
 
@@ -29,6 +32,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |exists|bool|false|No Documentation|
 ### C_QuestSession.GetAvailableSessionCommand
+?> WowPedia link: [C_QuestSession.GetAvailableSessionCommand](https://wow.gamepedia.com/API_C_QuestSession.GetAvailableSessionCommand)
 
 No Documentation
 
@@ -37,6 +41,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |command|QuestSessionCommand|false|No Documentation|
 ### C_QuestSession.GetPendingCommand
+?> WowPedia link: [C_QuestSession.GetPendingCommand](https://wow.gamepedia.com/API_C_QuestSession.GetPendingCommand)
 
 No Documentation
 
@@ -45,6 +50,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |command|QuestSessionCommand|false|No Documentation|
 ### C_QuestSession.GetProposedMaxLevelForSession
+?> WowPedia link: [C_QuestSession.GetProposedMaxLevelForSession](https://wow.gamepedia.com/API_C_QuestSession.GetProposedMaxLevelForSession)
 
 No Documentation
 
@@ -53,6 +59,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |proposedMaxLevel|number|false|No Documentation|
 ### C_QuestSession.GetSessionBeginDetails
+?> WowPedia link: [C_QuestSession.GetSessionBeginDetails](https://wow.gamepedia.com/API_C_QuestSession.GetSessionBeginDetails)
 
 No Documentation
 
@@ -61,6 +68,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |details|QuestSessionPlayerDetails|true|No Documentation|
 ### C_QuestSession.GetSuperTrackedQuest
+?> WowPedia link: [C_QuestSession.GetSuperTrackedQuest](https://wow.gamepedia.com/API_C_QuestSession.GetSuperTrackedQuest)
 
 No Documentation
 
@@ -69,6 +77,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |questID|number|true|No Documentation|
 ### C_QuestSession.HasJoined
+?> WowPedia link: [C_QuestSession.HasJoined](https://wow.gamepedia.com/API_C_QuestSession.HasJoined)
 
 No Documentation
 
@@ -77,6 +86,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasJoined|bool|false|No Documentation|
 ### C_QuestSession.HasPendingCommand
+?> WowPedia link: [C_QuestSession.HasPendingCommand](https://wow.gamepedia.com/API_C_QuestSession.HasPendingCommand)
 
 No Documentation
 
@@ -85,14 +95,17 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasPendingCommand|bool|false|No Documentation|
 ### C_QuestSession.RequestSessionStart
+?> WowPedia link: [C_QuestSession.RequestSessionStart](https://wow.gamepedia.com/API_C_QuestSession.RequestSessionStart)
 
 No Documentation
 
 ### C_QuestSession.RequestSessionStop
+?> WowPedia link: [C_QuestSession.RequestSessionStop](https://wow.gamepedia.com/API_C_QuestSession.RequestSessionStop)
 
 No Documentation
 
 ### C_QuestSession.SendSessionBeginResponse
+?> WowPedia link: [C_QuestSession.SendSessionBeginResponse](https://wow.gamepedia.com/API_C_QuestSession.SendSessionBeginResponse)
 
 No Documentation
 
@@ -101,6 +114,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |beginSession|bool|false|No Documentation|
 ### C_QuestSession.SetQuestIsSuperTracked
+?> WowPedia link: [C_QuestSession.SetQuestIsSuperTracked](https://wow.gamepedia.com/API_C_QuestSession.SetQuestIsSuperTracked)
 
 No Documentation
 

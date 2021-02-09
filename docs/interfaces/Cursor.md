@@ -5,10 +5,12 @@ Type: System / Namespace: C_Cursor
 ## Functions
 
 ### C_Cursor.DropCursorCommunitiesStream
+?> WowPedia link: [C_Cursor.DropCursorCommunitiesStream](https://wow.gamepedia.com/API_C_Cursor.DropCursorCommunitiesStream)
 
 No Documentation
 
 ### C_Cursor.GetCursorCommunitiesStream
+?> WowPedia link: [C_Cursor.GetCursorCommunitiesStream](https://wow.gamepedia.com/API_C_Cursor.GetCursorCommunitiesStream)
 
 No Documentation
 
@@ -18,6 +20,7 @@ No Documentation
 |clubId|string|false|No Documentation|
 |streamId|string|false|No Documentation|
 ### C_Cursor.GetCursorItem
+?> WowPedia link: [C_Cursor.GetCursorItem](https://wow.gamepedia.com/API_C_Cursor.GetCursorItem)
 
 No Documentation
 
@@ -26,6 +29,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |item|table|false|No Documentation|
 ### C_Cursor.SetCursorCommunitiesStream
+?> WowPedia link: [C_Cursor.SetCursorCommunitiesStream](https://wow.gamepedia.com/API_C_Cursor.SetCursorCommunitiesStream)
 
 No Documentation
 

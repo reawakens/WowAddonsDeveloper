@@ -5,6 +5,7 @@ Type: System / Namespace: C_CharacterCustomization
 ## Functions
 
 ### C_CharacterCustomization.GetAvailableCustomizations
+?> WowPedia link: [C_CharacterCustomization.GetAvailableCustomizations](https://wow.gamepedia.com/API_C_CharacterCustomization.GetAvailableCustomizations)
 
 No Documentation
 

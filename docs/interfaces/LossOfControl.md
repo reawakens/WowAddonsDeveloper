@@ -5,6 +5,7 @@ Type: System / Namespace: C_LossOfControl
 ## Functions
 
 ### C_LossOfControl.GetActiveLossOfControlData
+?> WowPedia link: [C_LossOfControl.GetActiveLossOfControlData](https://wow.gamepedia.com/API_C_LossOfControl.GetActiveLossOfControlData)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |event|LossOfControlData|true|No Documentation|
 ### C_LossOfControl.GetActiveLossOfControlDataByUnit
+?> WowPedia link: [C_LossOfControl.GetActiveLossOfControlDataByUnit](https://wow.gamepedia.com/API_C_LossOfControl.GetActiveLossOfControlDataByUnit)
 
 No Documentation
 
@@ -30,6 +32,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |event|LossOfControlData|true|No Documentation|
 ### C_LossOfControl.GetActiveLossOfControlDataCount
+?> WowPedia link: [C_LossOfControl.GetActiveLossOfControlDataCount](https://wow.gamepedia.com/API_C_LossOfControl.GetActiveLossOfControlDataCount)
 
 No Documentation
 
@@ -38,6 +41,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |count|number|false|No Documentation|
 ### C_LossOfControl.GetActiveLossOfControlDataCountByUnit
+?> WowPedia link: [C_LossOfControl.GetActiveLossOfControlDataCountByUnit](https://wow.gamepedia.com/API_C_LossOfControl.GetActiveLossOfControlDataCountByUnit)
 
 No Documentation
 

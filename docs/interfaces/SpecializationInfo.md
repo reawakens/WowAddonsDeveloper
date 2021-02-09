@@ -5,6 +5,7 @@ Type: System / Namespace: C_SpecializationInfo
 ## Functions
 
 ### C_SpecializationInfo.CanPlayerUsePVPTalentUI
+?> WowPedia link: [C_SpecializationInfo.CanPlayerUsePVPTalentUI](https://wow.gamepedia.com/API_C_SpecializationInfo.CanPlayerUsePVPTalentUI)
 
 No Documentation
 
@@ -14,6 +15,7 @@ No Documentation
 |canUse|bool|false|No Documentation|
 |failureReason|string|false|No Documentation|
 ### C_SpecializationInfo.CanPlayerUseTalentSpecUI
+?> WowPedia link: [C_SpecializationInfo.CanPlayerUseTalentSpecUI](https://wow.gamepedia.com/API_C_SpecializationInfo.CanPlayerUseTalentSpecUI)
 
 No Documentation
 
@@ -23,6 +25,7 @@ No Documentation
 |canUse|bool|false|No Documentation|
 |failureReason|string|false|No Documentation|
 ### C_SpecializationInfo.CanPlayerUseTalentUI
+?> WowPedia link: [C_SpecializationInfo.CanPlayerUseTalentUI](https://wow.gamepedia.com/API_C_SpecializationInfo.CanPlayerUseTalentUI)
 
 No Documentation
 
@@ -32,6 +35,7 @@ No Documentation
 |canUse|bool|false|No Documentation|
 |failureReason|string|false|No Documentation|
 ### C_SpecializationInfo.GetAllSelectedPvpTalentIDs
+?> WowPedia link: [C_SpecializationInfo.GetAllSelectedPvpTalentIDs](https://wow.gamepedia.com/API_C_SpecializationInfo.GetAllSelectedPvpTalentIDs)
 
 No Documentation
 
@@ -40,6 +44,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |selectedPvpTalentIDs|table|false|No Documentation|
 ### C_SpecializationInfo.GetInspectSelectedPvpTalent
+?> WowPedia link: [C_SpecializationInfo.GetInspectSelectedPvpTalent](https://wow.gamepedia.com/API_C_SpecializationInfo.GetInspectSelectedPvpTalent)
 
 No Documentation
 
@@ -53,6 +58,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |selectedTalentID|number|true|No Documentation|
 ### C_SpecializationInfo.GetPvpTalentAlertStatus
+?> WowPedia link: [C_SpecializationInfo.GetPvpTalentAlertStatus](https://wow.gamepedia.com/API_C_SpecializationInfo.GetPvpTalentAlertStatus)
 
 No Documentation
 
@@ -62,6 +68,7 @@ No Documentation
 |hasUnspentSlot|bool|false|No Documentation|
 |hasNewTalent|bool|false|No Documentation|
 ### C_SpecializationInfo.GetPvpTalentSlotInfo
+?> WowPedia link: [C_SpecializationInfo.GetPvpTalentSlotInfo](https://wow.gamepedia.com/API_C_SpecializationInfo.GetPvpTalentSlotInfo)
 
 No Documentation
 
@@ -74,6 +81,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |slotInfo|PvpTalentSlotInfo|true|No Documentation|
 ### C_SpecializationInfo.GetPvpTalentSlotUnlockLevel
+?> WowPedia link: [C_SpecializationInfo.GetPvpTalentSlotUnlockLevel](https://wow.gamepedia.com/API_C_SpecializationInfo.GetPvpTalentSlotUnlockLevel)
 
 No Documentation
 
@@ -86,6 +94,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |requiredLevel|number|true|No Documentation|
 ### C_SpecializationInfo.GetPvpTalentUnlockLevel
+?> WowPedia link: [C_SpecializationInfo.GetPvpTalentUnlockLevel](https://wow.gamepedia.com/API_C_SpecializationInfo.GetPvpTalentUnlockLevel)
 
 No Documentation
 
@@ -98,6 +107,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |requiredLevel|number|true|No Documentation|
 ### C_SpecializationInfo.GetSpecIDs
+?> WowPedia link: [C_SpecializationInfo.GetSpecIDs](https://wow.gamepedia.com/API_C_SpecializationInfo.GetSpecIDs)
 
 No Documentation
 
@@ -110,6 +120,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |specIDs|table|false|No Documentation|
 ### C_SpecializationInfo.GetSpellsDisplay
+?> WowPedia link: [C_SpecializationInfo.GetSpellsDisplay](https://wow.gamepedia.com/API_C_SpecializationInfo.GetSpellsDisplay)
 
 No Documentation
 
@@ -122,6 +133,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |spellID|table|false|No Documentation|
 ### C_SpecializationInfo.IsInitialized
+?> WowPedia link: [C_SpecializationInfo.IsInitialized](https://wow.gamepedia.com/API_C_SpecializationInfo.IsInitialized)
 
 No Documentation
 
@@ -130,6 +142,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isSpecializationDataInitialized|bool|false|No Documentation|
 ### C_SpecializationInfo.IsPvpTalentLocked
+?> WowPedia link: [C_SpecializationInfo.IsPvpTalentLocked](https://wow.gamepedia.com/API_C_SpecializationInfo.IsPvpTalentLocked)
 
 No Documentation
 
@@ -142,6 +155,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |locked|bool|false|No Documentation|
 ### C_SpecializationInfo.MatchesCurrentSpecSet
+?> WowPedia link: [C_SpecializationInfo.MatchesCurrentSpecSet](https://wow.gamepedia.com/API_C_SpecializationInfo.MatchesCurrentSpecSet)
 
 No Documentation
 
@@ -154,6 +168,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |matches|bool|false|No Documentation|
 ### C_SpecializationInfo.SetPvpTalentLocked
+?> WowPedia link: [C_SpecializationInfo.SetPvpTalentLocked](https://wow.gamepedia.com/API_C_SpecializationInfo.SetPvpTalentLocked)
 
 No Documentation
 

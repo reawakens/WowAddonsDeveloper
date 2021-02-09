@@ -5,6 +5,7 @@ Type: System / Namespace: C_AuctionHouse
 ## Functions
 
 ### C_AuctionHouse.CalculateCommodityDeposit
+?> WowPedia link: [C_AuctionHouse.CalculateCommodityDeposit](https://wow.gamepedia.com/API_C_AuctionHouse.CalculateCommodityDeposit)
 
 No Documentation
 
@@ -19,6 +20,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |depositCost|number|true|No Documentation|
 ### C_AuctionHouse.CalculateItemDeposit
+?> WowPedia link: [C_AuctionHouse.CalculateItemDeposit](https://wow.gamepedia.com/API_C_AuctionHouse.CalculateItemDeposit)
 
 No Documentation
 
@@ -33,6 +35,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |depositCost|number|true|No Documentation|
 ### C_AuctionHouse.CanCancelAuction
+?> WowPedia link: [C_AuctionHouse.CanCancelAuction](https://wow.gamepedia.com/API_C_AuctionHouse.CanCancelAuction)
 
 No Documentation
 
@@ -45,6 +48,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canCancelAuction|bool|false|No Documentation|
 ### C_AuctionHouse.CancelAuction
+?> WowPedia link: [C_AuctionHouse.CancelAuction](https://wow.gamepedia.com/API_C_AuctionHouse.CancelAuction)
 
 No Documentation
 
@@ -53,18 +57,22 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |ownedAuctionID|number|false|No Documentation|
 ### C_AuctionHouse.CancelCommoditiesPurchase
+?> WowPedia link: [C_AuctionHouse.CancelCommoditiesPurchase](https://wow.gamepedia.com/API_C_AuctionHouse.CancelCommoditiesPurchase)
 
 No Documentation
 
 ### C_AuctionHouse.CancelSell
+?> WowPedia link: [C_AuctionHouse.CancelSell](https://wow.gamepedia.com/API_C_AuctionHouse.CancelSell)
 
 No Documentation
 
 ### C_AuctionHouse.CloseAuctionHouse
+?> WowPedia link: [C_AuctionHouse.CloseAuctionHouse](https://wow.gamepedia.com/API_C_AuctionHouse.CloseAuctionHouse)
 
 No Documentation
 
 ### C_AuctionHouse.ConfirmCommoditiesPurchase
+?> WowPedia link: [C_AuctionHouse.ConfirmCommoditiesPurchase](https://wow.gamepedia.com/API_C_AuctionHouse.ConfirmCommoditiesPurchase)
 
 No Documentation
 
@@ -74,6 +82,7 @@ No Documentation
 |itemID|number|false|No Documentation|
 |quantity|number|false|No Documentation|
 ### C_AuctionHouse.FavoritesAreAvailable
+?> WowPedia link: [C_AuctionHouse.FavoritesAreAvailable](https://wow.gamepedia.com/API_C_AuctionHouse.FavoritesAreAvailable)
 
 No Documentation
 
@@ -82,6 +91,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |favoritesAreAvailable|bool|false|No Documentation|
 ### C_AuctionHouse.GetAuctionItemSubClasses
+?> WowPedia link: [C_AuctionHouse.GetAuctionItemSubClasses](https://wow.gamepedia.com/API_C_AuctionHouse.GetAuctionItemSubClasses)
 
 No Documentation
 
@@ -94,6 +104,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |subClasses|table|false|No Documentation|
 ### C_AuctionHouse.GetAvailablePostCount
+?> WowPedia link: [C_AuctionHouse.GetAvailablePostCount](https://wow.gamepedia.com/API_C_AuctionHouse.GetAvailablePostCount)
 
 No Documentation
 
@@ -106,6 +117,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |listCount|number|false|No Documentation|
 ### C_AuctionHouse.GetBidInfo
+?> WowPedia link: [C_AuctionHouse.GetBidInfo](https://wow.gamepedia.com/API_C_AuctionHouse.GetBidInfo)
 
 No Documentation
 
@@ -118,6 +130,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |bid|BidInfo|true|No Documentation|
 ### C_AuctionHouse.GetBidType
+?> WowPedia link: [C_AuctionHouse.GetBidType](https://wow.gamepedia.com/API_C_AuctionHouse.GetBidType)
 
 No Documentation
 
@@ -130,6 +143,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |typeItemKey|ItemKey|true|No Documentation|
 ### C_AuctionHouse.GetBrowseResults
+?> WowPedia link: [C_AuctionHouse.GetBrowseResults](https://wow.gamepedia.com/API_C_AuctionHouse.GetBrowseResults)
 
 No Documentation
 
@@ -138,6 +152,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |browseResults|table|false|No Documentation|
 ### C_AuctionHouse.GetCancelCost
+?> WowPedia link: [C_AuctionHouse.GetCancelCost](https://wow.gamepedia.com/API_C_AuctionHouse.GetCancelCost)
 
 No Documentation
 
@@ -150,6 +165,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |cancelCost|number|false|No Documentation|
 ### C_AuctionHouse.GetCommoditySearchResultInfo
+?> WowPedia link: [C_AuctionHouse.GetCommoditySearchResultInfo](https://wow.gamepedia.com/API_C_AuctionHouse.GetCommoditySearchResultInfo)
 
 No Documentation
 
@@ -163,6 +179,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |result|CommoditySearchResultInfo|true|No Documentation|
 ### C_AuctionHouse.GetCommoditySearchResultsQuantity
+?> WowPedia link: [C_AuctionHouse.GetCommoditySearchResultsQuantity](https://wow.gamepedia.com/API_C_AuctionHouse.GetCommoditySearchResultsQuantity)
 
 No Documentation
 
@@ -175,6 +192,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |totalQuantity|number|false|No Documentation|
 ### C_AuctionHouse.GetExtraBrowseInfo
+?> WowPedia link: [C_AuctionHouse.GetExtraBrowseInfo](https://wow.gamepedia.com/API_C_AuctionHouse.GetExtraBrowseInfo)
 
 No Documentation
 
@@ -187,6 +205,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |extraInfo|number|false|No Documentation|
 ### C_AuctionHouse.GetFilterGroups
+?> WowPedia link: [C_AuctionHouse.GetFilterGroups](https://wow.gamepedia.com/API_C_AuctionHouse.GetFilterGroups)
 
 No Documentation
 
@@ -195,6 +214,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |filterGroups|table|false|No Documentation|
 ### C_AuctionHouse.GetItemCommodityStatus
+?> WowPedia link: [C_AuctionHouse.GetItemCommodityStatus](https://wow.gamepedia.com/API_C_AuctionHouse.GetItemCommodityStatus)
 
 No Documentation
 
@@ -207,6 +227,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isCommodity|ItemCommodityStatus|false|No Documentation|
 ### C_AuctionHouse.GetItemKeyFromItem
+?> WowPedia link: [C_AuctionHouse.GetItemKeyFromItem](https://wow.gamepedia.com/API_C_AuctionHouse.GetItemKeyFromItem)
 
 No Documentation
 
@@ -219,6 +240,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |itemKey|ItemKey|false|No Documentation|
 ### C_AuctionHouse.GetItemKeyInfo
+?> WowPedia link: [C_AuctionHouse.GetItemKeyInfo](https://wow.gamepedia.com/API_C_AuctionHouse.GetItemKeyInfo)
 
 No Documentation
 
@@ -232,6 +254,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |itemKeyInfo|ItemKeyInfo|true|No Documentation|
 ### C_AuctionHouse.GetItemKeyRequiredLevel
+?> WowPedia link: [C_AuctionHouse.GetItemKeyRequiredLevel](https://wow.gamepedia.com/API_C_AuctionHouse.GetItemKeyRequiredLevel)
 
 No Documentation
 
@@ -244,6 +267,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |requiredLevel|number|false|No Documentation|
 ### C_AuctionHouse.GetItemSearchResultInfo
+?> WowPedia link: [C_AuctionHouse.GetItemSearchResultInfo](https://wow.gamepedia.com/API_C_AuctionHouse.GetItemSearchResultInfo)
 
 No Documentation
 
@@ -257,6 +281,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |result|ItemSearchResultInfo|true|No Documentation|
 ### C_AuctionHouse.GetItemSearchResultsQuantity
+?> WowPedia link: [C_AuctionHouse.GetItemSearchResultsQuantity](https://wow.gamepedia.com/API_C_AuctionHouse.GetItemSearchResultsQuantity)
 
 No Documentation
 
@@ -269,6 +294,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |totalQuantity|number|false|No Documentation|
 ### C_AuctionHouse.GetMaxBidItemBid
+?> WowPedia link: [C_AuctionHouse.GetMaxBidItemBid](https://wow.gamepedia.com/API_C_AuctionHouse.GetMaxBidItemBid)
 
 No Documentation
 
@@ -277,6 +303,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |maxBid|number|true|No Documentation|
 ### C_AuctionHouse.GetMaxBidItemBuyout
+?> WowPedia link: [C_AuctionHouse.GetMaxBidItemBuyout](https://wow.gamepedia.com/API_C_AuctionHouse.GetMaxBidItemBuyout)
 
 No Documentation
 
@@ -285,6 +312,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |maxBuyout|number|true|No Documentation|
 ### C_AuctionHouse.GetMaxCommoditySearchResultPrice
+?> WowPedia link: [C_AuctionHouse.GetMaxCommoditySearchResultPrice](https://wow.gamepedia.com/API_C_AuctionHouse.GetMaxCommoditySearchResultPrice)
 
 No Documentation
 
@@ -297,6 +325,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |maxUnitPrice|number|true|No Documentation|
 ### C_AuctionHouse.GetMaxItemSearchResultBid
+?> WowPedia link: [C_AuctionHouse.GetMaxItemSearchResultBid](https://wow.gamepedia.com/API_C_AuctionHouse.GetMaxItemSearchResultBid)
 
 No Documentation
 
@@ -309,6 +338,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |maxBid|number|true|No Documentation|
 ### C_AuctionHouse.GetMaxItemSearchResultBuyout
+?> WowPedia link: [C_AuctionHouse.GetMaxItemSearchResultBuyout](https://wow.gamepedia.com/API_C_AuctionHouse.GetMaxItemSearchResultBuyout)
 
 No Documentation
 
@@ -321,6 +351,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |maxBuyout|number|true|No Documentation|
 ### C_AuctionHouse.GetMaxOwnedAuctionBid
+?> WowPedia link: [C_AuctionHouse.GetMaxOwnedAuctionBid](https://wow.gamepedia.com/API_C_AuctionHouse.GetMaxOwnedAuctionBid)
 
 No Documentation
 
@@ -329,6 +360,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |maxBid|number|true|No Documentation|
 ### C_AuctionHouse.GetMaxOwnedAuctionBuyout
+?> WowPedia link: [C_AuctionHouse.GetMaxOwnedAuctionBuyout](https://wow.gamepedia.com/API_C_AuctionHouse.GetMaxOwnedAuctionBuyout)
 
 No Documentation
 
@@ -337,6 +369,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |maxBuyout|number|true|No Documentation|
 ### C_AuctionHouse.GetNumBidTypes
+?> WowPedia link: [C_AuctionHouse.GetNumBidTypes](https://wow.gamepedia.com/API_C_AuctionHouse.GetNumBidTypes)
 
 No Documentation
 
@@ -345,6 +378,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numBidTypes|number|false|No Documentation|
 ### C_AuctionHouse.GetNumBids
+?> WowPedia link: [C_AuctionHouse.GetNumBids](https://wow.gamepedia.com/API_C_AuctionHouse.GetNumBids)
 
 No Documentation
 
@@ -353,6 +387,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numBids|number|false|No Documentation|
 ### C_AuctionHouse.GetNumCommoditySearchResults
+?> WowPedia link: [C_AuctionHouse.GetNumCommoditySearchResults](https://wow.gamepedia.com/API_C_AuctionHouse.GetNumCommoditySearchResults)
 
 No Documentation
 
@@ -365,6 +400,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numSearchResults|number|false|No Documentation|
 ### C_AuctionHouse.GetNumItemSearchResults
+?> WowPedia link: [C_AuctionHouse.GetNumItemSearchResults](https://wow.gamepedia.com/API_C_AuctionHouse.GetNumItemSearchResults)
 
 No Documentation
 
@@ -377,6 +413,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numItemSearchResults|number|false|No Documentation|
 ### C_AuctionHouse.GetNumOwnedAuctionTypes
+?> WowPedia link: [C_AuctionHouse.GetNumOwnedAuctionTypes](https://wow.gamepedia.com/API_C_AuctionHouse.GetNumOwnedAuctionTypes)
 
 No Documentation
 
@@ -385,6 +422,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numOwnedAuctionTypes|number|false|No Documentation|
 ### C_AuctionHouse.GetNumOwnedAuctions
+?> WowPedia link: [C_AuctionHouse.GetNumOwnedAuctions](https://wow.gamepedia.com/API_C_AuctionHouse.GetNumOwnedAuctions)
 
 No Documentation
 
@@ -393,6 +431,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numOwnedAuctions|number|false|No Documentation|
 ### C_AuctionHouse.GetNumReplicateItems
+?> WowPedia link: [C_AuctionHouse.GetNumReplicateItems](https://wow.gamepedia.com/API_C_AuctionHouse.GetNumReplicateItems)
 
 No Documentation
 
@@ -401,6 +440,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numReplicateItems|number|false|No Documentation|
 ### C_AuctionHouse.GetOwnedAuctionInfo
+?> WowPedia link: [C_AuctionHouse.GetOwnedAuctionInfo](https://wow.gamepedia.com/API_C_AuctionHouse.GetOwnedAuctionInfo)
 
 No Documentation
 
@@ -413,6 +453,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |ownedAuction|OwnedAuctionInfo|true|No Documentation|
 ### C_AuctionHouse.GetOwnedAuctionType
+?> WowPedia link: [C_AuctionHouse.GetOwnedAuctionType](https://wow.gamepedia.com/API_C_AuctionHouse.GetOwnedAuctionType)
 
 No Documentation
 
@@ -425,6 +466,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |typeItemKey|ItemKey|true|No Documentation|
 ### C_AuctionHouse.GetQuoteDurationRemaining
+?> WowPedia link: [C_AuctionHouse.GetQuoteDurationRemaining](https://wow.gamepedia.com/API_C_AuctionHouse.GetQuoteDurationRemaining)
 
 No Documentation
 
@@ -433,6 +475,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |quoteDurationSeconds|number|false|No Documentation|
 ### C_AuctionHouse.GetReplicateItemBattlePetInfo
+?> WowPedia link: [C_AuctionHouse.GetReplicateItemBattlePetInfo](https://wow.gamepedia.com/API_C_AuctionHouse.GetReplicateItemBattlePetInfo)
 
 No Documentation
 
@@ -446,6 +489,7 @@ No Documentation
 |creatureID|number|false|No Documentation|
 |displayID|number|false|No Documentation|
 ### C_AuctionHouse.GetReplicateItemInfo
+?> WowPedia link: [C_AuctionHouse.GetReplicateItemInfo](https://wow.gamepedia.com/API_C_AuctionHouse.GetReplicateItemInfo)
 
 No Documentation
 
@@ -475,6 +519,7 @@ No Documentation
 |itemID|number|false|No Documentation|
 |hasAllInfo|bool|true|No Documentation|
 ### C_AuctionHouse.GetReplicateItemLink
+?> WowPedia link: [C_AuctionHouse.GetReplicateItemLink](https://wow.gamepedia.com/API_C_AuctionHouse.GetReplicateItemLink)
 
 No Documentation
 
@@ -487,6 +532,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |itemLink|string|true|No Documentation|
 ### C_AuctionHouse.GetReplicateItemTimeLeft
+?> WowPedia link: [C_AuctionHouse.GetReplicateItemTimeLeft](https://wow.gamepedia.com/API_C_AuctionHouse.GetReplicateItemTimeLeft)
 
 No Documentation
 
@@ -499,6 +545,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |timeLeft|number|false|No Documentation|
 ### C_AuctionHouse.GetTimeLeftBandInfo
+?> WowPedia link: [C_AuctionHouse.GetTimeLeftBandInfo](https://wow.gamepedia.com/API_C_AuctionHouse.GetTimeLeftBandInfo)
 
 No Documentation
 
@@ -512,6 +559,7 @@ No Documentation
 |timeLeftMinSeconds|number|false|No Documentation|
 |timeLeftMaxSeconds|number|false|No Documentation|
 ### C_AuctionHouse.HasFavorites
+?> WowPedia link: [C_AuctionHouse.HasFavorites](https://wow.gamepedia.com/API_C_AuctionHouse.HasFavorites)
 
 No Documentation
 
@@ -520,6 +568,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasFavorites|bool|false|No Documentation|
 ### C_AuctionHouse.HasFullBidResults
+?> WowPedia link: [C_AuctionHouse.HasFullBidResults](https://wow.gamepedia.com/API_C_AuctionHouse.HasFullBidResults)
 
 No Documentation
 
@@ -528,6 +577,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasFullBidResults|bool|false|No Documentation|
 ### C_AuctionHouse.HasFullBrowseResults
+?> WowPedia link: [C_AuctionHouse.HasFullBrowseResults](https://wow.gamepedia.com/API_C_AuctionHouse.HasFullBrowseResults)
 
 No Documentation
 
@@ -536,6 +586,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasFullBrowseResults|bool|false|No Documentation|
 ### C_AuctionHouse.HasFullCommoditySearchResults
+?> WowPedia link: [C_AuctionHouse.HasFullCommoditySearchResults](https://wow.gamepedia.com/API_C_AuctionHouse.HasFullCommoditySearchResults)
 
 No Documentation
 
@@ -548,6 +599,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasFullResults|bool|false|No Documentation|
 ### C_AuctionHouse.HasFullItemSearchResults
+?> WowPedia link: [C_AuctionHouse.HasFullItemSearchResults](https://wow.gamepedia.com/API_C_AuctionHouse.HasFullItemSearchResults)
 
 No Documentation
 
@@ -560,6 +612,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasFullResults|bool|false|No Documentation|
 ### C_AuctionHouse.HasFullOwnedAuctionResults
+?> WowPedia link: [C_AuctionHouse.HasFullOwnedAuctionResults](https://wow.gamepedia.com/API_C_AuctionHouse.HasFullOwnedAuctionResults)
 
 No Documentation
 
@@ -568,6 +621,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasFullOwnedAuctionResults|bool|false|No Documentation|
 ### C_AuctionHouse.HasMaxFavorites
+?> WowPedia link: [C_AuctionHouse.HasMaxFavorites](https://wow.gamepedia.com/API_C_AuctionHouse.HasMaxFavorites)
 
 No Documentation
 
@@ -576,6 +630,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasMaxFavorites|bool|false|No Documentation|
 ### C_AuctionHouse.HasSearchResults
+?> WowPedia link: [C_AuctionHouse.HasSearchResults](https://wow.gamepedia.com/API_C_AuctionHouse.HasSearchResults)
 
 No Documentation
 
@@ -588,6 +643,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasSearchResults|bool|false|No Documentation|
 ### C_AuctionHouse.IsFavoriteItem
+?> WowPedia link: [C_AuctionHouse.IsFavoriteItem](https://wow.gamepedia.com/API_C_AuctionHouse.IsFavoriteItem)
 
 No Documentation
 
@@ -600,6 +656,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isFavorite|bool|false|No Documentation|
 ### C_AuctionHouse.IsSellItemValid
+?> WowPedia link: [C_AuctionHouse.IsSellItemValid](https://wow.gamepedia.com/API_C_AuctionHouse.IsSellItemValid)
 
 No Documentation
 
@@ -613,6 +670,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |valid|bool|false|No Documentation|
 ### C_AuctionHouse.IsThrottledMessageSystemReady
+?> WowPedia link: [C_AuctionHouse.IsThrottledMessageSystemReady](https://wow.gamepedia.com/API_C_AuctionHouse.IsThrottledMessageSystemReady)
 
 No Documentation
 
@@ -621,6 +679,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canSendThrottledMessage|bool|false|No Documentation|
 ### C_AuctionHouse.MakeItemKey
+?> WowPedia link: [C_AuctionHouse.MakeItemKey](https://wow.gamepedia.com/API_C_AuctionHouse.MakeItemKey)
 
 No Documentation
 
@@ -636,6 +695,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |itemKey|ItemKey|false|No Documentation|
 ### C_AuctionHouse.PlaceBid
+?> WowPedia link: [C_AuctionHouse.PlaceBid](https://wow.gamepedia.com/API_C_AuctionHouse.PlaceBid)
 
 No Documentation
 
@@ -645,6 +705,7 @@ No Documentation
 |auctionID|number|false|No Documentation|
 |bidAmount|number|false|No Documentation|
 ### C_AuctionHouse.PostCommodity
+?> WowPedia link: [C_AuctionHouse.PostCommodity](https://wow.gamepedia.com/API_C_AuctionHouse.PostCommodity)
 
 No Documentation
 
@@ -656,6 +717,7 @@ No Documentation
 |quantity|number|false|No Documentation|
 |unitPrice|number|false|No Documentation|
 ### C_AuctionHouse.PostItem
+?> WowPedia link: [C_AuctionHouse.PostItem](https://wow.gamepedia.com/API_C_AuctionHouse.PostItem)
 
 No Documentation
 
@@ -668,6 +730,7 @@ No Documentation
 |bid|number|true|No Documentation|
 |buyout|number|true|No Documentation|
 ### C_AuctionHouse.QueryBids
+?> WowPedia link: [C_AuctionHouse.QueryBids](https://wow.gamepedia.com/API_C_AuctionHouse.QueryBids)
 
 No Documentation
 
@@ -677,6 +740,7 @@ No Documentation
 |sorts|table|false|No Documentation|
 |auctionIDs|table|false|No Documentation|
 ### C_AuctionHouse.QueryOwnedAuctions
+?> WowPedia link: [C_AuctionHouse.QueryOwnedAuctions](https://wow.gamepedia.com/API_C_AuctionHouse.QueryOwnedAuctions)
 
 No Documentation
 
@@ -685,6 +749,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |sorts|table|false|No Documentation|
 ### C_AuctionHouse.RefreshCommoditySearchResults
+?> WowPedia link: [C_AuctionHouse.RefreshCommoditySearchResults](https://wow.gamepedia.com/API_C_AuctionHouse.RefreshCommoditySearchResults)
 
 No Documentation
 
@@ -693,6 +758,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |itemID|number|false|No Documentation|
 ### C_AuctionHouse.RefreshItemSearchResults
+?> WowPedia link: [C_AuctionHouse.RefreshItemSearchResults](https://wow.gamepedia.com/API_C_AuctionHouse.RefreshItemSearchResults)
 
 No Documentation
 
@@ -701,13 +767,16 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |itemKey|ItemKey|false|No Documentation|
 ### C_AuctionHouse.ReplicateItems
+?> WowPedia link: [C_AuctionHouse.ReplicateItems](https://wow.gamepedia.com/API_C_AuctionHouse.ReplicateItems)
 
 This function should be used in place of an 'allItem' QueryAuctionItems call to query the entire auction house.
 ### C_AuctionHouse.RequestMoreBrowseResults
+?> WowPedia link: [C_AuctionHouse.RequestMoreBrowseResults](https://wow.gamepedia.com/API_C_AuctionHouse.RequestMoreBrowseResults)
 
 No Documentation
 
 ### C_AuctionHouse.RequestMoreCommoditySearchResults
+?> WowPedia link: [C_AuctionHouse.RequestMoreCommoditySearchResults](https://wow.gamepedia.com/API_C_AuctionHouse.RequestMoreCommoditySearchResults)
 
 No Documentation
 
@@ -720,6 +789,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasFullResults|bool|false|No Documentation|
 ### C_AuctionHouse.RequestMoreItemSearchResults
+?> WowPedia link: [C_AuctionHouse.RequestMoreItemSearchResults](https://wow.gamepedia.com/API_C_AuctionHouse.RequestMoreItemSearchResults)
 
 No Documentation
 
@@ -732,6 +802,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasFullResults|bool|false|No Documentation|
 ### C_AuctionHouse.RequestOwnedAuctionBidderInfo
+?> WowPedia link: [C_AuctionHouse.RequestOwnedAuctionBidderInfo](https://wow.gamepedia.com/API_C_AuctionHouse.RequestOwnedAuctionBidderInfo)
 
 No Documentation
 
@@ -744,6 +815,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |bidderName|string|true|No Documentation|
 ### C_AuctionHouse.SearchForFavorites
+?> WowPedia link: [C_AuctionHouse.SearchForFavorites](https://wow.gamepedia.com/API_C_AuctionHouse.SearchForFavorites)
 
 No Documentation
 
@@ -752,6 +824,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |sorts|table|false|No Documentation|
 ### C_AuctionHouse.SearchForItemKeys
+?> WowPedia link: [C_AuctionHouse.SearchForItemKeys](https://wow.gamepedia.com/API_C_AuctionHouse.SearchForItemKeys)
 
 No Documentation
 
@@ -761,6 +834,7 @@ No Documentation
 |itemKeys|table|false|No Documentation|
 |sorts|table|false|No Documentation|
 ### C_AuctionHouse.SendBrowseQuery
+?> WowPedia link: [C_AuctionHouse.SendBrowseQuery](https://wow.gamepedia.com/API_C_AuctionHouse.SendBrowseQuery)
 
 No Documentation
 
@@ -769,6 +843,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |query|AuctionHouseBrowseQuery|false|No Documentation|
 ### C_AuctionHouse.SendSearchQuery
+?> WowPedia link: [C_AuctionHouse.SendSearchQuery](https://wow.gamepedia.com/API_C_AuctionHouse.SendSearchQuery)
 
 Search queries are restricted to 100 calls per minute. These should not be used to query the entire auction house. See ReplicateItems
 #### Arguments
@@ -778,6 +853,7 @@ Search queries are restricted to 100 calls per minute. These should not be used 
 |sorts|table|false|No Documentation|
 |separateOwnerItems|bool|false|No Documentation|
 ### C_AuctionHouse.SendSellSearchQuery
+?> WowPedia link: [C_AuctionHouse.SendSellSearchQuery](https://wow.gamepedia.com/API_C_AuctionHouse.SendSellSearchQuery)
 
 Search queries are restricted to 100 calls per minute. These should not be used to query the entire auction house. See ReplicateItems
 #### Arguments
@@ -787,6 +863,7 @@ Search queries are restricted to 100 calls per minute. These should not be used 
 |sorts|table|false|No Documentation|
 |separateOwnerItems|bool|false|No Documentation|
 ### C_AuctionHouse.SetFavoriteItem
+?> WowPedia link: [C_AuctionHouse.SetFavoriteItem](https://wow.gamepedia.com/API_C_AuctionHouse.SetFavoriteItem)
 
 No Documentation
 
@@ -796,6 +873,7 @@ No Documentation
 |itemKey|ItemKey|false|No Documentation|
 |setFavorite|bool|false|No Documentation|
 ### C_AuctionHouse.StartCommoditiesPurchase
+?> WowPedia link: [C_AuctionHouse.StartCommoditiesPurchase](https://wow.gamepedia.com/API_C_AuctionHouse.StartCommoditiesPurchase)
 
 No Documentation
 

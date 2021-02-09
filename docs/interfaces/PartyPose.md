@@ -5,6 +5,7 @@ Type: System / Namespace: C_PartyPose
 ## Functions
 
 ### C_PartyPose.GetPartyPoseInfoByMapID
+?> WowPedia link: [C_PartyPose.GetPartyPoseInfoByMapID](https://wow.gamepedia.com/API_C_PartyPose.GetPartyPoseInfoByMapID)
 
 No Documentation
 

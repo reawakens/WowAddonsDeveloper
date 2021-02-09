@@ -5,6 +5,7 @@ Type: System / Namespace: C_FogOfWar
 ## Functions
 
 ### C_FogOfWar.GetFogOfWarForMap
+?> WowPedia link: [C_FogOfWar.GetFogOfWarForMap](https://wow.gamepedia.com/API_C_FogOfWar.GetFogOfWarForMap)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |fogOfWarID|number|true|No Documentation|
 ### C_FogOfWar.GetFogOfWarInfo
+?> WowPedia link: [C_FogOfWar.GetFogOfWarInfo](https://wow.gamepedia.com/API_C_FogOfWar.GetFogOfWarInfo)
 
 No Documentation
 

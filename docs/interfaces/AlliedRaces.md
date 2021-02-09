@@ -5,10 +5,12 @@ Type: System / Namespace: C_AlliedRaces
 ## Functions
 
 ### C_AlliedRaces.ClearAlliedRaceDetailsGiver
+?> WowPedia link: [C_AlliedRaces.ClearAlliedRaceDetailsGiver](https://wow.gamepedia.com/API_C_AlliedRaces.ClearAlliedRaceDetailsGiver)
 
 No Documentation
 
 ### C_AlliedRaces.GetAllRacialAbilitiesFromID
+?> WowPedia link: [C_AlliedRaces.GetAllRacialAbilitiesFromID](https://wow.gamepedia.com/API_C_AlliedRaces.GetAllRacialAbilitiesFromID)
 
 No Documentation
 
@@ -21,6 +23,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |allDisplayInfo|table|false|No Documentation|
 ### C_AlliedRaces.GetRaceInfoByID
+?> WowPedia link: [C_AlliedRaces.GetRaceInfoByID](https://wow.gamepedia.com/API_C_AlliedRaces.GetRaceInfoByID)
 
 No Documentation
 

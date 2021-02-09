@@ -5,10 +5,12 @@ Type: System / Namespace: C_ChromieTime
 ## Functions
 
 ### C_ChromieTime.CloseUI
+?> WowPedia link: [C_ChromieTime.CloseUI](https://wow.gamepedia.com/API_C_ChromieTime.CloseUI)
 
 No Documentation
 
 ### C_ChromieTime.GetChromieTimeExpansionOption
+?> WowPedia link: [C_ChromieTime.GetChromieTimeExpansionOption](https://wow.gamepedia.com/API_C_ChromieTime.GetChromieTimeExpansionOption)
 
 No Documentation
 
@@ -21,6 +23,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|ChromieTimeExpansionInfo|true|No Documentation|
 ### C_ChromieTime.GetChromieTimeExpansionOptions
+?> WowPedia link: [C_ChromieTime.GetChromieTimeExpansionOptions](https://wow.gamepedia.com/API_C_ChromieTime.GetChromieTimeExpansionOptions)
 
 No Documentation
 
@@ -29,6 +32,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |expansionOptions|table|false|No Documentation|
 ### C_ChromieTime.SelectChromieTimeOption
+?> WowPedia link: [C_ChromieTime.SelectChromieTimeOption](https://wow.gamepedia.com/API_C_ChromieTime.SelectChromieTimeOption)
 
 No Documentation
 

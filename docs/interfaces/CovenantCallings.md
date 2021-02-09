@@ -5,6 +5,7 @@ Type: System / Namespace: C_CovenantCallings
 ## Functions
 
 ### C_CovenantCallings.AreCallingsUnlocked
+?> WowPedia link: [C_CovenantCallings.AreCallingsUnlocked](https://wow.gamepedia.com/API_C_CovenantCallings.AreCallingsUnlocked)
 
 No Documentation
 
@@ -13,6 +14,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |unlocked|bool|false|No Documentation|
 ### C_CovenantCallings.RequestCallings
+?> WowPedia link: [C_CovenantCallings.RequestCallings](https://wow.gamepedia.com/API_C_CovenantCallings.RequestCallings)
 
 No Documentation
 

@@ -5,6 +5,7 @@ Type: System / Namespace: C_StableInfo
 ## Functions
 
 ### C_StableInfo.GetNumActivePets
+?> WowPedia link: [C_StableInfo.GetNumActivePets](https://wow.gamepedia.com/API_C_StableInfo.GetNumActivePets)
 
 No Documentation
 
@@ -13,6 +14,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numActivePets|number|false|No Documentation|
 ### C_StableInfo.GetNumStablePets
+?> WowPedia link: [C_StableInfo.GetNumStablePets](https://wow.gamepedia.com/API_C_StableInfo.GetNumStablePets)
 
 No Documentation
 

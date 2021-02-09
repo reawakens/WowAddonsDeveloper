@@ -5,10 +5,12 @@ Type: System / Namespace: C_ContributionCollector
 ## Functions
 
 ### C_ContributionCollector.Close
+?> WowPedia link: [C_ContributionCollector.Close](https://wow.gamepedia.com/API_C_ContributionCollector.Close)
 
 No Documentation
 
 ### C_ContributionCollector.Contribute
+?> WowPedia link: [C_ContributionCollector.Contribute](https://wow.gamepedia.com/API_C_ContributionCollector.Contribute)
 
 No Documentation
 
@@ -17,6 +19,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |contributionID|number|false|No Documentation|
 ### C_ContributionCollector.GetActive
+?> WowPedia link: [C_ContributionCollector.GetActive](https://wow.gamepedia.com/API_C_ContributionCollector.GetActive)
 
 No Documentation
 
@@ -25,6 +28,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |contributionID|number|false|No Documentation|
 ### C_ContributionCollector.GetAtlases
+?> WowPedia link: [C_ContributionCollector.GetAtlases](https://wow.gamepedia.com/API_C_ContributionCollector.GetAtlases)
 
 No Documentation
 
@@ -37,6 +41,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |atlasName|table|false|No Documentation|
 ### C_ContributionCollector.GetBuffs
+?> WowPedia link: [C_ContributionCollector.GetBuffs](https://wow.gamepedia.com/API_C_ContributionCollector.GetBuffs)
 
 No Documentation
 
@@ -49,6 +54,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |spellID|number|false|No Documentation|
 ### C_ContributionCollector.GetContributionAppearance
+?> WowPedia link: [C_ContributionCollector.GetContributionAppearance](https://wow.gamepedia.com/API_C_ContributionCollector.GetContributionAppearance)
 
 No Documentation
 
@@ -62,6 +68,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |appearance|ContributionAppearance|true|No Documentation|
 ### C_ContributionCollector.GetContributionCollectorsForMap
+?> WowPedia link: [C_ContributionCollector.GetContributionCollectorsForMap](https://wow.gamepedia.com/API_C_ContributionCollector.GetContributionCollectorsForMap)
 
 No Documentation
 
@@ -74,6 +81,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |contributionCollectors|table|false|No Documentation|
 ### C_ContributionCollector.GetContributionResult
+?> WowPedia link: [C_ContributionCollector.GetContributionResult](https://wow.gamepedia.com/API_C_ContributionCollector.GetContributionResult)
 
 No Documentation
 
@@ -86,6 +94,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |result|ContributionResult|false|No Documentation|
 ### C_ContributionCollector.GetDescription
+?> WowPedia link: [C_ContributionCollector.GetDescription](https://wow.gamepedia.com/API_C_ContributionCollector.GetDescription)
 
 No Documentation
 
@@ -98,6 +107,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |description|string|false|No Documentation|
 ### C_ContributionCollector.GetManagedContributionsForCreatureID
+?> WowPedia link: [C_ContributionCollector.GetManagedContributionsForCreatureID](https://wow.gamepedia.com/API_C_ContributionCollector.GetManagedContributionsForCreatureID)
 
 No Documentation
 
@@ -110,6 +120,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |contributionID|number|false|No Documentation|
 ### C_ContributionCollector.GetName
+?> WowPedia link: [C_ContributionCollector.GetName](https://wow.gamepedia.com/API_C_ContributionCollector.GetName)
 
 No Documentation
 
@@ -122,6 +133,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |name|string|false|No Documentation|
 ### C_ContributionCollector.GetOrderIndex
+?> WowPedia link: [C_ContributionCollector.GetOrderIndex](https://wow.gamepedia.com/API_C_ContributionCollector.GetOrderIndex)
 
 No Documentation
 
@@ -134,6 +146,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |orderIndex|number|false|No Documentation|
 ### C_ContributionCollector.GetRequiredContributionCurrency
+?> WowPedia link: [C_ContributionCollector.GetRequiredContributionCurrency](https://wow.gamepedia.com/API_C_ContributionCollector.GetRequiredContributionCurrency)
 
 No Documentation
 
@@ -147,6 +160,7 @@ No Documentation
 |currencyID|number|false|No Documentation|
 |currencyAmount|number|false|No Documentation|
 ### C_ContributionCollector.GetRequiredContributionItem
+?> WowPedia link: [C_ContributionCollector.GetRequiredContributionItem](https://wow.gamepedia.com/API_C_ContributionCollector.GetRequiredContributionItem)
 
 No Documentation
 
@@ -160,6 +174,7 @@ No Documentation
 |itemID|number|false|No Documentation|
 |itemCount|number|false|No Documentation|
 ### C_ContributionCollector.GetRewardQuestID
+?> WowPedia link: [C_ContributionCollector.GetRewardQuestID](https://wow.gamepedia.com/API_C_ContributionCollector.GetRewardQuestID)
 
 No Documentation
 
@@ -172,6 +187,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |questID|number|false|No Documentation|
 ### C_ContributionCollector.GetState
+?> WowPedia link: [C_ContributionCollector.GetState](https://wow.gamepedia.com/API_C_ContributionCollector.GetState)
 
 No Documentation
 
@@ -187,6 +203,7 @@ No Documentation
 |timeOfNextStateChange|number|true|No Documentation|
 |startTime|number|false|No Documentation|
 ### C_ContributionCollector.HasPendingContribution
+?> WowPedia link: [C_ContributionCollector.HasPendingContribution](https://wow.gamepedia.com/API_C_ContributionCollector.HasPendingContribution)
 
 No Documentation
 
@@ -199,6 +216,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasPending|bool|false|No Documentation|
 ### C_ContributionCollector.IsAwaitingRewardQuestData
+?> WowPedia link: [C_ContributionCollector.IsAwaitingRewardQuestData](https://wow.gamepedia.com/API_C_ContributionCollector.IsAwaitingRewardQuestData)
 
 No Documentation
 

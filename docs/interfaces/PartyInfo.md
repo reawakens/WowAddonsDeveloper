@@ -5,6 +5,7 @@ Type: System / Namespace: C_PartyInfo
 ## Functions
 
 ### C_PartyInfo.AllowedToDoPartyConversion
+?> WowPedia link: [C_PartyInfo.AllowedToDoPartyConversion](https://wow.gamepedia.com/API_C_PartyInfo.AllowedToDoPartyConversion)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |allowed|bool|false|No Documentation|
 ### C_PartyInfo.CanInvite
+?> WowPedia link: [C_PartyInfo.CanInvite](https://wow.gamepedia.com/API_C_PartyInfo.CanInvite)
 
 No Documentation
 
@@ -25,9 +27,11 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |allowedToInvite|bool|false|No Documentation|
 ### C_PartyInfo.ConfirmConvertToRaid
+?> WowPedia link: [C_PartyInfo.ConfirmConvertToRaid](https://wow.gamepedia.com/API_C_PartyInfo.ConfirmConvertToRaid)
 
 Immediately convert to raid with no regard for potentially destructive actions.
 ### C_PartyInfo.ConfirmInviteTravelPass
+?> WowPedia link: [C_PartyInfo.ConfirmInviteTravelPass](https://wow.gamepedia.com/API_C_PartyInfo.ConfirmInviteTravelPass)
 
 No Documentation
 
@@ -37,6 +41,7 @@ No Documentation
 |targetName|string|false|No Documentation|
 |targetGUID|string|false|No Documentation|
 ### C_PartyInfo.ConfirmInviteUnit
+?> WowPedia link: [C_PartyInfo.ConfirmInviteUnit](https://wow.gamepedia.com/API_C_PartyInfo.ConfirmInviteUnit)
 
 Immediately invites the named unit to a party, with no regard for potentially destructive actions.
 #### Arguments
@@ -44,6 +49,7 @@ Immediately invites the named unit to a party, with no regard for potentially de
 |:---:|:---:|:---:|:---|
 |targetName|string|false|No Documentation|
 ### C_PartyInfo.ConfirmLeaveParty
+?> WowPedia link: [C_PartyInfo.ConfirmLeaveParty](https://wow.gamepedia.com/API_C_PartyInfo.ConfirmLeaveParty)
 
 Immediately leave the party with no regard for potentially destructive actions
 #### Arguments
@@ -51,6 +57,7 @@ Immediately leave the party with no regard for potentially destructive actions
 |:---:|:---:|:---:|:---|
 |category|number|true|No Documentation|
 ### C_PartyInfo.ConfirmRequestInviteFromUnit
+?> WowPedia link: [C_PartyInfo.ConfirmRequestInviteFromUnit](https://wow.gamepedia.com/API_C_PartyInfo.ConfirmRequestInviteFromUnit)
 
 Immediately request an invite into the target party, this is the confirmation function to call after RequestInviteFromUnit, or if you would like to skip the confirmation process.
 #### Arguments
@@ -61,13 +68,16 @@ Immediately request an invite into the target party, this is the confirmation fu
 |healer|bool|true|No Documentation|
 |dps|bool|true|No Documentation|
 ### C_PartyInfo.ConvertToParty
+?> WowPedia link: [C_PartyInfo.ConvertToParty](https://wow.gamepedia.com/API_C_PartyInfo.ConvertToParty)
 
 No Documentation
 
 ### C_PartyInfo.ConvertToRaid
+?> WowPedia link: [C_PartyInfo.ConvertToRaid](https://wow.gamepedia.com/API_C_PartyInfo.ConvertToRaid)
 
 Usually this will convert to raid immediately. In some cases (e.g. PartySync) the user will be prompted to confirm converting to raid, because it's potentially destructive.
 ### C_PartyInfo.DoCountdown
+?> WowPedia link: [C_PartyInfo.DoCountdown](https://wow.gamepedia.com/API_C_PartyInfo.DoCountdown)
 
 No Documentation
 
@@ -76,6 +86,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |seconds|number|false|No Documentation|
 ### C_PartyInfo.GetActiveCategories
+?> WowPedia link: [C_PartyInfo.GetActiveCategories](https://wow.gamepedia.com/API_C_PartyInfo.GetActiveCategories)
 
 No Documentation
 
@@ -84,6 +95,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |categories|table|false|No Documentation|
 ### C_PartyInfo.GetInviteConfirmationInvalidQueues
+?> WowPedia link: [C_PartyInfo.GetInviteConfirmationInvalidQueues](https://wow.gamepedia.com/API_C_PartyInfo.GetInviteConfirmationInvalidQueues)
 
 No Documentation
 
@@ -96,6 +108,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |invalidQueues|table|false|No Documentation|
 ### C_PartyInfo.GetInviteReferralInfo
+?> WowPedia link: [C_PartyInfo.GetInviteReferralInfo](https://wow.gamepedia.com/API_C_PartyInfo.GetInviteReferralInfo)
 
 No Documentation
 
@@ -112,6 +125,7 @@ No Documentation
 |outIsQuickJoin|bool|false|No Documentation|
 |outClubId|string|false|No Documentation|
 ### C_PartyInfo.GetMinLevel
+?> WowPedia link: [C_PartyInfo.GetMinLevel](https://wow.gamepedia.com/API_C_PartyInfo.GetMinLevel)
 
 No Documentation
 
@@ -124,6 +138,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |minLevel|number|false|No Documentation|
 ### C_PartyInfo.InviteUnit
+?> WowPedia link: [C_PartyInfo.InviteUnit](https://wow.gamepedia.com/API_C_PartyInfo.InviteUnit)
 
 Attempt to invite the named unit to a party, requires confirmation in some cases (e.g. the party will convert to a raid, or if there is a party sync in progress).
 #### Arguments
@@ -131,6 +146,7 @@ Attempt to invite the named unit to a party, requires confirmation in some cases
 |:---:|:---:|:---:|:---|
 |targetName|string|false|No Documentation|
 ### C_PartyInfo.IsPartyFull
+?> WowPedia link: [C_PartyInfo.IsPartyFull](https://wow.gamepedia.com/API_C_PartyInfo.IsPartyFull)
 
 No Documentation
 
@@ -143,6 +159,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isFull|bool|false|No Documentation|
 ### C_PartyInfo.IsPartyInJailersTower
+?> WowPedia link: [C_PartyInfo.IsPartyInJailersTower](https://wow.gamepedia.com/API_C_PartyInfo.IsPartyInJailersTower)
 
 No Documentation
 
@@ -151,6 +168,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isPartyInJailersTower|bool|false|No Documentation|
 ### C_PartyInfo.LeaveParty
+?> WowPedia link: [C_PartyInfo.LeaveParty](https://wow.gamepedia.com/API_C_PartyInfo.LeaveParty)
 
 Usually this will leave the party immediately. In some cases (e.g. PartySync) the user will be prompted to confirm leaving the party, because it's potentially destructive
 #### Arguments
@@ -158,6 +176,7 @@ Usually this will leave the party immediately. In some cases (e.g. PartySync) th
 |:---:|:---:|:---:|:---|
 |category|number|true|No Documentation|
 ### C_PartyInfo.RequestInviteFromUnit
+?> WowPedia link: [C_PartyInfo.RequestInviteFromUnit](https://wow.gamepedia.com/API_C_PartyInfo.RequestInviteFromUnit)
 
 Attempt to request an invite into the target party, requires confirmation in some cases (e.g. there is a party sync in progress).
 #### Arguments

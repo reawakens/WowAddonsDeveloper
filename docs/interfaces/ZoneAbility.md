@@ -5,6 +5,7 @@ Type: System / Namespace: C_ZoneAbility
 ## Functions
 
 ### C_ZoneAbility.GetActiveAbilities
+?> WowPedia link: [C_ZoneAbility.GetActiveAbilities](https://wow.gamepedia.com/API_C_ZoneAbility.GetActiveAbilities)
 
 No Documentation
 

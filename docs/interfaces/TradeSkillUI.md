@@ -5,6 +5,7 @@ Type: System / Namespace: C_TradeSkillUI
 ## Functions
 
 ### C_TradeSkillUI.CraftRecipe
+?> WowPedia link: [C_TradeSkillUI.CraftRecipe](https://wow.gamepedia.com/API_C_TradeSkillUI.CraftRecipe)
 
 No Documentation
 
@@ -16,6 +17,7 @@ No Documentation
 |optionalReagents|table|true|No Documentation|
 |recipeLevel|number|true|No Documentation|
 ### C_TradeSkillUI.GetAllProfessionTradeSkillLines
+?> WowPedia link: [C_TradeSkillUI.GetAllProfessionTradeSkillLines](https://wow.gamepedia.com/API_C_TradeSkillUI.GetAllProfessionTradeSkillLines)
 
 No Documentation
 
@@ -24,6 +26,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |skillLineID|table|false|No Documentation|
 ### C_TradeSkillUI.GetOptionalReagentBonusText
+?> WowPedia link: [C_TradeSkillUI.GetOptionalReagentBonusText](https://wow.gamepedia.com/API_C_TradeSkillUI.GetOptionalReagentBonusText)
 
 No Documentation
 
@@ -38,6 +41,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |bonusText|string|false|No Documentation|
 ### C_TradeSkillUI.GetOptionalReagentInfo
+?> WowPedia link: [C_TradeSkillUI.GetOptionalReagentInfo](https://wow.gamepedia.com/API_C_TradeSkillUI.GetOptionalReagentInfo)
 
 No Documentation
 
@@ -50,6 +54,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |slots|table|false|No Documentation|
 ### C_TradeSkillUI.GetRecipeInfo
+?> WowPedia link: [C_TradeSkillUI.GetRecipeInfo](https://wow.gamepedia.com/API_C_TradeSkillUI.GetRecipeInfo)
 
 No Documentation
 
@@ -63,6 +68,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |recipeInfo|TradeSkillRecipeInfo|true|No Documentation|
 ### C_TradeSkillUI.GetRecipeNumReagents
+?> WowPedia link: [C_TradeSkillUI.GetRecipeNumReagents](https://wow.gamepedia.com/API_C_TradeSkillUI.GetRecipeNumReagents)
 
 No Documentation
 
@@ -76,6 +82,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numReagents|number|false|No Documentation|
 ### C_TradeSkillUI.GetRecipeReagentInfo
+?> WowPedia link: [C_TradeSkillUI.GetRecipeReagentInfo](https://wow.gamepedia.com/API_C_TradeSkillUI.GetRecipeReagentInfo)
 
 No Documentation
 
@@ -93,6 +100,7 @@ No Documentation
 |reagentCount|number|false|No Documentation|
 |playerReagentCount|number|false|No Documentation|
 ### C_TradeSkillUI.GetRecipeRepeatCount
+?> WowPedia link: [C_TradeSkillUI.GetRecipeRepeatCount](https://wow.gamepedia.com/API_C_TradeSkillUI.GetRecipeRepeatCount)
 
 No Documentation
 
@@ -101,6 +109,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |recastTimes|number|false|No Documentation|
 ### C_TradeSkillUI.GetTradeSkillDisplayName
+?> WowPedia link: [C_TradeSkillUI.GetTradeSkillDisplayName](https://wow.gamepedia.com/API_C_TradeSkillUI.GetTradeSkillDisplayName)
 
 No Documentation
 
@@ -113,6 +122,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |professionDisplayName|string|false|No Documentation|
 ### C_TradeSkillUI.GetTradeSkillLine
+?> WowPedia link: [C_TradeSkillUI.GetTradeSkillLine](https://wow.gamepedia.com/API_C_TradeSkillUI.GetTradeSkillLine)
 
 No Documentation
 
@@ -127,6 +137,7 @@ No Documentation
 |parentSkillLineID|number|true|No Documentation|
 |parentSkillLineDisplayName|string|true|No Documentation|
 ### C_TradeSkillUI.GetTradeSkillLineInfoByID
+?> WowPedia link: [C_TradeSkillUI.GetTradeSkillLineInfoByID](https://wow.gamepedia.com/API_C_TradeSkillUI.GetTradeSkillLineInfoByID)
 
 No Documentation
 
@@ -143,6 +154,7 @@ No Documentation
 |skillLineModifier|number|false|No Documentation|
 |parentSkillLineID|number|true|No Documentation|
 ### C_TradeSkillUI.IsEmptySkillLineCategory
+?> WowPedia link: [C_TradeSkillUI.IsEmptySkillLineCategory](https://wow.gamepedia.com/API_C_TradeSkillUI.IsEmptySkillLineCategory)
 
 No Documentation
 
@@ -155,6 +167,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |effectivelyKnown|bool|false|No Documentation|
 ### C_TradeSkillUI.SetRecipeRepeatCount
+?> WowPedia link: [C_TradeSkillUI.SetRecipeRepeatCount](https://wow.gamepedia.com/API_C_TradeSkillUI.SetRecipeRepeatCount)
 
 No Documentation
 

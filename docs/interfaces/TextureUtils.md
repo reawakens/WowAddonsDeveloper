@@ -5,6 +5,7 @@ Type: System / Namespace: C_Texture
 ## Functions
 
 ### C_Texture.GetAtlasInfo
+?> WowPedia link: [C_Texture.GetAtlasInfo](https://wow.gamepedia.com/API_C_Texture.GetAtlasInfo)
 
 No Documentation
 

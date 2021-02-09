@@ -5,10 +5,12 @@ Type: System / Namespace: C_GossipInfo
 ## Functions
 
 ### C_GossipInfo.CloseGossip
+?> WowPedia link: [C_GossipInfo.CloseGossip](https://wow.gamepedia.com/API_C_GossipInfo.CloseGossip)
 
 No Documentation
 
 ### C_GossipInfo.ForceGossip
+?> WowPedia link: [C_GossipInfo.ForceGossip](https://wow.gamepedia.com/API_C_GossipInfo.ForceGossip)
 
 No Documentation
 
@@ -17,6 +19,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |forceGossip|bool|false|No Documentation|
 ### C_GossipInfo.GetActiveQuests
+?> WowPedia link: [C_GossipInfo.GetActiveQuests](https://wow.gamepedia.com/API_C_GossipInfo.GetActiveQuests)
 
 No Documentation
 
@@ -25,6 +28,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|table|false|No Documentation|
 ### C_GossipInfo.GetAvailableQuests
+?> WowPedia link: [C_GossipInfo.GetAvailableQuests](https://wow.gamepedia.com/API_C_GossipInfo.GetAvailableQuests)
 
 No Documentation
 
@@ -33,6 +37,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|table|false|No Documentation|
 ### C_GossipInfo.GetNumActiveQuests
+?> WowPedia link: [C_GossipInfo.GetNumActiveQuests](https://wow.gamepedia.com/API_C_GossipInfo.GetNumActiveQuests)
 
 No Documentation
 
@@ -41,6 +46,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numQuests|number|false|No Documentation|
 ### C_GossipInfo.GetNumAvailableQuests
+?> WowPedia link: [C_GossipInfo.GetNumAvailableQuests](https://wow.gamepedia.com/API_C_GossipInfo.GetNumAvailableQuests)
 
 No Documentation
 
@@ -49,6 +55,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numQuests|number|false|No Documentation|
 ### C_GossipInfo.GetNumOptions
+?> WowPedia link: [C_GossipInfo.GetNumOptions](https://wow.gamepedia.com/API_C_GossipInfo.GetNumOptions)
 
 No Documentation
 
@@ -57,6 +64,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numOptions|number|false|No Documentation|
 ### C_GossipInfo.GetOptions
+?> WowPedia link: [C_GossipInfo.GetOptions](https://wow.gamepedia.com/API_C_GossipInfo.GetOptions)
 
 No Documentation
 
@@ -65,6 +73,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|table|false|No Documentation|
 ### C_GossipInfo.GetPoiForUiMapID
+?> WowPedia link: [C_GossipInfo.GetPoiForUiMapID](https://wow.gamepedia.com/API_C_GossipInfo.GetPoiForUiMapID)
 
 No Documentation
 
@@ -77,6 +86,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |gossipPoiID|number|true|No Documentation|
 ### C_GossipInfo.GetPoiInfo
+?> WowPedia link: [C_GossipInfo.GetPoiInfo](https://wow.gamepedia.com/API_C_GossipInfo.GetPoiInfo)
 
 No Documentation
 
@@ -90,6 +100,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |gossipPoiInfo|GossipPoiInfo|true|No Documentation|
 ### C_GossipInfo.GetText
+?> WowPedia link: [C_GossipInfo.GetText](https://wow.gamepedia.com/API_C_GossipInfo.GetText)
 
 No Documentation
 
@@ -98,10 +109,12 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |gossipText|string|false|No Documentation|
 ### C_GossipInfo.RefreshOptions
+?> WowPedia link: [C_GossipInfo.RefreshOptions](https://wow.gamepedia.com/API_C_GossipInfo.RefreshOptions)
 
 No Documentation
 
 ### C_GossipInfo.SelectActiveQuest
+?> WowPedia link: [C_GossipInfo.SelectActiveQuest](https://wow.gamepedia.com/API_C_GossipInfo.SelectActiveQuest)
 
 No Documentation
 
@@ -110,6 +123,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |index|number|false|No Documentation|
 ### C_GossipInfo.SelectAvailableQuest
+?> WowPedia link: [C_GossipInfo.SelectAvailableQuest](https://wow.gamepedia.com/API_C_GossipInfo.SelectAvailableQuest)
 
 No Documentation
 
@@ -118,6 +132,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |index|number|false|No Documentation|
 ### C_GossipInfo.SelectOption
+?> WowPedia link: [C_GossipInfo.SelectOption](https://wow.gamepedia.com/API_C_GossipInfo.SelectOption)
 
 No Documentation
 

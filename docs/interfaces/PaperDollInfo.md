@@ -5,6 +5,7 @@ Type: System / Namespace: C_PaperDollInfo
 ## Functions
 
 ### C_PaperDollInfo.GetArmorEffectiveness
+?> WowPedia link: [C_PaperDollInfo.GetArmorEffectiveness](https://wow.gamepedia.com/API_C_PaperDollInfo.GetArmorEffectiveness)
 
 No Documentation
 
@@ -18,6 +19,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |effectiveness|number|false|No Documentation|
 ### C_PaperDollInfo.GetArmorEffectivenessAgainstTarget
+?> WowPedia link: [C_PaperDollInfo.GetArmorEffectivenessAgainstTarget](https://wow.gamepedia.com/API_C_PaperDollInfo.GetArmorEffectivenessAgainstTarget)
 
 No Documentation
 
@@ -30,6 +32,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |effectiveness|number|true|No Documentation|
 ### C_PaperDollInfo.GetInspectAzeriteItemEmpoweredChoices
+?> WowPedia link: [C_PaperDollInfo.GetInspectAzeriteItemEmpoweredChoices](https://wow.gamepedia.com/API_C_PaperDollInfo.GetInspectAzeriteItemEmpoweredChoices)
 
 No Documentation
 
@@ -43,6 +46,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |azeritePowerIDs|table|false|No Documentation|
 ### C_PaperDollInfo.GetInspectItemLevel
+?> WowPedia link: [C_PaperDollInfo.GetInspectItemLevel](https://wow.gamepedia.com/API_C_PaperDollInfo.GetInspectItemLevel)
 
 No Documentation
 
@@ -55,6 +59,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |equippedItemLevel|number|false|No Documentation|
 ### C_PaperDollInfo.GetMinItemLevel
+?> WowPedia link: [C_PaperDollInfo.GetMinItemLevel](https://wow.gamepedia.com/API_C_PaperDollInfo.GetMinItemLevel)
 
 No Documentation
 
@@ -63,6 +68,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |minItemLevel|number|true|No Documentation|
 ### C_PaperDollInfo.GetStaggerPercentage
+?> WowPedia link: [C_PaperDollInfo.GetStaggerPercentage](https://wow.gamepedia.com/API_C_PaperDollInfo.GetStaggerPercentage)
 
 No Documentation
 
@@ -76,6 +82,7 @@ No Documentation
 |stagger|number|false|No Documentation|
 |staggerAgainstTarget|number|true|No Documentation|
 ### C_PaperDollInfo.OffhandHasShield
+?> WowPedia link: [C_PaperDollInfo.OffhandHasShield](https://wow.gamepedia.com/API_C_PaperDollInfo.OffhandHasShield)
 
 No Documentation
 
@@ -84,6 +91,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |offhandHasShield|bool|false|No Documentation|
 ### C_PaperDollInfo.OffhandHasWeapon
+?> WowPedia link: [C_PaperDollInfo.OffhandHasWeapon](https://wow.gamepedia.com/API_C_PaperDollInfo.OffhandHasWeapon)
 
 No Documentation
 

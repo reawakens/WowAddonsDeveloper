@@ -5,6 +5,7 @@ Type: System / Namespace: C_CreatureInfo
 ## Functions
 
 ### C_CreatureInfo.GetClassInfo
+?> WowPedia link: [C_CreatureInfo.GetClassInfo](https://wow.gamepedia.com/API_C_CreatureInfo.GetClassInfo)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |classInfo|ClassInfo|true|No Documentation|
 ### C_CreatureInfo.GetFactionInfo
+?> WowPedia link: [C_CreatureInfo.GetFactionInfo](https://wow.gamepedia.com/API_C_CreatureInfo.GetFactionInfo)
 
 No Documentation
 
@@ -29,6 +31,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |factionInfo|FactionInfo|true|No Documentation|
 ### C_CreatureInfo.GetRaceInfo
+?> WowPedia link: [C_CreatureInfo.GetRaceInfo](https://wow.gamepedia.com/API_C_CreatureInfo.GetRaceInfo)
 
 No Documentation
 

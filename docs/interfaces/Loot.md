@@ -5,6 +5,7 @@ Type: System / Namespace: C_Loot
 ## Functions
 
 ### C_Loot.IsLegacyLootModeEnabled
+?> WowPedia link: [C_Loot.IsLegacyLootModeEnabled](https://wow.gamepedia.com/API_C_Loot.IsLegacyLootModeEnabled)
 
 No Documentation
 

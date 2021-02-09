@@ -5,6 +5,7 @@ Type: System / Namespace: C_System
 ## Functions
 
 ### C_System.GetFrameStack
+?> WowPedia link: [C_System.GetFrameStack](https://wow.gamepedia.com/API_C_System.GetFrameStack)
 
 No Documentation
 

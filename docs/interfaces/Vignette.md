@@ -5,6 +5,7 @@ Type: System / Namespace: C_VignetteInfo
 ## Functions
 
 ### C_VignetteInfo.FindBestUniqueVignette
+?> WowPedia link: [C_VignetteInfo.FindBestUniqueVignette](https://wow.gamepedia.com/API_C_VignetteInfo.FindBestUniqueVignette)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |bestUniqueVignetteIndex|number|true|No Documentation|
 ### C_VignetteInfo.GetVignetteInfo
+?> WowPedia link: [C_VignetteInfo.GetVignetteInfo](https://wow.gamepedia.com/API_C_VignetteInfo.GetVignetteInfo)
 
 No Documentation
 
@@ -29,6 +31,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |vignetteInfo|VignetteInfo|true|No Documentation|
 ### C_VignetteInfo.GetVignettePosition
+?> WowPedia link: [C_VignetteInfo.GetVignettePosition](https://wow.gamepedia.com/API_C_VignetteInfo.GetVignettePosition)
 
 No Documentation
 
@@ -42,6 +45,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |vignettePosition|table|true|No Documentation|
 ### C_VignetteInfo.GetVignettes
+?> WowPedia link: [C_VignetteInfo.GetVignettes](https://wow.gamepedia.com/API_C_VignetteInfo.GetVignettes)
 
 No Documentation
 

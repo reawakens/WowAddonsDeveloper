@@ -5,10 +5,12 @@ Type: System / Namespace: C_Transmog
 ## Functions
 
 ### C_Transmog.ClearAllPending
+?> WowPedia link: [C_Transmog.ClearAllPending](https://wow.gamepedia.com/API_C_Transmog.ClearAllPending)
 
 No Documentation
 
 ### C_Transmog.ClearPending
+?> WowPedia link: [C_Transmog.ClearPending](https://wow.gamepedia.com/API_C_Transmog.ClearPending)
 
 No Documentation
 
@@ -17,6 +19,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |transmogLocation|table|false|No Documentation|
 ### C_Transmog.GetBaseCategory
+?> WowPedia link: [C_Transmog.GetBaseCategory](https://wow.gamepedia.com/API_C_Transmog.GetBaseCategory)
 
 No Documentation
 
@@ -29,6 +32,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |categoryID|number|false|No Documentation|
 ### C_Transmog.GetCreatureDisplayIDForSource
+?> WowPedia link: [C_Transmog.GetCreatureDisplayIDForSource](https://wow.gamepedia.com/API_C_Transmog.GetCreatureDisplayIDForSource)
 
 No Documentation
 
@@ -41,6 +45,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |creatureDisplayID|number|true|No Documentation|
 ### C_Transmog.GetItemIDForSource
+?> WowPedia link: [C_Transmog.GetItemIDForSource](https://wow.gamepedia.com/API_C_Transmog.GetItemIDForSource)
 
 No Documentation
 
@@ -53,6 +58,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |itemID|number|true|No Documentation|
 ### C_Transmog.GetSlotForInventoryType
+?> WowPedia link: [C_Transmog.GetSlotForInventoryType](https://wow.gamepedia.com/API_C_Transmog.GetSlotForInventoryType)
 
 No Documentation
 
@@ -65,6 +71,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |slot|number|false|No Documentation|
 ### C_Transmog.GetSlotInfo
+?> WowPedia link: [C_Transmog.GetSlotInfo](https://wow.gamepedia.com/API_C_Transmog.GetSlotInfo)
 
 No Documentation
 
@@ -84,6 +91,7 @@ No Documentation
 |isHideVisual|bool|false|No Documentation|
 |texture|number|true|No Documentation|
 ### C_Transmog.GetSlotUseError
+?> WowPedia link: [C_Transmog.GetSlotUseError](https://wow.gamepedia.com/API_C_Transmog.GetSlotUseError)
 
 No Documentation
 
@@ -97,6 +105,7 @@ No Documentation
 |errorCode|number|false|No Documentation|
 |errorString|string|false|No Documentation|
 ### C_Transmog.GetSlotVisualInfo
+?> WowPedia link: [C_Transmog.GetSlotVisualInfo](https://wow.gamepedia.com/API_C_Transmog.GetSlotVisualInfo)
 
 No Documentation
 
@@ -119,6 +128,7 @@ No Documentation
 |isHideVisual|bool|false|No Documentation|
 |itemSubclass|number|false|No Documentation|
 ### C_Transmog.SetPending
+?> WowPedia link: [C_Transmog.SetPending](https://wow.gamepedia.com/API_C_Transmog.SetPending)
 
 No Documentation
 

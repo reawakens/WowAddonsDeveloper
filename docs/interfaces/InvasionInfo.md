@@ -5,6 +5,7 @@ Type: System / Namespace: C_InvasionInfo
 ## Functions
 
 ### C_InvasionInfo.AreInvasionsAvailable
+?> WowPedia link: [C_InvasionInfo.AreInvasionsAvailable](https://wow.gamepedia.com/API_C_InvasionInfo.AreInvasionsAvailable)
 
 Returns true if invasions are active in the same physical area as the player.
 #### Returns
@@ -12,6 +13,7 @@ Returns true if invasions are active in the same physical area as the player.
 |:---:|:---:|:---:|:---|
 |areInvasionsAvailable|bool|false|No Documentation|
 ### C_InvasionInfo.GetInvasionForUiMapID
+?> WowPedia link: [C_InvasionInfo.GetInvasionForUiMapID](https://wow.gamepedia.com/API_C_InvasionInfo.GetInvasionForUiMapID)
 
 No Documentation
 
@@ -24,6 +26,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |invasionID|number|true|No Documentation|
 ### C_InvasionInfo.GetInvasionInfo
+?> WowPedia link: [C_InvasionInfo.GetInvasionInfo](https://wow.gamepedia.com/API_C_InvasionInfo.GetInvasionInfo)
 
 No Documentation
 
@@ -36,6 +39,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |invasionInfo|InvasionMapInfo|false|No Documentation|
 ### C_InvasionInfo.GetInvasionTimeLeft
+?> WowPedia link: [C_InvasionInfo.GetInvasionTimeLeft](https://wow.gamepedia.com/API_C_InvasionInfo.GetInvasionTimeLeft)
 
 No Documentation
 

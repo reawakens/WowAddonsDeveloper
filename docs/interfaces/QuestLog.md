@@ -5,10 +5,12 @@ Type: System / Namespace: C_QuestLog
 ## Functions
 
 ### C_QuestLog.AbandonQuest
+?> WowPedia link: [C_QuestLog.AbandonQuest](https://wow.gamepedia.com/API_C_QuestLog.AbandonQuest)
 
 No Documentation
 
 ### C_QuestLog.AddQuestWatch
+?> WowPedia link: [C_QuestLog.AddQuestWatch](https://wow.gamepedia.com/API_C_QuestLog.AddQuestWatch)
 
 No Documentation
 
@@ -22,6 +24,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |wasWatched|bool|false|No Documentation|
 ### C_QuestLog.AddWorldQuestWatch
+?> WowPedia link: [C_QuestLog.AddWorldQuestWatch](https://wow.gamepedia.com/API_C_QuestLog.AddWorldQuestWatch)
 
 No Documentation
 
@@ -35,6 +38,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |wasWatched|bool|false|No Documentation|
 ### C_QuestLog.CanAbandonQuest
+?> WowPedia link: [C_QuestLog.CanAbandonQuest](https://wow.gamepedia.com/API_C_QuestLog.CanAbandonQuest)
 
 No Documentation
 
@@ -47,6 +51,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canAbandon|bool|false|No Documentation|
 ### C_QuestLog.GetAbandonQuest
+?> WowPedia link: [C_QuestLog.GetAbandonQuest](https://wow.gamepedia.com/API_C_QuestLog.GetAbandonQuest)
 
 No Documentation
 
@@ -55,6 +60,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |questID|number|false|No Documentation|
 ### C_QuestLog.GetAbandonQuestItems
+?> WowPedia link: [C_QuestLog.GetAbandonQuestItems](https://wow.gamepedia.com/API_C_QuestLog.GetAbandonQuestItems)
 
 No Documentation
 
@@ -63,6 +69,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |itemIDs|table|false|No Documentation|
 ### C_QuestLog.GetActiveThreatMaps
+?> WowPedia link: [C_QuestLog.GetActiveThreatMaps](https://wow.gamepedia.com/API_C_QuestLog.GetActiveThreatMaps)
 
 No Documentation
 
@@ -71,6 +78,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |uiMapIDs|table|false|No Documentation|
 ### C_QuestLog.GetAllCompletedQuestIDs
+?> WowPedia link: [C_QuestLog.GetAllCompletedQuestIDs](https://wow.gamepedia.com/API_C_QuestLog.GetAllCompletedQuestIDs)
 
 No Documentation
 
@@ -79,6 +87,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |quests|table|false|No Documentation|
 ### C_QuestLog.GetBountiesForMapID
+?> WowPedia link: [C_QuestLog.GetBountiesForMapID](https://wow.gamepedia.com/API_C_QuestLog.GetBountiesForMapID)
 
 No Documentation
 
@@ -91,6 +100,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |bounties|table|true|No Documentation|
 ### C_QuestLog.GetBountySetInfoForMapID
+?> WowPedia link: [C_QuestLog.GetBountySetInfoForMapID](https://wow.gamepedia.com/API_C_QuestLog.GetBountySetInfoForMapID)
 
 No Documentation
 
@@ -105,6 +115,7 @@ No Documentation
 |lockQuestID|number|false|No Documentation|
 |bountySetID|number|false|No Documentation|
 ### C_QuestLog.GetDistanceSqToQuest
+?> WowPedia link: [C_QuestLog.GetDistanceSqToQuest](https://wow.gamepedia.com/API_C_QuestLog.GetDistanceSqToQuest)
 
 No Documentation
 
@@ -118,6 +129,7 @@ No Documentation
 |distanceSq|number|false|No Documentation|
 |onContinent|bool|false|No Documentation|
 ### C_QuestLog.GetInfo
+?> WowPedia link: [C_QuestLog.GetInfo](https://wow.gamepedia.com/API_C_QuestLog.GetInfo)
 
 No Documentation
 
@@ -130,6 +142,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|QuestInfo|true|No Documentation|
 ### C_QuestLog.GetLogIndexForQuestID
+?> WowPedia link: [C_QuestLog.GetLogIndexForQuestID](https://wow.gamepedia.com/API_C_QuestLog.GetLogIndexForQuestID)
 
 Only returns a log index for actual quests, not headers
 #### Arguments
@@ -141,6 +154,7 @@ Only returns a log index for actual quests, not headers
 |:---:|:---:|:---:|:---|
 |questLogIndex|number|true|No Documentation|
 ### C_QuestLog.GetMapForQuestPOIs
+?> WowPedia link: [C_QuestLog.GetMapForQuestPOIs](https://wow.gamepedia.com/API_C_QuestLog.GetMapForQuestPOIs)
 
 No Documentation
 
@@ -149,6 +163,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |uiMapID|number|false|No Documentation|
 ### C_QuestLog.GetMaxNumQuests
+?> WowPedia link: [C_QuestLog.GetMaxNumQuests](https://wow.gamepedia.com/API_C_QuestLog.GetMaxNumQuests)
 
 This is the maximum number of quests a player can be on, including hidden quests, world quests, emissaries etc
 #### Returns
@@ -156,6 +171,7 @@ This is the maximum number of quests a player can be on, including hidden quests
 |:---:|:---:|:---:|:---|
 |maxNumQuests|number|false|No Documentation|
 ### C_QuestLog.GetMaxNumQuestsCanAccept
+?> WowPedia link: [C_QuestLog.GetMaxNumQuestsCanAccept](https://wow.gamepedia.com/API_C_QuestLog.GetMaxNumQuestsCanAccept)
 
 This is the maximum number of standard quests a player can accept. These are quests that are normally visible in the quest log.
 #### Returns
@@ -163,6 +179,7 @@ This is the maximum number of standard quests a player can accept. These are que
 |:---:|:---:|:---:|:---|
 |maxNumQuestsCanAccept|number|false|No Documentation|
 ### C_QuestLog.GetNextWaypoint
+?> WowPedia link: [C_QuestLog.GetNextWaypoint](https://wow.gamepedia.com/API_C_QuestLog.GetNextWaypoint)
 
 No Documentation
 
@@ -177,6 +194,7 @@ No Documentation
 |x|number|false|No Documentation|
 |y|number|false|No Documentation|
 ### C_QuestLog.GetNextWaypointForMap
+?> WowPedia link: [C_QuestLog.GetNextWaypointForMap](https://wow.gamepedia.com/API_C_QuestLog.GetNextWaypointForMap)
 
 No Documentation
 
@@ -191,6 +209,7 @@ No Documentation
 |x|number|false|No Documentation|
 |y|number|false|No Documentation|
 ### C_QuestLog.GetNextWaypointText
+?> WowPedia link: [C_QuestLog.GetNextWaypointText](https://wow.gamepedia.com/API_C_QuestLog.GetNextWaypointText)
 
 No Documentation
 
@@ -203,6 +222,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |waypointText|string|false|No Documentation|
 ### C_QuestLog.GetNumQuestLogEntries
+?> WowPedia link: [C_QuestLog.GetNumQuestLogEntries](https://wow.gamepedia.com/API_C_QuestLog.GetNumQuestLogEntries)
 
 No Documentation
 
@@ -212,6 +232,7 @@ No Documentation
 |numShownEntries|number|false|No Documentation|
 |numQuests|number|false|No Documentation|
 ### C_QuestLog.GetNumQuestObjectives
+?> WowPedia link: [C_QuestLog.GetNumQuestObjectives](https://wow.gamepedia.com/API_C_QuestLog.GetNumQuestObjectives)
 
 No Documentation
 
@@ -224,6 +245,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |leaderboardCount|number|false|No Documentation|
 ### C_QuestLog.GetNumQuestWatches
+?> WowPedia link: [C_QuestLog.GetNumQuestWatches](https://wow.gamepedia.com/API_C_QuestLog.GetNumQuestWatches)
 
 No Documentation
 
@@ -232,6 +254,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numQuestWatches|number|false|No Documentation|
 ### C_QuestLog.GetNumWorldQuestWatches
+?> WowPedia link: [C_QuestLog.GetNumWorldQuestWatches](https://wow.gamepedia.com/API_C_QuestLog.GetNumWorldQuestWatches)
 
 No Documentation
 
@@ -240,6 +263,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numQuestWatches|number|false|No Documentation|
 ### C_QuestLog.GetQuestAdditionalHighlights
+?> WowPedia link: [C_QuestLog.GetQuestAdditionalHighlights](https://wow.gamepedia.com/API_C_QuestLog.GetQuestAdditionalHighlights)
 
 No Documentation
 
@@ -256,6 +280,7 @@ No Documentation
 |dungeons|bool|false|No Documentation|
 |treasures|bool|false|No Documentation|
 ### C_QuestLog.GetQuestDetailsTheme
+?> WowPedia link: [C_QuestLog.GetQuestDetailsTheme](https://wow.gamepedia.com/API_C_QuestLog.GetQuestDetailsTheme)
 
 No Documentation
 
@@ -268,6 +293,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |theme|QuestTheme|true|No Documentation|
 ### C_QuestLog.GetQuestDifficultyLevel
+?> WowPedia link: [C_QuestLog.GetQuestDifficultyLevel](https://wow.gamepedia.com/API_C_QuestLog.GetQuestDifficultyLevel)
 
 No Documentation
 
@@ -280,6 +306,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |level|number|false|No Documentation|
 ### C_QuestLog.GetQuestIDForLogIndex
+?> WowPedia link: [C_QuestLog.GetQuestIDForLogIndex](https://wow.gamepedia.com/API_C_QuestLog.GetQuestIDForLogIndex)
 
 Only returns a questID for actual quests, not headers
 #### Arguments
@@ -291,6 +318,7 @@ Only returns a questID for actual quests, not headers
 |:---:|:---:|:---:|:---|
 |questID|number|true|No Documentation|
 ### C_QuestLog.GetQuestIDForQuestWatchIndex
+?> WowPedia link: [C_QuestLog.GetQuestIDForQuestWatchIndex](https://wow.gamepedia.com/API_C_QuestLog.GetQuestIDForQuestWatchIndex)
 
 No Documentation
 
@@ -303,6 +331,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |questID|number|true|No Documentation|
 ### C_QuestLog.GetQuestIDForWorldQuestWatchIndex
+?> WowPedia link: [C_QuestLog.GetQuestIDForWorldQuestWatchIndex](https://wow.gamepedia.com/API_C_QuestLog.GetQuestIDForWorldQuestWatchIndex)
 
 No Documentation
 
@@ -315,6 +344,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |questID|number|true|No Documentation|
 ### C_QuestLog.GetQuestObjectives
+?> WowPedia link: [C_QuestLog.GetQuestObjectives](https://wow.gamepedia.com/API_C_QuestLog.GetQuestObjectives)
 
 No Documentation
 
@@ -327,6 +357,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |objectives|table|false|No Documentation|
 ### C_QuestLog.GetQuestTagInfo
+?> WowPedia link: [C_QuestLog.GetQuestTagInfo](https://wow.gamepedia.com/API_C_QuestLog.GetQuestTagInfo)
 
 No Documentation
 
@@ -339,6 +370,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|QuestTagInfo|true|No Documentation|
 ### C_QuestLog.GetQuestWatchType
+?> WowPedia link: [C_QuestLog.GetQuestWatchType](https://wow.gamepedia.com/API_C_QuestLog.GetQuestWatchType)
 
 No Documentation
 
@@ -351,6 +383,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |watchType|QuestWatchType|true|No Documentation|
 ### C_QuestLog.GetQuestsOnMap
+?> WowPedia link: [C_QuestLog.GetQuestsOnMap](https://wow.gamepedia.com/API_C_QuestLog.GetQuestsOnMap)
 
 No Documentation
 
@@ -363,6 +396,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |quests|table|false|No Documentation|
 ### C_QuestLog.GetRequiredMoney
+?> WowPedia link: [C_QuestLog.GetRequiredMoney](https://wow.gamepedia.com/API_C_QuestLog.GetRequiredMoney)
 
 Uses the selected quest if no questID is provided
 #### Arguments
@@ -374,6 +408,7 @@ Uses the selected quest if no questID is provided
 |:---:|:---:|:---:|:---|
 |requiredMoney|number|false|No Documentation|
 ### C_QuestLog.GetSelectedQuest
+?> WowPedia link: [C_QuestLog.GetSelectedQuest](https://wow.gamepedia.com/API_C_QuestLog.GetSelectedQuest)
 
 No Documentation
 
@@ -382,6 +417,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |questID|number|false|No Documentation|
 ### C_QuestLog.GetSuggestedGroupSize
+?> WowPedia link: [C_QuestLog.GetSuggestedGroupSize](https://wow.gamepedia.com/API_C_QuestLog.GetSuggestedGroupSize)
 
 No Documentation
 
@@ -394,6 +430,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |suggestedGroupSize|number|false|No Documentation|
 ### C_QuestLog.GetTimeAllowed
+?> WowPedia link: [C_QuestLog.GetTimeAllowed](https://wow.gamepedia.com/API_C_QuestLog.GetTimeAllowed)
 
 No Documentation
 
@@ -407,6 +444,7 @@ No Documentation
 |totalTime|number|false|No Documentation|
 |elapsedTime|number|false|No Documentation|
 ### C_QuestLog.GetTitleForLogIndex
+?> WowPedia link: [C_QuestLog.GetTitleForLogIndex](https://wow.gamepedia.com/API_C_QuestLog.GetTitleForLogIndex)
 
 Returns a valid title for anything that is in the quest log.
 #### Arguments
@@ -418,6 +456,7 @@ Returns a valid title for anything that is in the quest log.
 |:---:|:---:|:---:|:---|
 |title|string|true|No Documentation|
 ### C_QuestLog.GetTitleForQuestID
+?> WowPedia link: [C_QuestLog.GetTitleForQuestID](https://wow.gamepedia.com/API_C_QuestLog.GetTitleForQuestID)
 
 Only returns a valid title for quests, header titles cannot be discovered using this.
 #### Arguments
@@ -429,6 +468,7 @@ Only returns a valid title for quests, header titles cannot be discovered using 
 |:---:|:---:|:---:|:---|
 |title|string|true|No Documentation|
 ### C_QuestLog.GetZoneStoryInfo
+?> WowPedia link: [C_QuestLog.GetZoneStoryInfo](https://wow.gamepedia.com/API_C_QuestLog.GetZoneStoryInfo)
 
 No Documentation
 
@@ -442,6 +482,7 @@ No Documentation
 |achievementID|number|false|No Documentation|
 |storyMapID|number|false|No Documentation|
 ### C_QuestLog.HasActiveThreats
+?> WowPedia link: [C_QuestLog.HasActiveThreats](https://wow.gamepedia.com/API_C_QuestLog.HasActiveThreats)
 
 No Documentation
 
@@ -450,6 +491,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasActiveThreats|bool|false|No Documentation|
 ### C_QuestLog.IsAccountQuest
+?> WowPedia link: [C_QuestLog.IsAccountQuest](https://wow.gamepedia.com/API_C_QuestLog.IsAccountQuest)
 
 No Documentation
 
@@ -462,6 +504,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isAccountQuest|bool|false|No Documentation|
 ### C_QuestLog.IsComplete
+?> WowPedia link: [C_QuestLog.IsComplete](https://wow.gamepedia.com/API_C_QuestLog.IsComplete)
 
 No Documentation
 
@@ -474,6 +517,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isComplete|bool|false|No Documentation|
 ### C_QuestLog.IsFailed
+?> WowPedia link: [C_QuestLog.IsFailed](https://wow.gamepedia.com/API_C_QuestLog.IsFailed)
 
 No Documentation
 
@@ -486,6 +530,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isFailed|bool|false|No Documentation|
 ### C_QuestLog.IsLegendaryQuest
+?> WowPedia link: [C_QuestLog.IsLegendaryQuest](https://wow.gamepedia.com/API_C_QuestLog.IsLegendaryQuest)
 
 No Documentation
 
@@ -498,6 +543,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isLegendaryQuest|bool|false|No Documentation|
 ### C_QuestLog.IsOnMap
+?> WowPedia link: [C_QuestLog.IsOnMap](https://wow.gamepedia.com/API_C_QuestLog.IsOnMap)
 
 No Documentation
 
@@ -511,6 +557,7 @@ No Documentation
 |onMap|bool|false|No Documentation|
 |hasLocalPOI|bool|false|No Documentation|
 ### C_QuestLog.IsOnQuest
+?> WowPedia link: [C_QuestLog.IsOnQuest](https://wow.gamepedia.com/API_C_QuestLog.IsOnQuest)
 
 No Documentation
 
@@ -523,6 +570,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isOnQuest|bool|false|No Documentation|
 ### C_QuestLog.IsPushableQuest
+?> WowPedia link: [C_QuestLog.IsPushableQuest](https://wow.gamepedia.com/API_C_QuestLog.IsPushableQuest)
 
 No Documentation
 
@@ -535,6 +583,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isPushable|bool|false|No Documentation|
 ### C_QuestLog.IsQuestBounty
+?> WowPedia link: [C_QuestLog.IsQuestBounty](https://wow.gamepedia.com/API_C_QuestLog.IsQuestBounty)
 
 No Documentation
 
@@ -547,6 +596,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isBounty|bool|false|No Documentation|
 ### C_QuestLog.IsQuestCalling
+?> WowPedia link: [C_QuestLog.IsQuestCalling](https://wow.gamepedia.com/API_C_QuestLog.IsQuestCalling)
 
 No Documentation
 
@@ -559,6 +609,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isCalling|bool|false|No Documentation|
 ### C_QuestLog.IsQuestCriteriaForBounty
+?> WowPedia link: [C_QuestLog.IsQuestCriteriaForBounty](https://wow.gamepedia.com/API_C_QuestLog.IsQuestCriteriaForBounty)
 
 No Documentation
 
@@ -572,6 +623,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isCriteriaForBounty|bool|false|No Documentation|
 ### C_QuestLog.IsQuestDisabledForSession
+?> WowPedia link: [C_QuestLog.IsQuestDisabledForSession](https://wow.gamepedia.com/API_C_QuestLog.IsQuestDisabledForSession)
 
 No Documentation
 
@@ -584,6 +636,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isDisabled|bool|false|No Documentation|
 ### C_QuestLog.IsQuestFlaggedCompleted
+?> WowPedia link: [C_QuestLog.IsQuestFlaggedCompleted](https://wow.gamepedia.com/API_C_QuestLog.IsQuestFlaggedCompleted)
 
 No Documentation
 
@@ -596,6 +649,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isCompleted|bool|false|No Documentation|
 ### C_QuestLog.IsQuestInvasion
+?> WowPedia link: [C_QuestLog.IsQuestInvasion](https://wow.gamepedia.com/API_C_QuestLog.IsQuestInvasion)
 
 No Documentation
 
@@ -608,6 +662,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isInvasion|bool|false|No Documentation|
 ### C_QuestLog.IsQuestReplayable
+?> WowPedia link: [C_QuestLog.IsQuestReplayable](https://wow.gamepedia.com/API_C_QuestLog.IsQuestReplayable)
 
 No Documentation
 
@@ -620,6 +675,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isReplayable|bool|false|No Documentation|
 ### C_QuestLog.IsQuestReplayedRecently
+?> WowPedia link: [C_QuestLog.IsQuestReplayedRecently](https://wow.gamepedia.com/API_C_QuestLog.IsQuestReplayedRecently)
 
 No Documentation
 
@@ -632,6 +688,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |recentlyReplayed|bool|false|No Documentation|
 ### C_QuestLog.IsQuestTask
+?> WowPedia link: [C_QuestLog.IsQuestTask](https://wow.gamepedia.com/API_C_QuestLog.IsQuestTask)
 
 No Documentation
 
@@ -644,6 +701,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isTask|bool|false|No Documentation|
 ### C_QuestLog.IsQuestTrivial
+?> WowPedia link: [C_QuestLog.IsQuestTrivial](https://wow.gamepedia.com/API_C_QuestLog.IsQuestTrivial)
 
 No Documentation
 
@@ -656,6 +714,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isTrivial|bool|false|No Documentation|
 ### C_QuestLog.IsRepeatableQuest
+?> WowPedia link: [C_QuestLog.IsRepeatableQuest](https://wow.gamepedia.com/API_C_QuestLog.IsRepeatableQuest)
 
 No Documentation
 
@@ -668,6 +727,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isRepeatable|bool|false|No Documentation|
 ### C_QuestLog.IsThreatQuest
+?> WowPedia link: [C_QuestLog.IsThreatQuest](https://wow.gamepedia.com/API_C_QuestLog.IsThreatQuest)
 
 No Documentation
 
@@ -680,6 +740,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isThreat|bool|false|No Documentation|
 ### C_QuestLog.IsUnitOnQuest
+?> WowPedia link: [C_QuestLog.IsUnitOnQuest](https://wow.gamepedia.com/API_C_QuestLog.IsUnitOnQuest)
 
 No Documentation
 
@@ -693,6 +754,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isOnQuest|bool|false|No Documentation|
 ### C_QuestLog.IsWorldQuest
+?> WowPedia link: [C_QuestLog.IsWorldQuest](https://wow.gamepedia.com/API_C_QuestLog.IsWorldQuest)
 
 No Documentation
 
@@ -705,6 +767,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isWorldQuest|bool|false|No Documentation|
 ### C_QuestLog.QuestCanHaveWarModeBonus
+?> WowPedia link: [C_QuestLog.QuestCanHaveWarModeBonus](https://wow.gamepedia.com/API_C_QuestLog.QuestCanHaveWarModeBonus)
 
 Tests whether a quest is eligible for warmode bonuses (e.g. most world quests, some daily quests
 #### Arguments
@@ -716,6 +779,7 @@ Tests whether a quest is eligible for warmode bonuses (e.g. most world quests, s
 |:---:|:---:|:---:|:---|
 |hasBonus|bool|false|No Documentation|
 ### C_QuestLog.QuestHasQuestSessionBonus
+?> WowPedia link: [C_QuestLog.QuestHasQuestSessionBonus](https://wow.gamepedia.com/API_C_QuestLog.QuestHasQuestSessionBonus)
 
 No Documentation
 
@@ -728,6 +792,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasBonus|bool|false|No Documentation|
 ### C_QuestLog.QuestHasWarModeBonus
+?> WowPedia link: [C_QuestLog.QuestHasWarModeBonus](https://wow.gamepedia.com/API_C_QuestLog.QuestHasWarModeBonus)
 
 Tests whether a quest in the player's quest log that is eligible for warmode bonuses (see 'QuestCanHaveWarModeBOnus') has been completed in warmode (including accepting it)
 #### Arguments
@@ -739,6 +804,7 @@ Tests whether a quest in the player's quest log that is eligible for warmode bon
 |:---:|:---:|:---:|:---|
 |hasBonus|bool|false|No Documentation|
 ### C_QuestLog.ReadyForTurnIn
+?> WowPedia link: [C_QuestLog.ReadyForTurnIn](https://wow.gamepedia.com/API_C_QuestLog.ReadyForTurnIn)
 
 No Documentation
 
@@ -751,6 +817,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |readyForTurnIn|bool|true|No Documentation|
 ### C_QuestLog.RemoveQuestWatch
+?> WowPedia link: [C_QuestLog.RemoveQuestWatch](https://wow.gamepedia.com/API_C_QuestLog.RemoveQuestWatch)
 
 No Documentation
 
@@ -763,6 +830,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |wasRemoved|bool|false|No Documentation|
 ### C_QuestLog.RemoveWorldQuestWatch
+?> WowPedia link: [C_QuestLog.RemoveWorldQuestWatch](https://wow.gamepedia.com/API_C_QuestLog.RemoveWorldQuestWatch)
 
 No Documentation
 
@@ -775,6 +843,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |wasRemoved|bool|false|No Documentation|
 ### C_QuestLog.RequestLoadQuestByID
+?> WowPedia link: [C_QuestLog.RequestLoadQuestByID](https://wow.gamepedia.com/API_C_QuestLog.RequestLoadQuestByID)
 
 No Documentation
 
@@ -783,10 +852,12 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |questID|number|false|No Documentation|
 ### C_QuestLog.SetAbandonQuest
+?> WowPedia link: [C_QuestLog.SetAbandonQuest](https://wow.gamepedia.com/API_C_QuestLog.SetAbandonQuest)
 
 No Documentation
 
 ### C_QuestLog.SetMapForQuestPOIs
+?> WowPedia link: [C_QuestLog.SetMapForQuestPOIs](https://wow.gamepedia.com/API_C_QuestLog.SetMapForQuestPOIs)
 
 No Documentation
 
@@ -795,6 +866,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |uiMapID|number|false|No Documentation|
 ### C_QuestLog.SetSelectedQuest
+?> WowPedia link: [C_QuestLog.SetSelectedQuest](https://wow.gamepedia.com/API_C_QuestLog.SetSelectedQuest)
 
 No Documentation
 
@@ -803,6 +875,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |questID|number|false|No Documentation|
 ### C_QuestLog.ShouldShowQuestRewards
+?> WowPedia link: [C_QuestLog.ShouldShowQuestRewards](https://wow.gamepedia.com/API_C_QuestLog.ShouldShowQuestRewards)
 
 No Documentation
 
@@ -815,6 +888,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |shouldShow|bool|false|No Documentation|
 ### C_QuestLog.SortQuestWatches
+?> WowPedia link: [C_QuestLog.SortQuestWatches](https://wow.gamepedia.com/API_C_QuestLog.SortQuestWatches)
 
 No Documentation
 

@@ -5,6 +5,7 @@ Type: System / Namespace: C_CampaignInfo
 ## Functions
 
 ### C_CampaignInfo.GetAvailableCampaigns
+?> WowPedia link: [C_CampaignInfo.GetAvailableCampaigns](https://wow.gamepedia.com/API_C_CampaignInfo.GetAvailableCampaigns)
 
 No Documentation
 
@@ -13,6 +14,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |campaignIDs|table|false|No Documentation|
 ### C_CampaignInfo.GetCampaignChapterInfo
+?> WowPedia link: [C_CampaignInfo.GetCampaignChapterInfo](https://wow.gamepedia.com/API_C_CampaignInfo.GetCampaignChapterInfo)
 
 No Documentation
 
@@ -25,6 +27,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |campaignChapterInfo|CampaignChapterInfo|true|No Documentation|
 ### C_CampaignInfo.GetCampaignID
+?> WowPedia link: [C_CampaignInfo.GetCampaignID](https://wow.gamepedia.com/API_C_CampaignInfo.GetCampaignID)
 
 No Documentation
 
@@ -37,6 +40,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |campaignID|number|false|No Documentation|
 ### C_CampaignInfo.GetCampaignInfo
+?> WowPedia link: [C_CampaignInfo.GetCampaignInfo](https://wow.gamepedia.com/API_C_CampaignInfo.GetCampaignInfo)
 
 No Documentation
 
@@ -49,6 +53,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |campaignInfo|CampaignInfo|true|No Documentation|
 ### C_CampaignInfo.GetChapterIDs
+?> WowPedia link: [C_CampaignInfo.GetChapterIDs](https://wow.gamepedia.com/API_C_CampaignInfo.GetChapterIDs)
 
 No Documentation
 
@@ -61,6 +66,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |chapterIDs|table|true|No Documentation|
 ### C_CampaignInfo.GetCurrentChapterID
+?> WowPedia link: [C_CampaignInfo.GetCurrentChapterID](https://wow.gamepedia.com/API_C_CampaignInfo.GetCurrentChapterID)
 
 No Documentation
 
@@ -73,6 +79,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |currentChapterID|number|true|No Documentation|
 ### C_CampaignInfo.GetFailureReason
+?> WowPedia link: [C_CampaignInfo.GetFailureReason](https://wow.gamepedia.com/API_C_CampaignInfo.GetFailureReason)
 
 No Documentation
 
@@ -85,6 +92,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |failureReason|CampaignFailureReason|true|No Documentation|
 ### C_CampaignInfo.GetState
+?> WowPedia link: [C_CampaignInfo.GetState](https://wow.gamepedia.com/API_C_CampaignInfo.GetState)
 
 No Documentation
 
@@ -97,6 +105,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |state|CampaignState|false|No Documentation|
 ### C_CampaignInfo.IsCampaignQuest
+?> WowPedia link: [C_CampaignInfo.IsCampaignQuest](https://wow.gamepedia.com/API_C_CampaignInfo.IsCampaignQuest)
 
 No Documentation
 
@@ -109,6 +118,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isCampaignQuest|bool|false|No Documentation|
 ### C_CampaignInfo.UsesNormalQuestIcons
+?> WowPedia link: [C_CampaignInfo.UsesNormalQuestIcons](https://wow.gamepedia.com/API_C_CampaignInfo.UsesNormalQuestIcons)
 
 No Documentation
 

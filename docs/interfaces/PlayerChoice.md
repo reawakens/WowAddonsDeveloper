@@ -5,6 +5,7 @@ Type: System / Namespace: C_PlayerChoice
 ## Functions
 
 ### C_PlayerChoice.GetPlayerChoiceInfo
+?> WowPedia link: [C_PlayerChoice.GetPlayerChoiceInfo](https://wow.gamepedia.com/API_C_PlayerChoice.GetPlayerChoiceInfo)
 
 No Documentation
 
@@ -13,6 +14,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |choiceInfo|PlayerChoiceInfo|false|No Documentation|
 ### C_PlayerChoice.GetPlayerChoiceOptionInfo
+?> WowPedia link: [C_PlayerChoice.GetPlayerChoiceOptionInfo](https://wow.gamepedia.com/API_C_PlayerChoice.GetPlayerChoiceOptionInfo)
 
 No Documentation
 
@@ -25,6 +27,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|PlayerChoiceOptionInfo|false|No Documentation|
 ### C_PlayerChoice.GetPlayerChoiceRewardInfo
+?> WowPedia link: [C_PlayerChoice.GetPlayerChoiceRewardInfo](https://wow.gamepedia.com/API_C_PlayerChoice.GetPlayerChoiceRewardInfo)
 
 No Documentation
 
@@ -37,6 +40,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |rewardInfo|PlayerChoiceRewardInfo|false|No Documentation|
 ### C_PlayerChoice.IsWaitingForPlayerChoiceResponse
+?> WowPedia link: [C_PlayerChoice.IsWaitingForPlayerChoiceResponse](https://wow.gamepedia.com/API_C_PlayerChoice.IsWaitingForPlayerChoiceResponse)
 
 No Documentation
 

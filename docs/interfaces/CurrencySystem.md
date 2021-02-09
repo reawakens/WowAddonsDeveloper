@@ -5,6 +5,7 @@ Type: System / Namespace: C_CurrencyInfo
 ## Functions
 
 ### C_CurrencyInfo.DoesWarModeBonusApply
+?> WowPedia link: [C_CurrencyInfo.DoesWarModeBonusApply](https://wow.gamepedia.com/API_C_CurrencyInfo.DoesWarModeBonusApply)
 
 No Documentation
 
@@ -18,6 +19,7 @@ No Documentation
 |warModeApplies|bool|true|No Documentation|
 |limitOncePerTooltip|bool|true|No Documentation|
 ### C_CurrencyInfo.ExpandCurrencyList
+?> WowPedia link: [C_CurrencyInfo.ExpandCurrencyList](https://wow.gamepedia.com/API_C_CurrencyInfo.ExpandCurrencyList)
 
 No Documentation
 
@@ -27,6 +29,7 @@ No Documentation
 |index|number|false|No Documentation|
 |expand|bool|false|No Documentation|
 ### C_CurrencyInfo.GetAzeriteCurrencyID
+?> WowPedia link: [C_CurrencyInfo.GetAzeriteCurrencyID](https://wow.gamepedia.com/API_C_CurrencyInfo.GetAzeriteCurrencyID)
 
 No Documentation
 
@@ -35,6 +38,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |azeriteCurrencyID|number|false|No Documentation|
 ### C_CurrencyInfo.GetBackpackCurrencyInfo
+?> WowPedia link: [C_CurrencyInfo.GetBackpackCurrencyInfo](https://wow.gamepedia.com/API_C_CurrencyInfo.GetBackpackCurrencyInfo)
 
 No Documentation
 
@@ -47,6 +51,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|BackpackCurrencyInfo|false|No Documentation|
 ### C_CurrencyInfo.GetBasicCurrencyInfo
+?> WowPedia link: [C_CurrencyInfo.GetBasicCurrencyInfo](https://wow.gamepedia.com/API_C_CurrencyInfo.GetBasicCurrencyInfo)
 
 No Documentation
 
@@ -60,6 +65,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|CurrencyDisplayInfo|false|No Documentation|
 ### C_CurrencyInfo.GetCurrencyContainerInfo
+?> WowPedia link: [C_CurrencyInfo.GetCurrencyContainerInfo](https://wow.gamepedia.com/API_C_CurrencyInfo.GetCurrencyContainerInfo)
 
 No Documentation
 
@@ -73,6 +79,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|CurrencyDisplayInfo|false|No Documentation|
 ### C_CurrencyInfo.GetCurrencyIDFromLink
+?> WowPedia link: [C_CurrencyInfo.GetCurrencyIDFromLink](https://wow.gamepedia.com/API_C_CurrencyInfo.GetCurrencyIDFromLink)
 
 No Documentation
 
@@ -85,6 +92,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |currencyID|number|false|No Documentation|
 ### C_CurrencyInfo.GetCurrencyInfo
+?> WowPedia link: [C_CurrencyInfo.GetCurrencyInfo](https://wow.gamepedia.com/API_C_CurrencyInfo.GetCurrencyInfo)
 
 No Documentation
 
@@ -97,6 +105,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|CurrencyInfo|false|No Documentation|
 ### C_CurrencyInfo.GetCurrencyInfoFromLink
+?> WowPedia link: [C_CurrencyInfo.GetCurrencyInfoFromLink](https://wow.gamepedia.com/API_C_CurrencyInfo.GetCurrencyInfoFromLink)
 
 No Documentation
 
@@ -109,6 +118,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|CurrencyInfo|false|No Documentation|
 ### C_CurrencyInfo.GetCurrencyLink
+?> WowPedia link: [C_CurrencyInfo.GetCurrencyLink](https://wow.gamepedia.com/API_C_CurrencyInfo.GetCurrencyLink)
 
 No Documentation
 
@@ -122,6 +132,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |link|string|false|No Documentation|
 ### C_CurrencyInfo.GetCurrencyListInfo
+?> WowPedia link: [C_CurrencyInfo.GetCurrencyListInfo](https://wow.gamepedia.com/API_C_CurrencyInfo.GetCurrencyListInfo)
 
 No Documentation
 
@@ -134,6 +145,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|CurrencyInfo|false|No Documentation|
 ### C_CurrencyInfo.GetCurrencyListLink
+?> WowPedia link: [C_CurrencyInfo.GetCurrencyListLink](https://wow.gamepedia.com/API_C_CurrencyInfo.GetCurrencyListLink)
 
 No Documentation
 
@@ -146,6 +158,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |link|string|false|No Documentation|
 ### C_CurrencyInfo.GetCurrencyListSize
+?> WowPedia link: [C_CurrencyInfo.GetCurrencyListSize](https://wow.gamepedia.com/API_C_CurrencyInfo.GetCurrencyListSize)
 
 No Documentation
 
@@ -154,6 +167,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |currencyListSize|number|false|No Documentation|
 ### C_CurrencyInfo.GetFactionGrantedByCurrency
+?> WowPedia link: [C_CurrencyInfo.GetFactionGrantedByCurrency](https://wow.gamepedia.com/API_C_CurrencyInfo.GetFactionGrantedByCurrency)
 
 Gets the faction ID for currency that is immediately converted into reputation with that faction instead.
 #### Arguments
@@ -165,6 +179,7 @@ Gets the faction ID for currency that is immediately converted into reputation w
 |:---:|:---:|:---:|:---|
 |factionID|number|true|No Documentation|
 ### C_CurrencyInfo.GetWarResourcesCurrencyID
+?> WowPedia link: [C_CurrencyInfo.GetWarResourcesCurrencyID](https://wow.gamepedia.com/API_C_CurrencyInfo.GetWarResourcesCurrencyID)
 
 No Documentation
 
@@ -173,6 +188,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |warResourceCurrencyID|number|false|No Documentation|
 ### C_CurrencyInfo.IsCurrencyContainer
+?> WowPedia link: [C_CurrencyInfo.IsCurrencyContainer](https://wow.gamepedia.com/API_C_CurrencyInfo.IsCurrencyContainer)
 
 No Documentation
 
@@ -186,6 +202,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isCurrencyContainer|bool|false|No Documentation|
 ### C_CurrencyInfo.PickupCurrency
+?> WowPedia link: [C_CurrencyInfo.PickupCurrency](https://wow.gamepedia.com/API_C_CurrencyInfo.PickupCurrency)
 
 No Documentation
 
@@ -194,6 +211,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |type|number|false|No Documentation|
 ### C_CurrencyInfo.SetCurrencyBackpack
+?> WowPedia link: [C_CurrencyInfo.SetCurrencyBackpack](https://wow.gamepedia.com/API_C_CurrencyInfo.SetCurrencyBackpack)
 
 No Documentation
 
@@ -203,6 +221,7 @@ No Documentation
 |index|number|false|No Documentation|
 |backpack|bool|false|No Documentation|
 ### C_CurrencyInfo.SetCurrencyUnused
+?> WowPedia link: [C_CurrencyInfo.SetCurrencyUnused](https://wow.gamepedia.com/API_C_CurrencyInfo.SetCurrencyUnused)
 
 No Documentation
 

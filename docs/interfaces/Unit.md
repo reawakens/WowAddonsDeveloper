@@ -5,6 +5,7 @@ Type: System / Namespace: None
 ## Functions
 
 ### GetNegativeCorruptionEffectInfo
+?> WowPedia link: [GetNegativeCorruptionEffectInfo](https://wow.gamepedia.com/API_GetNegativeCorruptionEffectInfo)
 
 No Documentation
 
@@ -13,6 +14,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |corruptionEffects|table|false|No Documentation|
 ### GetUnitChargedPowerPoints
+?> WowPedia link: [GetUnitChargedPowerPoints](https://wow.gamepedia.com/API_GetUnitChargedPowerPoints)
 
 No Documentation
 
@@ -25,6 +27,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |pointIndices|table|false|No Documentation|
 ### GetUnitPowerBarInfo
+?> WowPedia link: [GetUnitPowerBarInfo](https://wow.gamepedia.com/API_GetUnitPowerBarInfo)
 
 No Documentation
 
@@ -37,6 +40,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|UnitPowerBarInfo|false|No Documentation|
 ### GetUnitPowerBarInfoByID
+?> WowPedia link: [GetUnitPowerBarInfoByID](https://wow.gamepedia.com/API_GetUnitPowerBarInfoByID)
 
 No Documentation
 
@@ -49,6 +53,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|UnitPowerBarInfo|false|No Documentation|
 ### GetUnitPowerBarStrings
+?> WowPedia link: [GetUnitPowerBarStrings](https://wow.gamepedia.com/API_GetUnitPowerBarStrings)
 
 No Documentation
 
@@ -63,6 +68,7 @@ No Documentation
 |tooltip|string|true|No Documentation|
 |cost|string|true|No Documentation|
 ### GetUnitPowerBarStringsByID
+?> WowPedia link: [GetUnitPowerBarStringsByID](https://wow.gamepedia.com/API_GetUnitPowerBarStringsByID)
 
 No Documentation
 
@@ -77,6 +83,7 @@ No Documentation
 |tooltip|string|true|No Documentation|
 |cost|string|true|No Documentation|
 ### GetUnitPowerBarTextureInfo
+?> WowPedia link: [GetUnitPowerBarTextureInfo](https://wow.gamepedia.com/API_GetUnitPowerBarTextureInfo)
 
 No Documentation
 
@@ -95,6 +102,7 @@ No Documentation
 |colorB|number|false|No Documentation|
 |colorA|number|false|No Documentation|
 ### GetUnitPowerBarTextureInfoByID
+?> WowPedia link: [GetUnitPowerBarTextureInfoByID](https://wow.gamepedia.com/API_GetUnitPowerBarTextureInfoByID)
 
 No Documentation
 
@@ -112,6 +120,7 @@ No Documentation
 |colorB|number|false|No Documentation|
 |colorA|number|false|No Documentation|
 ### IsUnitModelReadyForUI
+?> WowPedia link: [IsUnitModelReadyForUI](https://wow.gamepedia.com/API_IsUnitModelReadyForUI)
 
 No Documentation
 
@@ -124,6 +133,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isReady|bool|false|No Documentation|
 ### PlayerVehicleHasComboPoints
+?> WowPedia link: [PlayerVehicleHasComboPoints](https://wow.gamepedia.com/API_PlayerVehicleHasComboPoints)
 
 No Documentation
 
@@ -132,6 +142,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |vehicleHasComboPoints|bool|false|No Documentation|
 ### SetPortraitTexture
+?> WowPedia link: [SetPortraitTexture](https://wow.gamepedia.com/API_SetPortraitTexture)
 
 No Documentation
 
@@ -141,6 +152,7 @@ No Documentation
 |textureObject|table|false|No Documentation|
 |unitToken|string|false|No Documentation|
 ### SetPortraitTextureFromCreatureDisplayID
+?> WowPedia link: [SetPortraitTextureFromCreatureDisplayID](https://wow.gamepedia.com/API_SetPortraitTextureFromCreatureDisplayID)
 
 No Documentation
 
@@ -150,6 +162,7 @@ No Documentation
 |textureObject|table|false|No Documentation|
 |creatureDisplayID|number|false|No Documentation|
 ### UnitAlliedRaceInfo
+?> WowPedia link: [UnitAlliedRaceInfo](https://wow.gamepedia.com/API_UnitAlliedRaceInfo)
 
 No Documentation
 
@@ -163,6 +176,7 @@ No Documentation
 |isAlliedRace|bool|false|No Documentation|
 |hasHeritageArmorUnlocked|bool|false|No Documentation|
 ### UnitChromieTimeID
+?> WowPedia link: [UnitChromieTimeID](https://wow.gamepedia.com/API_UnitChromieTimeID)
 
 No Documentation
 
@@ -175,6 +189,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |ID|number|false|No Documentation|
 ### UnitClass
+?> WowPedia link: [UnitClass](https://wow.gamepedia.com/API_UnitClass)
 
 No Documentation
 
@@ -189,6 +204,7 @@ No Documentation
 |classFilename|string|false|No Documentation|
 |classID|number|false|No Documentation|
 ### UnitClassBase
+?> WowPedia link: [UnitClassBase](https://wow.gamepedia.com/API_UnitClassBase)
 
 No Documentation
 
@@ -202,6 +218,7 @@ No Documentation
 |classFilename|string|false|No Documentation|
 |classID|number|false|No Documentation|
 ### UnitInPartyShard
+?> WowPedia link: [UnitInPartyShard](https://wow.gamepedia.com/API_UnitInPartyShard)
 
 No Documentation
 
@@ -214,6 +231,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |inPartyShard|bool|false|No Documentation|
 ### UnitIsConnected
+?> WowPedia link: [UnitIsConnected](https://wow.gamepedia.com/API_UnitIsConnected)
 
 No Documentation
 
@@ -226,6 +244,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isConnected|bool|false|No Documentation|
 ### UnitIsOwnerOrControllerOfUnit
+?> WowPedia link: [UnitIsOwnerOrControllerOfUnit](https://wow.gamepedia.com/API_UnitIsOwnerOrControllerOfUnit)
 
 No Documentation
 
@@ -239,6 +258,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |unitIsOwnerOrControllerOfUnit|bool|false|No Documentation|
 ### UnitNameplateShowsWidgetsOnly
+?> WowPedia link: [UnitNameplateShowsWidgetsOnly](https://wow.gamepedia.com/API_UnitNameplateShowsWidgetsOnly)
 
 No Documentation
 
@@ -251,6 +271,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |nameplateShowsWidgetsOnly|bool|false|No Documentation|
 ### UnitPhaseReason
+?> WowPedia link: [UnitPhaseReason](https://wow.gamepedia.com/API_UnitPhaseReason)
 
 No Documentation
 
@@ -263,6 +284,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |reason|PhaseReason|true|No Documentation|
 ### UnitPower
+?> WowPedia link: [UnitPower](https://wow.gamepedia.com/API_UnitPower)
 
 No Documentation
 
@@ -277,6 +299,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |power|number|false|No Documentation|
 ### UnitPowerBarID
+?> WowPedia link: [UnitPowerBarID](https://wow.gamepedia.com/API_UnitPowerBarID)
 
 No Documentation
 
@@ -289,6 +312,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |barID|number|false|No Documentation|
 ### UnitPowerDisplayMod
+?> WowPedia link: [UnitPowerDisplayMod](https://wow.gamepedia.com/API_UnitPowerDisplayMod)
 
 No Documentation
 
@@ -301,6 +325,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |displayMod|number|false|No Documentation|
 ### UnitPowerMax
+?> WowPedia link: [UnitPowerMax](https://wow.gamepedia.com/API_UnitPowerMax)
 
 No Documentation
 
@@ -315,6 +340,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |maxPower|number|false|No Documentation|
 ### UnitPvpClassification
+?> WowPedia link: [UnitPvpClassification](https://wow.gamepedia.com/API_UnitPvpClassification)
 
 No Documentation
 
@@ -327,6 +353,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |classification|PvPUnitClassification|true|No Documentation|
 ### UnitQuestTrivialLevelRange
+?> WowPedia link: [UnitQuestTrivialLevelRange](https://wow.gamepedia.com/API_UnitQuestTrivialLevelRange)
 
 No Documentation
 
@@ -339,6 +366,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |levelRange|number|false|No Documentation|
 ### UnitQuestTrivialLevelRangeScaling
+?> WowPedia link: [UnitQuestTrivialLevelRangeScaling](https://wow.gamepedia.com/API_UnitQuestTrivialLevelRangeScaling)
 
 No Documentation
 
@@ -351,6 +379,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |levelRange|number|false|No Documentation|
 ### UnitSex
+?> WowPedia link: [UnitSex](https://wow.gamepedia.com/API_UnitSex)
 
 No Documentation
 
@@ -363,6 +392,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |sex|number|true|No Documentation|
 ### UnitTreatAsPlayerForDisplay
+?> WowPedia link: [UnitTreatAsPlayerForDisplay](https://wow.gamepedia.com/API_UnitTreatAsPlayerForDisplay)
 
 No Documentation
 
@@ -375,6 +405,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |treatAsPlayer|bool|false|No Documentation|
 ### UnitWidgetSet
+?> WowPedia link: [UnitWidgetSet](https://wow.gamepedia.com/API_UnitWidgetSet)
 
 No Documentation
 

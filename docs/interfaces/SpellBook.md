@@ -5,6 +5,7 @@ Type: System / Namespace: C_SpellBook
 ## Functions
 
 ### C_SpellBook.ContainsAnyDisenchantSpell
+?> WowPedia link: [C_SpellBook.ContainsAnyDisenchantSpell](https://wow.gamepedia.com/API_C_SpellBook.ContainsAnyDisenchantSpell)
 
 No Documentation
 
@@ -13,6 +14,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |contains|bool|false|No Documentation|
 ### C_SpellBook.GetSkillLineIndexByID
+?> WowPedia link: [C_SpellBook.GetSkillLineIndexByID](https://wow.gamepedia.com/API_C_SpellBook.GetSkillLineIndexByID)
 
 No Documentation
 
@@ -25,6 +27,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |skillIndex|number|true|No Documentation|
 ### C_SpellBook.IsSpellDisabled
+?> WowPedia link: [C_SpellBook.IsSpellDisabled](https://wow.gamepedia.com/API_C_SpellBook.IsSpellDisabled)
 
 No Documentation
 

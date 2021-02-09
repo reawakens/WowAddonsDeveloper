@@ -5,6 +5,7 @@ Type: System / Namespace: C_ClassColor
 ## Functions
 
 ### C_ClassColor.GetClassColor
+?> WowPedia link: [C_ClassColor.GetClassColor](https://wow.gamepedia.com/API_C_ClassColor.GetClassColor)
 
 No Documentation
 

@@ -5,6 +5,7 @@ Type: System / Namespace: C_Commentator
 ## Functions
 
 ### C_Commentator.AddPlayerOverrideName
+?> WowPedia link: [C_Commentator.AddPlayerOverrideName](https://wow.gamepedia.com/API_C_Commentator.AddPlayerOverrideName)
 
 No Documentation
 
@@ -14,6 +15,7 @@ No Documentation
 |playerName|string|false|No Documentation|
 |overrideName|string|false|No Documentation|
 ### C_Commentator.AddTrackedDefensiveAuras
+?> WowPedia link: [C_Commentator.AddTrackedDefensiveAuras](https://wow.gamepedia.com/API_C_Commentator.AddTrackedDefensiveAuras)
 
 No Documentation
 
@@ -22,6 +24,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |spellIDs|table|false|No Documentation|
 ### C_Commentator.AddTrackedOffensiveAuras
+?> WowPedia link: [C_Commentator.AddTrackedOffensiveAuras](https://wow.gamepedia.com/API_C_Commentator.AddTrackedOffensiveAuras)
 
 No Documentation
 
@@ -30,6 +33,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |spellIDs|table|false|No Documentation|
 ### C_Commentator.AreTeamsSwapped
+?> WowPedia link: [C_Commentator.AreTeamsSwapped](https://wow.gamepedia.com/API_C_Commentator.AreTeamsSwapped)
 
 No Documentation
 
@@ -38,6 +42,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |teamsAreSwapped|bool|false|No Documentation|
 ### C_Commentator.AssignPlayerToTeam
+?> WowPedia link: [C_Commentator.AssignPlayerToTeam](https://wow.gamepedia.com/API_C_Commentator.AssignPlayerToTeam)
 
 No Documentation
 
@@ -47,6 +52,7 @@ No Documentation
 |playerName|string|false|No Documentation|
 |teamName|string|false|No Documentation|
 ### C_Commentator.AssignPlayersToTeam
+?> WowPedia link: [C_Commentator.AssignPlayersToTeam](https://wow.gamepedia.com/API_C_Commentator.AssignPlayersToTeam)
 
 No Documentation
 
@@ -56,6 +62,7 @@ No Documentation
 |playerName|table|false|No Documentation|
 |teamName|string|false|No Documentation|
 ### C_Commentator.AssignPlayersToTeamInCurrentInstance
+?> WowPedia link: [C_Commentator.AssignPlayersToTeamInCurrentInstance](https://wow.gamepedia.com/API_C_Commentator.AssignPlayersToTeamInCurrentInstance)
 
 No Documentation
 
@@ -65,6 +72,7 @@ No Documentation
 |teamIndex|number|false|No Documentation|
 |teamName|string|false|No Documentation|
 ### C_Commentator.CanUseCommentatorCheats
+?> WowPedia link: [C_Commentator.CanUseCommentatorCheats](https://wow.gamepedia.com/API_C_Commentator.CanUseCommentatorCheats)
 
 No Documentation
 
@@ -73,14 +81,17 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canUseCommentatorCheats|bool|false|No Documentation|
 ### C_Commentator.ClearCameraTarget
+?> WowPedia link: [C_Commentator.ClearCameraTarget](https://wow.gamepedia.com/API_C_Commentator.ClearCameraTarget)
 
 No Documentation
 
 ### C_Commentator.ClearFollowTarget
+?> WowPedia link: [C_Commentator.ClearFollowTarget](https://wow.gamepedia.com/API_C_Commentator.ClearFollowTarget)
 
 No Documentation
 
 ### C_Commentator.ClearLookAtTarget
+?> WowPedia link: [C_Commentator.ClearLookAtTarget](https://wow.gamepedia.com/API_C_Commentator.ClearLookAtTarget)
 
 No Documentation
 
@@ -89,14 +100,17 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |lookAtIndex|number|true|No Documentation|
 ### C_Commentator.EnterInstance
+?> WowPedia link: [C_Commentator.EnterInstance](https://wow.gamepedia.com/API_C_Commentator.EnterInstance)
 
 No Documentation
 
 ### C_Commentator.ExitInstance
+?> WowPedia link: [C_Commentator.ExitInstance](https://wow.gamepedia.com/API_C_Commentator.ExitInstance)
 
 No Documentation
 
 ### C_Commentator.FindSpectatedUnit
+?> WowPedia link: [C_Commentator.FindSpectatedUnit](https://wow.gamepedia.com/API_C_Commentator.FindSpectatedUnit)
 
 No Documentation
 
@@ -111,6 +125,7 @@ No Documentation
 |teamIndex|number|false|No Documentation|
 |isPet|bool|false|No Documentation|
 ### C_Commentator.FindTeamNameInCurrentInstance
+?> WowPedia link: [C_Commentator.FindTeamNameInCurrentInstance](https://wow.gamepedia.com/API_C_Commentator.FindTeamNameInCurrentInstance)
 
 No Documentation
 
@@ -123,6 +138,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |teamName|string|true|No Documentation|
 ### C_Commentator.FindTeamNameInDirectory
+?> WowPedia link: [C_Commentator.FindTeamNameInDirectory](https://wow.gamepedia.com/API_C_Commentator.FindTeamNameInDirectory)
 
 No Documentation
 
@@ -135,10 +151,12 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |teamName|string|true|No Documentation|
 ### C_Commentator.FlushCommentatorHistory
+?> WowPedia link: [C_Commentator.FlushCommentatorHistory](https://wow.gamepedia.com/API_C_Commentator.FlushCommentatorHistory)
 
 No Documentation
 
 ### C_Commentator.FollowPlayer
+?> WowPedia link: [C_Commentator.FollowPlayer](https://wow.gamepedia.com/API_C_Commentator.FollowPlayer)
 
 No Documentation
 
@@ -149,6 +167,7 @@ No Documentation
 |playerIndex|number|false|No Documentation|
 |forceInstantTransition|bool|true|No Documentation|
 ### C_Commentator.FollowUnit
+?> WowPedia link: [C_Commentator.FollowUnit](https://wow.gamepedia.com/API_C_Commentator.FollowUnit)
 
 No Documentation
 
@@ -157,10 +176,12 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |token|string|false|No Documentation|
 ### C_Commentator.ForceFollowTransition
+?> WowPedia link: [C_Commentator.ForceFollowTransition](https://wow.gamepedia.com/API_C_Commentator.ForceFollowTransition)
 
 No Documentation
 
 ### C_Commentator.GetAdditionalCameraWeight
+?> WowPedia link: [C_Commentator.GetAdditionalCameraWeight](https://wow.gamepedia.com/API_C_Commentator.GetAdditionalCameraWeight)
 
 No Documentation
 
@@ -170,6 +191,7 @@ No Documentation
 |teamIndex|number|false|No Documentation|
 |playerIndex|number|false|No Documentation|
 ### C_Commentator.GetAdditionalCameraWeightByToken
+?> WowPedia link: [C_Commentator.GetAdditionalCameraWeightByToken](https://wow.gamepedia.com/API_C_Commentator.GetAdditionalCameraWeightByToken)
 
 No Documentation
 
@@ -182,6 +204,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |weight|number|false|No Documentation|
 ### C_Commentator.GetAllPlayerOverrideNames
+?> WowPedia link: [C_Commentator.GetAllPlayerOverrideNames](https://wow.gamepedia.com/API_C_Commentator.GetAllPlayerOverrideNames)
 
 No Documentation
 
@@ -190,6 +213,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |nameEntries|table|false|No Documentation|
 ### C_Commentator.GetCamera
+?> WowPedia link: [C_Commentator.GetCamera](https://wow.gamepedia.com/API_C_Commentator.GetCamera)
 
 No Documentation
 
@@ -204,6 +228,7 @@ No Documentation
 |roll|number|false|No Documentation|
 |fov|number|false|No Documentation|
 ### C_Commentator.GetCameraCollision
+?> WowPedia link: [C_Commentator.GetCameraCollision](https://wow.gamepedia.com/API_C_Commentator.GetCameraCollision)
 
 No Documentation
 
@@ -212,6 +237,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isColliding|bool|false|No Documentation|
 ### C_Commentator.GetCameraPosition
+?> WowPedia link: [C_Commentator.GetCameraPosition](https://wow.gamepedia.com/API_C_Commentator.GetCameraPosition)
 
 No Documentation
 
@@ -222,6 +248,7 @@ No Documentation
 |yPos|number|false|No Documentation|
 |zPos|number|false|No Documentation|
 ### C_Commentator.GetCommentatorHistory
+?> WowPedia link: [C_Commentator.GetCommentatorHistory](https://wow.gamepedia.com/API_C_Commentator.GetCommentatorHistory)
 
 No Documentation
 
@@ -230,6 +257,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |history|CommentatorHistory|false|No Documentation|
 ### C_Commentator.GetCurrentMapID
+?> WowPedia link: [C_Commentator.GetCurrentMapID](https://wow.gamepedia.com/API_C_Commentator.GetCurrentMapID)
 
 No Documentation
 
@@ -238,6 +266,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |mapID|number|true|No Documentation|
 ### C_Commentator.GetDampeningPercent
+?> WowPedia link: [C_Commentator.GetDampeningPercent](https://wow.gamepedia.com/API_C_Commentator.GetDampeningPercent)
 
 No Documentation
 
@@ -246,6 +275,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |percentage|number|false|No Documentation|
 ### C_Commentator.GetDistanceBeforeForcedHorizontalConvergence
+?> WowPedia link: [C_Commentator.GetDistanceBeforeForcedHorizontalConvergence](https://wow.gamepedia.com/API_C_Commentator.GetDistanceBeforeForcedHorizontalConvergence)
 
 No Documentation
 
@@ -254,6 +284,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |distance|number|false|No Documentation|
 ### C_Commentator.GetDurationToForceHorizontalConvergence
+?> WowPedia link: [C_Commentator.GetDurationToForceHorizontalConvergence](https://wow.gamepedia.com/API_C_Commentator.GetDurationToForceHorizontalConvergence)
 
 No Documentation
 
@@ -262,6 +293,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |ms|number|false|No Documentation|
 ### C_Commentator.GetExcludeDistance
+?> WowPedia link: [C_Commentator.GetExcludeDistance](https://wow.gamepedia.com/API_C_Commentator.GetExcludeDistance)
 
 No Documentation
 
@@ -270,6 +302,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |excludeDistance|number|false|No Documentation|
 ### C_Commentator.GetHardlockWeight
+?> WowPedia link: [C_Commentator.GetHardlockWeight](https://wow.gamepedia.com/API_C_Commentator.GetHardlockWeight)
 
 No Documentation
 
@@ -278,6 +311,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |weight|number|false|No Documentation|
 ### C_Commentator.GetHorizontalAngleThresholdToSmooth
+?> WowPedia link: [C_Commentator.GetHorizontalAngleThresholdToSmooth](https://wow.gamepedia.com/API_C_Commentator.GetHorizontalAngleThresholdToSmooth)
 
 No Documentation
 
@@ -286,6 +320,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |angle|number|false|No Documentation|
 ### C_Commentator.GetIndirectSpellID
+?> WowPedia link: [C_Commentator.GetIndirectSpellID](https://wow.gamepedia.com/API_C_Commentator.GetIndirectSpellID)
 
 No Documentation
 
@@ -298,6 +333,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |indirectSpellID|number|false|No Documentation|
 ### C_Commentator.GetInstanceInfo
+?> WowPedia link: [C_Commentator.GetInstanceInfo](https://wow.gamepedia.com/API_C_Commentator.GetInstanceInfo)
 
 No Documentation
 
@@ -315,6 +351,7 @@ No Documentation
 |instanceIDLow|number|false|No Documentation|
 |instanceIDHigh|number|false|No Documentation|
 ### C_Commentator.GetLookAtLerpAmount
+?> WowPedia link: [C_Commentator.GetLookAtLerpAmount](https://wow.gamepedia.com/API_C_Commentator.GetLookAtLerpAmount)
 
 No Documentation
 
@@ -323,6 +360,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |amount|number|false|No Documentation|
 ### C_Commentator.GetMapInfo
+?> WowPedia link: [C_Commentator.GetMapInfo](https://wow.gamepedia.com/API_C_Commentator.GetMapInfo)
 
 No Documentation
 
@@ -338,6 +376,7 @@ No Documentation
 |maxLevel|number|false|No Documentation|
 |numInstances|number|false|No Documentation|
 ### C_Commentator.GetMatchDuration
+?> WowPedia link: [C_Commentator.GetMatchDuration](https://wow.gamepedia.com/API_C_Commentator.GetMatchDuration)
 
 No Documentation
 
@@ -346,6 +385,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |seconds|number|false|No Documentation|
 ### C_Commentator.GetMaxNumPlayersPerTeam
+?> WowPedia link: [C_Commentator.GetMaxNumPlayersPerTeam](https://wow.gamepedia.com/API_C_Commentator.GetMaxNumPlayersPerTeam)
 
 No Documentation
 
@@ -354,6 +394,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |maxNumPlayersPerTeam|number|false|No Documentation|
 ### C_Commentator.GetMaxNumTeams
+?> WowPedia link: [C_Commentator.GetMaxNumTeams](https://wow.gamepedia.com/API_C_Commentator.GetMaxNumTeams)
 
 No Documentation
 
@@ -362,6 +403,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |maxNumTeams|number|false|No Documentation|
 ### C_Commentator.GetMode
+?> WowPedia link: [C_Commentator.GetMode](https://wow.gamepedia.com/API_C_Commentator.GetMode)
 
 No Documentation
 
@@ -370,6 +412,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |commentatorMode|number|false|No Documentation|
 ### C_Commentator.GetMsToHoldForHorizontalMovement
+?> WowPedia link: [C_Commentator.GetMsToHoldForHorizontalMovement](https://wow.gamepedia.com/API_C_Commentator.GetMsToHoldForHorizontalMovement)
 
 No Documentation
 
@@ -378,6 +421,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |ms|number|false|No Documentation|
 ### C_Commentator.GetMsToHoldForVerticalMovement
+?> WowPedia link: [C_Commentator.GetMsToHoldForVerticalMovement](https://wow.gamepedia.com/API_C_Commentator.GetMsToHoldForVerticalMovement)
 
 No Documentation
 
@@ -386,6 +430,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |ms|number|false|No Documentation|
 ### C_Commentator.GetMsToSmoothHorizontalChange
+?> WowPedia link: [C_Commentator.GetMsToSmoothHorizontalChange](https://wow.gamepedia.com/API_C_Commentator.GetMsToSmoothHorizontalChange)
 
 No Documentation
 
@@ -394,6 +439,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |ms|number|false|No Documentation|
 ### C_Commentator.GetMsToSmoothVerticalChange
+?> WowPedia link: [C_Commentator.GetMsToSmoothVerticalChange](https://wow.gamepedia.com/API_C_Commentator.GetMsToSmoothVerticalChange)
 
 No Documentation
 
@@ -402,6 +448,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |ms|number|false|No Documentation|
 ### C_Commentator.GetNumMaps
+?> WowPedia link: [C_Commentator.GetNumMaps](https://wow.gamepedia.com/API_C_Commentator.GetNumMaps)
 
 No Documentation
 
@@ -410,6 +457,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numMaps|number|false|No Documentation|
 ### C_Commentator.GetNumPlayers
+?> WowPedia link: [C_Commentator.GetNumPlayers](https://wow.gamepedia.com/API_C_Commentator.GetNumPlayers)
 
 No Documentation
 
@@ -422,6 +470,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numPlayers|number|false|No Documentation|
 ### C_Commentator.GetOrCreateSeries
+?> WowPedia link: [C_Commentator.GetOrCreateSeries](https://wow.gamepedia.com/API_C_Commentator.GetOrCreateSeries)
 
 No Documentation
 
@@ -435,6 +484,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |data|CommentatorSeries|false|No Documentation|
 ### C_Commentator.GetPlayerAuraInfo
+?> WowPedia link: [C_Commentator.GetPlayerAuraInfo](https://wow.gamepedia.com/API_C_Commentator.GetPlayerAuraInfo)
 
 No Documentation
 
@@ -451,6 +501,7 @@ No Documentation
 |duration|number|false|No Documentation|
 |enable|bool|false|No Documentation|
 ### C_Commentator.GetPlayerAuraInfoByUnit
+?> WowPedia link: [C_Commentator.GetPlayerAuraInfoByUnit](https://wow.gamepedia.com/API_C_Commentator.GetPlayerAuraInfoByUnit)
 
 No Documentation
 
@@ -466,6 +517,7 @@ No Documentation
 |duration|number|false|No Documentation|
 |enable|bool|false|No Documentation|
 ### C_Commentator.GetPlayerCooldownInfo
+?> WowPedia link: [C_Commentator.GetPlayerCooldownInfo](https://wow.gamepedia.com/API_C_Commentator.GetPlayerCooldownInfo)
 
 No Documentation
 
@@ -482,6 +534,7 @@ No Documentation
 |duration|number|false|No Documentation|
 |enable|bool|false|No Documentation|
 ### C_Commentator.GetPlayerCooldownInfoByUnit
+?> WowPedia link: [C_Commentator.GetPlayerCooldownInfoByUnit](https://wow.gamepedia.com/API_C_Commentator.GetPlayerCooldownInfoByUnit)
 
 No Documentation
 
@@ -497,6 +550,7 @@ No Documentation
 |duration|number|false|No Documentation|
 |enable|bool|false|No Documentation|
 ### C_Commentator.GetPlayerCrowdControlInfo
+?> WowPedia link: [C_Commentator.GetPlayerCrowdControlInfo](https://wow.gamepedia.com/API_C_Commentator.GetPlayerCrowdControlInfo)
 
 No Documentation
 
@@ -512,6 +566,7 @@ No Documentation
 |expiration|number|false|No Documentation|
 |duration|number|false|No Documentation|
 ### C_Commentator.GetPlayerCrowdControlInfoByUnit
+?> WowPedia link: [C_Commentator.GetPlayerCrowdControlInfoByUnit](https://wow.gamepedia.com/API_C_Commentator.GetPlayerCrowdControlInfoByUnit)
 
 No Documentation
 
@@ -526,6 +581,7 @@ No Documentation
 |expiration|number|false|No Documentation|
 |duration|number|false|No Documentation|
 ### C_Commentator.GetPlayerData
+?> WowPedia link: [C_Commentator.GetPlayerData](https://wow.gamepedia.com/API_C_Commentator.GetPlayerData)
 
 No Documentation
 
@@ -539,6 +595,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|CommentatorPlayerData|true|No Documentation|
 ### C_Commentator.GetPlayerFlagInfo
+?> WowPedia link: [C_Commentator.GetPlayerFlagInfo](https://wow.gamepedia.com/API_C_Commentator.GetPlayerFlagInfo)
 
 No Documentation
 
@@ -552,6 +609,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasFlag|bool|false|No Documentation|
 ### C_Commentator.GetPlayerFlagInfoByUnit
+?> WowPedia link: [C_Commentator.GetPlayerFlagInfoByUnit](https://wow.gamepedia.com/API_C_Commentator.GetPlayerFlagInfoByUnit)
 
 No Documentation
 
@@ -564,6 +622,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasFlag|bool|false|No Documentation|
 ### C_Commentator.GetPlayerOverrideName
+?> WowPedia link: [C_Commentator.GetPlayerOverrideName](https://wow.gamepedia.com/API_C_Commentator.GetPlayerOverrideName)
 
 No Documentation
 
@@ -576,6 +635,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |overrideName|string|false|No Documentation|
 ### C_Commentator.GetPlayerSpellCharges
+?> WowPedia link: [C_Commentator.GetPlayerSpellCharges](https://wow.gamepedia.com/API_C_Commentator.GetPlayerSpellCharges)
 
 No Documentation
 
@@ -593,6 +653,7 @@ No Documentation
 |startTime|number|false|No Documentation|
 |duration|number|false|No Documentation|
 ### C_Commentator.GetPlayerSpellChargesByUnit
+?> WowPedia link: [C_Commentator.GetPlayerSpellChargesByUnit](https://wow.gamepedia.com/API_C_Commentator.GetPlayerSpellChargesByUnit)
 
 No Documentation
 
@@ -609,6 +670,7 @@ No Documentation
 |startTime|number|false|No Documentation|
 |duration|number|false|No Documentation|
 ### C_Commentator.GetPositionLerpAmount
+?> WowPedia link: [C_Commentator.GetPositionLerpAmount](https://wow.gamepedia.com/API_C_Commentator.GetPositionLerpAmount)
 
 No Documentation
 
@@ -617,6 +679,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |amount|number|false|No Documentation|
 ### C_Commentator.GetSmoothFollowTransitioning
+?> WowPedia link: [C_Commentator.GetSmoothFollowTransitioning](https://wow.gamepedia.com/API_C_Commentator.GetSmoothFollowTransitioning)
 
 No Documentation
 
@@ -625,6 +688,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |enabled|bool|false|No Documentation|
 ### C_Commentator.GetSoftlockWeight
+?> WowPedia link: [C_Commentator.GetSoftlockWeight](https://wow.gamepedia.com/API_C_Commentator.GetSoftlockWeight)
 
 No Documentation
 
@@ -633,6 +697,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |weight|number|false|No Documentation|
 ### C_Commentator.GetSpeedFactor
+?> WowPedia link: [C_Commentator.GetSpeedFactor](https://wow.gamepedia.com/API_C_Commentator.GetSpeedFactor)
 
 No Documentation
 
@@ -641,6 +706,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |factor|number|false|No Documentation|
 ### C_Commentator.GetStartLocation
+?> WowPedia link: [C_Commentator.GetStartLocation](https://wow.gamepedia.com/API_C_Commentator.GetStartLocation)
 
 No Documentation
 
@@ -653,6 +719,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |pos|table|false|No Documentation|
 ### C_Commentator.GetTeamColor
+?> WowPedia link: [C_Commentator.GetTeamColor](https://wow.gamepedia.com/API_C_Commentator.GetTeamColor)
 
 No Documentation
 
@@ -665,6 +732,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |color|table|false|No Documentation|
 ### C_Commentator.GetTeamColorByUnit
+?> WowPedia link: [C_Commentator.GetTeamColorByUnit](https://wow.gamepedia.com/API_C_Commentator.GetTeamColorByUnit)
 
 No Documentation
 
@@ -677,6 +745,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |color|table|false|No Documentation|
 ### C_Commentator.GetTimeLeftInMatch
+?> WowPedia link: [C_Commentator.GetTimeLeftInMatch](https://wow.gamepedia.com/API_C_Commentator.GetTimeLeftInMatch)
 
 No Documentation
 
@@ -685,6 +754,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |timeLeft|number|true|No Documentation|
 ### C_Commentator.GetTrackedSpellID
+?> WowPedia link: [C_Commentator.GetTrackedSpellID](https://wow.gamepedia.com/API_C_Commentator.GetTrackedSpellID)
 
 No Documentation
 
@@ -697,6 +767,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |trackedSpellID|number|false|No Documentation|
 ### C_Commentator.GetTrackedSpells
+?> WowPedia link: [C_Commentator.GetTrackedSpells](https://wow.gamepedia.com/API_C_Commentator.GetTrackedSpells)
 
 No Documentation
 
@@ -711,6 +782,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |spells|table|true|No Documentation|
 ### C_Commentator.GetTrackedSpellsByUnit
+?> WowPedia link: [C_Commentator.GetTrackedSpellsByUnit](https://wow.gamepedia.com/API_C_Commentator.GetTrackedSpellsByUnit)
 
 No Documentation
 
@@ -724,6 +796,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |spells|table|true|No Documentation|
 ### C_Commentator.GetUnitData
+?> WowPedia link: [C_Commentator.GetUnitData](https://wow.gamepedia.com/API_C_Commentator.GetUnitData)
 
 No Documentation
 
@@ -736,6 +809,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |data|CommentatorUnitData|false|No Documentation|
 ### C_Commentator.GetWargameInfo
+?> WowPedia link: [C_Commentator.GetWargameInfo](https://wow.gamepedia.com/API_C_Commentator.GetWargameInfo)
 
 No Documentation
 
@@ -751,6 +825,7 @@ No Documentation
 |maxPlayers|number|false|No Documentation|
 |isArena|bool|false|No Documentation|
 ### C_Commentator.HasTrackedAuras
+?> WowPedia link: [C_Commentator.HasTrackedAuras](https://wow.gamepedia.com/API_C_Commentator.HasTrackedAuras)
 
 No Documentation
 
@@ -764,6 +839,7 @@ No Documentation
 |hasOffensiveAura|bool|false|No Documentation|
 |hasDefensiveAura|bool|false|No Documentation|
 ### C_Commentator.IsSmartCameraLocked
+?> WowPedia link: [C_Commentator.IsSmartCameraLocked](https://wow.gamepedia.com/API_C_Commentator.IsSmartCameraLocked)
 
 No Documentation
 
@@ -772,6 +848,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isSmartCameraLocked|bool|false|No Documentation|
 ### C_Commentator.IsSpectating
+?> WowPedia link: [C_Commentator.IsSpectating](https://wow.gamepedia.com/API_C_Commentator.IsSpectating)
 
 No Documentation
 
@@ -780,6 +857,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isSpectating|bool|false|No Documentation|
 ### C_Commentator.IsTrackedDefensiveAura
+?> WowPedia link: [C_Commentator.IsTrackedDefensiveAura](https://wow.gamepedia.com/API_C_Commentator.IsTrackedDefensiveAura)
 
 No Documentation
 
@@ -792,6 +870,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isDefensiveTrigger|bool|false|No Documentation|
 ### C_Commentator.IsTrackedOffensiveAura
+?> WowPedia link: [C_Commentator.IsTrackedOffensiveAura](https://wow.gamepedia.com/API_C_Commentator.IsTrackedOffensiveAura)
 
 No Documentation
 
@@ -804,6 +883,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isOffensiveTrigger|bool|false|No Documentation|
 ### C_Commentator.IsTrackedSpell
+?> WowPedia link: [C_Commentator.IsTrackedSpell](https://wow.gamepedia.com/API_C_Commentator.IsTrackedSpell)
 
 No Documentation
 
@@ -819,6 +899,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isTracked|bool|false|No Documentation|
 ### C_Commentator.IsTrackedSpellByUnit
+?> WowPedia link: [C_Commentator.IsTrackedSpellByUnit](https://wow.gamepedia.com/API_C_Commentator.IsTrackedSpellByUnit)
 
 No Documentation
 
@@ -833,6 +914,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isTracked|bool|false|No Documentation|
 ### C_Commentator.IsUsingSmartCamera
+?> WowPedia link: [C_Commentator.IsUsingSmartCamera](https://wow.gamepedia.com/API_C_Commentator.IsUsingSmartCamera)
 
 No Documentation
 
@@ -841,6 +923,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isUsingSmartCamera|bool|false|No Documentation|
 ### C_Commentator.LookAtPlayer
+?> WowPedia link: [C_Commentator.LookAtPlayer](https://wow.gamepedia.com/API_C_Commentator.LookAtPlayer)
 
 No Documentation
 
@@ -851,10 +934,12 @@ No Documentation
 |playerIndex|number|false|No Documentation|
 |lookAtIndex|number|true|No Documentation|
 ### C_Commentator.RemoveAllOverrideNames
+?> WowPedia link: [C_Commentator.RemoveAllOverrideNames](https://wow.gamepedia.com/API_C_Commentator.RemoveAllOverrideNames)
 
 No Documentation
 
 ### C_Commentator.RemovePlayerOverrideName
+?> WowPedia link: [C_Commentator.RemovePlayerOverrideName](https://wow.gamepedia.com/API_C_Commentator.RemovePlayerOverrideName)
 
 No Documentation
 
@@ -863,6 +948,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |originalPlayerName|string|false|No Documentation|
 ### C_Commentator.RequestPlayerCooldownInfo
+?> WowPedia link: [C_Commentator.RequestPlayerCooldownInfo](https://wow.gamepedia.com/API_C_Commentator.RequestPlayerCooldownInfo)
 
 No Documentation
 
@@ -872,10 +958,12 @@ No Documentation
 |teamIndex|number|false|No Documentation|
 |playerIndex|number|false|No Documentation|
 ### C_Commentator.ResetFoVTarget
+?> WowPedia link: [C_Commentator.ResetFoVTarget](https://wow.gamepedia.com/API_C_Commentator.ResetFoVTarget)
 
 No Documentation
 
 ### C_Commentator.ResetSeriesScores
+?> WowPedia link: [C_Commentator.ResetSeriesScores](https://wow.gamepedia.com/API_C_Commentator.ResetSeriesScores)
 
 No Documentation
 
@@ -885,14 +973,17 @@ No Documentation
 |teamName1|string|false|No Documentation|
 |teamName2|string|false|No Documentation|
 ### C_Commentator.ResetSettings
+?> WowPedia link: [C_Commentator.ResetSettings](https://wow.gamepedia.com/API_C_Commentator.ResetSettings)
 
 No Documentation
 
 ### C_Commentator.ResetTrackedAuras
+?> WowPedia link: [C_Commentator.ResetTrackedAuras](https://wow.gamepedia.com/API_C_Commentator.ResetTrackedAuras)
 
 No Documentation
 
 ### C_Commentator.SetAdditionalCameraWeight
+?> WowPedia link: [C_Commentator.SetAdditionalCameraWeight](https://wow.gamepedia.com/API_C_Commentator.SetAdditionalCameraWeight)
 
 No Documentation
 
@@ -903,6 +994,7 @@ No Documentation
 |playerIndex|number|false|No Documentation|
 |weight|number|false|No Documentation|
 ### C_Commentator.SetAdditionalCameraWeightByToken
+?> WowPedia link: [C_Commentator.SetAdditionalCameraWeightByToken](https://wow.gamepedia.com/API_C_Commentator.SetAdditionalCameraWeightByToken)
 
 No Documentation
 
@@ -912,6 +1004,7 @@ No Documentation
 |unitToken|string|false|No Documentation|
 |weight|number|false|No Documentation|
 ### C_Commentator.SetBlacklistedAuras
+?> WowPedia link: [C_Commentator.SetBlacklistedAuras](https://wow.gamepedia.com/API_C_Commentator.SetBlacklistedAuras)
 
 No Documentation
 
@@ -920,6 +1013,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |spellIDs|table|false|No Documentation|
 ### C_Commentator.SetBlacklistedCooldowns
+?> WowPedia link: [C_Commentator.SetBlacklistedCooldowns](https://wow.gamepedia.com/API_C_Commentator.SetBlacklistedCooldowns)
 
 No Documentation
 
@@ -929,6 +1023,7 @@ No Documentation
 |specID|number|false|No Documentation|
 |spellIDs|table|false|No Documentation|
 ### C_Commentator.SetCamera
+?> WowPedia link: [C_Commentator.SetCamera](https://wow.gamepedia.com/API_C_Commentator.SetCamera)
 
 No Documentation
 
@@ -943,6 +1038,7 @@ No Documentation
 |roll|number|false|No Documentation|
 |fov|number|false|No Documentation|
 ### C_Commentator.SetCameraCollision
+?> WowPedia link: [C_Commentator.SetCameraCollision](https://wow.gamepedia.com/API_C_Commentator.SetCameraCollision)
 
 No Documentation
 
@@ -951,6 +1047,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |collide|bool|false|No Documentation|
 ### C_Commentator.SetCameraPosition
+?> WowPedia link: [C_Commentator.SetCameraPosition](https://wow.gamepedia.com/API_C_Commentator.SetCameraPosition)
 
 No Documentation
 
@@ -962,6 +1059,7 @@ No Documentation
 |zPos|number|false|No Documentation|
 |snapToLocation|bool|false|No Documentation|
 ### C_Commentator.SetCheatsEnabled
+?> WowPedia link: [C_Commentator.SetCheatsEnabled](https://wow.gamepedia.com/API_C_Commentator.SetCheatsEnabled)
 
 No Documentation
 
@@ -970,6 +1068,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |enableCheats|bool|false|No Documentation|
 ### C_Commentator.SetCommentatorHistory
+?> WowPedia link: [C_Commentator.SetCommentatorHistory](https://wow.gamepedia.com/API_C_Commentator.SetCommentatorHistory)
 
 No Documentation
 
@@ -978,6 +1077,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |history|CommentatorHistory|false|No Documentation|
 ### C_Commentator.SetDistanceBeforeForcedHorizontalConvergence
+?> WowPedia link: [C_Commentator.SetDistanceBeforeForcedHorizontalConvergence](https://wow.gamepedia.com/API_C_Commentator.SetDistanceBeforeForcedHorizontalConvergence)
 
 No Documentation
 
@@ -986,6 +1086,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |distance|number|false|No Documentation|
 ### C_Commentator.SetDurationToForceHorizontalConvergence
+?> WowPedia link: [C_Commentator.SetDurationToForceHorizontalConvergence](https://wow.gamepedia.com/API_C_Commentator.SetDurationToForceHorizontalConvergence)
 
 No Documentation
 
@@ -994,6 +1095,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |ms|number|false|No Documentation|
 ### C_Commentator.SetExcludeDistance
+?> WowPedia link: [C_Commentator.SetExcludeDistance](https://wow.gamepedia.com/API_C_Commentator.SetExcludeDistance)
 
 No Documentation
 
@@ -1002,6 +1104,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |excludeDistance|number|false|No Documentation|
 ### C_Commentator.SetFollowCameraSpeeds
+?> WowPedia link: [C_Commentator.SetFollowCameraSpeeds](https://wow.gamepedia.com/API_C_Commentator.SetFollowCameraSpeeds)
 
 No Documentation
 
@@ -1011,6 +1114,7 @@ No Documentation
 |elasticSpeed|number|false|No Documentation|
 |minSpeed|number|false|No Documentation|
 ### C_Commentator.SetHardlockWeight
+?> WowPedia link: [C_Commentator.SetHardlockWeight](https://wow.gamepedia.com/API_C_Commentator.SetHardlockWeight)
 
 No Documentation
 
@@ -1019,6 +1123,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |weight|number|false|No Documentation|
 ### C_Commentator.SetHorizontalAngleThresholdToSmooth
+?> WowPedia link: [C_Commentator.SetHorizontalAngleThresholdToSmooth](https://wow.gamepedia.com/API_C_Commentator.SetHorizontalAngleThresholdToSmooth)
 
 No Documentation
 
@@ -1027,6 +1132,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |angle|number|false|No Documentation|
 ### C_Commentator.SetLookAtLerpAmount
+?> WowPedia link: [C_Commentator.SetLookAtLerpAmount](https://wow.gamepedia.com/API_C_Commentator.SetLookAtLerpAmount)
 
 No Documentation
 
@@ -1035,6 +1141,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |amount|number|false|No Documentation|
 ### C_Commentator.SetMapAndInstanceIndex
+?> WowPedia link: [C_Commentator.SetMapAndInstanceIndex](https://wow.gamepedia.com/API_C_Commentator.SetMapAndInstanceIndex)
 
 No Documentation
 
@@ -1044,6 +1151,7 @@ No Documentation
 |mapIndex|number|false|No Documentation|
 |instanceIndex|number|false|No Documentation|
 ### C_Commentator.SetMouseDisabled
+?> WowPedia link: [C_Commentator.SetMouseDisabled](https://wow.gamepedia.com/API_C_Commentator.SetMouseDisabled)
 
 No Documentation
 
@@ -1052,6 +1160,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |disabled|bool|false|No Documentation|
 ### C_Commentator.SetMoveSpeed
+?> WowPedia link: [C_Commentator.SetMoveSpeed](https://wow.gamepedia.com/API_C_Commentator.SetMoveSpeed)
 
 No Documentation
 
@@ -1060,6 +1169,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |newSpeed|number|false|No Documentation|
 ### C_Commentator.SetMsToHoldForHorizontalMovement
+?> WowPedia link: [C_Commentator.SetMsToHoldForHorizontalMovement](https://wow.gamepedia.com/API_C_Commentator.SetMsToHoldForHorizontalMovement)
 
 No Documentation
 
@@ -1068,6 +1178,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |ms|number|false|No Documentation|
 ### C_Commentator.SetMsToHoldForVerticalMovement
+?> WowPedia link: [C_Commentator.SetMsToHoldForVerticalMovement](https://wow.gamepedia.com/API_C_Commentator.SetMsToHoldForVerticalMovement)
 
 No Documentation
 
@@ -1076,6 +1187,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |ms|number|false|No Documentation|
 ### C_Commentator.SetMsToSmoothHorizontalChange
+?> WowPedia link: [C_Commentator.SetMsToSmoothHorizontalChange](https://wow.gamepedia.com/API_C_Commentator.SetMsToSmoothHorizontalChange)
 
 No Documentation
 
@@ -1084,6 +1196,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |ms|number|false|No Documentation|
 ### C_Commentator.SetMsToSmoothVerticalChange
+?> WowPedia link: [C_Commentator.SetMsToSmoothVerticalChange](https://wow.gamepedia.com/API_C_Commentator.SetMsToSmoothVerticalChange)
 
 No Documentation
 
@@ -1092,6 +1205,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |ms|number|false|No Documentation|
 ### C_Commentator.SetPositionLerpAmount
+?> WowPedia link: [C_Commentator.SetPositionLerpAmount](https://wow.gamepedia.com/API_C_Commentator.SetPositionLerpAmount)
 
 No Documentation
 
@@ -1100,6 +1214,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |amount|number|false|No Documentation|
 ### C_Commentator.SetRequestedDebuffCooldowns
+?> WowPedia link: [C_Commentator.SetRequestedDebuffCooldowns](https://wow.gamepedia.com/API_C_Commentator.SetRequestedDebuffCooldowns)
 
 No Documentation
 
@@ -1109,6 +1224,7 @@ No Documentation
 |specID|number|false|No Documentation|
 |spellIDs|table|false|No Documentation|
 ### C_Commentator.SetRequestedDefensiveCooldowns
+?> WowPedia link: [C_Commentator.SetRequestedDefensiveCooldowns](https://wow.gamepedia.com/API_C_Commentator.SetRequestedDefensiveCooldowns)
 
 No Documentation
 
@@ -1118,6 +1234,7 @@ No Documentation
 |specID|number|false|No Documentation|
 |spellIDs|table|false|No Documentation|
 ### C_Commentator.SetRequestedOffensiveCooldowns
+?> WowPedia link: [C_Commentator.SetRequestedOffensiveCooldowns](https://wow.gamepedia.com/API_C_Commentator.SetRequestedOffensiveCooldowns)
 
 No Documentation
 
@@ -1127,6 +1244,7 @@ No Documentation
 |specID|number|false|No Documentation|
 |spellIDs|table|false|No Documentation|
 ### C_Commentator.SetSeriesScore
+?> WowPedia link: [C_Commentator.SetSeriesScore](https://wow.gamepedia.com/API_C_Commentator.SetSeriesScore)
 
 No Documentation
 
@@ -1138,6 +1256,7 @@ No Documentation
 |scoringTeamName|string|false|No Documentation|
 |score|number|false|No Documentation|
 ### C_Commentator.SetSeriesScores
+?> WowPedia link: [C_Commentator.SetSeriesScores](https://wow.gamepedia.com/API_C_Commentator.SetSeriesScores)
 
 No Documentation
 
@@ -1149,6 +1268,7 @@ No Documentation
 |score1|number|false|No Documentation|
 |score2|number|false|No Documentation|
 ### C_Commentator.SetSmartCameraLocked
+?> WowPedia link: [C_Commentator.SetSmartCameraLocked](https://wow.gamepedia.com/API_C_Commentator.SetSmartCameraLocked)
 
 No Documentation
 
@@ -1157,6 +1277,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |locked|bool|false|No Documentation|
 ### C_Commentator.SetSmoothFollowTransitioning
+?> WowPedia link: [C_Commentator.SetSmoothFollowTransitioning](https://wow.gamepedia.com/API_C_Commentator.SetSmoothFollowTransitioning)
 
 No Documentation
 
@@ -1165,6 +1286,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |enabled|bool|false|No Documentation|
 ### C_Commentator.SetSoftlockWeight
+?> WowPedia link: [C_Commentator.SetSoftlockWeight](https://wow.gamepedia.com/API_C_Commentator.SetSoftlockWeight)
 
 No Documentation
 
@@ -1173,6 +1295,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |weight|number|false|No Documentation|
 ### C_Commentator.SetSpeedFactor
+?> WowPedia link: [C_Commentator.SetSpeedFactor](https://wow.gamepedia.com/API_C_Commentator.SetSpeedFactor)
 
 No Documentation
 
@@ -1181,6 +1304,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |factor|number|false|No Documentation|
 ### C_Commentator.SetTargetHeightOffset
+?> WowPedia link: [C_Commentator.SetTargetHeightOffset](https://wow.gamepedia.com/API_C_Commentator.SetTargetHeightOffset)
 
 No Documentation
 
@@ -1189,6 +1313,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |offset|number|false|No Documentation|
 ### C_Commentator.SetUseSmartCamera
+?> WowPedia link: [C_Commentator.SetUseSmartCamera](https://wow.gamepedia.com/API_C_Commentator.SetUseSmartCamera)
 
 No Documentation
 
@@ -1197,10 +1322,12 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |useSmartCamera|bool|false|No Documentation|
 ### C_Commentator.SnapCameraLookAtPoint
+?> WowPedia link: [C_Commentator.SnapCameraLookAtPoint](https://wow.gamepedia.com/API_C_Commentator.SnapCameraLookAtPoint)
 
 No Documentation
 
 ### C_Commentator.StartWargame
+?> WowPedia link: [C_Commentator.StartWargame](https://wow.gamepedia.com/API_C_Commentator.StartWargame)
 
 No Documentation
 
@@ -1213,14 +1340,17 @@ No Documentation
 |teamOneCaptain|string|false|No Documentation|
 |teamTwoCaptain|string|false|No Documentation|
 ### C_Commentator.SwapTeamSides
+?> WowPedia link: [C_Commentator.SwapTeamSides](https://wow.gamepedia.com/API_C_Commentator.SwapTeamSides)
 
 No Documentation
 
 ### C_Commentator.ToggleCheats
+?> WowPedia link: [C_Commentator.ToggleCheats](https://wow.gamepedia.com/API_C_Commentator.ToggleCheats)
 
 No Documentation
 
 ### C_Commentator.UpdateMapInfo
+?> WowPedia link: [C_Commentator.UpdateMapInfo](https://wow.gamepedia.com/API_C_Commentator.UpdateMapInfo)
 
 No Documentation
 
@@ -1229,14 +1359,17 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |targetPlayer|string|true|No Documentation|
 ### C_Commentator.UpdatePlayerInfo
+?> WowPedia link: [C_Commentator.UpdatePlayerInfo](https://wow.gamepedia.com/API_C_Commentator.UpdatePlayerInfo)
 
 No Documentation
 
 ### C_Commentator.ZoomIn
+?> WowPedia link: [C_Commentator.ZoomIn](https://wow.gamepedia.com/API_C_Commentator.ZoomIn)
 
 No Documentation
 
 ### C_Commentator.ZoomOut
+?> WowPedia link: [C_Commentator.ZoomOut](https://wow.gamepedia.com/API_C_Commentator.ZoomOut)
 
 No Documentation
 

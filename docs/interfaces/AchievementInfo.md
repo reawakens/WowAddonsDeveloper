@@ -5,6 +5,7 @@ Type: System / Namespace: C_AchievementInfo
 ## Functions
 
 ### C_AchievementInfo.GetRewardItemID
+?> WowPedia link: [C_AchievementInfo.GetRewardItemID](https://wow.gamepedia.com/API_C_AchievementInfo.GetRewardItemID)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |rewardItemID|number|true|No Documentation|
 ### C_AchievementInfo.GetSupercedingAchievements
+?> WowPedia link: [C_AchievementInfo.GetSupercedingAchievements](https://wow.gamepedia.com/API_C_AchievementInfo.GetSupercedingAchievements)
 
 No Documentation
 
@@ -29,6 +31,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |supercedingAchievements|table|false|No Documentation|
 ### C_AchievementInfo.IsValidAchievement
+?> WowPedia link: [C_AchievementInfo.IsValidAchievement](https://wow.gamepedia.com/API_C_AchievementInfo.IsValidAchievement)
 
 No Documentation
 
@@ -41,6 +44,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isValidAchievement|bool|false|No Documentation|
 ### C_AchievementInfo.SetPortraitTexture
+?> WowPedia link: [C_AchievementInfo.SetPortraitTexture](https://wow.gamepedia.com/API_C_AchievementInfo.SetPortraitTexture)
 
 No Documentation
 

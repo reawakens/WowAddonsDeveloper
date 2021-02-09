@@ -5,6 +5,7 @@ Type: System / Namespace: C_ItemUpgrade
 ## Functions
 
 ### C_ItemUpgrade.GetItemHyperlink
+?> WowPedia link: [C_ItemUpgrade.GetItemHyperlink](https://wow.gamepedia.com/API_C_ItemUpgrade.GetItemHyperlink)
 
 No Documentation
 

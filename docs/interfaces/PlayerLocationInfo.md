@@ -5,6 +5,7 @@ Type: System / Namespace: C_PlayerInfo
 ## Functions
 
 ### C_PlayerInfo.GUIDIsPlayer
+?> WowPedia link: [C_PlayerInfo.GUIDIsPlayer](https://wow.gamepedia.com/API_C_PlayerInfo.GUIDIsPlayer)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isPlayer|bool|false|No Documentation|
 ### C_PlayerInfo.GetClass
+?> WowPedia link: [C_PlayerInfo.GetClass](https://wow.gamepedia.com/API_C_PlayerInfo.GetClass)
 
 No Documentation
 
@@ -31,6 +33,7 @@ No Documentation
 |classFilename|string|true|No Documentation|
 |classID|number|true|No Documentation|
 ### C_PlayerInfo.GetName
+?> WowPedia link: [C_PlayerInfo.GetName](https://wow.gamepedia.com/API_C_PlayerInfo.GetName)
 
 No Documentation
 
@@ -43,6 +46,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |name|string|true|No Documentation|
 ### C_PlayerInfo.GetRace
+?> WowPedia link: [C_PlayerInfo.GetRace](https://wow.gamepedia.com/API_C_PlayerInfo.GetRace)
 
 No Documentation
 
@@ -55,6 +59,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |raceID|number|true|No Documentation|
 ### C_PlayerInfo.GetSex
+?> WowPedia link: [C_PlayerInfo.GetSex](https://wow.gamepedia.com/API_C_PlayerInfo.GetSex)
 
 No Documentation
 
@@ -67,6 +72,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |sex|number|true|No Documentation|
 ### C_PlayerInfo.IsConnected
+?> WowPedia link: [C_PlayerInfo.IsConnected](https://wow.gamepedia.com/API_C_PlayerInfo.IsConnected)
 
 No Documentation
 
@@ -79,6 +85,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isConnected|bool|true|No Documentation|
 ### C_PlayerInfo.UnitIsSameServer
+?> WowPedia link: [C_PlayerInfo.UnitIsSameServer](https://wow.gamepedia.com/API_C_PlayerInfo.UnitIsSameServer)
 
 No Documentation
 

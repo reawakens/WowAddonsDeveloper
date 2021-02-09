@@ -5,6 +5,7 @@ Type: System / Namespace: C_MerchantFrame
 ## Functions
 
 ### C_MerchantFrame.GetBuybackItemID
+?> WowPedia link: [C_MerchantFrame.GetBuybackItemID](https://wow.gamepedia.com/API_C_MerchantFrame.GetBuybackItemID)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |buybackItemID|number|false|No Documentation|
 ### C_MerchantFrame.IsMerchantItemRefundable
+?> WowPedia link: [C_MerchantFrame.IsMerchantItemRefundable](https://wow.gamepedia.com/API_C_MerchantFrame.IsMerchantItemRefundable)
 
 No Documentation
 

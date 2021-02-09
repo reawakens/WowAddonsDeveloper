@@ -5,6 +5,7 @@ Type: System / Namespace: C_ResearchInfo
 ## Functions
 
 ### C_ResearchInfo.GetDigSitesForMap
+?> WowPedia link: [C_ResearchInfo.GetDigSitesForMap](https://wow.gamepedia.com/API_C_ResearchInfo.GetDigSitesForMap)
 
 No Documentation
 

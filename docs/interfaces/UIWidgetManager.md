@@ -5,6 +5,7 @@ Type: System / Namespace: C_UIWidgetManager
 ## Functions
 
 ### C_UIWidgetManager.GetAllWidgetsBySetID
+?> WowPedia link: [C_UIWidgetManager.GetAllWidgetsBySetID](https://wow.gamepedia.com/API_C_UIWidgetManager.GetAllWidgetsBySetID)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgets|table|false|No Documentation|
 ### C_UIWidgetManager.GetBelowMinimapWidgetSetID
+?> WowPedia link: [C_UIWidgetManager.GetBelowMinimapWidgetSetID](https://wow.gamepedia.com/API_C_UIWidgetManager.GetBelowMinimapWidgetSetID)
 
 No Documentation
 
@@ -25,6 +27,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |setID|number|false|No Documentation|
 ### C_UIWidgetManager.GetBulletTextListWidgetVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetBulletTextListWidgetVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetBulletTextListWidgetVisualizationInfo)
 
 No Documentation
 
@@ -37,6 +40,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|BulletTextListWidgetVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.GetCaptureBarWidgetVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetCaptureBarWidgetVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetCaptureBarWidgetVisualizationInfo)
 
 No Documentation
 
@@ -49,6 +53,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|CaptureBarWidgetVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.GetCaptureZoneVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetCaptureZoneVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetCaptureZoneVisualizationInfo)
 
 No Documentation
 
@@ -61,6 +66,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|CaptureZoneVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.GetDiscreteProgressStepsVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetDiscreteProgressStepsVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetDiscreteProgressStepsVisualizationInfo)
 
 No Documentation
 
@@ -73,6 +79,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|DiscreteProgressStepsVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.GetDoubleIconAndTextWidgetVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetDoubleIconAndTextWidgetVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetDoubleIconAndTextWidgetVisualizationInfo)
 
 No Documentation
 
@@ -85,6 +92,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|DoubleIconAndTextWidgetVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.GetDoubleStateIconRowVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetDoubleStateIconRowVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetDoubleStateIconRowVisualizationInfo)
 
 No Documentation
 
@@ -97,6 +105,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|DoubleStateIconRowVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.GetDoubleStatusBarWidgetVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetDoubleStatusBarWidgetVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetDoubleStatusBarWidgetVisualizationInfo)
 
 No Documentation
 
@@ -109,6 +118,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|DoubleStatusBarWidgetVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.GetHorizontalCurrenciesWidgetVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetHorizontalCurrenciesWidgetVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetHorizontalCurrenciesWidgetVisualizationInfo)
 
 No Documentation
 
@@ -121,6 +131,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|HorizontalCurrenciesWidgetVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.GetIconAndTextWidgetVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetIconAndTextWidgetVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetIconAndTextWidgetVisualizationInfo)
 
 No Documentation
 
@@ -133,6 +144,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|IconAndTextWidgetVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.GetIconTextAndBackgroundWidgetVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetIconTextAndBackgroundWidgetVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetIconTextAndBackgroundWidgetVisualizationInfo)
 
 No Documentation
 
@@ -145,6 +157,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|IconTextAndBackgroundWidgetVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.GetIconTextAndCurrenciesWidgetVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetIconTextAndCurrenciesWidgetVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetIconTextAndCurrenciesWidgetVisualizationInfo)
 
 No Documentation
 
@@ -157,6 +170,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|IconTextAndCurrenciesWidgetVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.GetObjectiveTrackerWidgetSetID
+?> WowPedia link: [C_UIWidgetManager.GetObjectiveTrackerWidgetSetID](https://wow.gamepedia.com/API_C_UIWidgetManager.GetObjectiveTrackerWidgetSetID)
 
 No Documentation
 
@@ -165,6 +179,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |setID|number|false|No Documentation|
 ### C_UIWidgetManager.GetPowerBarWidgetSetID
+?> WowPedia link: [C_UIWidgetManager.GetPowerBarWidgetSetID](https://wow.gamepedia.com/API_C_UIWidgetManager.GetPowerBarWidgetSetID)
 
 No Documentation
 
@@ -173,6 +188,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |setID|number|false|No Documentation|
 ### C_UIWidgetManager.GetScenarioHeaderCurrenciesAndBackgroundWidgetVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetScenarioHeaderCurrenciesAndBackgroundWidgetVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetScenarioHeaderCurrenciesAndBackgroundWidgetVisualizationInfo)
 
 No Documentation
 
@@ -185,6 +201,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|ScenarioHeaderCurrenciesAndBackgroundWidgetVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.GetScenarioHeaderTimerWidgetVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetScenarioHeaderTimerWidgetVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetScenarioHeaderTimerWidgetVisualizationInfo)
 
 No Documentation
 
@@ -197,6 +214,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|ScenarioHeaderTimerWidgetVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.GetSpellDisplayVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetSpellDisplayVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetSpellDisplayVisualizationInfo)
 
 No Documentation
 
@@ -209,6 +227,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|SpellDisplayVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.GetStackedResourceTrackerWidgetVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetStackedResourceTrackerWidgetVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetStackedResourceTrackerWidgetVisualizationInfo)
 
 No Documentation
 
@@ -221,6 +240,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|StackedResourceTrackerWidgetVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.GetStatusBarWidgetVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetStatusBarWidgetVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetStatusBarWidgetVisualizationInfo)
 
 No Documentation
 
@@ -233,6 +253,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|StatusBarWidgetVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.GetTextWithStateWidgetVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetTextWithStateWidgetVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetTextWithStateWidgetVisualizationInfo)
 
 No Documentation
 
@@ -245,6 +266,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|TextWithStateWidgetVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.GetTextureAndTextRowVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetTextureAndTextRowVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetTextureAndTextRowVisualizationInfo)
 
 No Documentation
 
@@ -257,6 +279,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|TextureAndTextRowVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.GetTextureAndTextVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetTextureAndTextVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetTextureAndTextVisualizationInfo)
 
 No Documentation
 
@@ -269,6 +292,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|TextureAndTextVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.GetTextureWithAnimationVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetTextureWithAnimationVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetTextureWithAnimationVisualizationInfo)
 
 No Documentation
 
@@ -281,6 +305,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|TextureWithAnimationVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.GetTopCenterWidgetSetID
+?> WowPedia link: [C_UIWidgetManager.GetTopCenterWidgetSetID](https://wow.gamepedia.com/API_C_UIWidgetManager.GetTopCenterWidgetSetID)
 
 No Documentation
 
@@ -289,6 +314,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |setID|number|false|No Documentation|
 ### C_UIWidgetManager.GetWidgetSetInfo
+?> WowPedia link: [C_UIWidgetManager.GetWidgetSetInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetWidgetSetInfo)
 
 No Documentation
 
@@ -301,6 +327,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetSetInfo|UIWidgetSetInfo|false|No Documentation|
 ### C_UIWidgetManager.GetZoneControlVisualizationInfo
+?> WowPedia link: [C_UIWidgetManager.GetZoneControlVisualizationInfo](https://wow.gamepedia.com/API_C_UIWidgetManager.GetZoneControlVisualizationInfo)
 
 No Documentation
 
@@ -313,6 +340,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |widgetInfo|ZoneControlVisualizationInfo|true|No Documentation|
 ### C_UIWidgetManager.RegisterUnitForWidgetUpdates
+?> WowPedia link: [C_UIWidgetManager.RegisterUnitForWidgetUpdates](https://wow.gamepedia.com/API_C_UIWidgetManager.RegisterUnitForWidgetUpdates)
 
 No Documentation
 
@@ -321,6 +349,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |unitToken|string|false|No Documentation|
 ### C_UIWidgetManager.SetProcessingUnit
+?> WowPedia link: [C_UIWidgetManager.SetProcessingUnit](https://wow.gamepedia.com/API_C_UIWidgetManager.SetProcessingUnit)
 
 No Documentation
 
@@ -329,6 +358,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |unit|string|true|No Documentation|
 ### C_UIWidgetManager.UnregisterUnitForWidgetUpdates
+?> WowPedia link: [C_UIWidgetManager.UnregisterUnitForWidgetUpdates](https://wow.gamepedia.com/API_C_UIWidgetManager.UnregisterUnitForWidgetUpdates)
 
 No Documentation
 

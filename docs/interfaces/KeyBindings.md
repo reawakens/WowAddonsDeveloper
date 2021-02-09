@@ -5,6 +5,7 @@ Type: System / Namespace: C_KeyBindings
 ## Functions
 
 ### C_KeyBindings.GetCustomBindingType
+?> WowPedia link: [C_KeyBindings.GetCustomBindingType](https://wow.gamepedia.com/API_C_KeyBindings.GetCustomBindingType)
 
 No Documentation
 

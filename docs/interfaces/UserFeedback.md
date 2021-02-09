@@ -5,6 +5,7 @@ Type: System / Namespace: C_UserFeedback
 ## Functions
 
 ### C_UserFeedback.SubmitBug
+?> WowPedia link: [C_UserFeedback.SubmitBug](https://wow.gamepedia.com/API_C_UserFeedback.SubmitBug)
 
 No Documentation
 
@@ -18,6 +19,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |success|bool|false|No Documentation|
 ### C_UserFeedback.SubmitSuggestion
+?> WowPedia link: [C_UserFeedback.SubmitSuggestion](https://wow.gamepedia.com/API_C_UserFeedback.SubmitSuggestion)
 
 No Documentation
 

@@ -5,6 +5,7 @@ Type: System / Namespace: C_AzeriteEssence
 ## Functions
 
 ### C_AzeriteEssence.ActivateEssence
+?> WowPedia link: [C_AzeriteEssence.ActivateEssence](https://wow.gamepedia.com/API_C_AzeriteEssence.ActivateEssence)
 
 No Documentation
 
@@ -14,6 +15,7 @@ No Documentation
 |essenceID|number|false|No Documentation|
 |milestoneID|number|false|No Documentation|
 ### C_AzeriteEssence.CanActivateEssence
+?> WowPedia link: [C_AzeriteEssence.CanActivateEssence](https://wow.gamepedia.com/API_C_AzeriteEssence.CanActivateEssence)
 
 No Documentation
 
@@ -27,6 +29,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canActivate|bool|false|No Documentation|
 ### C_AzeriteEssence.CanDeactivateEssence
+?> WowPedia link: [C_AzeriteEssence.CanDeactivateEssence](https://wow.gamepedia.com/API_C_AzeriteEssence.CanDeactivateEssence)
 
 No Documentation
 
@@ -39,6 +42,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canDeactivate|bool|false|No Documentation|
 ### C_AzeriteEssence.CanOpenUI
+?> WowPedia link: [C_AzeriteEssence.CanOpenUI](https://wow.gamepedia.com/API_C_AzeriteEssence.CanOpenUI)
 
 No Documentation
 
@@ -47,14 +51,17 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canOpen|bool|false|No Documentation|
 ### C_AzeriteEssence.ClearPendingActivationEssence
+?> WowPedia link: [C_AzeriteEssence.ClearPendingActivationEssence](https://wow.gamepedia.com/API_C_AzeriteEssence.ClearPendingActivationEssence)
 
 No Documentation
 
 ### C_AzeriteEssence.CloseForge
+?> WowPedia link: [C_AzeriteEssence.CloseForge](https://wow.gamepedia.com/API_C_AzeriteEssence.CloseForge)
 
 No Documentation
 
 ### C_AzeriteEssence.GetEssenceHyperlink
+?> WowPedia link: [C_AzeriteEssence.GetEssenceHyperlink](https://wow.gamepedia.com/API_C_AzeriteEssence.GetEssenceHyperlink)
 
 No Documentation
 
@@ -68,6 +75,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |link|string|false|No Documentation|
 ### C_AzeriteEssence.GetEssenceInfo
+?> WowPedia link: [C_AzeriteEssence.GetEssenceInfo](https://wow.gamepedia.com/API_C_AzeriteEssence.GetEssenceInfo)
 
 No Documentation
 
@@ -80,6 +88,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|AzeriteEssenceInfo|false|No Documentation|
 ### C_AzeriteEssence.GetEssences
+?> WowPedia link: [C_AzeriteEssence.GetEssences](https://wow.gamepedia.com/API_C_AzeriteEssence.GetEssences)
 
 No Documentation
 
@@ -88,6 +97,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |essences|table|false|No Documentation|
 ### C_AzeriteEssence.GetMilestoneEssence
+?> WowPedia link: [C_AzeriteEssence.GetMilestoneEssence](https://wow.gamepedia.com/API_C_AzeriteEssence.GetMilestoneEssence)
 
 No Documentation
 
@@ -100,6 +110,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |essenceID|number|false|No Documentation|
 ### C_AzeriteEssence.GetMilestoneInfo
+?> WowPedia link: [C_AzeriteEssence.GetMilestoneInfo](https://wow.gamepedia.com/API_C_AzeriteEssence.GetMilestoneInfo)
 
 No Documentation
 
@@ -112,6 +123,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|AzeriteMilestoneInfo|false|No Documentation|
 ### C_AzeriteEssence.GetMilestoneSpell
+?> WowPedia link: [C_AzeriteEssence.GetMilestoneSpell](https://wow.gamepedia.com/API_C_AzeriteEssence.GetMilestoneSpell)
 
 No Documentation
 
@@ -124,6 +136,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |spellID|number|false|No Documentation|
 ### C_AzeriteEssence.GetMilestones
+?> WowPedia link: [C_AzeriteEssence.GetMilestones](https://wow.gamepedia.com/API_C_AzeriteEssence.GetMilestones)
 
 No Documentation
 
@@ -132,6 +145,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |milestones|table|false|No Documentation|
 ### C_AzeriteEssence.GetNumUnlockedEssences
+?> WowPedia link: [C_AzeriteEssence.GetNumUnlockedEssences](https://wow.gamepedia.com/API_C_AzeriteEssence.GetNumUnlockedEssences)
 
 No Documentation
 
@@ -140,6 +154,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numUnlockedEssences|number|false|No Documentation|
 ### C_AzeriteEssence.GetNumUsableEssences
+?> WowPedia link: [C_AzeriteEssence.GetNumUsableEssences](https://wow.gamepedia.com/API_C_AzeriteEssence.GetNumUsableEssences)
 
 No Documentation
 
@@ -148,6 +163,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numUsableEssences|number|false|No Documentation|
 ### C_AzeriteEssence.GetPendingActivationEssence
+?> WowPedia link: [C_AzeriteEssence.GetPendingActivationEssence](https://wow.gamepedia.com/API_C_AzeriteEssence.GetPendingActivationEssence)
 
 No Documentation
 
@@ -156,6 +172,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |essenceID|number|false|No Documentation|
 ### C_AzeriteEssence.HasNeverActivatedAnyEssences
+?> WowPedia link: [C_AzeriteEssence.HasNeverActivatedAnyEssences](https://wow.gamepedia.com/API_C_AzeriteEssence.HasNeverActivatedAnyEssences)
 
 No Documentation
 
@@ -164,6 +181,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasNeverActivatedAnyEssences|bool|false|No Documentation|
 ### C_AzeriteEssence.HasPendingActivationEssence
+?> WowPedia link: [C_AzeriteEssence.HasPendingActivationEssence](https://wow.gamepedia.com/API_C_AzeriteEssence.HasPendingActivationEssence)
 
 No Documentation
 
@@ -172,6 +190,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasEssence|bool|false|No Documentation|
 ### C_AzeriteEssence.IsAtForge
+?> WowPedia link: [C_AzeriteEssence.IsAtForge](https://wow.gamepedia.com/API_C_AzeriteEssence.IsAtForge)
 
 No Documentation
 
@@ -180,6 +199,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isAtForge|bool|false|No Documentation|
 ### C_AzeriteEssence.SetPendingActivationEssence
+?> WowPedia link: [C_AzeriteEssence.SetPendingActivationEssence](https://wow.gamepedia.com/API_C_AzeriteEssence.SetPendingActivationEssence)
 
 No Documentation
 
@@ -188,6 +208,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |essenceID|number|false|No Documentation|
 ### C_AzeriteEssence.UnlockMilestone
+?> WowPedia link: [C_AzeriteEssence.UnlockMilestone](https://wow.gamepedia.com/API_C_AzeriteEssence.UnlockMilestone)
 
 No Documentation
 

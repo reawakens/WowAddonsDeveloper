@@ -5,6 +5,7 @@ Type: System / Namespace: C_PlayerInfo
 ## Functions
 
 ### C_PlayerInfo.CanPlayerEnterChromieTime
+?> WowPedia link: [C_PlayerInfo.CanPlayerEnterChromieTime](https://wow.gamepedia.com/API_C_PlayerInfo.CanPlayerEnterChromieTime)
 
 No Documentation
 
@@ -13,6 +14,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canEnter|bool|false|No Documentation|
 ### C_PlayerInfo.CanPlayerUseAreaLoot
+?> WowPedia link: [C_PlayerInfo.CanPlayerUseAreaLoot](https://wow.gamepedia.com/API_C_PlayerInfo.CanPlayerUseAreaLoot)
 
 No Documentation
 
@@ -21,6 +23,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canUseAreaLoot|bool|false|No Documentation|
 ### C_PlayerInfo.CanPlayerUseMountEquipment
+?> WowPedia link: [C_PlayerInfo.CanPlayerUseMountEquipment](https://wow.gamepedia.com/API_C_PlayerInfo.CanPlayerUseMountEquipment)
 
 No Documentation
 
@@ -30,6 +33,7 @@ No Documentation
 |canUseMountEquipment|bool|false|No Documentation|
 |failureReason|string|false|No Documentation|
 ### C_PlayerInfo.GetContentDifficultyCreatureForPlayer
+?> WowPedia link: [C_PlayerInfo.GetContentDifficultyCreatureForPlayer](https://wow.gamepedia.com/API_C_PlayerInfo.GetContentDifficultyCreatureForPlayer)
 
 No Documentation
 
@@ -42,6 +46,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |difficulty|RelativeContentDifficulty|false|No Documentation|
 ### C_PlayerInfo.GetContentDifficultyQuestForPlayer
+?> WowPedia link: [C_PlayerInfo.GetContentDifficultyQuestForPlayer](https://wow.gamepedia.com/API_C_PlayerInfo.GetContentDifficultyQuestForPlayer)
 
 No Documentation
 
@@ -54,6 +59,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |difficulty|RelativeContentDifficulty|false|No Documentation|
 ### C_PlayerInfo.IsPlayerEligibleForNPE
+?> WowPedia link: [C_PlayerInfo.IsPlayerEligibleForNPE](https://wow.gamepedia.com/API_C_PlayerInfo.IsPlayerEligibleForNPE)
 
 No Documentation
 
@@ -63,6 +69,7 @@ No Documentation
 |isEligible|bool|false|No Documentation|
 |failureReason|string|false|No Documentation|
 ### C_PlayerInfo.IsPlayerEligibleForNPEv2
+?> WowPedia link: [C_PlayerInfo.IsPlayerEligibleForNPEv2](https://wow.gamepedia.com/API_C_PlayerInfo.IsPlayerEligibleForNPEv2)
 
 No Documentation
 
@@ -72,6 +79,7 @@ No Documentation
 |isEligible|bool|false|No Documentation|
 |failureReason|string|false|No Documentation|
 ### C_PlayerInfo.IsPlayerInChromieTime
+?> WowPedia link: [C_PlayerInfo.IsPlayerInChromieTime](https://wow.gamepedia.com/API_C_PlayerInfo.IsPlayerInChromieTime)
 
 No Documentation
 
@@ -80,6 +88,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |inChromieTime|bool|false|No Documentation|
 ### C_PlayerInfo.IsPlayerNPERestricted
+?> WowPedia link: [C_PlayerInfo.IsPlayerNPERestricted](https://wow.gamepedia.com/API_C_PlayerInfo.IsPlayerNPERestricted)
 
 No Documentation
 

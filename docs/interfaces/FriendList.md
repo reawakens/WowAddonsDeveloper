@@ -5,6 +5,7 @@ Type: System / Namespace: C_FriendList
 ## Functions
 
 ### C_FriendList.AddFriend
+?> WowPedia link: [C_FriendList.AddFriend](https://wow.gamepedia.com/API_C_FriendList.AddFriend)
 
 No Documentation
 
@@ -14,6 +15,7 @@ No Documentation
 |name|string|false|No Documentation|
 |notes|string|true|No Documentation|
 ### C_FriendList.AddIgnore
+?> WowPedia link: [C_FriendList.AddIgnore](https://wow.gamepedia.com/API_C_FriendList.AddIgnore)
 
 No Documentation
 
@@ -26,6 +28,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |added|bool|false|No Documentation|
 ### C_FriendList.AddOrDelIgnore
+?> WowPedia link: [C_FriendList.AddOrDelIgnore](https://wow.gamepedia.com/API_C_FriendList.AddOrDelIgnore)
 
 No Documentation
 
@@ -34,6 +37,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |name|string|false|No Documentation|
 ### C_FriendList.AddOrRemoveFriend
+?> WowPedia link: [C_FriendList.AddOrRemoveFriend](https://wow.gamepedia.com/API_C_FriendList.AddOrRemoveFriend)
 
 No Documentation
 
@@ -43,6 +47,7 @@ No Documentation
 |name|string|false|No Documentation|
 |notes|string|false|No Documentation|
 ### C_FriendList.DelIgnore
+?> WowPedia link: [C_FriendList.DelIgnore](https://wow.gamepedia.com/API_C_FriendList.DelIgnore)
 
 No Documentation
 
@@ -55,6 +60,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |removed|bool|false|No Documentation|
 ### C_FriendList.DelIgnoreByIndex
+?> WowPedia link: [C_FriendList.DelIgnoreByIndex](https://wow.gamepedia.com/API_C_FriendList.DelIgnoreByIndex)
 
 No Documentation
 
@@ -63,6 +69,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |index|number|false|No Documentation|
 ### C_FriendList.GetFriendInfo
+?> WowPedia link: [C_FriendList.GetFriendInfo](https://wow.gamepedia.com/API_C_FriendList.GetFriendInfo)
 
 No Documentation
 
@@ -75,6 +82,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|FriendInfo|false|No Documentation|
 ### C_FriendList.GetFriendInfoByIndex
+?> WowPedia link: [C_FriendList.GetFriendInfoByIndex](https://wow.gamepedia.com/API_C_FriendList.GetFriendInfoByIndex)
 
 No Documentation
 
@@ -87,6 +95,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|FriendInfo|false|No Documentation|
 ### C_FriendList.GetIgnoreName
+?> WowPedia link: [C_FriendList.GetIgnoreName](https://wow.gamepedia.com/API_C_FriendList.GetIgnoreName)
 
 No Documentation
 
@@ -99,6 +108,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |name|string|true|No Documentation|
 ### C_FriendList.GetNumFriends
+?> WowPedia link: [C_FriendList.GetNumFriends](https://wow.gamepedia.com/API_C_FriendList.GetNumFriends)
 
 No Documentation
 
@@ -107,6 +117,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numFriends|number|false|No Documentation|
 ### C_FriendList.GetNumIgnores
+?> WowPedia link: [C_FriendList.GetNumIgnores](https://wow.gamepedia.com/API_C_FriendList.GetNumIgnores)
 
 No Documentation
 
@@ -115,6 +126,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numIgnores|number|false|No Documentation|
 ### C_FriendList.GetNumOnlineFriends
+?> WowPedia link: [C_FriendList.GetNumOnlineFriends](https://wow.gamepedia.com/API_C_FriendList.GetNumOnlineFriends)
 
 No Documentation
 
@@ -123,6 +135,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numOnline|number|false|No Documentation|
 ### C_FriendList.GetNumWhoResults
+?> WowPedia link: [C_FriendList.GetNumWhoResults](https://wow.gamepedia.com/API_C_FriendList.GetNumWhoResults)
 
 No Documentation
 
@@ -132,6 +145,7 @@ No Documentation
 |numWhos|number|false|No Documentation|
 |totalNumWhos|number|false|No Documentation|
 ### C_FriendList.GetSelectedFriend
+?> WowPedia link: [C_FriendList.GetSelectedFriend](https://wow.gamepedia.com/API_C_FriendList.GetSelectedFriend)
 
 No Documentation
 
@@ -140,6 +154,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |index|number|true|No Documentation|
 ### C_FriendList.GetSelectedIgnore
+?> WowPedia link: [C_FriendList.GetSelectedIgnore](https://wow.gamepedia.com/API_C_FriendList.GetSelectedIgnore)
 
 No Documentation
 
@@ -148,6 +163,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |index|number|true|No Documentation|
 ### C_FriendList.GetWhoInfo
+?> WowPedia link: [C_FriendList.GetWhoInfo](https://wow.gamepedia.com/API_C_FriendList.GetWhoInfo)
 
 No Documentation
 
@@ -160,6 +176,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|WhoInfo|false|No Documentation|
 ### C_FriendList.IsFriend
+?> WowPedia link: [C_FriendList.IsFriend](https://wow.gamepedia.com/API_C_FriendList.IsFriend)
 
 No Documentation
 
@@ -172,6 +189,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isFriend|bool|false|No Documentation|
 ### C_FriendList.IsIgnored
+?> WowPedia link: [C_FriendList.IsIgnored](https://wow.gamepedia.com/API_C_FriendList.IsIgnored)
 
 No Documentation
 
@@ -184,6 +202,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isIgnored|bool|false|No Documentation|
 ### C_FriendList.IsIgnoredByGuid
+?> WowPedia link: [C_FriendList.IsIgnoredByGuid](https://wow.gamepedia.com/API_C_FriendList.IsIgnoredByGuid)
 
 No Documentation
 
@@ -196,6 +215,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isIgnored|bool|false|No Documentation|
 ### C_FriendList.RemoveFriend
+?> WowPedia link: [C_FriendList.RemoveFriend](https://wow.gamepedia.com/API_C_FriendList.RemoveFriend)
 
 No Documentation
 
@@ -208,6 +228,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |removed|bool|false|No Documentation|
 ### C_FriendList.RemoveFriendByIndex
+?> WowPedia link: [C_FriendList.RemoveFriendByIndex](https://wow.gamepedia.com/API_C_FriendList.RemoveFriendByIndex)
 
 No Documentation
 
@@ -216,6 +237,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |index|number|false|No Documentation|
 ### C_FriendList.SendWho
+?> WowPedia link: [C_FriendList.SendWho](https://wow.gamepedia.com/API_C_FriendList.SendWho)
 
 No Documentation
 
@@ -224,6 +246,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |filter|string|false|No Documentation|
 ### C_FriendList.SetFriendNotes
+?> WowPedia link: [C_FriendList.SetFriendNotes](https://wow.gamepedia.com/API_C_FriendList.SetFriendNotes)
 
 No Documentation
 
@@ -237,6 +260,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |found|bool|false|No Documentation|
 ### C_FriendList.SetFriendNotesByIndex
+?> WowPedia link: [C_FriendList.SetFriendNotesByIndex](https://wow.gamepedia.com/API_C_FriendList.SetFriendNotesByIndex)
 
 No Documentation
 
@@ -246,6 +270,7 @@ No Documentation
 |index|number|false|No Documentation|
 |notes|string|false|No Documentation|
 ### C_FriendList.SetSelectedFriend
+?> WowPedia link: [C_FriendList.SetSelectedFriend](https://wow.gamepedia.com/API_C_FriendList.SetSelectedFriend)
 
 No Documentation
 
@@ -254,6 +279,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |index|number|false|No Documentation|
 ### C_FriendList.SetSelectedIgnore
+?> WowPedia link: [C_FriendList.SetSelectedIgnore](https://wow.gamepedia.com/API_C_FriendList.SetSelectedIgnore)
 
 No Documentation
 
@@ -262,6 +288,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |index|number|false|No Documentation|
 ### C_FriendList.SetWhoToUi
+?> WowPedia link: [C_FriendList.SetWhoToUi](https://wow.gamepedia.com/API_C_FriendList.SetWhoToUi)
 
 No Documentation
 
@@ -270,10 +297,12 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |whoToUi|bool|false|No Documentation|
 ### C_FriendList.ShowFriends
+?> WowPedia link: [C_FriendList.ShowFriends](https://wow.gamepedia.com/API_C_FriendList.ShowFriends)
 
 No Documentation
 
 ### C_FriendList.SortWho
+?> WowPedia link: [C_FriendList.SortWho](https://wow.gamepedia.com/API_C_FriendList.SortWho)
 
 No Documentation
 

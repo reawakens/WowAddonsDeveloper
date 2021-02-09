@@ -5,6 +5,7 @@ Type: System / Namespace: C_Club
 ## Functions
 
 ### C_Club.AcceptInvitation
+?> WowPedia link: [C_Club.AcceptInvitation](https://wow.gamepedia.com/API_C_Club.AcceptInvitation)
 
 No Documentation
 
@@ -13,6 +14,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 ### C_Club.AddClubStreamChatChannel
+?> WowPedia link: [C_Club.AddClubStreamChatChannel](https://wow.gamepedia.com/API_C_Club.AddClubStreamChatChannel)
 
 No Documentation
 
@@ -22,6 +24,7 @@ No Documentation
 |clubId|string|false|No Documentation|
 |streamId|string|false|No Documentation|
 ### C_Club.AdvanceStreamViewMarker
+?> WowPedia link: [C_Club.AdvanceStreamViewMarker](https://wow.gamepedia.com/API_C_Club.AdvanceStreamViewMarker)
 
 No Documentation
 
@@ -31,6 +34,7 @@ No Documentation
 |clubId|string|false|No Documentation|
 |streamId|string|false|No Documentation|
 ### C_Club.AssignMemberRole
+?> WowPedia link: [C_Club.AssignMemberRole](https://wow.gamepedia.com/API_C_Club.AssignMemberRole)
 
 No Documentation
 
@@ -41,6 +45,7 @@ No Documentation
 |memberId|number|false|No Documentation|
 |roleId|ClubRoleIdentifier|false|No Documentation|
 ### C_Club.CanResolvePlayerLocationFromClubMessageData
+?> WowPedia link: [C_Club.CanResolvePlayerLocationFromClubMessageData](https://wow.gamepedia.com/API_C_Club.CanResolvePlayerLocationFromClubMessageData)
 
 No Documentation
 
@@ -56,14 +61,17 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canResolve|bool|false|No Documentation|
 ### C_Club.ClearAutoAdvanceStreamViewMarker
+?> WowPedia link: [C_Club.ClearAutoAdvanceStreamViewMarker](https://wow.gamepedia.com/API_C_Club.ClearAutoAdvanceStreamViewMarker)
 
 No Documentation
 
 ### C_Club.ClearClubPresenceSubscription
+?> WowPedia link: [C_Club.ClearClubPresenceSubscription](https://wow.gamepedia.com/API_C_Club.ClearClubPresenceSubscription)
 
 No Documentation
 
 ### C_Club.CompareBattleNetDisplayName
+?> WowPedia link: [C_Club.CompareBattleNetDisplayName](https://wow.gamepedia.com/API_C_Club.CompareBattleNetDisplayName)
 
 No Documentation
 
@@ -78,6 +86,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |comparison|number|false|No Documentation|
 ### C_Club.CreateClub
+?> WowPedia link: [C_Club.CreateClub](https://wow.gamepedia.com/API_C_Club.CreateClub)
 
 No Documentation
 
@@ -90,6 +99,7 @@ No Documentation
 |clubType|ClubType|false|Valid types are BattleNet or Character|
 |avatarId|number|false|No Documentation|
 ### C_Club.CreateStream
+?> WowPedia link: [C_Club.CreateStream](https://wow.gamepedia.com/API_C_Club.CreateStream)
 
 Check the canCreateStream privilege.
 #### Arguments
@@ -100,6 +110,7 @@ Check the canCreateStream privilege.
 |subject|string|false|No Documentation|
 |leadersAndModeratorsOnly|bool|false|No Documentation|
 ### C_Club.CreateTicket
+?> WowPedia link: [C_Club.CreateTicket](https://wow.gamepedia.com/API_C_Club.CreateTicket)
 
 Check canCreateTicket privilege.
 #### Arguments
@@ -110,6 +121,7 @@ Check canCreateTicket privilege.
 |duration|number|true|Duration in seconds. nil never expires|
 |defaultStreamId|string|true|No Documentation|
 ### C_Club.DeclineInvitation
+?> WowPedia link: [C_Club.DeclineInvitation](https://wow.gamepedia.com/API_C_Club.DeclineInvitation)
 
 No Documentation
 
@@ -118,6 +130,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 ### C_Club.DestroyClub
+?> WowPedia link: [C_Club.DestroyClub](https://wow.gamepedia.com/API_C_Club.DestroyClub)
 
 Check the canDestroy privilege.
 #### Arguments
@@ -125,6 +138,7 @@ Check the canDestroy privilege.
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 ### C_Club.DestroyMessage
+?> WowPedia link: [C_Club.DestroyMessage](https://wow.gamepedia.com/API_C_Club.DestroyMessage)
 
 No Documentation
 
@@ -135,6 +149,7 @@ No Documentation
 |streamId|string|false|No Documentation|
 |messageId|ClubMessageIdentifier|false|No Documentation|
 ### C_Club.DestroyStream
+?> WowPedia link: [C_Club.DestroyStream](https://wow.gamepedia.com/API_C_Club.DestroyStream)
 
 Check canDestroyStream privilege.
 #### Arguments
@@ -143,6 +158,7 @@ Check canDestroyStream privilege.
 |clubId|string|false|No Documentation|
 |streamId|string|false|No Documentation|
 ### C_Club.DestroyTicket
+?> WowPedia link: [C_Club.DestroyTicket](https://wow.gamepedia.com/API_C_Club.DestroyTicket)
 
 Check canDestroyTicket privilege.
 #### Arguments
@@ -151,6 +167,7 @@ Check canDestroyTicket privilege.
 |clubId|string|false|No Documentation|
 |ticketId|string|false|No Documentation|
 ### C_Club.EditClub
+?> WowPedia link: [C_Club.EditClub](https://wow.gamepedia.com/API_C_Club.EditClub)
 
 nil arguments will not change existing club data
 #### Arguments
@@ -163,6 +180,7 @@ nil arguments will not change existing club data
 |avatarId|number|true|No Documentation|
 |broadcast|string|true|No Documentation|
 ### C_Club.EditMessage
+?> WowPedia link: [C_Club.EditMessage](https://wow.gamepedia.com/API_C_Club.EditMessage)
 
 No Documentation
 
@@ -174,6 +192,7 @@ No Documentation
 |messageId|ClubMessageIdentifier|false|No Documentation|
 |message|string|false|No Documentation|
 ### C_Club.EditStream
+?> WowPedia link: [C_Club.EditStream](https://wow.gamepedia.com/API_C_Club.EditStream)
 
 Check the canSetStreamName, canSetStreamSubject, canSetStreamAccess privileges. nil arguments will not change existing stream data.
 #### Arguments
@@ -185,10 +204,12 @@ Check the canSetStreamName, canSetStreamSubject, canSetStreamAccess privileges. 
 |subject|string|true|No Documentation|
 |leadersAndModeratorsOnly|bool|true|No Documentation|
 ### C_Club.Flush
+?> WowPedia link: [C_Club.Flush](https://wow.gamepedia.com/API_C_Club.Flush)
 
 No Documentation
 
 ### C_Club.FocusStream
+?> WowPedia link: [C_Club.FocusStream](https://wow.gamepedia.com/API_C_Club.FocusStream)
 
 No Documentation
 
@@ -202,6 +223,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |focused|bool|false|No Documentation|
 ### C_Club.GetAssignableRoles
+?> WowPedia link: [C_Club.GetAssignableRoles](https://wow.gamepedia.com/API_C_Club.GetAssignableRoles)
 
 No Documentation
 
@@ -215,6 +237,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |assignableRoles|table|false|No Documentation|
 ### C_Club.GetAvatarIdList
+?> WowPedia link: [C_Club.GetAvatarIdList](https://wow.gamepedia.com/API_C_Club.GetAvatarIdList)
 
 listen for AVATAR_LIST_UPDATED event. This can happen if we haven't downloaded the battle.net avatar list yet
 #### Arguments
@@ -226,6 +249,7 @@ listen for AVATAR_LIST_UPDATED event. This can happen if we haven't downloaded t
 |:---:|:---:|:---:|:---|
 |avatarIds|table|true|No Documentation|
 ### C_Club.GetClubCapacity
+?> WowPedia link: [C_Club.GetClubCapacity](https://wow.gamepedia.com/API_C_Club.GetClubCapacity)
 
 No Documentation
 
@@ -234,6 +258,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |capacity|number|false|No Documentation|
 ### C_Club.GetClubInfo
+?> WowPedia link: [C_Club.GetClubInfo](https://wow.gamepedia.com/API_C_Club.GetClubInfo)
 
 No Documentation
 
@@ -246,6 +271,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|ClubInfo|true|No Documentation|
 ### C_Club.GetClubLimits
+?> WowPedia link: [C_Club.GetClubLimits](https://wow.gamepedia.com/API_C_Club.GetClubLimits)
 
 No Documentation
 
@@ -258,6 +284,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |clubLimits|ClubLimits|false|No Documentation|
 ### C_Club.GetClubMembers
+?> WowPedia link: [C_Club.GetClubMembers](https://wow.gamepedia.com/API_C_Club.GetClubMembers)
 
 No Documentation
 
@@ -271,6 +298,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |members|table|false|No Documentation|
 ### C_Club.GetClubPrivileges
+?> WowPedia link: [C_Club.GetClubPrivileges](https://wow.gamepedia.com/API_C_Club.GetClubPrivileges)
 
 The privileges for the logged in user for this club
 #### Arguments
@@ -282,6 +310,7 @@ The privileges for the logged in user for this club
 |:---:|:---:|:---:|:---|
 |privilegeInfo|ClubPrivilegeInfo|false|No Documentation|
 ### C_Club.GetClubStreamNotificationSettings
+?> WowPedia link: [C_Club.GetClubStreamNotificationSettings](https://wow.gamepedia.com/API_C_Club.GetClubStreamNotificationSettings)
 
 No Documentation
 
@@ -294,6 +323,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |settings|table|false|No Documentation|
 ### C_Club.GetCommunityNameResultText
+?> WowPedia link: [C_Club.GetCommunityNameResultText](https://wow.gamepedia.com/API_C_Club.GetCommunityNameResultText)
 
 No Documentation
 
@@ -306,6 +336,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |errorCode|string|true|No Documentation|
 ### C_Club.GetGuildClubId
+?> WowPedia link: [C_Club.GetGuildClubId](https://wow.gamepedia.com/API_C_Club.GetGuildClubId)
 
 No Documentation
 
@@ -314,6 +345,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |guildClubId|string|true|No Documentation|
 ### C_Club.GetInfoFromLastCommunityChatLine
+?> WowPedia link: [C_Club.GetInfoFromLastCommunityChatLine](https://wow.gamepedia.com/API_C_Club.GetInfoFromLastCommunityChatLine)
 
 No Documentation
 
@@ -325,6 +357,7 @@ No Documentation
 |streamId|string|false|No Documentation|
 |clubType|ClubType|false|No Documentation|
 ### C_Club.GetInvitationCandidates
+?> WowPedia link: [C_Club.GetInvitationCandidates](https://wow.gamepedia.com/API_C_Club.GetInvitationCandidates)
 
 Returns a list of players that you can send a request to a Battle.net club. Returns an empty list for Character based clubs
 #### Arguments
@@ -340,6 +373,7 @@ Returns a list of players that you can send a request to a Battle.net club. Retu
 |:---:|:---:|:---:|:---|
 |candidates|table|false|No Documentation|
 ### C_Club.GetInvitationInfo
+?> WowPedia link: [C_Club.GetInvitationInfo](https://wow.gamepedia.com/API_C_Club.GetInvitationInfo)
 
 Get info about a specific club the active player has been invited to.
 #### Arguments
@@ -351,6 +385,7 @@ Get info about a specific club the active player has been invited to.
 |:---:|:---:|:---:|:---|
 |invitation|ClubSelfInvitationInfo|true|No Documentation|
 ### C_Club.GetInvitationsForClub
+?> WowPedia link: [C_Club.GetInvitationsForClub](https://wow.gamepedia.com/API_C_Club.GetInvitationsForClub)
 
 Get the pending invitations for this club. Call RequestInvitationsForClub() to retrieve invitations from server.
 #### Arguments
@@ -362,6 +397,7 @@ Get the pending invitations for this club. Call RequestInvitationsForClub() to r
 |:---:|:---:|:---:|:---|
 |invitations|table|false|No Documentation|
 ### C_Club.GetInvitationsForSelf
+?> WowPedia link: [C_Club.GetInvitationsForSelf](https://wow.gamepedia.com/API_C_Club.GetInvitationsForSelf)
 
 These are the clubs the active player has been invited to.
 #### Returns
@@ -369,6 +405,7 @@ These are the clubs the active player has been invited to.
 |:---:|:---:|:---:|:---|
 |invitations|table|false|No Documentation|
 ### C_Club.GetLastTicketResponse
+?> WowPedia link: [C_Club.GetLastTicketResponse](https://wow.gamepedia.com/API_C_Club.GetLastTicketResponse)
 
 No Documentation
 
@@ -383,6 +420,7 @@ No Documentation
 |info|ClubInfo|true|No Documentation|
 |showError|bool|false|No Documentation|
 ### C_Club.GetMemberInfo
+?> WowPedia link: [C_Club.GetMemberInfo](https://wow.gamepedia.com/API_C_Club.GetMemberInfo)
 
 No Documentation
 
@@ -396,6 +434,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|ClubMemberInfo|true|No Documentation|
 ### C_Club.GetMemberInfoForSelf
+?> WowPedia link: [C_Club.GetMemberInfoForSelf](https://wow.gamepedia.com/API_C_Club.GetMemberInfoForSelf)
 
 Info for the logged in user for this club
 #### Arguments
@@ -407,6 +446,7 @@ Info for the logged in user for this club
 |:---:|:---:|:---:|:---|
 |info|ClubMemberInfo|true|No Documentation|
 ### C_Club.GetMessageInfo
+?> WowPedia link: [C_Club.GetMessageInfo](https://wow.gamepedia.com/API_C_Club.GetMessageInfo)
 
 Get info about a particular message.
 #### Arguments
@@ -420,6 +460,7 @@ Get info about a particular message.
 |:---:|:---:|:---:|:---|
 |message|ClubMessageInfo|true|No Documentation|
 ### C_Club.GetMessageRanges
+?> WowPedia link: [C_Club.GetMessageRanges](https://wow.gamepedia.com/API_C_Club.GetMessageRanges)
 
 Get the ranges of the messages currently downloaded.
 #### Arguments
@@ -432,6 +473,7 @@ Get the ranges of the messages currently downloaded.
 |:---:|:---:|:---:|:---|
 |ranges|table|false|No Documentation|
 ### C_Club.GetMessagesBefore
+?> WowPedia link: [C_Club.GetMessagesBefore](https://wow.gamepedia.com/API_C_Club.GetMessagesBefore)
 
 Get downloaded messages before (and including) the specified messageId limited by count. These are filtered by ignored players
 #### Arguments
@@ -446,6 +488,7 @@ Get downloaded messages before (and including) the specified messageId limited b
 |:---:|:---:|:---:|:---|
 |messages|table|false|No Documentation|
 ### C_Club.GetMessagesInRange
+?> WowPedia link: [C_Club.GetMessagesInRange](https://wow.gamepedia.com/API_C_Club.GetMessagesInRange)
 
 Get downloaded messages in the given range. These are filtered by ignored players
 #### Arguments
@@ -460,6 +503,7 @@ Get downloaded messages in the given range. These are filtered by ignored player
 |:---:|:---:|:---:|:---|
 |messages|table|false|No Documentation|
 ### C_Club.GetStreamInfo
+?> WowPedia link: [C_Club.GetStreamInfo](https://wow.gamepedia.com/API_C_Club.GetStreamInfo)
 
 No Documentation
 
@@ -473,6 +517,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |streamInfo|ClubStreamInfo|true|No Documentation|
 ### C_Club.GetStreamViewMarker
+?> WowPedia link: [C_Club.GetStreamViewMarker](https://wow.gamepedia.com/API_C_Club.GetStreamViewMarker)
 
 No Documentation
 
@@ -486,6 +531,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |lastReadTime|number|true|nil if stream view is at current|
 ### C_Club.GetStreams
+?> WowPedia link: [C_Club.GetStreams](https://wow.gamepedia.com/API_C_Club.GetStreams)
 
 No Documentation
 
@@ -498,6 +544,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |streams|table|false|No Documentation|
 ### C_Club.GetSubscribedClubs
+?> WowPedia link: [C_Club.GetSubscribedClubs](https://wow.gamepedia.com/API_C_Club.GetSubscribedClubs)
 
 No Documentation
 
@@ -506,6 +553,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |clubs|table|false|No Documentation|
 ### C_Club.GetTickets
+?> WowPedia link: [C_Club.GetTickets](https://wow.gamepedia.com/API_C_Club.GetTickets)
 
 Get the existing tickets for this club. Call RequestTickets() to retrieve tickets from server.
 #### Arguments
@@ -517,6 +565,7 @@ Get the existing tickets for this club. Call RequestTickets() to retrieve ticket
 |:---:|:---:|:---:|:---|
 |tickets|table|false|No Documentation|
 ### C_Club.IsAccountMuted
+?> WowPedia link: [C_Club.IsAccountMuted](https://wow.gamepedia.com/API_C_Club.IsAccountMuted)
 
 No Documentation
 
@@ -529,6 +578,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |accountMuted|bool|false|No Documentation|
 ### C_Club.IsBeginningOfStream
+?> WowPedia link: [C_Club.IsBeginningOfStream](https://wow.gamepedia.com/API_C_Club.IsBeginningOfStream)
 
 Returns whether the given message is the first message in the stream, taking into account ignored messages
 #### Arguments
@@ -542,6 +592,7 @@ Returns whether the given message is the first message in the stream, taking int
 |:---:|:---:|:---:|:---|
 |isBeginningOfStream|bool|false|No Documentation|
 ### C_Club.IsEnabled
+?> WowPedia link: [C_Club.IsEnabled](https://wow.gamepedia.com/API_C_Club.IsEnabled)
 
 No Documentation
 
@@ -550,6 +601,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |clubsEnabled|bool|false|No Documentation|
 ### C_Club.IsRestricted
+?> WowPedia link: [C_Club.IsRestricted](https://wow.gamepedia.com/API_C_Club.IsRestricted)
 
 No Documentation
 
@@ -558,6 +610,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |restrictionReason|ClubRestrictionReason|false|No Documentation|
 ### C_Club.IsSubscribedToStream
+?> WowPedia link: [C_Club.IsSubscribedToStream](https://wow.gamepedia.com/API_C_Club.IsSubscribedToStream)
 
 No Documentation
 
@@ -571,6 +624,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |subscribed|bool|false|No Documentation|
 ### C_Club.KickMember
+?> WowPedia link: [C_Club.KickMember](https://wow.gamepedia.com/API_C_Club.KickMember)
 
 Check kickableRoleIds privilege.
 #### Arguments
@@ -579,6 +633,7 @@ Check kickableRoleIds privilege.
 |clubId|string|false|No Documentation|
 |memberId|number|false|No Documentation|
 ### C_Club.LeaveClub
+?> WowPedia link: [C_Club.LeaveClub](https://wow.gamepedia.com/API_C_Club.LeaveClub)
 
 No Documentation
 
@@ -587,6 +642,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 ### C_Club.RedeemTicket
+?> WowPedia link: [C_Club.RedeemTicket](https://wow.gamepedia.com/API_C_Club.RedeemTicket)
 
 No Documentation
 
@@ -595,6 +651,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |ticketId|string|false|No Documentation|
 ### C_Club.RequestInvitationsForClub
+?> WowPedia link: [C_Club.RequestInvitationsForClub](https://wow.gamepedia.com/API_C_Club.RequestInvitationsForClub)
 
 Request invitations for this club from server. Check canGetInvitation privilege.
 #### Arguments
@@ -602,6 +659,7 @@ Request invitations for this club from server. Check canGetInvitation privilege.
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 ### C_Club.RequestMoreMessagesBefore
+?> WowPedia link: [C_Club.RequestMoreMessagesBefore](https://wow.gamepedia.com/API_C_Club.RequestMoreMessagesBefore)
 
 Call this when the user scrolls near the top of the message view, and more need to be displayed. The history will be downloaded backwards (newest to oldest).
 #### Arguments
@@ -616,6 +674,7 @@ Call this when the user scrolls near the top of the message view, and more need 
 |:---:|:---:|:---:|:---|
 |alreadyHasMessages|bool|false|No Documentation|
 ### C_Club.RequestTicket
+?> WowPedia link: [C_Club.RequestTicket](https://wow.gamepedia.com/API_C_Club.RequestTicket)
 
 No Documentation
 
@@ -624,6 +683,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |ticketId|string|false|No Documentation|
 ### C_Club.RequestTickets
+?> WowPedia link: [C_Club.RequestTickets](https://wow.gamepedia.com/API_C_Club.RequestTickets)
 
 Request tickets from server. Check canGetTicket privilege.
 #### Arguments
@@ -631,6 +691,7 @@ Request tickets from server. Check canGetTicket privilege.
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 ### C_Club.RevokeInvitation
+?> WowPedia link: [C_Club.RevokeInvitation](https://wow.gamepedia.com/API_C_Club.RevokeInvitation)
 
 Check canRevokeOwnInvitation or canRevokeOtherInvitation
 #### Arguments
@@ -639,6 +700,7 @@ Check canRevokeOwnInvitation or canRevokeOtherInvitation
 |clubId|string|false|No Documentation|
 |memberId|number|false|No Documentation|
 ### C_Club.SendBattleTagFriendRequest
+?> WowPedia link: [C_Club.SendBattleTagFriendRequest](https://wow.gamepedia.com/API_C_Club.SendBattleTagFriendRequest)
 
 No Documentation
 
@@ -648,6 +710,7 @@ No Documentation
 |guildClubId|string|false|No Documentation|
 |memberId|number|false|No Documentation|
 ### C_Club.SendCharacterInvitation
+?> WowPedia link: [C_Club.SendCharacterInvitation](https://wow.gamepedia.com/API_C_Club.SendCharacterInvitation)
 
 No Documentation
 
@@ -657,6 +720,7 @@ No Documentation
 |clubId|string|false|No Documentation|
 |character|string|false|No Documentation|
 ### C_Club.SendInvitation
+?> WowPedia link: [C_Club.SendInvitation](https://wow.gamepedia.com/API_C_Club.SendInvitation)
 
 Check the canSendInvitation privilege.
 #### Arguments
@@ -665,6 +729,7 @@ Check the canSendInvitation privilege.
 |clubId|string|false|No Documentation|
 |memberId|number|false|No Documentation|
 ### C_Club.SendMessage
+?> WowPedia link: [C_Club.SendMessage](https://wow.gamepedia.com/API_C_Club.SendMessage)
 
 No Documentation
 
@@ -675,6 +740,7 @@ No Documentation
 |streamId|string|false|No Documentation|
 |message|string|false|No Documentation|
 ### C_Club.SetAutoAdvanceStreamViewMarker
+?> WowPedia link: [C_Club.SetAutoAdvanceStreamViewMarker](https://wow.gamepedia.com/API_C_Club.SetAutoAdvanceStreamViewMarker)
 
 Only one stream can be set for auto-advance at a time. Focused streams will have their view times advanced automatically.
 #### Arguments
@@ -683,6 +749,7 @@ Only one stream can be set for auto-advance at a time. Focused streams will have
 |clubId|string|false|No Documentation|
 |streamId|string|false|No Documentation|
 ### C_Club.SetAvatarTexture
+?> WowPedia link: [C_Club.SetAvatarTexture](https://wow.gamepedia.com/API_C_Club.SetAvatarTexture)
 
 No Documentation
 
@@ -693,6 +760,7 @@ No Documentation
 |avatarId|number|false|No Documentation|
 |clubType|ClubType|false|No Documentation|
 ### C_Club.SetClubMemberNote
+?> WowPedia link: [C_Club.SetClubMemberNote](https://wow.gamepedia.com/API_C_Club.SetClubMemberNote)
 
 Check the canSetOwnMemberNote and canSetOtherMemberNote privileges.
 #### Arguments
@@ -702,6 +770,7 @@ Check the canSetOwnMemberNote and canSetOtherMemberNote privileges.
 |memberId|number|false|No Documentation|
 |note|string|false|No Documentation|
 ### C_Club.SetClubPresenceSubscription
+?> WowPedia link: [C_Club.SetClubPresenceSubscription](https://wow.gamepedia.com/API_C_Club.SetClubPresenceSubscription)
 
 You can only be subscribed to 0 or 1 clubs for presence.  Subscribing to a new club automatically unsuscribes you to existing subscription.
 #### Arguments
@@ -709,6 +778,7 @@ You can only be subscribed to 0 or 1 clubs for presence.  Subscribing to a new c
 |:---:|:---:|:---:|:---|
 |clubId|string|false|No Documentation|
 ### C_Club.SetClubStreamNotificationSettings
+?> WowPedia link: [C_Club.SetClubStreamNotificationSettings](https://wow.gamepedia.com/API_C_Club.SetClubStreamNotificationSettings)
 
 No Documentation
 
@@ -718,6 +788,7 @@ No Documentation
 |clubId|string|false|No Documentation|
 |settings|table|false|No Documentation|
 ### C_Club.SetFavorite
+?> WowPedia link: [C_Club.SetFavorite](https://wow.gamepedia.com/API_C_Club.SetFavorite)
 
 No Documentation
 
@@ -727,6 +798,7 @@ No Documentation
 |clubId|string|false|No Documentation|
 |isFavorite|bool|false|No Documentation|
 ### C_Club.SetSocialQueueingEnabled
+?> WowPedia link: [C_Club.SetSocialQueueingEnabled](https://wow.gamepedia.com/API_C_Club.SetSocialQueueingEnabled)
 
 No Documentation
 
@@ -736,6 +808,7 @@ No Documentation
 |clubId|string|false|No Documentation|
 |enabled|bool|false|No Documentation|
 ### C_Club.ShouldAllowClubType
+?> WowPedia link: [C_Club.ShouldAllowClubType](https://wow.gamepedia.com/API_C_Club.ShouldAllowClubType)
 
 No Documentation
 
@@ -748,6 +821,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |clubTypeIsAllowed|bool|false|No Documentation|
 ### C_Club.UnfocusStream
+?> WowPedia link: [C_Club.UnfocusStream](https://wow.gamepedia.com/API_C_Club.UnfocusStream)
 
 No Documentation
 
@@ -757,6 +831,7 @@ No Documentation
 |clubId|string|false|No Documentation|
 |streamId|string|false|No Documentation|
 ### C_Club.ValidateText
+?> WowPedia link: [C_Club.ValidateText](https://wow.gamepedia.com/API_C_Club.ValidateText)
 
 No Documentation
 

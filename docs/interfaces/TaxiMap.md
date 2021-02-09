@@ -5,6 +5,7 @@ Type: System / Namespace: C_TaxiMap
 ## Functions
 
 ### C_TaxiMap.GetAllTaxiNodes
+?> WowPedia link: [C_TaxiMap.GetAllTaxiNodes](https://wow.gamepedia.com/API_C_TaxiMap.GetAllTaxiNodes)
 
 Returns information on taxi nodes at the current flight master.
 #### Arguments
@@ -16,6 +17,7 @@ Returns information on taxi nodes at the current flight master.
 |:---:|:---:|:---:|:---|
 |taxiNodes|table|false|No Documentation|
 ### C_TaxiMap.GetTaxiNodesForMap
+?> WowPedia link: [C_TaxiMap.GetTaxiNodesForMap](https://wow.gamepedia.com/API_C_TaxiMap.GetTaxiNodesForMap)
 
 Returns information on taxi nodes for a given map, without considering the current flight master.
 #### Arguments
@@ -27,6 +29,7 @@ Returns information on taxi nodes for a given map, without considering the curre
 |:---:|:---:|:---:|:---|
 |mapTaxiNodes|table|false|No Documentation|
 ### C_TaxiMap.ShouldMapShowTaxiNodes
+?> WowPedia link: [C_TaxiMap.ShouldMapShowTaxiNodes](https://wow.gamepedia.com/API_C_TaxiMap.ShouldMapShowTaxiNodes)
 
 No Documentation
 

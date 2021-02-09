@@ -5,6 +5,7 @@ Type: System / Namespace: C_PetJournal
 ## Functions
 
 ### C_PetJournal.GetDisplayIDByIndex
+?> WowPedia link: [C_PetJournal.GetDisplayIDByIndex](https://wow.gamepedia.com/API_C_PetJournal.GetDisplayIDByIndex)
 
 No Documentation
 
@@ -18,6 +19,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |displayID|number|true|No Documentation|
 ### C_PetJournal.GetDisplayProbabilityByIndex
+?> WowPedia link: [C_PetJournal.GetDisplayProbabilityByIndex](https://wow.gamepedia.com/API_C_PetJournal.GetDisplayProbabilityByIndex)
 
 No Documentation
 
@@ -31,6 +33,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |displayProbability|number|true|No Documentation|
 ### C_PetJournal.GetNumDisplays
+?> WowPedia link: [C_PetJournal.GetNumDisplays](https://wow.gamepedia.com/API_C_PetJournal.GetNumDisplays)
 
 No Documentation
 
@@ -43,6 +46,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numDisplays|number|true|No Documentation|
 ### C_PetJournal.GetPetSummonInfo
+?> WowPedia link: [C_PetJournal.GetPetSummonInfo](https://wow.gamepedia.com/API_C_PetJournal.GetPetSummonInfo)
 
 No Documentation
 
@@ -57,6 +61,7 @@ No Documentation
 |error|PetJournalError|false|No Documentation|
 |errorText|string|false|No Documentation|
 ### C_PetJournal.PetIsSummonable
+?> WowPedia link: [C_PetJournal.PetIsSummonable](https://wow.gamepedia.com/API_C_PetJournal.PetIsSummonable)
 
 No Documentation
 
@@ -69,6 +74,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isSummonable|bool|false|No Documentation|
 ### C_PetJournal.PetUsesRandomDisplay
+?> WowPedia link: [C_PetJournal.PetUsesRandomDisplay](https://wow.gamepedia.com/API_C_PetJournal.PetUsesRandomDisplay)
 
 No Documentation
 

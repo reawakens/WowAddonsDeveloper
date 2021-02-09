@@ -5,6 +5,7 @@ Type: System / Namespace: C_DeathInfo
 ## Functions
 
 ### C_DeathInfo.GetCorpseMapPosition
+?> WowPedia link: [C_DeathInfo.GetCorpseMapPosition](https://wow.gamepedia.com/API_C_DeathInfo.GetCorpseMapPosition)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |position|table|true|No Documentation|
 ### C_DeathInfo.GetDeathReleasePosition
+?> WowPedia link: [C_DeathInfo.GetDeathReleasePosition](https://wow.gamepedia.com/API_C_DeathInfo.GetDeathReleasePosition)
 
 No Documentation
 
@@ -29,6 +31,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |position|table|true|No Documentation|
 ### C_DeathInfo.GetGraveyardsForMap
+?> WowPedia link: [C_DeathInfo.GetGraveyardsForMap](https://wow.gamepedia.com/API_C_DeathInfo.GetGraveyardsForMap)
 
 No Documentation
 
@@ -41,6 +44,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |graveyards|table|false|No Documentation|
 ### C_DeathInfo.GetSelfResurrectOptions
+?> WowPedia link: [C_DeathInfo.GetSelfResurrectOptions](https://wow.gamepedia.com/API_C_DeathInfo.GetSelfResurrectOptions)
 
 No Documentation
 
@@ -49,6 +53,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |options|table|false|No Documentation|
 ### C_DeathInfo.UseSelfResurrectOption
+?> WowPedia link: [C_DeathInfo.UseSelfResurrectOption](https://wow.gamepedia.com/API_C_DeathInfo.UseSelfResurrectOption)
 
 No Documentation
 

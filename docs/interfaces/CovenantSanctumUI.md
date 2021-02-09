@@ -5,6 +5,7 @@ Type: System / Namespace: C_CovenantSanctumUI
 ## Functions
 
 ### C_CovenantSanctumUI.CanAccessReservoir
+?> WowPedia link: [C_CovenantSanctumUI.CanAccessReservoir](https://wow.gamepedia.com/API_C_CovenantSanctumUI.CanAccessReservoir)
 
 No Documentation
 
@@ -13,6 +14,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canAccess|bool|false|No Documentation|
 ### C_CovenantSanctumUI.CanDepositAnima
+?> WowPedia link: [C_CovenantSanctumUI.CanDepositAnima](https://wow.gamepedia.com/API_C_CovenantSanctumUI.CanDepositAnima)
 
 No Documentation
 
@@ -21,14 +23,17 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canDeposit|bool|false|No Documentation|
 ### C_CovenantSanctumUI.DepositAnima
+?> WowPedia link: [C_CovenantSanctumUI.DepositAnima](https://wow.gamepedia.com/API_C_CovenantSanctumUI.DepositAnima)
 
 No Documentation
 
 ### C_CovenantSanctumUI.EndInteraction
+?> WowPedia link: [C_CovenantSanctumUI.EndInteraction](https://wow.gamepedia.com/API_C_CovenantSanctumUI.EndInteraction)
 
 No Documentation
 
 ### C_CovenantSanctumUI.GetAnimaInfo
+?> WowPedia link: [C_CovenantSanctumUI.GetAnimaInfo](https://wow.gamepedia.com/API_C_CovenantSanctumUI.GetAnimaInfo)
 
 No Documentation
 
@@ -38,6 +43,7 @@ No Documentation
 |currencyID|number|false|No Documentation|
 |maxDisplayableValue|number|false|No Documentation|
 ### C_CovenantSanctumUI.GetCurrentTalentTreeID
+?> WowPedia link: [C_CovenantSanctumUI.GetCurrentTalentTreeID](https://wow.gamepedia.com/API_C_CovenantSanctumUI.GetCurrentTalentTreeID)
 
 No Documentation
 
@@ -46,6 +52,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |currentTalentTreeID|number|true|No Documentation|
 ### C_CovenantSanctumUI.GetFeatures
+?> WowPedia link: [C_CovenantSanctumUI.GetFeatures](https://wow.gamepedia.com/API_C_CovenantSanctumUI.GetFeatures)
 
 No Documentation
 
@@ -54,6 +61,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |features|table|false|No Documentation|
 ### C_CovenantSanctumUI.GetRenownLevel
+?> WowPedia link: [C_CovenantSanctumUI.GetRenownLevel](https://wow.gamepedia.com/API_C_CovenantSanctumUI.GetRenownLevel)
 
 No Documentation
 
@@ -62,6 +70,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |level|number|false|No Documentation|
 ### C_CovenantSanctumUI.GetRenownLevels
+?> WowPedia link: [C_CovenantSanctumUI.GetRenownLevels](https://wow.gamepedia.com/API_C_CovenantSanctumUI.GetRenownLevels)
 
 No Documentation
 
@@ -74,6 +83,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |levels|table|false|No Documentation|
 ### C_CovenantSanctumUI.GetRenownRewardsForLevel
+?> WowPedia link: [C_CovenantSanctumUI.GetRenownRewardsForLevel](https://wow.gamepedia.com/API_C_CovenantSanctumUI.GetRenownRewardsForLevel)
 
 No Documentation
 
@@ -87,6 +97,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |rewards|table|false|No Documentation|
 ### C_CovenantSanctumUI.GetSanctumType
+?> WowPedia link: [C_CovenantSanctumUI.GetSanctumType](https://wow.gamepedia.com/API_C_CovenantSanctumUI.GetSanctumType)
 
 No Documentation
 
@@ -95,6 +106,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |sanctumType|GarrTalentFeatureSubtype|true|No Documentation|
 ### C_CovenantSanctumUI.GetSoulCurrencies
+?> WowPedia link: [C_CovenantSanctumUI.GetSoulCurrencies](https://wow.gamepedia.com/API_C_CovenantSanctumUI.GetSoulCurrencies)
 
 No Documentation
 

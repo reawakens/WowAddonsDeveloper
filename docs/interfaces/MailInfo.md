@@ -5,6 +5,7 @@ Type: System / Namespace: C_Mail
 ## Functions
 
 ### C_Mail.CanCheckInbox
+?> WowPedia link: [C_Mail.CanCheckInbox](https://wow.gamepedia.com/API_C_Mail.CanCheckInbox)
 
 No Documentation
 
@@ -14,6 +15,7 @@ No Documentation
 |canCheckInbox|bool|false|No Documentation|
 |secondsUntilAllowed|number|false|No Documentation|
 ### C_Mail.HasInboxMoney
+?> WowPedia link: [C_Mail.HasInboxMoney](https://wow.gamepedia.com/API_C_Mail.HasInboxMoney)
 
 No Documentation
 
@@ -26,6 +28,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |inboxItemHasMoneyAttached|bool|false|No Documentation|
 ### C_Mail.IsCommandPending
+?> WowPedia link: [C_Mail.IsCommandPending](https://wow.gamepedia.com/API_C_Mail.IsCommandPending)
 
 No Documentation
 

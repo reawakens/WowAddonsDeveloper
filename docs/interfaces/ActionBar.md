@@ -5,6 +5,7 @@ Type: System / Namespace: C_ActionBar
 ## Functions
 
 ### C_ActionBar.FindFlyoutActionButtons
+?> WowPedia link: [C_ActionBar.FindFlyoutActionButtons](https://wow.gamepedia.com/API_C_ActionBar.FindFlyoutActionButtons)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |slots|table|false|No Documentation|
 ### C_ActionBar.FindPetActionButtons
+?> WowPedia link: [C_ActionBar.FindPetActionButtons](https://wow.gamepedia.com/API_C_ActionBar.FindPetActionButtons)
 
 No Documentation
 
@@ -29,6 +31,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |slots|table|false|No Documentation|
 ### C_ActionBar.FindSpellActionButtons
+?> WowPedia link: [C_ActionBar.FindSpellActionButtons](https://wow.gamepedia.com/API_C_ActionBar.FindSpellActionButtons)
 
 No Documentation
 
@@ -41,6 +44,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |slots|table|false|No Documentation|
 ### C_ActionBar.GetBonusBarIndexForSlot
+?> WowPedia link: [C_ActionBar.GetBonusBarIndexForSlot](https://wow.gamepedia.com/API_C_ActionBar.GetBonusBarIndexForSlot)
 
 No Documentation
 
@@ -53,6 +57,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |bonusBarIndex|number|true|No Documentation|
 ### C_ActionBar.GetPetActionPetBarIndices
+?> WowPedia link: [C_ActionBar.GetPetActionPetBarIndices](https://wow.gamepedia.com/API_C_ActionBar.GetPetActionPetBarIndices)
 
 No Documentation
 
@@ -65,6 +70,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |slots|table|false|No Documentation|
 ### C_ActionBar.HasFlyoutActionButtons
+?> WowPedia link: [C_ActionBar.HasFlyoutActionButtons](https://wow.gamepedia.com/API_C_ActionBar.HasFlyoutActionButtons)
 
 No Documentation
 
@@ -77,6 +83,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasFlyoutActionButtons|bool|false|No Documentation|
 ### C_ActionBar.HasPetActionButtons
+?> WowPedia link: [C_ActionBar.HasPetActionButtons](https://wow.gamepedia.com/API_C_ActionBar.HasPetActionButtons)
 
 No Documentation
 
@@ -89,6 +96,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasPetActionButtons|bool|false|No Documentation|
 ### C_ActionBar.HasPetActionPetBarIndices
+?> WowPedia link: [C_ActionBar.HasPetActionPetBarIndices](https://wow.gamepedia.com/API_C_ActionBar.HasPetActionPetBarIndices)
 
 No Documentation
 
@@ -101,6 +109,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasPetActionPetBarIndices|bool|false|No Documentation|
 ### C_ActionBar.HasSpellActionButtons
+?> WowPedia link: [C_ActionBar.HasSpellActionButtons](https://wow.gamepedia.com/API_C_ActionBar.HasSpellActionButtons)
 
 No Documentation
 
@@ -113,6 +122,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasSpellActionButtons|bool|false|No Documentation|
 ### C_ActionBar.IsAutoCastPetAction
+?> WowPedia link: [C_ActionBar.IsAutoCastPetAction](https://wow.gamepedia.com/API_C_ActionBar.IsAutoCastPetAction)
 
 No Documentation
 
@@ -125,6 +135,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isAutoCastPetAction|bool|false|No Documentation|
 ### C_ActionBar.IsEnabledAutoCastPetAction
+?> WowPedia link: [C_ActionBar.IsEnabledAutoCastPetAction](https://wow.gamepedia.com/API_C_ActionBar.IsEnabledAutoCastPetAction)
 
 No Documentation
 
@@ -137,6 +148,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isEnabledAutoCastPetAction|bool|false|No Documentation|
 ### C_ActionBar.IsHarmfulAction
+?> WowPedia link: [C_ActionBar.IsHarmfulAction](https://wow.gamepedia.com/API_C_ActionBar.IsHarmfulAction)
 
 No Documentation
 
@@ -150,6 +162,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isHarmful|bool|false|No Documentation|
 ### C_ActionBar.IsHelpfulAction
+?> WowPedia link: [C_ActionBar.IsHelpfulAction](https://wow.gamepedia.com/API_C_ActionBar.IsHelpfulAction)
 
 No Documentation
 
@@ -163,6 +176,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isHelpful|bool|false|No Documentation|
 ### C_ActionBar.IsOnBarOrSpecialBar
+?> WowPedia link: [C_ActionBar.IsOnBarOrSpecialBar](https://wow.gamepedia.com/API_C_ActionBar.IsOnBarOrSpecialBar)
 
 No Documentation
 
@@ -175,6 +189,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isOnBarOrSpecialBar|bool|false|No Documentation|
 ### C_ActionBar.PutActionInSlot
+?> WowPedia link: [C_ActionBar.PutActionInSlot](https://wow.gamepedia.com/API_C_ActionBar.PutActionInSlot)
 
 No Documentation
 
@@ -183,6 +198,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |slotID|number|false|No Documentation|
 ### C_ActionBar.ShouldOverrideBarShowHealthBar
+?> WowPedia link: [C_ActionBar.ShouldOverrideBarShowHealthBar](https://wow.gamepedia.com/API_C_ActionBar.ShouldOverrideBarShowHealthBar)
 
 No Documentation
 
@@ -191,6 +207,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |showHealthBar|bool|false|No Documentation|
 ### C_ActionBar.ShouldOverrideBarShowManaBar
+?> WowPedia link: [C_ActionBar.ShouldOverrideBarShowManaBar](https://wow.gamepedia.com/API_C_ActionBar.ShouldOverrideBarShowManaBar)
 
 No Documentation
 
@@ -199,6 +216,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |showManaBar|bool|false|No Documentation|
 ### C_ActionBar.ToggleAutoCastPetAction
+?> WowPedia link: [C_ActionBar.ToggleAutoCastPetAction](https://wow.gamepedia.com/API_C_ActionBar.ToggleAutoCastPetAction)
 
 No Documentation
 

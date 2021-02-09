@@ -5,6 +5,7 @@ Type: System / Namespace: C_SocialQueue
 ## Functions
 
 ### C_SocialQueue.GetAllGroups
+?> WowPedia link: [C_SocialQueue.GetAllGroups](https://wow.gamepedia.com/API_C_SocialQueue.GetAllGroups)
 
 No Documentation
 
@@ -18,6 +19,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |groupGUIDs|table|false|No Documentation|
 ### C_SocialQueue.GetConfig
+?> WowPedia link: [C_SocialQueue.GetConfig](https://wow.gamepedia.com/API_C_SocialQueue.GetConfig)
 
 No Documentation
 
@@ -26,6 +28,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |config|SocialQueueConfig|false|No Documentation|
 ### C_SocialQueue.GetGroupForPlayer
+?> WowPedia link: [C_SocialQueue.GetGroupForPlayer](https://wow.gamepedia.com/API_C_SocialQueue.GetGroupForPlayer)
 
 No Documentation
 
@@ -39,6 +42,7 @@ No Documentation
 |groupGUID|string|false|No Documentation|
 |isSoloQueueParty|bool|false|No Documentation|
 ### C_SocialQueue.GetGroupInfo
+?> WowPedia link: [C_SocialQueue.GetGroupInfo](https://wow.gamepedia.com/API_C_SocialQueue.GetGroupInfo)
 
 No Documentation
 
@@ -58,6 +62,7 @@ No Documentation
 |questSessionActive|bool|false|No Documentation|
 |leaderGUID|string|false|No Documentation|
 ### C_SocialQueue.GetGroupMembers
+?> WowPedia link: [C_SocialQueue.GetGroupMembers](https://wow.gamepedia.com/API_C_SocialQueue.GetGroupMembers)
 
 No Documentation
 
@@ -70,6 +75,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |groupMembers|table|false|No Documentation|
 ### C_SocialQueue.GetGroupQueues
+?> WowPedia link: [C_SocialQueue.GetGroupQueues](https://wow.gamepedia.com/API_C_SocialQueue.GetGroupQueues)
 
 No Documentation
 
@@ -82,6 +88,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |queues|table|false|No Documentation|
 ### C_SocialQueue.RequestToJoin
+?> WowPedia link: [C_SocialQueue.RequestToJoin](https://wow.gamepedia.com/API_C_SocialQueue.RequestToJoin)
 
 No Documentation
 
@@ -97,6 +104,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |requestSuccessful|bool|false|No Documentation|
 ### C_SocialQueue.SignalToastDisplayed
+?> WowPedia link: [C_SocialQueue.SignalToastDisplayed](https://wow.gamepedia.com/API_C_SocialQueue.SignalToastDisplayed)
 
 No Documentation
 

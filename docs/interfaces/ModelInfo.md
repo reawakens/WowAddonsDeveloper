@@ -5,6 +5,7 @@ Type: System / Namespace: C_ModelInfo
 ## Functions
 
 ### C_ModelInfo.AddActiveModelScene
+?> WowPedia link: [C_ModelInfo.AddActiveModelScene](https://wow.gamepedia.com/API_C_ModelInfo.AddActiveModelScene)
 
 This function does nothing in public clients
 #### Arguments
@@ -13,6 +14,7 @@ This function does nothing in public clients
 |modelSceneFrame|table|false|No Documentation|
 |modelSceneID|number|false|No Documentation|
 ### C_ModelInfo.AddActiveModelSceneActor
+?> WowPedia link: [C_ModelInfo.AddActiveModelSceneActor](https://wow.gamepedia.com/API_C_ModelInfo.AddActiveModelSceneActor)
 
 This function does nothing in public clients
 #### Arguments
@@ -21,6 +23,7 @@ This function does nothing in public clients
 |modelSceneFrameActor|table|false|No Documentation|
 |modelSceneActorID|number|false|No Documentation|
 ### C_ModelInfo.ClearActiveModelScene
+?> WowPedia link: [C_ModelInfo.ClearActiveModelScene](https://wow.gamepedia.com/API_C_ModelInfo.ClearActiveModelScene)
 
 This function does nothing in public clients
 #### Arguments
@@ -28,6 +31,7 @@ This function does nothing in public clients
 |:---:|:---:|:---:|:---|
 |modelSceneFrame|table|false|No Documentation|
 ### C_ModelInfo.ClearActiveModelSceneActor
+?> WowPedia link: [C_ModelInfo.ClearActiveModelSceneActor](https://wow.gamepedia.com/API_C_ModelInfo.ClearActiveModelSceneActor)
 
 This function does nothing in public clients
 #### Arguments
@@ -35,6 +39,7 @@ This function does nothing in public clients
 |:---:|:---:|:---:|:---|
 |modelSceneFrameActor|table|false|No Documentation|
 ### C_ModelInfo.GetModelSceneActorDisplayInfoByID
+?> WowPedia link: [C_ModelInfo.GetModelSceneActorDisplayInfoByID](https://wow.gamepedia.com/API_C_ModelInfo.GetModelSceneActorDisplayInfoByID)
 
 No Documentation
 
@@ -47,6 +52,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |actorDisplayInfo|UIModelSceneActorDisplayInfo|false|No Documentation|
 ### C_ModelInfo.GetModelSceneActorInfoByID
+?> WowPedia link: [C_ModelInfo.GetModelSceneActorInfoByID](https://wow.gamepedia.com/API_C_ModelInfo.GetModelSceneActorInfoByID)
 
 No Documentation
 
@@ -59,6 +65,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |actorInfo|UIModelSceneActorInfo|false|No Documentation|
 ### C_ModelInfo.GetModelSceneCameraInfoByID
+?> WowPedia link: [C_ModelInfo.GetModelSceneCameraInfoByID](https://wow.gamepedia.com/API_C_ModelInfo.GetModelSceneCameraInfoByID)
 
 No Documentation
 
@@ -71,6 +78,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |modelSceneCameraInfo|UIModelSceneCameraInfo|false|No Documentation|
 ### C_ModelInfo.GetModelSceneInfoByID
+?> WowPedia link: [C_ModelInfo.GetModelSceneInfoByID](https://wow.gamepedia.com/API_C_ModelInfo.GetModelSceneInfoByID)
 
 No Documentation
 

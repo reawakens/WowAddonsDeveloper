@@ -5,6 +5,7 @@ Type: System / Namespace: C_Garrison
 ## Functions
 
 ### C_Garrison.AddFollowerToMission
+?> WowPedia link: [C_Garrison.AddFollowerToMission](https://wow.gamepedia.com/API_C_Garrison.AddFollowerToMission)
 
 No Documentation
 
@@ -19,6 +20,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |followerAdded|bool|false|No Documentation|
 ### C_Garrison.GetAutoCombatDamageClassValues
+?> WowPedia link: [C_Garrison.GetAutoCombatDamageClassValues](https://wow.gamepedia.com/API_C_Garrison.GetAutoCombatDamageClassValues)
 
 No Documentation
 
@@ -27,6 +29,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |damageClassStrings|table|false|No Documentation|
 ### C_Garrison.GetAutoMissionBoardState
+?> WowPedia link: [C_Garrison.GetAutoMissionBoardState](https://wow.gamepedia.com/API_C_Garrison.GetAutoMissionBoardState)
 
 No Documentation
 
@@ -39,6 +42,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |targetInfo|table|false|No Documentation|
 ### C_Garrison.GetAutoMissionEnvironmentEffect
+?> WowPedia link: [C_Garrison.GetAutoMissionEnvironmentEffect](https://wow.gamepedia.com/API_C_Garrison.GetAutoMissionEnvironmentEffect)
 
 No Documentation
 
@@ -51,6 +55,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |autoMissionEnvEffect|AutoMissionEnvironmentEffect|true|No Documentation|
 ### C_Garrison.GetAutoMissionTargetingInfo
+?> WowPedia link: [C_Garrison.GetAutoMissionTargetingInfo](https://wow.gamepedia.com/API_C_Garrison.GetAutoMissionTargetingInfo)
 
 No Documentation
 
@@ -65,6 +70,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |targetInfo|table|false|No Documentation|
 ### C_Garrison.GetAutoTroops
+?> WowPedia link: [C_Garrison.GetAutoTroops](https://wow.gamepedia.com/API_C_Garrison.GetAutoTroops)
 
 No Documentation
 
@@ -77,6 +83,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |autoTroopInfo|table|false|No Documentation|
 ### C_Garrison.GetCombatLogSpellInfo
+?> WowPedia link: [C_Garrison.GetCombatLogSpellInfo](https://wow.gamepedia.com/API_C_Garrison.GetCombatLogSpellInfo)
 
 No Documentation
 
@@ -89,6 +96,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |spellInfo|AutoCombatSpellInfo|true|No Documentation|
 ### C_Garrison.GetCurrentGarrTalentTreeFriendshipFactionID
+?> WowPedia link: [C_Garrison.GetCurrentGarrTalentTreeFriendshipFactionID](https://wow.gamepedia.com/API_C_Garrison.GetCurrentGarrTalentTreeFriendshipFactionID)
 
 No Documentation
 
@@ -97,6 +105,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |currentGarrTalentTreeFriendshipFactionID|number|true|No Documentation|
 ### C_Garrison.GetCurrentGarrTalentTreeID
+?> WowPedia link: [C_Garrison.GetCurrentGarrTalentTreeID](https://wow.gamepedia.com/API_C_Garrison.GetCurrentGarrTalentTreeID)
 
 No Documentation
 
@@ -105,6 +114,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |currentGarrTalentTreeID|number|true|No Documentation|
 ### C_Garrison.GetFollowerAutoCombatSpells
+?> WowPedia link: [C_Garrison.GetFollowerAutoCombatSpells](https://wow.gamepedia.com/API_C_Garrison.GetFollowerAutoCombatSpells)
 
 No Documentation
 
@@ -118,6 +128,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |spellInfo|table|false|No Documentation|
 ### C_Garrison.GetFollowerAutoCombatStats
+?> WowPedia link: [C_Garrison.GetFollowerAutoCombatStats](https://wow.gamepedia.com/API_C_Garrison.GetFollowerAutoCombatStats)
 
 No Documentation
 
@@ -130,6 +141,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |autoCombatInfo|FollowerAutoCombatStatsInfo|true|No Documentation|
 ### C_Garrison.GetFollowerMissionCompleteInfo
+?> WowPedia link: [C_Garrison.GetFollowerMissionCompleteInfo](https://wow.gamepedia.com/API_C_Garrison.GetFollowerMissionCompleteInfo)
 
 No Documentation
 
@@ -142,6 +154,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |followerMissionCompleteInfo|FollowerMissionCompleteInfo|false|No Documentation|
 ### C_Garrison.GetGarrisonPlotsInstancesForMap
+?> WowPedia link: [C_Garrison.GetGarrisonPlotsInstancesForMap](https://wow.gamepedia.com/API_C_Garrison.GetGarrisonPlotsInstancesForMap)
 
 No Documentation
 
@@ -154,6 +167,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |garrisonPlotInstances|table|false|No Documentation|
 ### C_Garrison.GetGarrisonTalentTreeCurrencyTypes
+?> WowPedia link: [C_Garrison.GetGarrisonTalentTreeCurrencyTypes](https://wow.gamepedia.com/API_C_Garrison.GetGarrisonTalentTreeCurrencyTypes)
 
 No Documentation
 
@@ -166,6 +180,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |garrTalentTreeCurrencyType|number|true|No Documentation|
 ### C_Garrison.GetGarrisonTalentTreeType
+?> WowPedia link: [C_Garrison.GetGarrisonTalentTreeType](https://wow.gamepedia.com/API_C_Garrison.GetGarrisonTalentTreeType)
 
 No Documentation
 
@@ -178,6 +193,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |garrTalentTreeType|number|false|No Documentation|
 ### C_Garrison.GetMissionCompleteEncounters
+?> WowPedia link: [C_Garrison.GetMissionCompleteEncounters](https://wow.gamepedia.com/API_C_Garrison.GetMissionCompleteEncounters)
 
 No Documentation
 
@@ -190,6 +206,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |encounters|table|false|No Documentation|
 ### C_Garrison.GetMissionDeploymentInfo
+?> WowPedia link: [C_Garrison.GetMissionDeploymentInfo](https://wow.gamepedia.com/API_C_Garrison.GetMissionDeploymentInfo)
 
 No Documentation
 
@@ -202,6 +219,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |missionDeploymentInfo|MissionDeploymentInfo|false|No Documentation|
 ### C_Garrison.GetMissionEncounterIconInfo
+?> WowPedia link: [C_Garrison.GetMissionEncounterIconInfo](https://wow.gamepedia.com/API_C_Garrison.GetMissionEncounterIconInfo)
 
 No Documentation
 
@@ -214,6 +232,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |missionEncounterIconInfo|MissionEncounterIconInfo|false|No Documentation|
 ### C_Garrison.GetTalentInfo
+?> WowPedia link: [C_Garrison.GetTalentInfo](https://wow.gamepedia.com/API_C_Garrison.GetTalentInfo)
 
 No Documentation
 
@@ -226,6 +245,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|GarrisonTalentInfo|false|No Documentation|
 ### C_Garrison.GetTalentPointsSpentInTalentTree
+?> WowPedia link: [C_Garrison.GetTalentPointsSpentInTalentTree](https://wow.gamepedia.com/API_C_Garrison.GetTalentPointsSpentInTalentTree)
 
 No Documentation
 
@@ -238,6 +258,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |talentPoints|number|false|No Documentation|
 ### C_Garrison.GetTalentTreeIDsByClassID
+?> WowPedia link: [C_Garrison.GetTalentTreeIDsByClassID](https://wow.gamepedia.com/API_C_Garrison.GetTalentTreeIDsByClassID)
 
 No Documentation
 
@@ -251,6 +272,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |treeIDs|table|false|No Documentation|
 ### C_Garrison.GetTalentTreeInfo
+?> WowPedia link: [C_Garrison.GetTalentTreeInfo](https://wow.gamepedia.com/API_C_Garrison.GetTalentTreeInfo)
 
 No Documentation
 
@@ -263,6 +285,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|GarrisonTalentTreeInfo|false|No Documentation|
 ### C_Garrison.GetTalentTreeResetInfo
+?> WowPedia link: [C_Garrison.GetTalentTreeResetInfo](https://wow.gamepedia.com/API_C_Garrison.GetTalentTreeResetInfo)
 
 No Documentation
 
@@ -276,6 +299,7 @@ No Documentation
 |goldCost|number|false|No Documentation|
 |currencyCosts|table|false|No Documentation|
 ### C_Garrison.GetTalentTreeTalentPointResearchInfo
+?> WowPedia link: [C_Garrison.GetTalentTreeTalentPointResearchInfo](https://wow.gamepedia.com/API_C_Garrison.GetTalentTreeTalentPointResearchInfo)
 
 No Documentation
 
@@ -292,6 +316,7 @@ No Documentation
 |currencyCosts|table|false|No Documentation|
 |durationSecs|number|false|No Documentation|
 ### C_Garrison.GetTalentUnlockWorldQuest
+?> WowPedia link: [C_Garrison.GetTalentUnlockWorldQuest](https://wow.gamepedia.com/API_C_Garrison.GetTalentUnlockWorldQuest)
 
 No Documentation
 
@@ -304,6 +329,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |worldQuestID|number|false|No Documentation|
 ### C_Garrison.HasAdventures
+?> WowPedia link: [C_Garrison.HasAdventures](https://wow.gamepedia.com/API_C_Garrison.HasAdventures)
 
 No Documentation
 
@@ -312,6 +338,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasAdventures|bool|false|No Documentation|
 ### C_Garrison.IsAtGarrisonMissionNPC
+?> WowPedia link: [C_Garrison.IsAtGarrisonMissionNPC](https://wow.gamepedia.com/API_C_Garrison.IsAtGarrisonMissionNPC)
 
 No Documentation
 
@@ -320,6 +347,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |atGarrisonMissionNPC|bool|false|No Documentation|
 ### C_Garrison.IsEnvironmentCountered
+?> WowPedia link: [C_Garrison.IsEnvironmentCountered](https://wow.gamepedia.com/API_C_Garrison.IsEnvironmentCountered)
 
 No Documentation
 
@@ -332,6 +360,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |environmentCountered|bool|false|No Documentation|
 ### C_Garrison.IsTalentConditionMet
+?> WowPedia link: [C_Garrison.IsTalentConditionMet](https://wow.gamepedia.com/API_C_Garrison.IsTalentConditionMet)
 
 No Documentation
 
@@ -345,6 +374,7 @@ No Documentation
 |isMet|bool|false|No Documentation|
 |failureString|string|true|No Documentation|
 ### C_Garrison.RegenerateCombatLog
+?> WowPedia link: [C_Garrison.RegenerateCombatLog](https://wow.gamepedia.com/API_C_Garrison.RegenerateCombatLog)
 
 No Documentation
 
@@ -353,6 +383,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |missionID|number|false|No Documentation|
 ### C_Garrison.RemoveFollowerFromMission
+?> WowPedia link: [C_Garrison.RemoveFollowerFromMission](https://wow.gamepedia.com/API_C_Garrison.RemoveFollowerFromMission)
 
 No Documentation
 
@@ -363,6 +394,7 @@ No Documentation
 |followerID|string|false|No Documentation|
 |boardIndex|number|true|No Documentation|
 ### C_Garrison.RushHealAllFollowers
+?> WowPedia link: [C_Garrison.RushHealAllFollowers](https://wow.gamepedia.com/API_C_Garrison.RushHealAllFollowers)
 
 No Documentation
 
@@ -371,6 +403,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |followerType|number|false|No Documentation|
 ### C_Garrison.RushHealFollower
+?> WowPedia link: [C_Garrison.RushHealFollower](https://wow.gamepedia.com/API_C_Garrison.RushHealFollower)
 
 No Documentation
 
@@ -379,6 +412,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |garrFollowerID|string|false|No Documentation|
 ### C_Garrison.SetAutoCombatSpellFastForward
+?> WowPedia link: [C_Garrison.SetAutoCombatSpellFastForward](https://wow.gamepedia.com/API_C_Garrison.SetAutoCombatSpellFastForward)
 
 No Documentation
 

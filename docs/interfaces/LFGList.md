@@ -5,6 +5,7 @@ Type: System / Namespace: C_LFGList
 ## Functions
 
 ### C_LFGList.CanActiveEntryUseAutoAccept
+?> WowPedia link: [C_LFGList.CanActiveEntryUseAutoAccept](https://wow.gamepedia.com/API_C_LFGList.CanActiveEntryUseAutoAccept)
 
 No Documentation
 
@@ -13,6 +14,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canUseAutoAccept|bool|false|No Documentation|
 ### C_LFGList.CanCreateQuestGroup
+?> WowPedia link: [C_LFGList.CanCreateQuestGroup](https://wow.gamepedia.com/API_C_LFGList.CanCreateQuestGroup)
 
 No Documentation
 
@@ -25,22 +27,27 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canCreate|bool|false|No Documentation|
 ### C_LFGList.ClearApplicationTextFields
+?> WowPedia link: [C_LFGList.ClearApplicationTextFields](https://wow.gamepedia.com/API_C_LFGList.ClearApplicationTextFields)
 
 No Documentation
 
 ### C_LFGList.ClearCreationTextFields
+?> WowPedia link: [C_LFGList.ClearCreationTextFields](https://wow.gamepedia.com/API_C_LFGList.ClearCreationTextFields)
 
 No Documentation
 
 ### C_LFGList.ClearSearchTextFields
+?> WowPedia link: [C_LFGList.ClearSearchTextFields](https://wow.gamepedia.com/API_C_LFGList.ClearSearchTextFields)
 
 No Documentation
 
 ### C_LFGList.CopyActiveEntryInfoToCreationFields
+?> WowPedia link: [C_LFGList.CopyActiveEntryInfoToCreationFields](https://wow.gamepedia.com/API_C_LFGList.CopyActiveEntryInfoToCreationFields)
 
 No Documentation
 
 ### C_LFGList.GetActiveEntryInfo
+?> WowPedia link: [C_LFGList.GetActiveEntryInfo](https://wow.gamepedia.com/API_C_LFGList.GetActiveEntryInfo)
 
 No Documentation
 
@@ -49,6 +56,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |entryData|LfgEntryData|false|No Documentation|
 ### C_LFGList.GetApplicantInfo
+?> WowPedia link: [C_LFGList.GetApplicantInfo](https://wow.gamepedia.com/API_C_LFGList.GetApplicantInfo)
 
 No Documentation
 
@@ -61,6 +69,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |applicantData|LfgApplicantData|false|No Documentation|
 ### C_LFGList.GetSearchResultInfo
+?> WowPedia link: [C_LFGList.GetSearchResultInfo](https://wow.gamepedia.com/API_C_LFGList.GetSearchResultInfo)
 
 No Documentation
 
@@ -73,6 +82,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |searchResultData|LfgSearchResultData|false|No Documentation|
 ### C_LFGList.HasActiveEntryInfo
+?> WowPedia link: [C_LFGList.HasActiveEntryInfo](https://wow.gamepedia.com/API_C_LFGList.HasActiveEntryInfo)
 
 No Documentation
 
@@ -81,6 +91,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasActiveEntryInfo|bool|false|No Documentation|
 ### C_LFGList.HasSearchResultInfo
+?> WowPedia link: [C_LFGList.HasSearchResultInfo](https://wow.gamepedia.com/API_C_LFGList.HasSearchResultInfo)
 
 No Documentation
 
@@ -93,6 +104,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasSearchResultInfo|bool|false|No Documentation|
 ### C_LFGList.Search
+?> WowPedia link: [C_LFGList.Search](https://wow.gamepedia.com/API_C_LFGList.Search)
 
 No Documentation
 
@@ -104,6 +116,7 @@ No Documentation
 |preferredFilters|number|false|No Documentation|
 |languageFilter|WowLocale|true|No Documentation|
 ### C_LFGList.SetSearchToActivity
+?> WowPedia link: [C_LFGList.SetSearchToActivity](https://wow.gamepedia.com/API_C_LFGList.SetSearchToActivity)
 
 No Documentation
 
@@ -112,6 +125,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |activityID|number|false|No Documentation|
 ### C_LFGList.SetSearchToQuestID
+?> WowPedia link: [C_LFGList.SetSearchToQuestID](https://wow.gamepedia.com/API_C_LFGList.SetSearchToQuestID)
 
 No Documentation
 

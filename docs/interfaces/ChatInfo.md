@@ -5,6 +5,7 @@ Type: System / Namespace: C_ChatInfo
 ## Functions
 
 ### C_ChatInfo.GetChannelRosterInfo
+?> WowPedia link: [C_ChatInfo.GetChannelRosterInfo](https://wow.gamepedia.com/API_C_ChatInfo.GetChannelRosterInfo)
 
 No Documentation
 
@@ -21,6 +22,7 @@ No Documentation
 |moderator|bool|false|No Documentation|
 |guid|string|false|No Documentation|
 ### C_ChatInfo.GetChannelRuleset
+?> WowPedia link: [C_ChatInfo.GetChannelRuleset](https://wow.gamepedia.com/API_C_ChatInfo.GetChannelRuleset)
 
 No Documentation
 
@@ -33,6 +35,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |ruleset|ChatChannelRuleset|false|No Documentation|
 ### C_ChatInfo.GetChannelRulesetForChannelID
+?> WowPedia link: [C_ChatInfo.GetChannelRulesetForChannelID](https://wow.gamepedia.com/API_C_ChatInfo.GetChannelRulesetForChannelID)
 
 No Documentation
 
@@ -45,6 +48,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |ruleset|ChatChannelRuleset|false|No Documentation|
 ### C_ChatInfo.GetChannelShortcut
+?> WowPedia link: [C_ChatInfo.GetChannelShortcut](https://wow.gamepedia.com/API_C_ChatInfo.GetChannelShortcut)
 
 No Documentation
 
@@ -57,6 +61,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |shortcut|string|false|No Documentation|
 ### C_ChatInfo.GetChannelShortcutForChannelID
+?> WowPedia link: [C_ChatInfo.GetChannelShortcutForChannelID](https://wow.gamepedia.com/API_C_ChatInfo.GetChannelShortcutForChannelID)
 
 No Documentation
 
@@ -69,6 +74,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |shortcut|string|false|No Documentation|
 ### C_ChatInfo.GetClubStreamIDs
+?> WowPedia link: [C_ChatInfo.GetClubStreamIDs](https://wow.gamepedia.com/API_C_ChatInfo.GetClubStreamIDs)
 
 No Documentation
 
@@ -81,6 +87,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |ids|table|false|No Documentation|
 ### C_ChatInfo.GetGeneralChannelID
+?> WowPedia link: [C_ChatInfo.GetGeneralChannelID](https://wow.gamepedia.com/API_C_ChatInfo.GetGeneralChannelID)
 
 No Documentation
 
@@ -89,6 +96,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |channelID|number|false|No Documentation|
 ### C_ChatInfo.GetGeneralChannelLocalID
+?> WowPedia link: [C_ChatInfo.GetGeneralChannelLocalID](https://wow.gamepedia.com/API_C_ChatInfo.GetGeneralChannelLocalID)
 
 No Documentation
 
@@ -97,6 +105,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |localID|number|true|No Documentation|
 ### C_ChatInfo.GetMentorChannelID
+?> WowPedia link: [C_ChatInfo.GetMentorChannelID](https://wow.gamepedia.com/API_C_ChatInfo.GetMentorChannelID)
 
 No Documentation
 
@@ -105,6 +114,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |channelID|number|false|No Documentation|
 ### C_ChatInfo.GetNumActiveChannels
+?> WowPedia link: [C_ChatInfo.GetNumActiveChannels](https://wow.gamepedia.com/API_C_ChatInfo.GetNumActiveChannels)
 
 No Documentation
 
@@ -113,6 +123,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numChannels|number|false|No Documentation|
 ### C_ChatInfo.GetRegisteredAddonMessagePrefixes
+?> WowPedia link: [C_ChatInfo.GetRegisteredAddonMessagePrefixes](https://wow.gamepedia.com/API_C_ChatInfo.GetRegisteredAddonMessagePrefixes)
 
 No Documentation
 
@@ -121,6 +132,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |registeredPrefixes|table|false|No Documentation|
 ### C_ChatInfo.IsAddonMessagePrefixRegistered
+?> WowPedia link: [C_ChatInfo.IsAddonMessagePrefixRegistered](https://wow.gamepedia.com/API_C_ChatInfo.IsAddonMessagePrefixRegistered)
 
 No Documentation
 
@@ -133,6 +145,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isRegistered|bool|false|No Documentation|
 ### C_ChatInfo.IsChannelRegional
+?> WowPedia link: [C_ChatInfo.IsChannelRegional](https://wow.gamepedia.com/API_C_ChatInfo.IsChannelRegional)
 
 No Documentation
 
@@ -145,6 +158,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isRegional|bool|false|No Documentation|
 ### C_ChatInfo.IsChannelRegionalForChannelID
+?> WowPedia link: [C_ChatInfo.IsChannelRegionalForChannelID](https://wow.gamepedia.com/API_C_ChatInfo.IsChannelRegionalForChannelID)
 
 No Documentation
 
@@ -157,6 +171,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isRegional|bool|false|No Documentation|
 ### C_ChatInfo.IsPartyChannelType
+?> WowPedia link: [C_ChatInfo.IsPartyChannelType](https://wow.gamepedia.com/API_C_ChatInfo.IsPartyChannelType)
 
 No Documentation
 
@@ -169,6 +184,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isPartyChannelType|bool|false|No Documentation|
 ### C_ChatInfo.IsRegionalServiceAvailable
+?> WowPedia link: [C_ChatInfo.IsRegionalServiceAvailable](https://wow.gamepedia.com/API_C_ChatInfo.IsRegionalServiceAvailable)
 
 No Documentation
 
@@ -177,6 +193,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |available|bool|false|No Documentation|
 ### C_ChatInfo.IsValidChatLine
+?> WowPedia link: [C_ChatInfo.IsValidChatLine](https://wow.gamepedia.com/API_C_ChatInfo.IsValidChatLine)
 
 No Documentation
 
@@ -189,6 +206,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isValid|bool|false|No Documentation|
 ### C_ChatInfo.RegisterAddonMessagePrefix
+?> WowPedia link: [C_ChatInfo.RegisterAddonMessagePrefix](https://wow.gamepedia.com/API_C_ChatInfo.RegisterAddonMessagePrefix)
 
 Registers interest in addon messages with this prefix, cannot be an empty string.
 #### Arguments
@@ -200,6 +218,7 @@ Registers interest in addon messages with this prefix, cannot be an empty string
 |:---:|:---:|:---:|:---|
 |successfulRequest|bool|false|No Documentation|
 ### C_ChatInfo.ReplaceIconAndGroupExpressions
+?> WowPedia link: [C_ChatInfo.ReplaceIconAndGroupExpressions](https://wow.gamepedia.com/API_C_ChatInfo.ReplaceIconAndGroupExpressions)
 
 No Documentation
 
@@ -214,10 +233,12 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |output|string|false|No Documentation|
 ### C_ChatInfo.ResetDefaultZoneChannels
+?> WowPedia link: [C_ChatInfo.ResetDefaultZoneChannels](https://wow.gamepedia.com/API_C_ChatInfo.ResetDefaultZoneChannels)
 
 No Documentation
 
 ### C_ChatInfo.SendAddonMessage
+?> WowPedia link: [C_ChatInfo.SendAddonMessage](https://wow.gamepedia.com/API_C_ChatInfo.SendAddonMessage)
 
 Sends a text payload to other clients specified by chatChannel and target which are registered to listen for prefix.
 #### Arguments
@@ -232,6 +253,7 @@ Sends a text payload to other clients specified by chatChannel and target which 
 |:---:|:---:|:---:|:---|
 |success|bool|false|No Documentation|
 ### C_ChatInfo.SendAddonMessageLogged
+?> WowPedia link: [C_ChatInfo.SendAddonMessageLogged](https://wow.gamepedia.com/API_C_ChatInfo.SendAddonMessageLogged)
 
 Sends a text payload to other clients specified by chatChannel and target which are registered to listen for prefix. Intended for plain text payloads; logged and throttled.
 #### Arguments
@@ -246,6 +268,7 @@ Sends a text payload to other clients specified by chatChannel and target which 
 |:---:|:---:|:---:|:---|
 |success|bool|false|No Documentation|
 ### C_ChatInfo.SwapChatChannelsByChannelIndex
+?> WowPedia link: [C_ChatInfo.SwapChatChannelsByChannelIndex](https://wow.gamepedia.com/API_C_ChatInfo.SwapChatChannelsByChannelIndex)
 
 No Documentation
 

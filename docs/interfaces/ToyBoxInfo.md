@@ -5,6 +5,7 @@ Type: System / Namespace: C_ToyBoxInfo
 ## Functions
 
 ### C_ToyBoxInfo.ClearFanfare
+?> WowPedia link: [C_ToyBoxInfo.ClearFanfare](https://wow.gamepedia.com/API_C_ToyBoxInfo.ClearFanfare)
 
 No Documentation
 
@@ -13,6 +14,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |itemID|number|false|No Documentation|
 ### C_ToyBoxInfo.NeedsFanfare
+?> WowPedia link: [C_ToyBoxInfo.NeedsFanfare](https://wow.gamepedia.com/API_C_ToyBoxInfo.NeedsFanfare)
 
 No Documentation
 

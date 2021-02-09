@@ -5,6 +5,7 @@ Type: System / Namespace: C_LFGInfo
 ## Functions
 
 ### C_LFGInfo.CanPlayerUseGroupFinder
+?> WowPedia link: [C_LFGInfo.CanPlayerUseGroupFinder](https://wow.gamepedia.com/API_C_LFGInfo.CanPlayerUseGroupFinder)
 
 No Documentation
 
@@ -14,6 +15,7 @@ No Documentation
 |canUse|bool|false|No Documentation|
 |failureReason|string|false|No Documentation|
 ### C_LFGInfo.CanPlayerUseLFD
+?> WowPedia link: [C_LFGInfo.CanPlayerUseLFD](https://wow.gamepedia.com/API_C_LFGInfo.CanPlayerUseLFD)
 
 No Documentation
 
@@ -23,6 +25,7 @@ No Documentation
 |canUse|bool|false|No Documentation|
 |failureReason|string|false|No Documentation|
 ### C_LFGInfo.CanPlayerUseLFR
+?> WowPedia link: [C_LFGInfo.CanPlayerUseLFR](https://wow.gamepedia.com/API_C_LFGInfo.CanPlayerUseLFR)
 
 No Documentation
 
@@ -32,6 +35,7 @@ No Documentation
 |canUse|bool|false|No Documentation|
 |failureReason|string|false|No Documentation|
 ### C_LFGInfo.CanPlayerUsePVP
+?> WowPedia link: [C_LFGInfo.CanPlayerUsePVP](https://wow.gamepedia.com/API_C_LFGInfo.CanPlayerUsePVP)
 
 No Documentation
 
@@ -41,6 +45,7 @@ No Documentation
 |canUse|bool|false|No Documentation|
 |failureReason|string|false|No Documentation|
 ### C_LFGInfo.CanPlayerUsePremadeGroup
+?> WowPedia link: [C_LFGInfo.CanPlayerUsePremadeGroup](https://wow.gamepedia.com/API_C_LFGInfo.CanPlayerUsePremadeGroup)
 
 No Documentation
 
@@ -50,10 +55,12 @@ No Documentation
 |canUse|bool|false|No Documentation|
 |failureReason|string|false|No Documentation|
 ### C_LFGInfo.ConfirmLfgExpandSearch
+?> WowPedia link: [C_LFGInfo.ConfirmLfgExpandSearch](https://wow.gamepedia.com/API_C_LFGInfo.ConfirmLfgExpandSearch)
 
 No Documentation
 
 ### C_LFGInfo.GetAllEntriesForCategory
+?> WowPedia link: [C_LFGInfo.GetAllEntriesForCategory](https://wow.gamepedia.com/API_C_LFGInfo.GetAllEntriesForCategory)
 
 No Documentation
 
@@ -66,6 +73,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |lfgDungeonIDs|table|false|No Documentation|
 ### C_LFGInfo.GetLFDLockStates
+?> WowPedia link: [C_LFGInfo.GetLFDLockStates](https://wow.gamepedia.com/API_C_LFGInfo.GetLFDLockStates)
 
 No Documentation
 
@@ -74,6 +82,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |lockInfo|table|false|No Documentation|
 ### C_LFGInfo.GetRoleCheckDifficultyDetails
+?> WowPedia link: [C_LFGInfo.GetRoleCheckDifficultyDetails](https://wow.gamepedia.com/API_C_LFGInfo.GetRoleCheckDifficultyDetails)
 
 No Documentation
 
@@ -83,6 +92,7 @@ No Documentation
 |maxLevel|number|true|No Documentation|
 |isLevelReduced|bool|false|No Documentation|
 ### C_LFGInfo.HideNameFromUI
+?> WowPedia link: [C_LFGInfo.HideNameFromUI](https://wow.gamepedia.com/API_C_LFGInfo.HideNameFromUI)
 
 No Documentation
 

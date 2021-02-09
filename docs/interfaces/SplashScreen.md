@@ -5,10 +5,12 @@ Type: System / Namespace: C_SplashScreen
 ## Functions
 
 ### C_SplashScreen.AcknowledgeSplash
+?> WowPedia link: [C_SplashScreen.AcknowledgeSplash](https://wow.gamepedia.com/API_C_SplashScreen.AcknowledgeSplash)
 
 No Documentation
 
 ### C_SplashScreen.CanViewSplashScreen
+?> WowPedia link: [C_SplashScreen.CanViewSplashScreen](https://wow.gamepedia.com/API_C_SplashScreen.CanViewSplashScreen)
 
 No Documentation
 
@@ -17,6 +19,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canView|bool|false|No Documentation|
 ### C_SplashScreen.RequestLatestSplashScreen
+?> WowPedia link: [C_SplashScreen.RequestLatestSplashScreen](https://wow.gamepedia.com/API_C_SplashScreen.RequestLatestSplashScreen)
 
 No Documentation
 

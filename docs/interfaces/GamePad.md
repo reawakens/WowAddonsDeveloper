@@ -5,10 +5,12 @@ Type: System / Namespace: C_GamePad
 ## Functions
 
 ### C_GamePad.ApplyConfigs
+?> WowPedia link: [C_GamePad.ApplyConfigs](https://wow.gamepedia.com/API_C_GamePad.ApplyConfigs)
 
 No Documentation
 
 ### C_GamePad.AxisIndexToConfigName
+?> WowPedia link: [C_GamePad.AxisIndexToConfigName](https://wow.gamepedia.com/API_C_GamePad.AxisIndexToConfigName)
 
 No Documentation
 
@@ -21,6 +23,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |configName|string|true|No Documentation|
 ### C_GamePad.ButtonBindingToIndex
+?> WowPedia link: [C_GamePad.ButtonBindingToIndex](https://wow.gamepedia.com/API_C_GamePad.ButtonBindingToIndex)
 
 No Documentation
 
@@ -33,6 +36,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |buttonIndex|number|true|No Documentation|
 ### C_GamePad.ButtonIndexToBinding
+?> WowPedia link: [C_GamePad.ButtonIndexToBinding](https://wow.gamepedia.com/API_C_GamePad.ButtonIndexToBinding)
 
 No Documentation
 
@@ -45,6 +49,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |bindingName|string|true|No Documentation|
 ### C_GamePad.ButtonIndexToConfigName
+?> WowPedia link: [C_GamePad.ButtonIndexToConfigName](https://wow.gamepedia.com/API_C_GamePad.ButtonIndexToConfigName)
 
 No Documentation
 
@@ -57,6 +62,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |configName|string|true|No Documentation|
 ### C_GamePad.DeleteConfig
+?> WowPedia link: [C_GamePad.DeleteConfig](https://wow.gamepedia.com/API_C_GamePad.DeleteConfig)
 
 No Documentation
 
@@ -65,6 +71,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |configID|GamePadConfigID|false|No Documentation|
 ### C_GamePad.GetActiveDeviceID
+?> WowPedia link: [C_GamePad.GetActiveDeviceID](https://wow.gamepedia.com/API_C_GamePad.GetActiveDeviceID)
 
 No Documentation
 
@@ -73,6 +80,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |deviceID|number|false|No Documentation|
 ### C_GamePad.GetAllConfigIDs
+?> WowPedia link: [C_GamePad.GetAllConfigIDs](https://wow.gamepedia.com/API_C_GamePad.GetAllConfigIDs)
 
 No Documentation
 
@@ -81,6 +89,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |configIDs|table|false|No Documentation|
 ### C_GamePad.GetAllDeviceIDs
+?> WowPedia link: [C_GamePad.GetAllDeviceIDs](https://wow.gamepedia.com/API_C_GamePad.GetAllDeviceIDs)
 
 No Documentation
 
@@ -89,6 +98,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |deviceIDs|table|false|No Documentation|
 ### C_GamePad.GetCombinedDeviceID
+?> WowPedia link: [C_GamePad.GetCombinedDeviceID](https://wow.gamepedia.com/API_C_GamePad.GetCombinedDeviceID)
 
 No Documentation
 
@@ -97,6 +107,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |deviceID|number|false|No Documentation|
 ### C_GamePad.GetConfig
+?> WowPedia link: [C_GamePad.GetConfig](https://wow.gamepedia.com/API_C_GamePad.GetConfig)
 
 No Documentation
 
@@ -109,6 +120,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |config|GamePadConfig|true|No Documentation|
 ### C_GamePad.GetDeviceMappedState
+?> WowPedia link: [C_GamePad.GetDeviceMappedState](https://wow.gamepedia.com/API_C_GamePad.GetDeviceMappedState)
 
 No Documentation
 
@@ -121,6 +133,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |state|GamePadMappedState|true|No Documentation|
 ### C_GamePad.GetDeviceRawState
+?> WowPedia link: [C_GamePad.GetDeviceRawState](https://wow.gamepedia.com/API_C_GamePad.GetDeviceRawState)
 
 No Documentation
 
@@ -133,6 +146,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |rawState|GamePadRawState|true|No Documentation|
 ### C_GamePad.IsEnabled
+?> WowPedia link: [C_GamePad.IsEnabled](https://wow.gamepedia.com/API_C_GamePad.IsEnabled)
 
 No Documentation
 
@@ -141,6 +155,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |enabled|bool|false|No Documentation|
 ### C_GamePad.SetConfig
+?> WowPedia link: [C_GamePad.SetConfig](https://wow.gamepedia.com/API_C_GamePad.SetConfig)
 
 No Documentation
 
@@ -149,6 +164,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |config|GamePadConfig|false|No Documentation|
 ### C_GamePad.StickIndexToConfigName
+?> WowPedia link: [C_GamePad.StickIndexToConfigName](https://wow.gamepedia.com/API_C_GamePad.StickIndexToConfigName)
 
 No Documentation
 

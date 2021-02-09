@@ -5,6 +5,7 @@ Type: System / Namespace: C_AzeriteEmpoweredItem
 ## Functions
 
 ### C_AzeriteEmpoweredItem.CanSelectPower
+?> WowPedia link: [C_AzeriteEmpoweredItem.CanSelectPower](https://wow.gamepedia.com/API_C_AzeriteEmpoweredItem.CanSelectPower)
 
 No Documentation
 
@@ -18,10 +19,12 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canSelect|bool|false|No Documentation|
 ### C_AzeriteEmpoweredItem.CloseAzeriteEmpoweredItemRespec
+?> WowPedia link: [C_AzeriteEmpoweredItem.CloseAzeriteEmpoweredItemRespec](https://wow.gamepedia.com/API_C_AzeriteEmpoweredItem.CloseAzeriteEmpoweredItemRespec)
 
 No Documentation
 
 ### C_AzeriteEmpoweredItem.ConfirmAzeriteEmpoweredItemRespec
+?> WowPedia link: [C_AzeriteEmpoweredItem.ConfirmAzeriteEmpoweredItemRespec](https://wow.gamepedia.com/API_C_AzeriteEmpoweredItem.ConfirmAzeriteEmpoweredItemRespec)
 
 No Documentation
 
@@ -30,6 +33,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |azeriteEmpoweredItemLocation|table|false|No Documentation|
 ### C_AzeriteEmpoweredItem.GetAllTierInfo
+?> WowPedia link: [C_AzeriteEmpoweredItem.GetAllTierInfo](https://wow.gamepedia.com/API_C_AzeriteEmpoweredItem.GetAllTierInfo)
 
 No Documentation
 
@@ -42,6 +46,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |tierInfo|table|false|No Documentation|
 ### C_AzeriteEmpoweredItem.GetAllTierInfoByItemID
+?> WowPedia link: [C_AzeriteEmpoweredItem.GetAllTierInfoByItemID](https://wow.gamepedia.com/API_C_AzeriteEmpoweredItem.GetAllTierInfoByItemID)
 
 No Documentation
 
@@ -55,6 +60,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |tierInfo|table|false|No Documentation|
 ### C_AzeriteEmpoweredItem.GetAzeriteEmpoweredItemRespecCost
+?> WowPedia link: [C_AzeriteEmpoweredItem.GetAzeriteEmpoweredItemRespecCost](https://wow.gamepedia.com/API_C_AzeriteEmpoweredItem.GetAzeriteEmpoweredItemRespecCost)
 
 No Documentation
 
@@ -63,6 +69,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |cost|number|false|No Documentation|
 ### C_AzeriteEmpoweredItem.GetPowerInfo
+?> WowPedia link: [C_AzeriteEmpoweredItem.GetPowerInfo](https://wow.gamepedia.com/API_C_AzeriteEmpoweredItem.GetPowerInfo)
 
 No Documentation
 
@@ -75,6 +82,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |powerInfo|AzeriteEmpoweredItemPowerInfo|false|No Documentation|
 ### C_AzeriteEmpoweredItem.GetPowerText
+?> WowPedia link: [C_AzeriteEmpoweredItem.GetPowerText](https://wow.gamepedia.com/API_C_AzeriteEmpoweredItem.GetPowerText)
 
 No Documentation
 
@@ -89,6 +97,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |powerText|AzeriteEmpoweredItemPowerText|false|No Documentation|
 ### C_AzeriteEmpoweredItem.GetSpecsForPower
+?> WowPedia link: [C_AzeriteEmpoweredItem.GetSpecsForPower](https://wow.gamepedia.com/API_C_AzeriteEmpoweredItem.GetSpecsForPower)
 
 No Documentation
 
@@ -101,6 +110,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |specInfo|table|false|No Documentation|
 ### C_AzeriteEmpoweredItem.HasAnyUnselectedPowers
+?> WowPedia link: [C_AzeriteEmpoweredItem.HasAnyUnselectedPowers](https://wow.gamepedia.com/API_C_AzeriteEmpoweredItem.HasAnyUnselectedPowers)
 
 No Documentation
 
@@ -113,6 +123,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasAnyUnselectedPowers|bool|false|No Documentation|
 ### C_AzeriteEmpoweredItem.HasBeenViewed
+?> WowPedia link: [C_AzeriteEmpoweredItem.HasBeenViewed](https://wow.gamepedia.com/API_C_AzeriteEmpoweredItem.HasBeenViewed)
 
 No Documentation
 
@@ -125,6 +136,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasBeenViewed|bool|false|No Documentation|
 ### C_AzeriteEmpoweredItem.IsAzeriteEmpoweredItem
+?> WowPedia link: [C_AzeriteEmpoweredItem.IsAzeriteEmpoweredItem](https://wow.gamepedia.com/API_C_AzeriteEmpoweredItem.IsAzeriteEmpoweredItem)
 
 No Documentation
 
@@ -137,6 +149,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isAzeriteEmpoweredItem|bool|false|No Documentation|
 ### C_AzeriteEmpoweredItem.IsAzeriteEmpoweredItemByID
+?> WowPedia link: [C_AzeriteEmpoweredItem.IsAzeriteEmpoweredItemByID](https://wow.gamepedia.com/API_C_AzeriteEmpoweredItem.IsAzeriteEmpoweredItemByID)
 
 No Documentation
 
@@ -149,6 +162,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isAzeriteEmpoweredItem|bool|false|No Documentation|
 ### C_AzeriteEmpoweredItem.IsAzeritePreviewSourceDisplayable
+?> WowPedia link: [C_AzeriteEmpoweredItem.IsAzeritePreviewSourceDisplayable](https://wow.gamepedia.com/API_C_AzeriteEmpoweredItem.IsAzeritePreviewSourceDisplayable)
 
 No Documentation
 
@@ -162,6 +176,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isAzeritePreviewSourceDisplayable|bool|false|No Documentation|
 ### C_AzeriteEmpoweredItem.IsHeartOfAzerothEquipped
+?> WowPedia link: [C_AzeriteEmpoweredItem.IsHeartOfAzerothEquipped](https://wow.gamepedia.com/API_C_AzeriteEmpoweredItem.IsHeartOfAzerothEquipped)
 
 No Documentation
 
@@ -170,6 +185,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isHeartOfAzerothEquipped|bool|false|No Documentation|
 ### C_AzeriteEmpoweredItem.IsPowerAvailableForSpec
+?> WowPedia link: [C_AzeriteEmpoweredItem.IsPowerAvailableForSpec](https://wow.gamepedia.com/API_C_AzeriteEmpoweredItem.IsPowerAvailableForSpec)
 
 No Documentation
 
@@ -183,6 +199,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isPowerAvailableForSpec|bool|false|No Documentation|
 ### C_AzeriteEmpoweredItem.IsPowerSelected
+?> WowPedia link: [C_AzeriteEmpoweredItem.IsPowerSelected](https://wow.gamepedia.com/API_C_AzeriteEmpoweredItem.IsPowerSelected)
 
 No Documentation
 
@@ -196,6 +213,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isSelected|bool|false|No Documentation|
 ### C_AzeriteEmpoweredItem.SelectPower
+?> WowPedia link: [C_AzeriteEmpoweredItem.SelectPower](https://wow.gamepedia.com/API_C_AzeriteEmpoweredItem.SelectPower)
 
 No Documentation
 
@@ -209,6 +227,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |success|bool|false|No Documentation|
 ### C_AzeriteEmpoweredItem.SetHasBeenViewed
+?> WowPedia link: [C_AzeriteEmpoweredItem.SetHasBeenViewed](https://wow.gamepedia.com/API_C_AzeriteEmpoweredItem.SetHasBeenViewed)
 
 No Documentation
 

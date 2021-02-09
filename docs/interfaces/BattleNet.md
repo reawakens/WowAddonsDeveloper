@@ -5,6 +5,7 @@ Type: System / Namespace: C_BattleNet
 ## Functions
 
 ### C_BattleNet.GetAccountInfoByGUID
+?> WowPedia link: [C_BattleNet.GetAccountInfoByGUID](https://wow.gamepedia.com/API_C_BattleNet.GetAccountInfoByGUID)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |accountInfo|BNetAccountInfo|true|No Documentation|
 ### C_BattleNet.GetAccountInfoByID
+?> WowPedia link: [C_BattleNet.GetAccountInfoByID](https://wow.gamepedia.com/API_C_BattleNet.GetAccountInfoByID)
 
 No Documentation
 
@@ -30,6 +32,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |accountInfo|BNetAccountInfo|true|No Documentation|
 ### C_BattleNet.GetFriendAccountInfo
+?> WowPedia link: [C_BattleNet.GetFriendAccountInfo](https://wow.gamepedia.com/API_C_BattleNet.GetFriendAccountInfo)
 
 No Documentation
 
@@ -43,6 +46,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |accountInfo|BNetAccountInfo|true|No Documentation|
 ### C_BattleNet.GetFriendGameAccountInfo
+?> WowPedia link: [C_BattleNet.GetFriendGameAccountInfo](https://wow.gamepedia.com/API_C_BattleNet.GetFriendGameAccountInfo)
 
 No Documentation
 
@@ -56,6 +60,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |gameAccountInfo|BNetGameAccountInfo|true|No Documentation|
 ### C_BattleNet.GetFriendNumGameAccounts
+?> WowPedia link: [C_BattleNet.GetFriendNumGameAccounts](https://wow.gamepedia.com/API_C_BattleNet.GetFriendNumGameAccounts)
 
 No Documentation
 
@@ -68,6 +73,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numGameAccounts|number|false|No Documentation|
 ### C_BattleNet.GetGameAccountInfoByGUID
+?> WowPedia link: [C_BattleNet.GetGameAccountInfoByGUID](https://wow.gamepedia.com/API_C_BattleNet.GetGameAccountInfoByGUID)
 
 No Documentation
 
@@ -80,6 +86,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |gameAccountInfo|BNetGameAccountInfo|true|No Documentation|
 ### C_BattleNet.GetGameAccountInfoByID
+?> WowPedia link: [C_BattleNet.GetGameAccountInfoByID](https://wow.gamepedia.com/API_C_BattleNet.GetGameAccountInfoByID)
 
 No Documentation
 

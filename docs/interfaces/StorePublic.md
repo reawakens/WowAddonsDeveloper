@@ -5,6 +5,7 @@ Type: System / Namespace: C_StorePublic
 ## Functions
 
 ### C_StorePublic.DoesGroupHavePurchaseableProducts
+?> WowPedia link: [C_StorePublic.DoesGroupHavePurchaseableProducts](https://wow.gamepedia.com/API_C_StorePublic.DoesGroupHavePurchaseableProducts)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasPurchaseableProducts|bool|false|No Documentation|
 ### C_StorePublic.IsDisabledByParentalControls
+?> WowPedia link: [C_StorePublic.IsDisabledByParentalControls](https://wow.gamepedia.com/API_C_StorePublic.IsDisabledByParentalControls)
 
 No Documentation
 
@@ -25,6 +27,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |disabled|bool|false|No Documentation|
 ### C_StorePublic.IsEnabled
+?> WowPedia link: [C_StorePublic.IsEnabled](https://wow.gamepedia.com/API_C_StorePublic.IsEnabled)
 
 No Documentation
 

@@ -5,6 +5,7 @@ Type: System / Namespace: C_AreaPoiInfo
 ## Functions
 
 ### C_AreaPoiInfo.GetAreaPOIForMap
+?> WowPedia link: [C_AreaPoiInfo.GetAreaPOIForMap](https://wow.gamepedia.com/API_C_AreaPoiInfo.GetAreaPOIForMap)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |areaPoiIDs|table|false|No Documentation|
 ### C_AreaPoiInfo.GetAreaPOIInfo
+?> WowPedia link: [C_AreaPoiInfo.GetAreaPOIInfo](https://wow.gamepedia.com/API_C_AreaPoiInfo.GetAreaPOIInfo)
 
 No Documentation
 
@@ -30,6 +32,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |poiInfo|AreaPOIInfo|false|No Documentation|
 ### C_AreaPoiInfo.GetAreaPOISecondsLeft
+?> WowPedia link: [C_AreaPoiInfo.GetAreaPOISecondsLeft](https://wow.gamepedia.com/API_C_AreaPoiInfo.GetAreaPOISecondsLeft)
 
 Returns the number of seconds until the POI expires.
 #### Arguments
@@ -41,6 +44,7 @@ Returns the number of seconds until the POI expires.
 |:---:|:---:|:---:|:---|
 |secondsLeft|number|false|No Documentation|
 ### C_AreaPoiInfo.IsAreaPOITimed
+?> WowPedia link: [C_AreaPoiInfo.IsAreaPOITimed](https://wow.gamepedia.com/API_C_AreaPoiInfo.IsAreaPOITimed)
 
 This statically determines if the POI is timed, GetAreaPOITimeLeft retrieves the value from the server and may return nothing for long intervals
 #### Arguments

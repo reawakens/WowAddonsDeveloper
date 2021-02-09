@@ -5,6 +5,7 @@ Type: System / Namespace: C_ArtifactUI
 ## Functions
 
 ### C_ArtifactUI.AddPower
+?> WowPedia link: [C_ArtifactUI.AddPower](https://wow.gamepedia.com/API_C_ArtifactUI.AddPower)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |success|bool|false|No Documentation|
 ### C_ArtifactUI.ApplyCursorRelicToSlot
+?> WowPedia link: [C_ArtifactUI.ApplyCursorRelicToSlot](https://wow.gamepedia.com/API_C_ArtifactUI.ApplyCursorRelicToSlot)
 
 No Documentation
 
@@ -25,6 +27,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |relicSlotIndex|number|false|No Documentation|
 ### C_ArtifactUI.CanApplyArtifactRelic
+?> WowPedia link: [C_ArtifactUI.CanApplyArtifactRelic](https://wow.gamepedia.com/API_C_ArtifactUI.CanApplyArtifactRelic)
 
 No Documentation
 
@@ -38,6 +41,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canApply|bool|false|No Documentation|
 ### C_ArtifactUI.CanApplyCursorRelicToSlot
+?> WowPedia link: [C_ArtifactUI.CanApplyCursorRelicToSlot](https://wow.gamepedia.com/API_C_ArtifactUI.CanApplyCursorRelicToSlot)
 
 No Documentation
 
@@ -50,6 +54,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canApply|bool|false|No Documentation|
 ### C_ArtifactUI.CanApplyRelicItemIDToEquippedArtifactSlot
+?> WowPedia link: [C_ArtifactUI.CanApplyRelicItemIDToEquippedArtifactSlot](https://wow.gamepedia.com/API_C_ArtifactUI.CanApplyRelicItemIDToEquippedArtifactSlot)
 
 No Documentation
 
@@ -63,6 +68,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canApply|bool|false|No Documentation|
 ### C_ArtifactUI.CanApplyRelicItemIDToSlot
+?> WowPedia link: [C_ArtifactUI.CanApplyRelicItemIDToSlot](https://wow.gamepedia.com/API_C_ArtifactUI.CanApplyRelicItemIDToSlot)
 
 No Documentation
 
@@ -76,6 +82,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canApply|bool|false|No Documentation|
 ### C_ArtifactUI.CheckRespecNPC
+?> WowPedia link: [C_ArtifactUI.CheckRespecNPC](https://wow.gamepedia.com/API_C_ArtifactUI.CheckRespecNPC)
 
 No Documentation
 
@@ -84,18 +91,22 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canRespec|bool|false|No Documentation|
 ### C_ArtifactUI.Clear
+?> WowPedia link: [C_ArtifactUI.Clear](https://wow.gamepedia.com/API_C_ArtifactUI.Clear)
 
 No Documentation
 
 ### C_ArtifactUI.ClearForgeCamera
+?> WowPedia link: [C_ArtifactUI.ClearForgeCamera](https://wow.gamepedia.com/API_C_ArtifactUI.ClearForgeCamera)
 
 No Documentation
 
 ### C_ArtifactUI.ConfirmRespec
+?> WowPedia link: [C_ArtifactUI.ConfirmRespec](https://wow.gamepedia.com/API_C_ArtifactUI.ConfirmRespec)
 
 No Documentation
 
 ### C_ArtifactUI.DoesEquippedArtifactHaveAnyRelicsSlotted
+?> WowPedia link: [C_ArtifactUI.DoesEquippedArtifactHaveAnyRelicsSlotted](https://wow.gamepedia.com/API_C_ArtifactUI.DoesEquippedArtifactHaveAnyRelicsSlotted)
 
 No Documentation
 
@@ -104,6 +115,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasAnyRelicsSlotted|bool|false|No Documentation|
 ### C_ArtifactUI.GetAppearanceInfo
+?> WowPedia link: [C_ArtifactUI.GetAppearanceInfo](https://wow.gamepedia.com/API_C_ArtifactUI.GetAppearanceInfo)
 
 No Documentation
 
@@ -129,6 +141,7 @@ No Documentation
 |modelSaturation|number|false|No Documentation|
 |obtainable|bool|false|No Documentation|
 ### C_ArtifactUI.GetAppearanceInfoByID
+?> WowPedia link: [C_ArtifactUI.GetAppearanceInfoByID](https://wow.gamepedia.com/API_C_ArtifactUI.GetAppearanceInfoByID)
 
 No Documentation
 
@@ -154,6 +167,7 @@ No Documentation
 |modelSaturation|number|false|No Documentation|
 |obtainable|bool|false|No Documentation|
 ### C_ArtifactUI.GetAppearanceSetInfo
+?> WowPedia link: [C_ArtifactUI.GetAppearanceSetInfo](https://wow.gamepedia.com/API_C_ArtifactUI.GetAppearanceSetInfo)
 
 No Documentation
 
@@ -169,6 +183,7 @@ No Documentation
 |appearanceSetDescription|string|false|No Documentation|
 |numAppearances|number|false|No Documentation|
 ### C_ArtifactUI.GetArtifactArtInfo
+?> WowPedia link: [C_ArtifactUI.GetArtifactArtInfo](https://wow.gamepedia.com/API_C_ArtifactUI.GetArtifactArtInfo)
 
 No Documentation
 
@@ -177,6 +192,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |artifactArtInfo|ArtifactArtInfo|false|No Documentation|
 ### C_ArtifactUI.GetArtifactInfo
+?> WowPedia link: [C_ArtifactUI.GetArtifactInfo](https://wow.gamepedia.com/API_C_ArtifactUI.GetArtifactInfo)
 
 No Documentation
 
@@ -197,6 +213,7 @@ No Documentation
 |altOnTop|bool|false|No Documentation|
 |tier|number|false|No Documentation|
 ### C_ArtifactUI.GetArtifactItemID
+?> WowPedia link: [C_ArtifactUI.GetArtifactItemID](https://wow.gamepedia.com/API_C_ArtifactUI.GetArtifactItemID)
 
 No Documentation
 
@@ -205,6 +222,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |itemID|number|false|No Documentation|
 ### C_ArtifactUI.GetArtifactTier
+?> WowPedia link: [C_ArtifactUI.GetArtifactTier](https://wow.gamepedia.com/API_C_ArtifactUI.GetArtifactTier)
 
 No Documentation
 
@@ -213,6 +231,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |tier|number|true|No Documentation|
 ### C_ArtifactUI.GetArtifactXPRewardTargetInfo
+?> WowPedia link: [C_ArtifactUI.GetArtifactXPRewardTargetInfo](https://wow.gamepedia.com/API_C_ArtifactUI.GetArtifactXPRewardTargetInfo)
 
 No Documentation
 
@@ -226,6 +245,7 @@ No Documentation
 |name|string|false|No Documentation|
 |icon|number|false|No Documentation|
 ### C_ArtifactUI.GetCostForPointAtRank
+?> WowPedia link: [C_ArtifactUI.GetCostForPointAtRank](https://wow.gamepedia.com/API_C_ArtifactUI.GetCostForPointAtRank)
 
 No Documentation
 
@@ -239,6 +259,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |cost|number|false|No Documentation|
 ### C_ArtifactUI.GetEquippedArtifactArtInfo
+?> WowPedia link: [C_ArtifactUI.GetEquippedArtifactArtInfo](https://wow.gamepedia.com/API_C_ArtifactUI.GetEquippedArtifactArtInfo)
 
 No Documentation
 
@@ -247,6 +268,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |artifactArtInfo|ArtifactArtInfo|false|No Documentation|
 ### C_ArtifactUI.GetEquippedArtifactInfo
+?> WowPedia link: [C_ArtifactUI.GetEquippedArtifactInfo](https://wow.gamepedia.com/API_C_ArtifactUI.GetEquippedArtifactInfo)
 
 No Documentation
 
@@ -267,6 +289,7 @@ No Documentation
 |altOnTop|bool|false|No Documentation|
 |tier|number|false|No Documentation|
 ### C_ArtifactUI.GetEquippedArtifactItemID
+?> WowPedia link: [C_ArtifactUI.GetEquippedArtifactItemID](https://wow.gamepedia.com/API_C_ArtifactUI.GetEquippedArtifactItemID)
 
 No Documentation
 
@@ -275,6 +298,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |itemID|number|false|No Documentation|
 ### C_ArtifactUI.GetEquippedArtifactNumRelicSlots
+?> WowPedia link: [C_ArtifactUI.GetEquippedArtifactNumRelicSlots](https://wow.gamepedia.com/API_C_ArtifactUI.GetEquippedArtifactNumRelicSlots)
 
 No Documentation
 
@@ -287,6 +311,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numRelicSlots|number|false|No Documentation|
 ### C_ArtifactUI.GetEquippedArtifactRelicInfo
+?> WowPedia link: [C_ArtifactUI.GetEquippedArtifactRelicInfo](https://wow.gamepedia.com/API_C_ArtifactUI.GetEquippedArtifactRelicInfo)
 
 No Documentation
 
@@ -302,6 +327,7 @@ No Documentation
 |slotTypeName|string|false|Matches the socket identifiers used in the socketing system.|
 |link|string|false|No Documentation|
 ### C_ArtifactUI.GetEquippedRelicLockedReason
+?> WowPedia link: [C_ArtifactUI.GetEquippedRelicLockedReason](https://wow.gamepedia.com/API_C_ArtifactUI.GetEquippedRelicLockedReason)
 
 No Documentation
 
@@ -314,6 +340,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |lockedReason|string|true|No Documentation|
 ### C_ArtifactUI.GetForgeRotation
+?> WowPedia link: [C_ArtifactUI.GetForgeRotation](https://wow.gamepedia.com/API_C_ArtifactUI.GetForgeRotation)
 
 No Documentation
 
@@ -324,6 +351,7 @@ No Documentation
 |forgeRotationY|number|false|No Documentation|
 |forgeRotationZ|number|false|No Documentation|
 ### C_ArtifactUI.GetItemLevelIncreaseProvidedByRelic
+?> WowPedia link: [C_ArtifactUI.GetItemLevelIncreaseProvidedByRelic](https://wow.gamepedia.com/API_C_ArtifactUI.GetItemLevelIncreaseProvidedByRelic)
 
 No Documentation
 
@@ -336,6 +364,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |itemIevelIncrease|number|false|No Documentation|
 ### C_ArtifactUI.GetMetaPowerInfo
+?> WowPedia link: [C_ArtifactUI.GetMetaPowerInfo](https://wow.gamepedia.com/API_C_ArtifactUI.GetMetaPowerInfo)
 
 No Documentation
 
@@ -346,6 +375,7 @@ No Documentation
 |powerCost|number|false|No Documentation|
 |currentRank|number|false|No Documentation|
 ### C_ArtifactUI.GetNumAppearanceSets
+?> WowPedia link: [C_ArtifactUI.GetNumAppearanceSets](https://wow.gamepedia.com/API_C_ArtifactUI.GetNumAppearanceSets)
 
 No Documentation
 
@@ -354,6 +384,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numAppearanceSets|number|false|No Documentation|
 ### C_ArtifactUI.GetNumObtainedArtifacts
+?> WowPedia link: [C_ArtifactUI.GetNumObtainedArtifacts](https://wow.gamepedia.com/API_C_ArtifactUI.GetNumObtainedArtifacts)
 
 No Documentation
 
@@ -362,6 +393,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numObtainedArtifacts|number|false|No Documentation|
 ### C_ArtifactUI.GetNumRelicSlots
+?> WowPedia link: [C_ArtifactUI.GetNumRelicSlots](https://wow.gamepedia.com/API_C_ArtifactUI.GetNumRelicSlots)
 
 No Documentation
 
@@ -374,6 +406,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |numRelicSlots|number|false|No Documentation|
 ### C_ArtifactUI.GetPointsRemaining
+?> WowPedia link: [C_ArtifactUI.GetPointsRemaining](https://wow.gamepedia.com/API_C_ArtifactUI.GetPointsRemaining)
 
 No Documentation
 
@@ -382,6 +415,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |pointsRemaining|number|false|No Documentation|
 ### C_ArtifactUI.GetPowerHyperlink
+?> WowPedia link: [C_ArtifactUI.GetPowerHyperlink](https://wow.gamepedia.com/API_C_ArtifactUI.GetPowerHyperlink)
 
 No Documentation
 
@@ -394,6 +428,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |link|string|false|No Documentation|
 ### C_ArtifactUI.GetPowerInfo
+?> WowPedia link: [C_ArtifactUI.GetPowerInfo](https://wow.gamepedia.com/API_C_ArtifactUI.GetPowerInfo)
 
 No Documentation
 
@@ -406,6 +441,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |powerInfo|ArtifactPowerInfo|false|No Documentation|
 ### C_ArtifactUI.GetPowerLinks
+?> WowPedia link: [C_ArtifactUI.GetPowerLinks](https://wow.gamepedia.com/API_C_ArtifactUI.GetPowerLinks)
 
 No Documentation
 
@@ -418,6 +454,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |linkingPowerID|table|false|No Documentation|
 ### C_ArtifactUI.GetPowers
+?> WowPedia link: [C_ArtifactUI.GetPowers](https://wow.gamepedia.com/API_C_ArtifactUI.GetPowers)
 
 No Documentation
 
@@ -426,6 +463,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |powerID|table|false|No Documentation|
 ### C_ArtifactUI.GetPowersAffectedByRelic
+?> WowPedia link: [C_ArtifactUI.GetPowersAffectedByRelic](https://wow.gamepedia.com/API_C_ArtifactUI.GetPowersAffectedByRelic)
 
 No Documentation
 
@@ -438,6 +476,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |powerIDs|number|false|No Documentation|
 ### C_ArtifactUI.GetPowersAffectedByRelicItemLink
+?> WowPedia link: [C_ArtifactUI.GetPowersAffectedByRelicItemLink](https://wow.gamepedia.com/API_C_ArtifactUI.GetPowersAffectedByRelicItemLink)
 
 No Documentation
 
@@ -450,6 +489,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |powerIDs|number|false|No Documentation|
 ### C_ArtifactUI.GetPreviewAppearance
+?> WowPedia link: [C_ArtifactUI.GetPreviewAppearance](https://wow.gamepedia.com/API_C_ArtifactUI.GetPreviewAppearance)
 
 No Documentation
 
@@ -458,6 +498,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |artifactAppearanceID|number|true|No Documentation|
 ### C_ArtifactUI.GetRelicInfo
+?> WowPedia link: [C_ArtifactUI.GetRelicInfo](https://wow.gamepedia.com/API_C_ArtifactUI.GetRelicInfo)
 
 No Documentation
 
@@ -473,6 +514,7 @@ No Documentation
 |slotTypeName|string|false|Matches the socket identifiers used in the socketing system.|
 |link|string|false|No Documentation|
 ### C_ArtifactUI.GetRelicInfoByItemID
+?> WowPedia link: [C_ArtifactUI.GetRelicInfoByItemID](https://wow.gamepedia.com/API_C_ArtifactUI.GetRelicInfoByItemID)
 
 No Documentation
 
@@ -488,6 +530,7 @@ No Documentation
 |slotTypeName|string|false|Matches the socket identifiers used in the socketing system.|
 |link|string|false|No Documentation|
 ### C_ArtifactUI.GetRelicLockedReason
+?> WowPedia link: [C_ArtifactUI.GetRelicLockedReason](https://wow.gamepedia.com/API_C_ArtifactUI.GetRelicLockedReason)
 
 No Documentation
 
@@ -500,6 +543,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |lockedReason|string|true|No Documentation|
 ### C_ArtifactUI.GetRelicSlotType
+?> WowPedia link: [C_ArtifactUI.GetRelicSlotType](https://wow.gamepedia.com/API_C_ArtifactUI.GetRelicSlotType)
 
 No Documentation
 
@@ -512,6 +556,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |slotTypeName|string|false|No Documentation|
 ### C_ArtifactUI.GetRespecArtifactArtInfo
+?> WowPedia link: [C_ArtifactUI.GetRespecArtifactArtInfo](https://wow.gamepedia.com/API_C_ArtifactUI.GetRespecArtifactArtInfo)
 
 No Documentation
 
@@ -520,6 +565,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |artifactArtInfo|ArtifactArtInfo|false|No Documentation|
 ### C_ArtifactUI.GetRespecArtifactInfo
+?> WowPedia link: [C_ArtifactUI.GetRespecArtifactInfo](https://wow.gamepedia.com/API_C_ArtifactUI.GetRespecArtifactInfo)
 
 No Documentation
 
@@ -540,6 +586,7 @@ No Documentation
 |altOnTop|bool|false|No Documentation|
 |tier|number|false|No Documentation|
 ### C_ArtifactUI.GetRespecCost
+?> WowPedia link: [C_ArtifactUI.GetRespecCost](https://wow.gamepedia.com/API_C_ArtifactUI.GetRespecCost)
 
 No Documentation
 
@@ -548,6 +595,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |cost|number|false|No Documentation|
 ### C_ArtifactUI.GetTotalPowerCost
+?> WowPedia link: [C_ArtifactUI.GetTotalPowerCost](https://wow.gamepedia.com/API_C_ArtifactUI.GetTotalPowerCost)
 
 No Documentation
 
@@ -562,6 +610,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |totalArtifactPowerCost|number|false|No Documentation|
 ### C_ArtifactUI.GetTotalPurchasedRanks
+?> WowPedia link: [C_ArtifactUI.GetTotalPurchasedRanks](https://wow.gamepedia.com/API_C_ArtifactUI.GetTotalPurchasedRanks)
 
 No Documentation
 
@@ -570,6 +619,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |totalPurchasedRanks|number|false|No Documentation|
 ### C_ArtifactUI.IsArtifactDisabled
+?> WowPedia link: [C_ArtifactUI.IsArtifactDisabled](https://wow.gamepedia.com/API_C_ArtifactUI.IsArtifactDisabled)
 
 No Documentation
 
@@ -578,6 +628,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |artifactDisabled|bool|false|No Documentation|
 ### C_ArtifactUI.IsAtForge
+?> WowPedia link: [C_ArtifactUI.IsAtForge](https://wow.gamepedia.com/API_C_ArtifactUI.IsAtForge)
 
 No Documentation
 
@@ -586,6 +637,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isAtForge|bool|false|No Documentation|
 ### C_ArtifactUI.IsEquippedArtifactDisabled
+?> WowPedia link: [C_ArtifactUI.IsEquippedArtifactDisabled](https://wow.gamepedia.com/API_C_ArtifactUI.IsEquippedArtifactDisabled)
 
 No Documentation
 
@@ -594,6 +646,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |artifactDisabled|bool|false|No Documentation|
 ### C_ArtifactUI.IsEquippedArtifactMaxed
+?> WowPedia link: [C_ArtifactUI.IsEquippedArtifactMaxed](https://wow.gamepedia.com/API_C_ArtifactUI.IsEquippedArtifactMaxed)
 
 No Documentation
 
@@ -602,6 +655,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |artifactMaxed|bool|false|No Documentation|
 ### C_ArtifactUI.IsMaxedByRulesOrEffect
+?> WowPedia link: [C_ArtifactUI.IsMaxedByRulesOrEffect](https://wow.gamepedia.com/API_C_ArtifactUI.IsMaxedByRulesOrEffect)
 
 No Documentation
 
@@ -610,6 +664,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isEffectivelyMaxed|bool|false|No Documentation|
 ### C_ArtifactUI.IsPowerKnown
+?> WowPedia link: [C_ArtifactUI.IsPowerKnown](https://wow.gamepedia.com/API_C_ArtifactUI.IsPowerKnown)
 
 No Documentation
 
@@ -622,6 +677,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |known|bool|false|No Documentation|
 ### C_ArtifactUI.IsViewedArtifactEquipped
+?> WowPedia link: [C_ArtifactUI.IsViewedArtifactEquipped](https://wow.gamepedia.com/API_C_ArtifactUI.IsViewedArtifactEquipped)
 
 No Documentation
 
@@ -630,6 +686,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isViewedArtifactEquipped|bool|false|No Documentation|
 ### C_ArtifactUI.SetAppearance
+?> WowPedia link: [C_ArtifactUI.SetAppearance](https://wow.gamepedia.com/API_C_ArtifactUI.SetAppearance)
 
 No Documentation
 
@@ -638,10 +695,12 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |artifactAppearanceID|number|false|No Documentation|
 ### C_ArtifactUI.SetForgeCamera
+?> WowPedia link: [C_ArtifactUI.SetForgeCamera](https://wow.gamepedia.com/API_C_ArtifactUI.SetForgeCamera)
 
 No Documentation
 
 ### C_ArtifactUI.SetForgeRotation
+?> WowPedia link: [C_ArtifactUI.SetForgeRotation](https://wow.gamepedia.com/API_C_ArtifactUI.SetForgeRotation)
 
 No Documentation
 
@@ -652,6 +711,7 @@ No Documentation
 |forgeRotationY|number|false|No Documentation|
 |forgeRotationZ|number|false|No Documentation|
 ### C_ArtifactUI.SetPreviewAppearance
+?> WowPedia link: [C_ArtifactUI.SetPreviewAppearance](https://wow.gamepedia.com/API_C_ArtifactUI.SetPreviewAppearance)
 
 Call without an argument to clear the preview.
 #### Arguments
@@ -659,6 +719,7 @@ Call without an argument to clear the preview.
 |:---:|:---:|:---:|:---|
 |artifactAppearanceID|number|false|No Documentation|
 ### C_ArtifactUI.ShouldSuppressForgeRotation
+?> WowPedia link: [C_ArtifactUI.ShouldSuppressForgeRotation](https://wow.gamepedia.com/API_C_ArtifactUI.ShouldSuppressForgeRotation)
 
 No Documentation
 

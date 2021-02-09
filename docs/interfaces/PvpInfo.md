@@ -5,6 +5,7 @@ Type: System / Namespace: C_PvP
 ## Functions
 
 ### C_PvP.CanDisplayDeaths
+?> WowPedia link: [C_PvP.CanDisplayDeaths](https://wow.gamepedia.com/API_C_PvP.CanDisplayDeaths)
 
 No Documentation
 
@@ -13,6 +14,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canDisplay|bool|false|No Documentation|
 ### C_PvP.CanDisplayHonorableKills
+?> WowPedia link: [C_PvP.CanDisplayHonorableKills](https://wow.gamepedia.com/API_C_PvP.CanDisplayHonorableKills)
 
 No Documentation
 
@@ -21,6 +23,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canDisplay|bool|false|No Documentation|
 ### C_PvP.CanPlayerUseRatedPVPUI
+?> WowPedia link: [C_PvP.CanPlayerUseRatedPVPUI](https://wow.gamepedia.com/API_C_PvP.CanPlayerUseRatedPVPUI)
 
 No Documentation
 
@@ -30,6 +33,7 @@ No Documentation
 |canUse|bool|false|No Documentation|
 |failureReason|string|false|No Documentation|
 ### C_PvP.CanToggleWarMode
+?> WowPedia link: [C_PvP.CanToggleWarMode](https://wow.gamepedia.com/API_C_PvP.CanToggleWarMode)
 
 No Documentation
 
@@ -42,6 +46,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canTogglePvP|bool|false|No Documentation|
 ### C_PvP.CanToggleWarModeInArea
+?> WowPedia link: [C_PvP.CanToggleWarModeInArea](https://wow.gamepedia.com/API_C_PvP.CanToggleWarModeInArea)
 
 No Documentation
 
@@ -50,6 +55,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |canTogglePvPInArea|bool|false|No Documentation|
 ### C_PvP.DoesMatchOutcomeAffectRating
+?> WowPedia link: [C_PvP.DoesMatchOutcomeAffectRating](https://wow.gamepedia.com/API_C_PvP.DoesMatchOutcomeAffectRating)
 
 No Documentation
 
@@ -58,6 +64,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |doesAffect|bool|false|No Documentation|
 ### C_PvP.GetActiveBrawlInfo
+?> WowPedia link: [C_PvP.GetActiveBrawlInfo](https://wow.gamepedia.com/API_C_PvP.GetActiveBrawlInfo)
 
 No Documentation
 
@@ -66,6 +73,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |brawlInfo|PvpBrawlInfo|true|No Documentation|
 ### C_PvP.GetActiveMatchBracket
+?> WowPedia link: [C_PvP.GetActiveMatchBracket](https://wow.gamepedia.com/API_C_PvP.GetActiveMatchBracket)
 
 No Documentation
 
@@ -74,6 +82,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |bracket|number|false|No Documentation|
 ### C_PvP.GetActiveMatchDuration
+?> WowPedia link: [C_PvP.GetActiveMatchDuration](https://wow.gamepedia.com/API_C_PvP.GetActiveMatchDuration)
 
 No Documentation
 
@@ -82,6 +91,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |seconds|number|false|No Documentation|
 ### C_PvP.GetActiveMatchState
+?> WowPedia link: [C_PvP.GetActiveMatchState](https://wow.gamepedia.com/API_C_PvP.GetActiveMatchState)
 
 No Documentation
 
@@ -90,6 +100,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |state|PvPMatchState|false|No Documentation|
 ### C_PvP.GetActiveMatchWinner
+?> WowPedia link: [C_PvP.GetActiveMatchWinner](https://wow.gamepedia.com/API_C_PvP.GetActiveMatchWinner)
 
 No Documentation
 
@@ -98,6 +109,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |winner|number|false|No Documentation|
 ### C_PvP.GetArenaCrowdControlInfo
+?> WowPedia link: [C_PvP.GetArenaCrowdControlInfo](https://wow.gamepedia.com/API_C_PvP.GetArenaCrowdControlInfo)
 
 No Documentation
 
@@ -112,6 +124,7 @@ No Documentation
 |startTime|number|false|No Documentation|
 |duration|number|false|No Documentation|
 ### C_PvP.GetArenaRewards
+?> WowPedia link: [C_PvP.GetArenaRewards](https://wow.gamepedia.com/API_C_PvP.GetArenaRewards)
 
 No Documentation
 
@@ -127,6 +140,7 @@ No Documentation
 |itemRewards|table|true|No Documentation|
 |currencyRewards|table|true|No Documentation|
 ### C_PvP.GetArenaSkirmishRewards
+?> WowPedia link: [C_PvP.GetArenaSkirmishRewards](https://wow.gamepedia.com/API_C_PvP.GetArenaSkirmishRewards)
 
 No Documentation
 
@@ -138,6 +152,7 @@ No Documentation
 |itemRewards|table|true|No Documentation|
 |currencyRewards|table|true|No Documentation|
 ### C_PvP.GetAvailableBrawlInfo
+?> WowPedia link: [C_PvP.GetAvailableBrawlInfo](https://wow.gamepedia.com/API_C_PvP.GetAvailableBrawlInfo)
 
 If nil is returned, PVP_BRAWL_INFO_UPDATED event will be sent when the data is ready.
 #### Returns
@@ -145,6 +160,7 @@ If nil is returned, PVP_BRAWL_INFO_UPDATED event will be sent when the data is r
 |:---:|:---:|:---:|:---|
 |brawlInfo|PvpBrawlInfo|true|No Documentation|
 ### C_PvP.GetBattlefieldVehicleInfo
+?> WowPedia link: [C_PvP.GetBattlefieldVehicleInfo](https://wow.gamepedia.com/API_C_PvP.GetBattlefieldVehicleInfo)
 
 No Documentation
 
@@ -158,6 +174,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|BattlefieldVehicleInfo|false|No Documentation|
 ### C_PvP.GetBattlefieldVehicles
+?> WowPedia link: [C_PvP.GetBattlefieldVehicles](https://wow.gamepedia.com/API_C_PvP.GetBattlefieldVehicles)
 
 No Documentation
 
@@ -170,6 +187,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |vehicles|table|false|No Documentation|
 ### C_PvP.GetBrawlRewards
+?> WowPedia link: [C_PvP.GetBrawlRewards](https://wow.gamepedia.com/API_C_PvP.GetBrawlRewards)
 
 No Documentation
 
@@ -186,6 +204,7 @@ No Documentation
 |currencyRewards|table|true|No Documentation|
 |hasWon|bool|false|No Documentation|
 ### C_PvP.GetGlobalPvpScalingInfoForSpecID
+?> WowPedia link: [C_PvP.GetGlobalPvpScalingInfoForSpecID](https://wow.gamepedia.com/API_C_PvP.GetGlobalPvpScalingInfoForSpecID)
 
 No Documentation
 
@@ -198,6 +217,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |pvpScalingData|table|false|No Documentation|
 ### C_PvP.GetHonorRewardInfo
+?> WowPedia link: [C_PvP.GetHonorRewardInfo](https://wow.gamepedia.com/API_C_PvP.GetHonorRewardInfo)
 
 No Documentation
 
@@ -210,6 +230,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|HonorRewardInfo|true|No Documentation|
 ### C_PvP.GetLevelUpBattlegrounds
+?> WowPedia link: [C_PvP.GetLevelUpBattlegrounds](https://wow.gamepedia.com/API_C_PvP.GetLevelUpBattlegrounds)
 
 No Documentation
 
@@ -222,6 +243,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |battlefields|table|false|No Documentation|
 ### C_PvP.GetMatchPVPStatColumn
+?> WowPedia link: [C_PvP.GetMatchPVPStatColumn](https://wow.gamepedia.com/API_C_PvP.GetMatchPVPStatColumn)
 
 No Documentation
 
@@ -234,6 +256,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|MatchPVPStatColumn|true|No Documentation|
 ### C_PvP.GetMatchPVPStatColumns
+?> WowPedia link: [C_PvP.GetMatchPVPStatColumns](https://wow.gamepedia.com/API_C_PvP.GetMatchPVPStatColumns)
 
 No Documentation
 
@@ -242,6 +265,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |columns|table|false|No Documentation|
 ### C_PvP.GetNextHonorLevelForReward
+?> WowPedia link: [C_PvP.GetNextHonorLevelForReward](https://wow.gamepedia.com/API_C_PvP.GetNextHonorLevelForReward)
 
 No Documentation
 
@@ -254,6 +278,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |nextHonorLevelWithReward|number|true|No Documentation|
 ### C_PvP.GetOutdoorPvPWaitTime
+?> WowPedia link: [C_PvP.GetOutdoorPvPWaitTime](https://wow.gamepedia.com/API_C_PvP.GetOutdoorPvPWaitTime)
 
 No Documentation
 
@@ -266,6 +291,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |pvpWaitTime|number|false|No Documentation|
 ### C_PvP.GetPVPActiveMatchPersonalRatedInfo
+?> WowPedia link: [C_PvP.GetPVPActiveMatchPersonalRatedInfo](https://wow.gamepedia.com/API_C_PvP.GetPVPActiveMatchPersonalRatedInfo)
 
 No Documentation
 
@@ -274,6 +300,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|PVPPersonalRatedInfo|true|No Documentation|
 ### C_PvP.GetPostMatchCurrencyRewards
+?> WowPedia link: [C_PvP.GetPostMatchCurrencyRewards](https://wow.gamepedia.com/API_C_PvP.GetPostMatchCurrencyRewards)
 
 No Documentation
 
@@ -282,6 +309,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |rewards|table|false|No Documentation|
 ### C_PvP.GetPostMatchItemRewards
+?> WowPedia link: [C_PvP.GetPostMatchItemRewards](https://wow.gamepedia.com/API_C_PvP.GetPostMatchItemRewards)
 
 No Documentation
 
@@ -290,6 +318,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |rewards|table|false|No Documentation|
 ### C_PvP.GetPvpTierID
+?> WowPedia link: [C_PvP.GetPvpTierID](https://wow.gamepedia.com/API_C_PvP.GetPvpTierID)
 
 No Documentation
 
@@ -303,6 +332,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |id|number|true|No Documentation|
 ### C_PvP.GetPvpTierInfo
+?> WowPedia link: [C_PvP.GetPvpTierInfo](https://wow.gamepedia.com/API_C_PvP.GetPvpTierInfo)
 
 No Documentation
 
@@ -315,6 +345,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |pvpTierInfo|PvpTierInfo|true|No Documentation|
 ### C_PvP.GetRandomBGInfo
+?> WowPedia link: [C_PvP.GetRandomBGInfo](https://wow.gamepedia.com/API_C_PvP.GetRandomBGInfo)
 
 No Documentation
 
@@ -323,6 +354,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|RandomBGInfo|false|No Documentation|
 ### C_PvP.GetRandomBGRewards
+?> WowPedia link: [C_PvP.GetRandomBGRewards](https://wow.gamepedia.com/API_C_PvP.GetRandomBGRewards)
 
 No Documentation
 
@@ -334,6 +366,7 @@ No Documentation
 |itemRewards|table|true|No Documentation|
 |currencyRewards|table|true|No Documentation|
 ### C_PvP.GetRandomEpicBGInfo
+?> WowPedia link: [C_PvP.GetRandomEpicBGInfo](https://wow.gamepedia.com/API_C_PvP.GetRandomEpicBGInfo)
 
 No Documentation
 
@@ -342,6 +375,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|RandomBGInfo|false|No Documentation|
 ### C_PvP.GetRandomEpicBGRewards
+?> WowPedia link: [C_PvP.GetRandomEpicBGRewards](https://wow.gamepedia.com/API_C_PvP.GetRandomEpicBGRewards)
 
 No Documentation
 
@@ -353,6 +387,7 @@ No Documentation
 |itemRewards|table|true|No Documentation|
 |currencyRewards|table|true|No Documentation|
 ### C_PvP.GetRatedBGRewards
+?> WowPedia link: [C_PvP.GetRatedBGRewards](https://wow.gamepedia.com/API_C_PvP.GetRatedBGRewards)
 
 No Documentation
 
@@ -364,6 +399,7 @@ No Documentation
 |itemRewards|table|true|No Documentation|
 |currencyRewards|table|true|No Documentation|
 ### C_PvP.GetRewardItemLevelsByTierEnum
+?> WowPedia link: [C_PvP.GetRewardItemLevelsByTierEnum](https://wow.gamepedia.com/API_C_PvP.GetRewardItemLevelsByTierEnum)
 
 No Documentation
 
@@ -377,6 +413,7 @@ No Documentation
 |activityItemLevel|number|false|No Documentation|
 |weeklyItemLevel|number|false|No Documentation|
 ### C_PvP.GetScoreInfo
+?> WowPedia link: [C_PvP.GetScoreInfo](https://wow.gamepedia.com/API_C_PvP.GetScoreInfo)
 
 No Documentation
 
@@ -389,6 +426,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|PVPScoreInfo|true|No Documentation|
 ### C_PvP.GetScoreInfoByPlayerGuid
+?> WowPedia link: [C_PvP.GetScoreInfoByPlayerGuid](https://wow.gamepedia.com/API_C_PvP.GetScoreInfoByPlayerGuid)
 
 No Documentation
 
@@ -401,6 +439,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|PVPScoreInfo|true|No Documentation|
 ### C_PvP.GetSeasonBestInfo
+?> WowPedia link: [C_PvP.GetSeasonBestInfo](https://wow.gamepedia.com/API_C_PvP.GetSeasonBestInfo)
 
 No Documentation
 
@@ -410,6 +449,7 @@ No Documentation
 |tierID|number|false|No Documentation|
 |nextTierID|number|true|No Documentation|
 ### C_PvP.GetSkirmishInfo
+?> WowPedia link: [C_PvP.GetSkirmishInfo](https://wow.gamepedia.com/API_C_PvP.GetSkirmishInfo)
 
 No Documentation
 
@@ -422,6 +462,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |battlemasterListInfo|BattlemasterListInfo|false|No Documentation|
 ### C_PvP.GetSpecialEventDetails
+?> WowPedia link: [C_PvP.GetSpecialEventDetails](https://wow.gamepedia.com/API_C_PvP.GetSpecialEventDetails)
 
 No Documentation
 
@@ -430,6 +471,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|SpecialEventDetails|true|No Documentation|
 ### C_PvP.GetSpecialEventInfo
+?> WowPedia link: [C_PvP.GetSpecialEventInfo](https://wow.gamepedia.com/API_C_PvP.GetSpecialEventInfo)
 
 No Documentation
 
@@ -438,6 +480,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|RandomBGInfo|false|No Documentation|
 ### C_PvP.GetTeamInfo
+?> WowPedia link: [C_PvP.GetTeamInfo](https://wow.gamepedia.com/API_C_PvP.GetTeamInfo)
 
 No Documentation
 
@@ -450,6 +493,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|PVPTeamInfo|true|No Documentation|
 ### C_PvP.GetWarModeRewardBonus
+?> WowPedia link: [C_PvP.GetWarModeRewardBonus](https://wow.gamepedia.com/API_C_PvP.GetWarModeRewardBonus)
 
 No Documentation
 
@@ -458,6 +502,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |rewardBonus|number|false|No Documentation|
 ### C_PvP.GetWarModeRewardBonusDefault
+?> WowPedia link: [C_PvP.GetWarModeRewardBonusDefault](https://wow.gamepedia.com/API_C_PvP.GetWarModeRewardBonusDefault)
 
 No Documentation
 
@@ -466,6 +511,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |defaultBonus|number|false|No Documentation|
 ### C_PvP.GetWeeklyChestInfo
+?> WowPedia link: [C_PvP.GetWeeklyChestInfo](https://wow.gamepedia.com/API_C_PvP.GetWeeklyChestInfo)
 
 No Documentation
 
@@ -477,6 +523,7 @@ No Documentation
 |lastWeekRewardClaimed|bool|false|No Documentation|
 |pvpTierMaxFromWins|number|false|No Documentation|
 ### C_PvP.HasArenaSkirmishWinToday
+?> WowPedia link: [C_PvP.HasArenaSkirmishWinToday](https://wow.gamepedia.com/API_C_PvP.HasArenaSkirmishWinToday)
 
 No Documentation
 
@@ -485,6 +532,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasArenaSkirmishWinToday|bool|false|No Documentation|
 ### C_PvP.IsActiveBattlefield
+?> WowPedia link: [C_PvP.IsActiveBattlefield](https://wow.gamepedia.com/API_C_PvP.IsActiveBattlefield)
 
 No Documentation
 
@@ -493,6 +541,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isActiveBattlefield|bool|false|No Documentation|
 ### C_PvP.IsActiveMatchRegistered
+?> WowPedia link: [C_PvP.IsActiveMatchRegistered](https://wow.gamepedia.com/API_C_PvP.IsActiveMatchRegistered)
 
 No Documentation
 
@@ -501,6 +550,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |registered|bool|false|No Documentation|
 ### C_PvP.IsArena
+?> WowPedia link: [C_PvP.IsArena](https://wow.gamepedia.com/API_C_PvP.IsArena)
 
 No Documentation
 
@@ -509,6 +559,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isArena|bool|false|No Documentation|
 ### C_PvP.IsBattleground
+?> WowPedia link: [C_PvP.IsBattleground](https://wow.gamepedia.com/API_C_PvP.IsBattleground)
 
 No Documentation
 
@@ -517,6 +568,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isBattleground|bool|false|No Documentation|
 ### C_PvP.IsBattlegroundEnlistmentBonusActive
+?> WowPedia link: [C_PvP.IsBattlegroundEnlistmentBonusActive](https://wow.gamepedia.com/API_C_PvP.IsBattlegroundEnlistmentBonusActive)
 
 No Documentation
 
@@ -526,6 +578,7 @@ No Documentation
 |battlegroundActive|bool|false|No Documentation|
 |brawlActive|bool|false|No Documentation|
 ### C_PvP.IsInBrawl
+?> WowPedia link: [C_PvP.IsInBrawl](https://wow.gamepedia.com/API_C_PvP.IsInBrawl)
 
 No Documentation
 
@@ -534,6 +587,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isInBrawl|bool|false|No Documentation|
 ### C_PvP.IsMatchConsideredArena
+?> WowPedia link: [C_PvP.IsMatchConsideredArena](https://wow.gamepedia.com/API_C_PvP.IsMatchConsideredArena)
 
 No Documentation
 
@@ -542,6 +596,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |asArena|bool|false|No Documentation|
 ### C_PvP.IsMatchFactional
+?> WowPedia link: [C_PvP.IsMatchFactional](https://wow.gamepedia.com/API_C_PvP.IsMatchFactional)
 
 No Documentation
 
@@ -550,6 +605,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isFactional|bool|false|No Documentation|
 ### C_PvP.IsPVPMap
+?> WowPedia link: [C_PvP.IsPVPMap](https://wow.gamepedia.com/API_C_PvP.IsPVPMap)
 
 No Documentation
 
@@ -558,6 +614,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isPVPMap|bool|false|No Documentation|
 ### C_PvP.IsRatedArena
+?> WowPedia link: [C_PvP.IsRatedArena](https://wow.gamepedia.com/API_C_PvP.IsRatedArena)
 
 No Documentation
 
@@ -566,6 +623,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isRatedArena|bool|false|No Documentation|
 ### C_PvP.IsRatedBattleground
+?> WowPedia link: [C_PvP.IsRatedBattleground](https://wow.gamepedia.com/API_C_PvP.IsRatedBattleground)
 
 No Documentation
 
@@ -574,6 +632,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isRatedBattleground|bool|false|No Documentation|
 ### C_PvP.IsRatedMap
+?> WowPedia link: [C_PvP.IsRatedMap](https://wow.gamepedia.com/API_C_PvP.IsRatedMap)
 
 No Documentation
 
@@ -582,6 +641,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isRatedMap|bool|false|No Documentation|
 ### C_PvP.IsWarModeActive
+?> WowPedia link: [C_PvP.IsWarModeActive](https://wow.gamepedia.com/API_C_PvP.IsWarModeActive)
 
 No Documentation
 
@@ -590,6 +650,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |warModeActive|bool|false|No Documentation|
 ### C_PvP.IsWarModeDesired
+?> WowPedia link: [C_PvP.IsWarModeDesired](https://wow.gamepedia.com/API_C_PvP.IsWarModeDesired)
 
 No Documentation
 
@@ -598,6 +659,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |warModeDesired|bool|false|No Documentation|
 ### C_PvP.IsWarModeFeatureEnabled
+?> WowPedia link: [C_PvP.IsWarModeFeatureEnabled](https://wow.gamepedia.com/API_C_PvP.IsWarModeFeatureEnabled)
 
 No Documentation
 
@@ -606,10 +668,12 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |warModeEnabled|bool|false|No Documentation|
 ### C_PvP.JoinBrawl
+?> WowPedia link: [C_PvP.JoinBrawl](https://wow.gamepedia.com/API_C_PvP.JoinBrawl)
 
 No Documentation
 
 ### C_PvP.RequestCrowdControlSpell
+?> WowPedia link: [C_PvP.RequestCrowdControlSpell](https://wow.gamepedia.com/API_C_PvP.RequestCrowdControlSpell)
 
 No Documentation
 
@@ -618,6 +682,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |playerToken|string|false|No Documentation|
 ### C_PvP.SetWarModeDesired
+?> WowPedia link: [C_PvP.SetWarModeDesired](https://wow.gamepedia.com/API_C_PvP.SetWarModeDesired)
 
 No Documentation
 
@@ -626,6 +691,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |warModeDesired|bool|false|No Documentation|
 ### C_PvP.ToggleWarMode
+?> WowPedia link: [C_PvP.ToggleWarMode](https://wow.gamepedia.com/API_C_PvP.ToggleWarMode)
 
 No Documentation
 

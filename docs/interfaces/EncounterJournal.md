@@ -5,6 +5,7 @@ Type: System / Namespace: C_EncounterJournal
 ## Functions
 
 ### C_EncounterJournal.GetDungeonEntrancesForMap
+?> WowPedia link: [C_EncounterJournal.GetDungeonEntrancesForMap](https://wow.gamepedia.com/API_C_EncounterJournal.GetDungeonEntrancesForMap)
 
 No Documentation
 
@@ -17,6 +18,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |dungeonEntrances|table|false|No Documentation|
 ### C_EncounterJournal.GetEncountersOnMap
+?> WowPedia link: [C_EncounterJournal.GetEncountersOnMap](https://wow.gamepedia.com/API_C_EncounterJournal.GetEncountersOnMap)
 
 No Documentation
 
@@ -29,6 +31,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |encounters|table|false|No Documentation|
 ### C_EncounterJournal.GetLootInfo
+?> WowPedia link: [C_EncounterJournal.GetLootInfo](https://wow.gamepedia.com/API_C_EncounterJournal.GetLootInfo)
 
 No Documentation
 
@@ -41,6 +44,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |itemInfo|EncounterJournalItemInfo|false|No Documentation|
 ### C_EncounterJournal.GetLootInfoByIndex
+?> WowPedia link: [C_EncounterJournal.GetLootInfoByIndex](https://wow.gamepedia.com/API_C_EncounterJournal.GetLootInfoByIndex)
 
 No Documentation
 
@@ -54,6 +58,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |itemInfo|EncounterJournalItemInfo|false|No Documentation|
 ### C_EncounterJournal.GetSectionIconFlags
+?> WowPedia link: [C_EncounterJournal.GetSectionIconFlags](https://wow.gamepedia.com/API_C_EncounterJournal.GetSectionIconFlags)
 
 Represents the icon indices for this EJ section.  An icon index can be used to arrive at texture coordinates for specific encounter types, e.g.: EncounterJournal_SetFlagIcon
 #### Arguments
@@ -65,6 +70,7 @@ Represents the icon indices for this EJ section.  An icon index can be used to a
 |:---:|:---:|:---:|:---|
 |iconFlags|table|true|No Documentation|
 ### C_EncounterJournal.GetSectionInfo
+?> WowPedia link: [C_EncounterJournal.GetSectionInfo](https://wow.gamepedia.com/API_C_EncounterJournal.GetSectionInfo)
 
 No Documentation
 
@@ -77,6 +83,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |info|EncounterJournalSectionInfo|false|No Documentation|
 ### C_EncounterJournal.GetSlotFilter
+?> WowPedia link: [C_EncounterJournal.GetSlotFilter](https://wow.gamepedia.com/API_C_EncounterJournal.GetSlotFilter)
 
 No Documentation
 
@@ -85,6 +92,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |filter|ItemSlotFilterType|false|No Documentation|
 ### C_EncounterJournal.InstanceHasLoot
+?> WowPedia link: [C_EncounterJournal.InstanceHasLoot](https://wow.gamepedia.com/API_C_EncounterJournal.InstanceHasLoot)
 
 No Documentation
 
@@ -97,6 +105,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |hasLoot|bool|false|No Documentation|
 ### C_EncounterJournal.IsEncounterComplete
+?> WowPedia link: [C_EncounterJournal.IsEncounterComplete](https://wow.gamepedia.com/API_C_EncounterJournal.IsEncounterComplete)
 
 No Documentation
 
@@ -109,10 +118,12 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |isEncounterComplete|bool|false|No Documentation|
 ### C_EncounterJournal.ResetSlotFilter
+?> WowPedia link: [C_EncounterJournal.ResetSlotFilter](https://wow.gamepedia.com/API_C_EncounterJournal.ResetSlotFilter)
 
 No Documentation
 
 ### C_EncounterJournal.SetPreviewMythicPlusLevel
+?> WowPedia link: [C_EncounterJournal.SetPreviewMythicPlusLevel](https://wow.gamepedia.com/API_C_EncounterJournal.SetPreviewMythicPlusLevel)
 
 No Documentation
 
@@ -121,6 +132,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |level|number|false|No Documentation|
 ### C_EncounterJournal.SetPreviewPvpTier
+?> WowPedia link: [C_EncounterJournal.SetPreviewPvpTier](https://wow.gamepedia.com/API_C_EncounterJournal.SetPreviewPvpTier)
 
 No Documentation
 
@@ -129,6 +141,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |tier|number|false|No Documentation|
 ### C_EncounterJournal.SetSlotFilter
+?> WowPedia link: [C_EncounterJournal.SetSlotFilter](https://wow.gamepedia.com/API_C_EncounterJournal.SetSlotFilter)
 
 No Documentation
 

@@ -5,10 +5,12 @@ Type: System / Namespace: C_CovenantPreview
 ## Functions
 
 ### C_CovenantPreview.CloseFromUI
+?> WowPedia link: [C_CovenantPreview.CloseFromUI](https://wow.gamepedia.com/API_C_CovenantPreview.CloseFromUI)
 
 No Documentation
 
 ### C_CovenantPreview.GetCovenantInfoForPlayerChoiceResponseID
+?> WowPedia link: [C_CovenantPreview.GetCovenantInfoForPlayerChoiceResponseID](https://wow.gamepedia.com/API_C_CovenantPreview.GetCovenantInfoForPlayerChoiceResponseID)
 
 No Documentation
 

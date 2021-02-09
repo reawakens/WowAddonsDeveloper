@@ -5,6 +5,7 @@ Type: System / Namespace: C_Covenants
 ## Functions
 
 ### C_Covenants.GetActiveCovenantID
+?> WowPedia link: [C_Covenants.GetActiveCovenantID](https://wow.gamepedia.com/API_C_Covenants.GetActiveCovenantID)
 
 No Documentation
 
@@ -13,6 +14,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |covenantID|number|false|No Documentation|
 ### C_Covenants.GetCovenantData
+?> WowPedia link: [C_Covenants.GetCovenantData](https://wow.gamepedia.com/API_C_Covenants.GetCovenantData)
 
 No Documentation
 
@@ -25,6 +27,7 @@ No Documentation
 |:---:|:---:|:---:|:---|
 |data|CovenantData|true|No Documentation|
 ### C_Covenants.GetCovenantIDs
+?> WowPedia link: [C_Covenants.GetCovenantIDs](https://wow.gamepedia.com/API_C_Covenants.GetCovenantIDs)
 
 No Documentation
 

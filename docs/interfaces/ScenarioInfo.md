@@ -5,6 +5,7 @@ Type: System / Namespace: C_ScenarioInfo
 ## Functions
 
 ### C_ScenarioInfo.GetJailersTowerTypeString
+?> WowPedia link: [C_ScenarioInfo.GetJailersTowerTypeString](https://wow.gamepedia.com/API_C_ScenarioInfo.GetJailersTowerTypeString)
 
 No Documentation
 

@@ -5,10 +5,12 @@ Type: System / Namespace: C_Tutorial
 ## Functions
 
 ### C_Tutorial.AbandonTutorialArea
+?> WowPedia link: [C_Tutorial.AbandonTutorialArea](https://wow.gamepedia.com/API_C_Tutorial.AbandonTutorialArea)
 
 No Documentation
 
 ### C_Tutorial.ReturnToTutorialArea
+?> WowPedia link: [C_Tutorial.ReturnToTutorialArea](https://wow.gamepedia.com/API_C_Tutorial.ReturnToTutorialArea)
 
 No Documentation
 
